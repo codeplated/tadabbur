@@ -1,0 +1,50 @@
+---
+surah: 43 / 114
+surah_name: The Ornaments of Gold / الزخرف / سونے کی چمک
+ayah: 83 / 89
+type: meccan
+tags: ["warnings", "dunya"]
+image: "/attachments/surah_043.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4408.mp3"></audio>
+**Next:** [[43_84: The Ornaments of Gold الزخرف]]
+
+---
+
+## Arabic
+
+فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اچھا، اِنہیں اپنے باطل خیالات میں غرق اور اپنے کھیل میں منہمک رہنے دو، یہاں تک کہ یہ اپنا وہ دن دیکھ لیں جس کا اِنہیں خوف دلایا جا رہا ہے
+
+---
+
+## 🇬🇧 English
+
+So leave them to converse vainly and amuse themselves until they meet their Day which they are promised
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+’’اگر خدا كي اولاد هو تو ميں سب سے پهلے اس كي عبادت كروں‘‘ —يه جمله بتاتا هے كه پيغمبر جس عقيده كا اعلان كررها هے وه اسي كو عين حقيقت سمجھتاهے۔ وه قومي تقليد اور گروهي تعصب كي زمين پر نهيں كھڑا هوا هے بلكه دليل كي زمين پر كھڑا هوا هے۔ وه اس عقيده كا داعي اس ليے هے كه تمام حقائق اس كي صداقت كي تائيد كرتے هيں۔ اس سے انداز هوتا هے كه داعي كا معامله شعور حقيقت كا معامله هوتاهے، نه كه قومي تقليد كا معامله۔
+خدا كا تخليقی كارخانه جو زمين وآسمان كي صورت ميں پھيلا هوا هے وه بتاتا هے كه اس كا خدا صرف ايك خدا هے۔ كائنات اپنے وسيع نظام كے ساتھ اس سے انكار كرتي هے كه اس كا خدا ايك سے زياده هوسكتاهے۔
+
+---
+
+## Connections
+
+- **Previous:** [[43_82: The Ornaments of Gold الزخرف]]
+- **Next:** [[43_84: The Ornaments of Gold الزخرف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,49 @@
+---
+surah: 69 / 114
+surah_name: The Reality / الحاقة / حق ہونے والی
+ayah: 9 / 52
+type: meccan
+tags: ["story_musa", "story_lut", "history_lessons", "kufr"]
+image: "/attachments/surah_069.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5332.mp3"></audio>
+**Next:** [[69_10: The Reality الحاقة]]
+
+---
+
+## Arabic
+
+وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ
+
+---
+
+## 🇵🇰 Urdu
+
+اور اِسی خطائے عظیم کا ارتکاب فرعون اور اُس سے پہلے کے لوگوں نے اور تل پٹ ہو جانے والی بستیوں نے کیا
+
+---
+
+## 🇬🇧 English
+
+And there came Pharaoh and those before him and the overturned cities with sin
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا امتحان کی مصلحت کے مطابق بنائی گئی ہے۔ جب امتحان کی مدت ختم ہوگی تو یہ دنیا توڑ کر نئی دنیا نئے تقاضوں کے مطابق بنائی جائے گی۔ خدا کا جلال آج بالواسطہ طور پر ظاہر ہورہا ہے، اس وقت خدا کا جلال براہ راست طور پر ظاہر ہوجائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[69_8: The Reality الحاقة]]
+- **Next:** [[69_10: The Reality الحاقة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

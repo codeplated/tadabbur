@@ -1,0 +1,422 @@
+diff --git a/node_modules/@quartz-community/tag-page/dist/components/index.js b/node_modules/@quartz-community/tag-page/dist/components/index.js
+index c58e177..c4e9263 100644
+--- a/node_modules/@quartz-community/tag-page/dist/components/index.js
++++ b/node_modules/@quartz-community/tag-page/dist/components/index.js
+@@ -2795,6 +2795,7 @@ function i18n(locale) {
+ var listPage_default = "ul.section-ul {\n  list-style: none;\n  margin-top: 2em;\n  padding-left: 0;\n}\n\nli.section-li {\n  margin-bottom: 1em;\n}\nli.section-li > .section {\n  display: grid;\n  grid-template-columns: fit-content(8em) 3fr 1fr;\n}\n@media all and (max-width: 600px) {\n  li.section-li > .section > .tags {\n    display: none;\n  }\n}\nli.section-li > .section > .desc > h3 > a {\n  background-color: transparent;\n}\nli.section-li > .section .meta {\n  margin: 0 1em 0 0;\n  opacity: 0.6;\n}\n\n.popover .section {\n  grid-template-columns: fit-content(8em) 1fr !important;\n}\n.popover .section > .tags {\n  display: none;\n}";
+ 
+ // src/components/TagContent.tsx
++var tadabburTagCss = ".tt-tag-page .tt-summary {\n  color: var(--gray);\n  margin: 0.5rem 0 1.5rem;\n}\n.tt-tag-page .tt-count {\n  font-size: 0.8em;\n  color: var(--gray);\n  font-weight: normal;\n  margin-left: 0.5em;\n}\n.tt-tag-page .tt-jump {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 0.4rem;\n  margin-bottom: 2rem;\n}\n.tt-tag-page .tt-jump a {\n  padding: 0.2rem 0.7rem;\n  border: 1px solid var(--lightgray);\n  border-radius: 999px;\n  font-size: 0.9rem;\n  background: transparent;\n  color: var(--dark);\n}\n.tt-tag-page .tt-jump a:hover {\n  border-color: var(--secondary);\n  color: var(--secondary);\n}\n.tt-tag-page .tt-group {\n  margin-bottom: 2.5rem;\n  scroll-margin-top: 1rem;\n}\n.tt-tag-page .tt-group > h2 {\n  display: flex;\n  align-items: baseline;\n  flex-wrap: wrap;\n  gap: 0.2rem;\n  padding-bottom: 0.5rem;\n  border-bottom: 1px solid var(--lightgray);\n  margin: 0 0 0.5rem;\n}\n.tt-tag-page .tt-surah-num {\n  color: var(--secondary);\n  margin-right: 0.3rem;\n}\n.tt-tag-page .tt-list {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n.tt-tag-page .tt-item {\n  display: grid;\n  grid-template-columns: 4.5rem 1fr;\n  gap: 1rem;\n  padding: 0.9rem 0;\n  border-bottom: 1px solid var(--lightgray);\n  margin: 0;\n}\n.tt-tag-page .tt-item:last-child {\n  border-bottom: none;\n}\n.tt-tag-page .tt-item.tt-other {\n  display: block;\n}\n.tt-tag-page .tt-ref {\n  font-family: var(--headerFont);\n  font-weight: 600;\n  color: var(--secondary);\n  background: transparent;\n  padding: 0;\n  font-variant-numeric: tabular-nums;\n}\n.tt-tag-page .tt-text {\n  display: block;\n  color: var(--darkgray);\n  font-weight: normal;\n  line-height: 1.7;\n  background: transparent;\n  padding: 0;\n}\n.tt-tag-page .tt-text:hover {\n  color: var(--dark);\n}\n.tt-tag-page .tt-title {\n  font-weight: 600;\n  background: transparent;\n  padding: 0;\n}\n.tt-tag-page .tt-sub {\n  margin: 0.2rem 0 0;\n  color: var(--gray);\n  font-size: 0.9rem;\n}\n.tt-tag-page .tt-tags {\n  list-style: none;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 0.3rem;\n  padding: 0;\n  margin: 0.5rem 0 0;\n}\n.tt-tag-page .tt-tags li {\n  margin: 0;\n}\n.tt-tag-page .tt-tags a.tag-link {\n  font-size: 0.8rem;\n}\n.tt-tag-page .tt-letter > h2 {\n  margin: 2rem 0 0.75rem;\n  color: var(--secondary);\n}\n.tt-tag-page .tt-index {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  display: grid;\n  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));\n  gap: 0.5rem;\n}\n.tt-tag-page .tt-index li {\n  margin: 0;\n}\n.tt-tag-page .tt-index a {\n  display: flex;\n  justify-content: space-between;\n  align-items: baseline;\n  padding: 0.45rem 0.8rem;\n  border: 1px solid var(--lightgray);\n  border-radius: 10px;\n  background: transparent;\n  color: var(--dark);\n}\n.tt-tag-page .tt-index a:hover {\n  border-color: var(--secondary);\n  color: var(--secondary);\n}\n@media all and (max-width: 600px) {\n  .tt-tag-page .tt-item {\n    grid-template-columns: 1fr;\n    gap: 0.3rem;\n  }\n}\n.popover .tt-tag-page .tt-tags,\n.popover .tt-tag-page .tt-jump {\n  display: none;\n}\n";
+ var defaultOptions = {
+   numPages: 10
+ };
+@@ -2807,91 +2808,132 @@ function isListed(file) {
+ }
+ var TagContent_default = ((opts) => {
+   const options = { ...defaultOptions, ...opts };
++  // Tadabbur: tag pages grouped by surah in Quran order, each ayah shown with
++  // its reference and English translation, instead of a date-sorted title list.
++  const firstNum = (v) => {
++    const n2 = parseInt(String(v ?? "").split("/")[0], 10);
++    return Number.isFinite(n2) ? n2 : null;
++  };
++  const englishOf = (file) => {
++    const desc = file.frontmatter?.description;
++    if (typeof desc === "string" && desc.trim()) return desc.trim();
++    const m2 = /(?:^|\n)[^\n]*English[ \t]*\n+([^\n]+)/.exec(String(file.text ?? ""));
++    return m2 ? m2[1].trim() : void 0;
++  };
++  const surahLabel = (file) => {
++    const parts = String(file.frontmatter?.surah_name ?? "").split("/").map((s2) => s2.trim()).filter(Boolean);
++    return parts.slice(0, 2).join(" · ");
++  };
++  const subtitleOf = (file) => {
++    const fm = file.frontmatter ?? {};
++    return [fm.type, fm.category].filter((v) => typeof v === "string" && v).join(" · ");
++  };
++  const TagChips = ({ tags, current, slug: slug2 }) => {
++    const others = tags.filter((t2) => t2 !== current);
++    if (others.length === 0) return null;
++    return u2("ul", { class: "tt-tags", children: others.map((t2) => u2("li", { children: u2("a", {
++      class: "internal tag-link",
++      href: resolveRelative(slug2, `tags/${t2}`),
++      children: t2
++    }) })) });
++  };
+   const TagContent = (props) => {
+     const { tree, fileData, allFiles, cfg } = props;
+     const fd = fileData;
+     const slug2 = fd.slug;
+-    const locale = cfg?.locale ?? "en-US";
+     if (!(slug2?.startsWith("tags/") || slug2 === "tags")) {
+       throw new Error(`Component "TagContent" tried to render a non-tag page: ${slug2}`);
+     }
+     const tag = simplifySlug(slug2.slice("tags/".length));
+-    const allPagesWithTag = (t2) => allFiles.filter(isListed).filter(
++    const listed = allFiles.filter(isListed);
++    const allPagesWithTag = (t2) => listed.filter(
+       (file) => (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(t2)
+     );
+     const hastRoot = tree;
+     const content = hastRoot.children.length === 0 ? fd.description : htmlToJsx(hastRoot);
+-    const cssClasses = fd.frontmatter?.cssclasses ?? [];
+-    const classes = cssClasses.join(" ");
++    const classes = (fd.frontmatter?.cssclasses ?? []).join(" ");
++    const intro = content ? u2("article", { class: classes, children: u2("div", { class: "markdown-preview-view markdown-rendered", children: content }) }) : null;
+     if (tag === "/") {
+-      const tags = [
+-        ...new Set(
+-          allFiles.filter(isListed).flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes)
+-        )
+-      ].sort((a2, b2) => a2.localeCompare(b2));
+-      const tagItemMap = /* @__PURE__ */ new Map();
++      const counts = /* @__PURE__ */ new Map();
++      for (const file of listed) {
++        for (const t2 of new Set((file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes))) {
++          counts.set(t2, (counts.get(t2) ?? 0) + 1);
++        }
++      }
++      const tags = [...counts.keys()].sort((a2, b2) => a2.localeCompare(b2));
++      const byLetter = /* @__PURE__ */ new Map();
+       for (const t2 of tags) {
+-        tagItemMap.set(t2, allPagesWithTag(t2));
++        const letter = t2[0].toUpperCase();
++        if (!byLetter.has(letter)) byLetter.set(letter, []);
++        byLetter.get(letter).push(t2);
+       }
+-      return /* @__PURE__ */ u2("div", { class: "popover-hint", children: [
+-        /* @__PURE__ */ u2("article", { class: classes, children: /* @__PURE__ */ u2("div", { class: "markdown-preview-view markdown-rendered", children: /* @__PURE__ */ u2("p", { children: content }) }) }),
+-        /* @__PURE__ */ u2("p", { children: i18n(locale).pages.tagContent.totalTags({ count: tags.length }) }),
+-        /* @__PURE__ */ u2("div", { children: tags.map((t2) => {
+-          const pages = tagItemMap.get(t2);
+-          const listProps = {
+-            ...props,
+-            allFiles: pages
+-          };
+-          const pageListContent = PageList({
+-            ...listProps,
+-            limit: options.numPages,
+-            sort: options?.sort
+-          });
+-          const contentPage = allFiles.find(
+-            (file) => file.slug === `tags/${t2}`
+-          );
+-          const root2 = contentPage?.filePath ? contentPage?.htmlAst : void 0;
+-          const tagDesc = !root2 || root2.children.length === 0 ? contentPage?.description : htmlToJsx(root2);
+-          const tagListingPage = `/tags/${t2}`;
+-          const href = resolveRelative(slug2, tagListingPage);
+-          return /* @__PURE__ */ u2("div", { children: [
+-            /* @__PURE__ */ u2("h2", { children: /* @__PURE__ */ u2("a", { class: "internal tag-link", href, children: t2 }) }),
+-            tagDesc && /* @__PURE__ */ u2("p", { children: tagDesc }),
+-            /* @__PURE__ */ u2("div", { class: "page-listing", children: [
+-              /* @__PURE__ */ u2("p", { children: [
+-                i18n(locale).pages.tagContent.itemsUnderTag({ count: pages.length }),
+-                pages.length > options.numPages && /* @__PURE__ */ u2(S, { children: [
+-                  " ",
+-                  /* @__PURE__ */ u2("span", { children: i18n(locale).pages.tagContent.showingFirst({
+-                    count: options.numPages
+-                  }) })
+-                ] })
+-              ] }),
+-              pageListContent
++      return u2("div", { class: "popover-hint tt-tag-page", children: [
++        intro,
++        u2("p", { class: "tt-summary", children: `${tags.length} topics. Pick one to see every ayah tagged with it.` }),
++        [...byLetter].map(([letter, group]) => u2("section", { class: "tt-letter", children: [
++          u2("h2", { children: letter }),
++          u2("ul", { class: "tt-index", children: group.map((t2) => u2("li", { children: u2("a", {
++            class: "internal",
++            href: resolveRelative(slug2, `tags/${t2}`),
++            children: [u2("span", { children: t2 }), u2("span", { class: "tt-count", children: counts.get(t2) })]
++          }) })) })
++        ] }))
++      ] });
++    }
++    const pages = allPagesWithTag(tag);
++    const ayahs = [];
++    const others = [];
++    for (const file of pages) {
++      const surah = firstNum(file.frontmatter?.surah);
++      const ayah = firstNum(file.frontmatter?.ayah);
++      if (surah !== null && ayah !== null) ayahs.push({ file, surah, ayah });
++      else others.push(file);
++    }
++    ayahs.sort((a2, b2) => a2.surah - b2.surah || a2.ayah - b2.ayah);
++    others.sort((a2, b2) => String(a2.frontmatter?.title ?? "").localeCompare(String(b2.frontmatter?.title ?? "")));
++    const groups = [];
++    for (const item of ayahs) {
++      const last = groups[groups.length - 1];
++      if (last && last.surah === item.surah) last.items.push(item);
++      else groups.push({ surah: item.surah, label: surahLabel(item.file), items: [item] });
++    }
++    const plural = (n2, word) => `${n2} ${word}${n2 === 1 ? "" : "s"}`;
++    const summary = [
++      ayahs.length > 0 && plural(ayahs.length, "ayah"),
++      groups.length > 0 && plural(groups.length, "surah"),
++      others.length > 0 && plural(others.length, "other page")
++    ].filter(Boolean).join(" · ");
++    return u2("div", { class: "popover-hint tt-tag-page", children: [
++      intro,
++      u2("p", { class: "tt-summary", children: summary || "No pages with this tag yet." }),
++      groups.length > 1 && u2("nav", { class: "tt-jump", "aria-label": "Surahs", children: groups.map((g2) => u2("a", {
++        href: `#surah-${g2.surah}`,
++        children: [`${g2.surah}. ${g2.label.split(" · ")[0]}`, u2("span", { class: "tt-count", children: g2.items.length })]
++      })) }),
++      others.length > 0 && u2("section", { class: "tt-group", children: [
++        u2("h2", { children: "Related pages" }),
++        u2("ul", { class: "tt-list", children: others.map((file) => u2("li", { class: "tt-item tt-other", children: [
++          u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
++          subtitleOf(file) && u2("p", { class: "tt-sub", children: subtitleOf(file) }),
++          u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
++        ] })) })
++      ] }),
++      groups.map((g2) => u2("section", { class: "tt-group", id: `surah-${g2.surah}`, children: [
++        u2("h2", { children: [u2("span", { class: "tt-surah-num", children: g2.surah }), " ", g2.label, u2("span", { class: "tt-count", children: plural(g2.items.length, "ayah") })] }),
++        u2("ul", { class: "tt-list", children: g2.items.map(({ file, surah, ayah }) => {
++          const english = englishOf(file);
++          return u2("li", { class: "tt-item", children: [
++            u2("a", { class: "internal tt-ref", href: resolveRelative(slug2, file.slug), children: `${surah}:${ayah}` }),
++            u2("div", { class: "tt-body", children: [
++              english ? u2("a", { class: "internal tt-text", href: resolveRelative(slug2, file.slug), children: english }) : u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
++              u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
+             ] })
+           ] });
+         }) })
+-      ] });
+-    } else {
+-      const pages = allPagesWithTag(tag);
+-      const listProps = {
+-        ...props,
+-        allFiles: pages
+-      };
+-      const pageListContent = PageList({
+-        ...listProps,
+-        sort: options?.sort
+-      });
+-      return /* @__PURE__ */ u2("div", { class: "popover-hint", children: [
+-        /* @__PURE__ */ u2("article", { class: classes, children: /* @__PURE__ */ u2("div", { class: "markdown-preview-view markdown-rendered", children: content }) }),
+-        /* @__PURE__ */ u2("div", { class: "page-listing", children: [
+-          /* @__PURE__ */ u2("p", { children: i18n(locale).pages.tagContent.itemsUnderTag({ count: pages.length }) }),
+-          /* @__PURE__ */ u2("div", { children: pageListContent })
+-        ] })
+-      ] });
+-    }
++      ] }))
++    ] });
+   };
+-  TagContent.css = concatenateResources(listPage_default, PageList.css);
++  TagContent.css = concatenateResources(tadabburTagCss);
+   return TagContent;
+ });
+ 
+diff --git a/node_modules/@quartz-community/tag-page/dist/index.js b/node_modules/@quartz-community/tag-page/dist/index.js
+index 9a9ecda..068def0 100644
+--- a/node_modules/@quartz-community/tag-page/dist/index.js
++++ b/node_modules/@quartz-community/tag-page/dist/index.js
+@@ -2779,6 +2779,7 @@ function i18n(locale) {
+ var listPage_default = "ul.section-ul {\n  list-style: none;\n  margin-top: 2em;\n  padding-left: 0;\n}\n\nli.section-li {\n  margin-bottom: 1em;\n}\nli.section-li > .section {\n  display: grid;\n  grid-template-columns: fit-content(8em) 3fr 1fr;\n}\n@media all and (max-width: 600px) {\n  li.section-li > .section > .tags {\n    display: none;\n  }\n}\nli.section-li > .section > .desc > h3 > a {\n  background-color: transparent;\n}\nli.section-li > .section .meta {\n  margin: 0 1em 0 0;\n  opacity: 0.6;\n}\n\n.popover .section {\n  grid-template-columns: fit-content(8em) 1fr !important;\n}\n.popover .section > .tags {\n  display: none;\n}";
+ 
+ // src/components/TagContent.tsx
++var tadabburTagCss = ".tt-tag-page .tt-summary {\n  color: var(--gray);\n  margin: 0.5rem 0 1.5rem;\n}\n.tt-tag-page .tt-count {\n  font-size: 0.8em;\n  color: var(--gray);\n  font-weight: normal;\n  margin-left: 0.5em;\n}\n.tt-tag-page .tt-jump {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 0.4rem;\n  margin-bottom: 2rem;\n}\n.tt-tag-page .tt-jump a {\n  padding: 0.2rem 0.7rem;\n  border: 1px solid var(--lightgray);\n  border-radius: 999px;\n  font-size: 0.9rem;\n  background: transparent;\n  color: var(--dark);\n}\n.tt-tag-page .tt-jump a:hover {\n  border-color: var(--secondary);\n  color: var(--secondary);\n}\n.tt-tag-page .tt-group {\n  margin-bottom: 2.5rem;\n  scroll-margin-top: 1rem;\n}\n.tt-tag-page .tt-group > h2 {\n  display: flex;\n  align-items: baseline;\n  flex-wrap: wrap;\n  gap: 0.2rem;\n  padding-bottom: 0.5rem;\n  border-bottom: 1px solid var(--lightgray);\n  margin: 0 0 0.5rem;\n}\n.tt-tag-page .tt-surah-num {\n  color: var(--secondary);\n  margin-right: 0.3rem;\n}\n.tt-tag-page .tt-list {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n.tt-tag-page .tt-item {\n  display: grid;\n  grid-template-columns: 4.5rem 1fr;\n  gap: 1rem;\n  padding: 0.9rem 0;\n  border-bottom: 1px solid var(--lightgray);\n  margin: 0;\n}\n.tt-tag-page .tt-item:last-child {\n  border-bottom: none;\n}\n.tt-tag-page .tt-item.tt-other {\n  display: block;\n}\n.tt-tag-page .tt-ref {\n  font-family: var(--headerFont);\n  font-weight: 600;\n  color: var(--secondary);\n  background: transparent;\n  padding: 0;\n  font-variant-numeric: tabular-nums;\n}\n.tt-tag-page .tt-text {\n  display: block;\n  color: var(--darkgray);\n  font-weight: normal;\n  line-height: 1.7;\n  background: transparent;\n  padding: 0;\n}\n.tt-tag-page .tt-text:hover {\n  color: var(--dark);\n}\n.tt-tag-page .tt-title {\n  font-weight: 600;\n  background: transparent;\n  padding: 0;\n}\n.tt-tag-page .tt-sub {\n  margin: 0.2rem 0 0;\n  color: var(--gray);\n  font-size: 0.9rem;\n}\n.tt-tag-page .tt-tags {\n  list-style: none;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 0.3rem;\n  padding: 0;\n  margin: 0.5rem 0 0;\n}\n.tt-tag-page .tt-tags li {\n  margin: 0;\n}\n.tt-tag-page .tt-tags a.tag-link {\n  font-size: 0.8rem;\n}\n.tt-tag-page .tt-letter > h2 {\n  margin: 2rem 0 0.75rem;\n  color: var(--secondary);\n}\n.tt-tag-page .tt-index {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  display: grid;\n  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));\n  gap: 0.5rem;\n}\n.tt-tag-page .tt-index li {\n  margin: 0;\n}\n.tt-tag-page .tt-index a {\n  display: flex;\n  justify-content: space-between;\n  align-items: baseline;\n  padding: 0.45rem 0.8rem;\n  border: 1px solid var(--lightgray);\n  border-radius: 10px;\n  background: transparent;\n  color: var(--dark);\n}\n.tt-tag-page .tt-index a:hover {\n  border-color: var(--secondary);\n  color: var(--secondary);\n}\n@media all and (max-width: 600px) {\n  .tt-tag-page .tt-item {\n    grid-template-columns: 1fr;\n    gap: 0.3rem;\n  }\n}\n.popover .tt-tag-page .tt-tags,\n.popover .tt-tag-page .tt-jump {\n  display: none;\n}\n";
+ var defaultOptions = {
+   numPages: 10
+ };
+@@ -2791,91 +2792,132 @@ function isListed(file) {
+ }
+ var TagContent_default = ((opts) => {
+   const options = { ...defaultOptions, ...opts };
++  // Tadabbur: tag pages grouped by surah in Quran order, each ayah shown with
++  // its reference and English translation, instead of a date-sorted title list.
++  const firstNum = (v) => {
++    const n2 = parseInt(String(v ?? "").split("/")[0], 10);
++    return Number.isFinite(n2) ? n2 : null;
++  };
++  const englishOf = (file) => {
++    const desc = file.frontmatter?.description;
++    if (typeof desc === "string" && desc.trim()) return desc.trim();
++    const m2 = /(?:^|\n)[^\n]*English[ \t]*\n+([^\n]+)/.exec(String(file.text ?? ""));
++    return m2 ? m2[1].trim() : void 0;
++  };
++  const surahLabel = (file) => {
++    const parts = String(file.frontmatter?.surah_name ?? "").split("/").map((s2) => s2.trim()).filter(Boolean);
++    return parts.slice(0, 2).join(" · ");
++  };
++  const subtitleOf = (file) => {
++    const fm = file.frontmatter ?? {};
++    return [fm.type, fm.category].filter((v) => typeof v === "string" && v).join(" · ");
++  };
++  const TagChips = ({ tags, current, slug: slug2 }) => {
++    const others = tags.filter((t2) => t2 !== current);
++    if (others.length === 0) return null;
++    return u2("ul", { class: "tt-tags", children: others.map((t2) => u2("li", { children: u2("a", {
++      class: "internal tag-link",
++      href: resolveRelative(slug2, `tags/${t2}`),
++      children: t2
++    }) })) });
++  };
+   const TagContent = (props) => {
+     const { tree, fileData, allFiles, cfg } = props;
+     const fd = fileData;
+     const slug2 = fd.slug;
+-    const locale = cfg?.locale ?? "en-US";
+     if (!(slug2?.startsWith("tags/") || slug2 === "tags")) {
+       throw new Error(`Component "TagContent" tried to render a non-tag page: ${slug2}`);
+     }
+     const tag = simplifySlug(slug2.slice("tags/".length));
+-    const allPagesWithTag = (t2) => allFiles.filter(isListed).filter(
++    const listed = allFiles.filter(isListed);
++    const allPagesWithTag = (t2) => listed.filter(
+       (file) => (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(t2)
+     );
+     const hastRoot = tree;
+     const content = hastRoot.children.length === 0 ? fd.description : htmlToJsx(hastRoot);
+-    const cssClasses = fd.frontmatter?.cssclasses ?? [];
+-    const classes = cssClasses.join(" ");
++    const classes = (fd.frontmatter?.cssclasses ?? []).join(" ");
++    const intro = content ? u2("article", { class: classes, children: u2("div", { class: "markdown-preview-view markdown-rendered", children: content }) }) : null;
+     if (tag === "/") {
+-      const tags = [
+-        ...new Set(
+-          allFiles.filter(isListed).flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes)
+-        )
+-      ].sort((a2, b2) => a2.localeCompare(b2));
+-      const tagItemMap = /* @__PURE__ */ new Map();
++      const counts = /* @__PURE__ */ new Map();
++      for (const file of listed) {
++        for (const t2 of new Set((file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes))) {
++          counts.set(t2, (counts.get(t2) ?? 0) + 1);
++        }
++      }
++      const tags = [...counts.keys()].sort((a2, b2) => a2.localeCompare(b2));
++      const byLetter = /* @__PURE__ */ new Map();
+       for (const t2 of tags) {
+-        tagItemMap.set(t2, allPagesWithTag(t2));
++        const letter = t2[0].toUpperCase();
++        if (!byLetter.has(letter)) byLetter.set(letter, []);
++        byLetter.get(letter).push(t2);
+       }
+-      return /* @__PURE__ */ u2("div", { class: "popover-hint", children: [
+-        /* @__PURE__ */ u2("article", { class: classes, children: /* @__PURE__ */ u2("div", { class: "markdown-preview-view markdown-rendered", children: /* @__PURE__ */ u2("p", { children: content }) }) }),
+-        /* @__PURE__ */ u2("p", { children: i18n(locale).pages.tagContent.totalTags({ count: tags.length }) }),
+-        /* @__PURE__ */ u2("div", { children: tags.map((t2) => {
+-          const pages = tagItemMap.get(t2);
+-          const listProps = {
+-            ...props,
+-            allFiles: pages
+-          };
+-          const pageListContent = PageList({
+-            ...listProps,
+-            limit: options.numPages,
+-            sort: options?.sort
+-          });
+-          const contentPage = allFiles.find(
+-            (file) => file.slug === `tags/${t2}`
+-          );
+-          const root2 = contentPage?.filePath ? contentPage?.htmlAst : void 0;
+-          const tagDesc = !root2 || root2.children.length === 0 ? contentPage?.description : htmlToJsx(root2);
+-          const tagListingPage = `/tags/${t2}`;
+-          const href = resolveRelative(slug2, tagListingPage);
+-          return /* @__PURE__ */ u2("div", { children: [
+-            /* @__PURE__ */ u2("h2", { children: /* @__PURE__ */ u2("a", { class: "internal tag-link", href, children: t2 }) }),
+-            tagDesc && /* @__PURE__ */ u2("p", { children: tagDesc }),
+-            /* @__PURE__ */ u2("div", { class: "page-listing", children: [
+-              /* @__PURE__ */ u2("p", { children: [
+-                i18n(locale).pages.tagContent.itemsUnderTag({ count: pages.length }),
+-                pages.length > options.numPages && /* @__PURE__ */ u2(S, { children: [
+-                  " ",
+-                  /* @__PURE__ */ u2("span", { children: i18n(locale).pages.tagContent.showingFirst({
+-                    count: options.numPages
+-                  }) })
+-                ] })
+-              ] }),
+-              pageListContent
++      return u2("div", { class: "popover-hint tt-tag-page", children: [
++        intro,
++        u2("p", { class: "tt-summary", children: `${tags.length} topics. Pick one to see every ayah tagged with it.` }),
++        [...byLetter].map(([letter, group]) => u2("section", { class: "tt-letter", children: [
++          u2("h2", { children: letter }),
++          u2("ul", { class: "tt-index", children: group.map((t2) => u2("li", { children: u2("a", {
++            class: "internal",
++            href: resolveRelative(slug2, `tags/${t2}`),
++            children: [u2("span", { children: t2 }), u2("span", { class: "tt-count", children: counts.get(t2) })]
++          }) })) })
++        ] }))
++      ] });
++    }
++    const pages = allPagesWithTag(tag);
++    const ayahs = [];
++    const others = [];
++    for (const file of pages) {
++      const surah = firstNum(file.frontmatter?.surah);
++      const ayah = firstNum(file.frontmatter?.ayah);
++      if (surah !== null && ayah !== null) ayahs.push({ file, surah, ayah });
++      else others.push(file);
++    }
++    ayahs.sort((a2, b2) => a2.surah - b2.surah || a2.ayah - b2.ayah);
++    others.sort((a2, b2) => String(a2.frontmatter?.title ?? "").localeCompare(String(b2.frontmatter?.title ?? "")));
++    const groups = [];
++    for (const item of ayahs) {
++      const last = groups[groups.length - 1];
++      if (last && last.surah === item.surah) last.items.push(item);
++      else groups.push({ surah: item.surah, label: surahLabel(item.file), items: [item] });
++    }
++    const plural = (n2, word) => `${n2} ${word}${n2 === 1 ? "" : "s"}`;
++    const summary = [
++      ayahs.length > 0 && plural(ayahs.length, "ayah"),
++      groups.length > 0 && plural(groups.length, "surah"),
++      others.length > 0 && plural(others.length, "other page")
++    ].filter(Boolean).join(" · ");
++    return u2("div", { class: "popover-hint tt-tag-page", children: [
++      intro,
++      u2("p", { class: "tt-summary", children: summary || "No pages with this tag yet." }),
++      groups.length > 1 && u2("nav", { class: "tt-jump", "aria-label": "Surahs", children: groups.map((g2) => u2("a", {
++        href: `#surah-${g2.surah}`,
++        children: [`${g2.surah}. ${g2.label.split(" · ")[0]}`, u2("span", { class: "tt-count", children: g2.items.length })]
++      })) }),
++      others.length > 0 && u2("section", { class: "tt-group", children: [
++        u2("h2", { children: "Related pages" }),
++        u2("ul", { class: "tt-list", children: others.map((file) => u2("li", { class: "tt-item tt-other", children: [
++          u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
++          subtitleOf(file) && u2("p", { class: "tt-sub", children: subtitleOf(file) }),
++          u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
++        ] })) })
++      ] }),
++      groups.map((g2) => u2("section", { class: "tt-group", id: `surah-${g2.surah}`, children: [
++        u2("h2", { children: [u2("span", { class: "tt-surah-num", children: g2.surah }), " ", g2.label, u2("span", { class: "tt-count", children: plural(g2.items.length, "ayah") })] }),
++        u2("ul", { class: "tt-list", children: g2.items.map(({ file, surah, ayah }) => {
++          const english = englishOf(file);
++          return u2("li", { class: "tt-item", children: [
++            u2("a", { class: "internal tt-ref", href: resolveRelative(slug2, file.slug), children: `${surah}:${ayah}` }),
++            u2("div", { class: "tt-body", children: [
++              english ? u2("a", { class: "internal tt-text", href: resolveRelative(slug2, file.slug), children: english }) : u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
++              u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
+             ] })
+           ] });
+         }) })
+-      ] });
+-    } else {
+-      const pages = allPagesWithTag(tag);
+-      const listProps = {
+-        ...props,
+-        allFiles: pages
+-      };
+-      const pageListContent = PageList({
+-        ...listProps,
+-        sort: options?.sort
+-      });
+-      return /* @__PURE__ */ u2("div", { class: "popover-hint", children: [
+-        /* @__PURE__ */ u2("article", { class: classes, children: /* @__PURE__ */ u2("div", { class: "markdown-preview-view markdown-rendered", children: content }) }),
+-        /* @__PURE__ */ u2("div", { class: "page-listing", children: [
+-          /* @__PURE__ */ u2("p", { children: i18n(locale).pages.tagContent.itemsUnderTag({ count: pages.length }) }),
+-          /* @__PURE__ */ u2("div", { children: pageListContent })
+-        ] })
+-      ] });
+-    }
++      ] }))
++    ] });
+   };
+-  TagContent.css = concatenateResources(listPage_default, PageList.css);
++  TagContent.css = concatenateResources(tadabburTagCss);
+   return TagContent;
+ });
+ 

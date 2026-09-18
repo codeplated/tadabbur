@@ -1,0 +1,241 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: Tadabbur — تدبّر
+  pageTitleSuffix: " | Tadabbur"
+  enableSPA: true
+  enablePopovers: true
+  analytics: null
+  locale: en-US
+  baseUrl: tadabbur.belambo.com
+  ignorePatterns:
+    - "**/.obsidian"
+    - "**/attachments/audio/**" # audio is served from cdn.islamic.app
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header:
+        name: Lora
+        weights: [400, 600]
+      body: Literata
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#f7f3ea"
+        lightgray: "#e4ddcf"
+        gray: "#7f7768"
+        darkgray: "#3b3833"
+        dark: "#24221e"
+        secondary: "#2c6461"
+        tertiary: "#7a6535"
+        highlight: rgba(44, 100, 97, 0.08)
+        textHighlight: "#f0d58a99"
+      darkMode:
+        light: "#1c1b19"
+        lightgray: "#33312c"
+        gray: "#8a8478"
+        darkgray: "#cfc8bb"
+        dark: "#e8e2d6"
+        secondary: "#8fbfb5"
+        tertiary: "#c9b27a"
+        highlight: rgba(143, 191, 181, 0.1)
+        textHighlight: "#a8862f66"
+plugins:
+  # ── Transformers (process content) ────────────────────────────────────────
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    options:
+      includeAll: true # show every frontmatter field the generator writes…
+      excludedProperties:
+        - tags # …except tags, which tag-list shows under the title,
+        - title # and fields this plugin adds itself (title from the file
+        - modified # name, an empty modified date, socialImage copied from image)
+        - socialImage
+      hidePropertiesView: false
+      delimiters: ---
+      language: yaml
+    order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+      display: all
+      condition: not-index
+
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      enableInHtmlEmbed: true # notes contain <audio> HTML embeds
+    order: 30
+
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
+
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options:
+      markdownLinkResolution: shortest # matches Obsidian wikilinks
+    order: 60
+
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+
+  # ── Fonts ─────────────────────────────────────────────────────────────────
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
+    options:
+      fontOrigin: local # theme.typography + Head.tsx already load the Google Fonts
+      header: '"Lora", "Scheherazade New", Georgia, "Noto Emoji", serif'
+      body: '"Literata", "Scheherazade New", Georgia, "Noto Emoji", serif'
+      code: '"IBM Plex Mono", ui-monospace, "Noto Emoji", monospace'
+
+  # ── Emitters (generate output files) ──────────────────────────────────────
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+
+  - source: "@quartz-community/content-page"
+    enabled: true
+
+  - source: "@quartz-community/folder-page"
+    enabled: true
+
+  - source: "@quartz-community/tag-page"
+    enabled: true
+
+  - source: "@quartz-community/bases-page"
+    enabled: true
+    options:
+      defaultViewType: cards
+
+  - source: "@quartz-community/canvas-page"
+    enabled: true
+
+  # ── Layout components ──────────────────────────────────────────────────────
+  - source: "@quartz-community/explorer"
+    enabled: true
+    options:
+      # Runs in the browser. Strips harakat (and ٱ → ا) from sidebar names so
+      # they read cleanly at small sizes; page content keeps them.
+      mapFn: '(node) => { node.displayName = node.displayName.replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, "").replace(/\u0671/g, "\u0627") }'
+    layout:
+      position: left
+      priority: 50
+
+  - source: "@quartz-community/graph"
+    enabled: true
+    layout:
+      position: right
+      priority: 10
+
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout:
+      position: right
+      priority: 50
+
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+      condition: not-index # home page has its own H1
+
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+      condition: not-index
+
+  - source: "@quartz-community/tag-list"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+
+  - source: "@quartz-community/footer"
+    enabled: true
+    options:
+      links:
+        GitHub: https://github.com/codeplated/tadabbur
+    layout:
+      position: footer
+      priority: 50
+
+  - source: "@quartz-community/spacer"
+    enabled: true
+    options: {}
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    folder:
+      exclude:
+        - reader-mode
+      positions:
+        right: []
+    tag:
+      exclude:
+        - reader-mode
+      positions:
+        right: []

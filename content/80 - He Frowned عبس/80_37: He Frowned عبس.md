@@ -1,0 +1,49 @@
+---
+surah: 80 / 114
+surah_name: He Frowned / عبس / تیوری چڑہائی
+ayah: 37 / 42
+type: meccan
+tags: ["akhirah"]
+image: "/attachments/surah_080.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5795.mp3"></audio>
+**Next:** [[80_38: He Frowned عبس]]
+
+---
+
+## Arabic
+
+لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ
+
+---
+
+## 🇵🇰 Urdu
+
+ان میں سے ہر شخص پر اس دن ایسا وقت آ پڑے گا کہ اسے اپنے سوا کسی کا ہوش نہ ہوگا
+
+---
+
+## 🇬🇧 English
+
+For every man, that Day, will be a matter adequate for him
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+سچائی کو نہ ماننا اور اس کے مقابلہ میں سرکشی دکھانا سب سے بڑا جرم ہے، ایسے لوگ آخرت میں بالکل بے قیمت ہو کر رہ جائیں گے۔ اور جو لوگ سچائی کا اعتراف کریں اور اس کے آگے اپنے آپ کو جھکا دیں وہی آخرت میں با قیمت انسان ٹھہریں گے۔ آخرت کی عزتیں اور کامیابیاں صرف ایسے ہی لوگوں کا حصہ ہوں گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[80_36: He Frowned عبس]]
+- **Next:** [[80_38: He Frowned عبس]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

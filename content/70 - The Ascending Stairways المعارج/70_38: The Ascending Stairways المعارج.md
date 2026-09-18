@@ -1,0 +1,49 @@
+---
+surah: 70 / 114
+surah_name: The Ascending Stairways / المعارج / عروج
+ayah: 38 / 44
+type: meccan
+tags: ["jannah", "kufr", "kibr"]
+image: "/attachments/surah_070.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5413.mp3"></audio>
+**Next:** [[70_39: The Ascending Stairways المعارج]]
+
+---
+
+## Arabic
+
+أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ
+
+---
+
+## 🇵🇰 Urdu
+
+کیا اِن میں سے ہر ایک یہ لالچ رکھتا ہے کہ وہ نعمت بھری جنت میں داخل کر دیا جائے گا؟
+
+---
+
+## 🇬🇧 English
+
+Does every person among them aspire to enter a garden of pleasure
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو لوگ ناحق پر کھڑے ہوئے ہوں وہ اس وقت اپنی حیثیت کو ختم ہوتا ہوا محسوس کرتے ہیں جب کہ ان کے سامنے حق کی کھلی کھلی دعوت پیش کردی جائے۔ وہ ایسی دعوت کو زیر کرنے کے لیے اس پر ٹوٹ پڑتے ہیں۔ ان کی نامعقول روش انہیں جہنم کی طرف لے جارہی ہوتي ہے۔ مگر اپنی جھوٹی خوش فہمی کے تحت وہ یہی سمجھتے رہتے ہیں کہ وہ جنت کی طرف اپنا تیزرفتار سفر طے کر رہے ہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[70_37: The Ascending Stairways المعارج]]
+- **Next:** [[70_39: The Ascending Stairways المعارج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

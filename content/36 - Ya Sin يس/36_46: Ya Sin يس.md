@@ -1,0 +1,49 @@
+---
+surah: 36 / 114
+surah_name: Ya Sin / يس / یٰسٓ
+ayah: 46 / 83
+type: meccan
+tags: ["kufr"]
+image: "/attachments/surah_036.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3751.mp3"></audio>
+**Next:** [[36_47: Ya Sin يس]]
+
+---
+
+## Arabic
+
+وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اِن کے سامنے اِن کے رب کی آیات میں سے جو آیت بھی آتی ہے یہ اس کی طرف التفات نہیں کرتے
+
+---
+
+## 🇬🇧 English
+
+And no sign comes to them from the signs of their Lord except that they are from it turning away
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+آدمی کے پیچھے اس کے اعمال ہیں، اور اس کے آگے حساب کتاب کا دن ہے۔ زندگی گویا عمل کی دنیا سے انجام کی دنیا کی طرف سفر ہے۔ یہ بے حد نازک صورتِ حال ہے۔ آدمی کو اس کا واقعی احساس ہو تو وہ کانپ اٹھے۔ مگر آدمی نہ غور کرتاهے اور نہ کوئی نشانی اس کی آنکھ کھولنے والی ثابت ہوتی۔ وہ جھوٹی تاویلوں کے ذریعہ اپنے اعمال کو صحیح ثابت کرتا رہتا ہے۔ یہاں تک کہ مرجاتاہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[36_45: Ya Sin يس]]
+- **Next:** [[36_47: Ya Sin يس]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

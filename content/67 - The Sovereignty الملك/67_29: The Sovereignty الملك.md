@@ -1,0 +1,49 @@
+---
+surah: 67 / 114
+surah_name: The Sovereignty / الملك / ملک
+ayah: 29 / 30
+type: meccan
+tags: ["tawakkul", "iman", "asma_ul_husna", "hidayah"]
+image: "/attachments/surah_067.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5270.mp3"></audio>
+**Next:** [[67_30: The Sovereignty الملك]]
+
+---
+
+## Arabic
+
+قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ
+
+---
+
+## 🇵🇰 Urdu
+
+اِن سے کہو، وہ بڑا رحیم ہے، اسی پر ہم ایمان لائے ہیں، اور اُسی پر ہمارا بھروسا ہے، عنقریب تمہیں معلوم ہو جائے گا کہ صریح گمراہی میں پڑا ہوا کون ہے
+
+---
+
+## 🇬🇧 English
+
+Say, "He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مخاطب جب دلیل سے نہ مانے تو داعی یقین کا کلمہ بول کر اس کے اندرون کو جھنجھوڑتا ہے۔ یہ آیتیں گویا اسی قسم کے یقین کے کلمات ہیں۔ آدمی کے اندر اگر کچھ بھی احساس زندہ ہو تو یہ آخری کلمات اس کو تڑپا دیتے ہیں۔ مگر جس شخص کا احساس بالکل بجھ چکا ہو وہ کسی تدبیر سے بھی نہیں جاگتا۔ وہ ’’پانی‘‘ کی قیمت کو صرف اس وقت تسلیم کرتا ہے جب کہ اس کو پانی سے محروم کرکے صحرا میں ڈال دیا گیا ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[67_28: The Sovereignty الملك]]
+- **Next:** [[67_30: The Sovereignty الملك]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

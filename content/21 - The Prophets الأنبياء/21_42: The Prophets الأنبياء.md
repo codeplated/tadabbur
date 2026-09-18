@@ -1,0 +1,50 @@
+---
+surah: 21 / 114
+surah_name: The Prophets / الأنبياء / پیغمبر
+ayah: 42 / 112
+type: meccan
+tags: ["kufr", "dhikr"]
+image: "/attachments/surah_021.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2525.mp3"></audio>
+**Next:** [[21_43: The Prophets الأنبياء]]
+
+---
+
+## Arabic
+
+قُلۡ مَن يَكۡلَؤُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ مِنَ ٱلرَّحۡمَٰنِۚ بَلۡ هُمۡ عَن ذِكۡرِ رَبِّهِم مُّعۡرِضُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اے محمدؐ، اِن سے کہو، "کون ہے جو رات کو یا دن کو تمہیں رحمان سے بچا سکتا ہو؟" مگر یہ اپنے رب کی نصیحت سے منہ موڑ رہے ہیں
+
+---
+
+## 🇬🇧 English
+
+Say, "Who can protect you at night or by day from the Most Merciful?" But they are, from the remembrance of their Lord, turning away
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+خداکی پکڑ کا مسئلہ کسی دور دراز مستقبل کا مسئلہ نہیں ہے۔ وہ اسی دن رات کے اندر چھپا ہوا ہے جس میں آدمی اپنے آپ کو مامون ومحفوظ سمجھتا ہے۔ مثلاً سورج اور زمین کا فاصلہ اگر نصف کے بقدر گھٹ جائے تو ہمارے دن اتنے گرم ہوجائیں کہ وہ ہم کو آگ کے شعلہ کی طرح جلادیں۔ اس کے برعکس، اگر زمین سے سورج کا فاصلہ دگنا بڑھ جائے تو ہماري راتیں اتنی ٹھنڈی ہوجائیں کہ ہم برف کی طرح جم کر رہ جائیں۔
+زمین وآسمان کا یہ حد درجہ موافق نظام جس نے قائم کر رکھا ہے وہ اس قابل ہے کہ انسان اپنی تمام عقیدتیں اور وفاداریاں اس سے وابستہ کرے، نہ کہ وہ ان جھوٹے معبودوں کی پرستش کرنے لگے جو اس کو کچھ نہیں دے سکتے۔
+
+---
+
+## Connections
+
+- **Previous:** [[21_41: The Prophets الأنبياء]]
+- **Next:** [[21_43: The Prophets الأنبياء]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

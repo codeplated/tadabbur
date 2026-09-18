@@ -1,0 +1,50 @@
+---
+surah: 18 / 114
+surah_name: The Cave / الكهف / غار
+ayah: 54 / 110
+type: meccan
+tags: ["parables", "revelation", "human_creation"]
+image: "/attachments/surah_018.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2194.mp3"></audio>
+**Next:** [[18_55: The Cave الكهف]]
+
+---
+
+## Arabic
+
+وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٖۚ وَكَانَ ٱلۡإِنسَٰنُ أَكۡثَرَ شَيۡءٖ جَدَلٗا
+
+---
+
+## 🇵🇰 Urdu
+
+ہم نے اِس قرآن میں لوگوں کو طرح طرح سے سمجھایا مگر انسان بڑا ہی جھگڑالو واقع ہوا ہے
+
+---
+
+## 🇬🇧 English
+
+And We have certainly diversified in this Qur'an for the people from every [kind of] example; but man has ever been, most of anything, [prone to] dispute
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا میں امتحان کی آزادی ہے۔ اس بنا پر یہاں آدمی حق کا اعتراف نہ کرنے کے لیے کوئی نہ کوئی عذر پالیتاہے۔ ہر بات کو رد کرنے کے لیے اس کو کچھ نہ کچھ الفاظ مل جاتے ہیں۔ کبھی ایسا ہوتا ہے کہ وہ ایک کھلی ہوئی دلیل کو بے معنی بحثوں سے کاٹنے کی کوشش کرتاہے۔ کبھی وہ ایسا کرتاہے کہ جو دلیل دی گئی ہے اس کو نظر انداز کرکے ایک اور چیز کا تقاضا کرتاہے جو کسی وجہ سے ابھی پیش نہیں کی گئی۔
+اس آخری صورت کی ایک مثال یہ ہے کہ پیغمبر نے اپنے مخاطبین کے سامنے واضح دلائل کے ساتھ اپنا پیغام پیش کیا تو انھوںنے اس پر دھیان نہیں دیا بلکہ اس سے قطع نظر کرتے ہوئے یہ کہا کہ انکار کی صورت میں تم ہم کو جس عذاب کی خبر دے رہے ہو وہ کہاں ہے، اس کو لا کر ہمیں دکھاؤ۔
+
+---
+
+## Connections
+
+- **Previous:** [[18_53: The Cave الكهف]]
+- **Next:** [[18_55: The Cave الكهف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

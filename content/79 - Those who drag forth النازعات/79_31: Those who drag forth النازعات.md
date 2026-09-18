@@ -1,0 +1,49 @@
+---
+surah: 79 / 114
+surah_name: Those who drag forth / النازعات / زور سے کھینچنے والے
+ayah: 31 / 46
+type: meccan
+tags: ["nature_signs", "rizq"]
+image: "/attachments/surah_079.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5743.mp3"></audio>
+**Next:** [[79_32: Those who drag forth النازعات]]
+
+---
+
+## Arabic
+
+أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا
+
+---
+
+## 🇵🇰 Urdu
+
+اُس کے اندر سے اُس کا پانی اور چارہ نکالا
+
+---
+
+## 🇬🇧 English
+
+He extracted from it its water and its pasture
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کائنات کی صورت میں جو واقعہ ہمارے سامنے موجود ہے وہ اتنا زیادہ بڑا ہے کہ اس کے بعد ہر دوسرا واقعہ اس سے چھوٹا ہوجاتا ہے۔ پھر جس دنیا میں بڑے واقعہ کا ظہور ممکن ہو وہاں چھوٹے واقعہ کا ظہور کیوں ممکن نہ ہوگا۔ ایسی حالت میں قرآن کی یہ خبر کہ انسان کو دوبارہ پیدا ہونا ہے، ایک ایسی خبر ہے جس کو قابل فہم بنانے کے لیے پہلے ہی سے بہت بڑے پیمانے پر معلوم اسباب موجود ہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[79_30: Those who drag forth النازعات]]
+- **Next:** [[79_32: Those who drag forth النازعات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

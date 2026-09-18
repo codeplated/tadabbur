@@ -1,0 +1,49 @@
+---
+surah: 59 / 114
+surah_name: The Exile / الحشر / حشر
+ayah: 11 / 24
+type: medinan
+tags: ["nifaq", "ahl_al_kitab", "sidq"]
+image: "/attachments/surah_059.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5137.mp3"></audio>
+**Next:** [[59_12: The Exile الحشر]]
+
+---
+
+## Arabic
+
+۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نَافَقُواْ يَقُولُونَ لِإِخۡوَٰنِهِمُ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ لَئِنۡ أُخۡرِجۡتُمۡ لَنَخۡرُجَنَّ مَعَكُمۡ وَلَا نُطِيعُ فِيكُمۡ أَحَدًا أَبَدٗا وَإِن قُوتِلۡتُمۡ لَنَنصُرَنَّكُمۡ وَٱللَّهُ يَشۡهَدُ إِنَّهُمۡ لَكَٰذِبُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+تم نے دیکھا نہیں اُن لوگوں کو جنہوں نے منافقت کی روش اختیار کی ہے؟ یہ اپنے کافر اہل کتاب بھائیوں سے کہتے ہیں "اگر تمہیں نکالا گیا تو ہم تمہارے ساتھ نکلیں گے، اور تمہارے معاملہ میں ہم کسی کی بات ہرگز نہ مانیں گے، اور اگر تم سے جنگ کی گئی تو ہم تمہاری مدد کریں گے" مگر اللہ گواہ ہے کہ یہ لوگ قطعی جھوٹے ہیں
+
+---
+
+## 🇬🇧 English
+
+Have you not considered those who practice hypocrisy, saying to their brothers who have disbelieved among the People of the Scripture, "If you are expelled, we will surely leave with you, and we will not obey, in regard to you, anyone - ever; and if you are fought, we will surely aid you." But Allah testifies that they are liars
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+رسول اللہ صلی اللہ علیہ وسلم نے بنو نضیر کی جلا وطنی کا اعلان کیا تو منافقین ان کی حمایت پر آگئے۔ انہوں نے بنونضیر سے کہا کہ تم اپنی جگہ جمے رہو، ہم ہر طرح تمہاری مدد کریں گے۔ مگر منافقین کی یہ باتیں محض ان کو مسلمانوں کے خلاف اکسانے کے لیے تھیں۔ وہ اس پیشکش میں ہرگز مخلص نہ تھے۔ چنانچہ جب مسلمانوں نے بنو نضیر کو گھیر لیا تو منافقین میں سے کوئی بھی ان کی مدد پر نہ آیا — مفاد پرست گروہ کا ہر زمانہ میں یہی کردار رہا ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[59_10: The Exile الحشر]]
+- **Next:** [[59_12: The Exile الحشر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

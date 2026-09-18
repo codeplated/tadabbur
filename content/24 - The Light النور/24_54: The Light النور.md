@@ -1,0 +1,51 @@
+---
+surah: 24 / 114
+surah_name: The Light / النور / نور
+ayah: 54 / 64
+type: medinan
+tags: ["story_muhammad", "commands", "dawah", "hidayah"]
+image: "/attachments/surah_024.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2845.mp3"></audio>
+**Next:** [[24_55: The Light النور]]
+
+---
+
+## Arabic
+
+قُلۡ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۖ فَإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡهِ مَا حُمِّلَ وَعَلَيۡكُم مَّا حُمِّلۡتُمۡۖ وَإِن تُطِيعُوهُ تَهۡتَدُواْۚ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
+
+---
+
+## 🇵🇰 Urdu
+
+کہو، "اللہ کے مطیع بنو اور رسولؐ کے تابع فرمان بن کر رہو لیکن اگر تم منہ پھیرتے ہو تو خوب سمجھ لو کہ رسولؐ پر جس فرض کا بار رکھا گیا ہے اُس کا ذمہ دار وہ ہے اور تم پر جس فرض کا بار ڈالا گیا ہے اُس کے ذمہ دار تم ہو اُس کی اطاعت کرو گے تو خود ہی ہدایت پاؤ گے ورنہ رسول کی ذمہ داری اس سے زیادہ کچھ نہیں ہے کہ صاف صاف حکم پہنچا دے
+
+---
+
+## 🇬🇧 English
+
+Say, "Obey Allah and obey the Messenger; but if you turn away - then upon him is only that [duty] with which he has been charged, and upon you is that with which you have been charged. And if you obey him, you will be [rightly] guided. And there is not upon the Messenger except the [responsibility for] clear notification
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جس شخص کے دل میں گہرائی کے ساتھ خدا اترا ہوا ہو اس کی نگاہیں جھک جاتی ہیں۔اس کی زبان بند ہوجاتی ہے۔ اس کا احساسِ ذمہ داری اس سے بڑی بڑی قربانیاں کرادیتاہے۔ مگر زبانی دعدوں کے وقت وہ دیکھنے والے لوگوں کو گونگا نظر آتا ہے۔
+اس کے برعکس، جو شخص خدا سے تعلق کے معاملہ میں کم ہو وہ الفاظ کے معاملہ میں زیادہ ہوجاتا ہے۔ وہ اپنے عمل کی کمی کو الفاظ کی زیادتی سے پورا کرتا ہے۔ اس کے پاس چونکہ کردار کی گواہی نہیں ہوتی اس ليے وہ اپنے کو معتبر ثابت کرنے کے ليے بڑے بڑے الفاظ کا مظاہرہ کرتا ہے۔
+جو لوگ الفاظ کا کمال دکھا کر دوسروں کو متاثر کرنا چاہتے ہیں وہ سمجھتے ہیں کہ سارا معاملہ بس انسانوں کا معاملہ ہے۔ مگر جس شخص کو یقین ہو کہ اصل معاملہ وہ ہے جو خدا کے یہاں پیش آنے والا ہے۔ اس کا سارا انداز بالکل بدل جائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[24_53: The Light النور]]
+- **Next:** [[24_55: The Light النور]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

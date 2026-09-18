@@ -1,0 +1,49 @@
+---
+surah: 72 / 114
+surah_name: The Jinn / الجن / جن
+ayah: 23 / 28
+type: meccan
+tags: ["dawah", "jahannam", "revelation"]
+image: "/attachments/surah_072.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5470.mp3"></audio>
+**Next:** [[72_24: The Jinn الجن]]
+
+---
+
+## Arabic
+
+إِلَّا بَلَٰغٗا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا
+
+---
+
+## 🇵🇰 Urdu
+
+میرا کام اس کے سوا کچھ نہیں ہے کہ اللہ کی بات اور اس کے پیغامات پہنچا دوں اب جو بھی اللہ اور اس کے رسول کی بات نہ مانے گا اس کے لیے جہنم کی آگ ہے اور ایسے لوگ اس میں ہمیشہ رہیں گے
+
+---
+
+## 🇬🇧 English
+
+But [I have for you] only notification from Allah, and His messages." And whoever disobeys Allah and His Messenger - then indeed, for him is the fire of Hell; they will abide therein forever
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا کا نظام امتحان کی مصلحت کے تحت بنایا گیا ہے۔ اسی لیے سچائی یہاں صرف پیغام رسانی کی حد تک سامنے لائی جاتی ہے۔ اگر امتحان کی مصلحت نہ ہو اور غیب کا پردہ ہٹا دیا جائے تو لوگ دیکھیں گے کہ فرشتوں سے لے کر جنات کے صالحین تک سب خدا کی خدائی کا اعتراف کر رہے ہیں اور ساری کائنات سراپا اس کی تصدیق بنی ہوئی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[72_22: The Jinn الجن]]
+- **Next:** [[72_24: The Jinn الجن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,49 @@
+---
+surah: 64 / 114
+surah_name: The Mutual Disillusion / التغابن / ہار جیت
+ayah: 12 / 18
+type: medinan
+tags: ["commands", "story_muhammad", "dawah"]
+image: "/attachments/surah_064.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5211.mp3"></audio>
+**Next:** [[64_13: The Mutual Disillusion التغابن]]
+
+---
+
+## Arabic
+
+وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۚ فَإِن تَوَلَّيۡتُمۡ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ
+
+---
+
+## 🇵🇰 Urdu
+
+اللہ کی اطاعت کرو اور رسول کی طاعت کرو لیکن اگر تم اطاعت سے منہ موڑتے ہو تو ہمارے رسول پر صاف صاف حق پہنچا دینے کے سوا کوئی ذمہ داری نہیں ہے
+
+---
+
+## 🇬🇧 English
+
+And obey Allah and obey the Messenger; but if you turn away - then upon Our Messenger is only [the duty of] clear notification
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کوئی مصیبت اپنے آپ نہیں آتی، ہر مصیبت خدا کی طرف سے آتی ہے۔ اور اس لیے آتی ہے کہ اس کے ذریعہ سے انسان کو ہدایت عطا کی جائے۔ مصیبت آدمی کے دل کو نرم کرتی ہے۔ اور اس کی سوئی ہوئی نفسیات میں ہلچل پیدا کرتی ہے۔ مصیبت کے جھٹکے آدمی کے ذہن کو جگانے کا کام کرتے ہیں۔ اگر آدمی اپنے آپ کو منفی رد عمل سے بچائے تو مصیبت اس کے لیے بہترین ربانی معلم بن جائے گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[64_11: The Mutual Disillusion التغابن]]
+- **Next:** [[64_13: The Mutual Disillusion التغابن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

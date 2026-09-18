@@ -1,0 +1,50 @@
+---
+surah: 49 / 114
+surah_name: The Rooms / الحجرات / حجرے
+ayah: 16 / 18
+type: medinan
+tags: ["knowledge", "iman"]
+image: "/attachments/surah_049.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4628.mp3"></audio>
+**Next:** [[49_17: The Rooms الحجرات]]
+
+---
+
+## Arabic
+
+قُلۡ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمۡ وَٱللَّهُ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٞ
+
+---
+
+## 🇵🇰 Urdu
+
+اے نبیؐ، اِن (مدعیان ایمان) سے کہو، کیا تم اللہ کو اپنے دین کی اطلاع دے رہے ہو؟ حالانکہ اللہ زمین اور آسمانوں کی ہر چیز کو جانتا ہے اور وہ ہر شے کا علم رکھتا ہے
+
+---
+
+## 🇬🇧 English
+
+Say, "Would you acquaint Allah with your religion while Allah knows whatever is in the heavens and whatever is on the earth, and Allah is Knowing of all things
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کوئی شخص اسلام میں داخل ہو یا اس کے ہاتھ سے کوئی اسلامی کام انجام پائے تو اس کو سمجھنا چاہيے کہ یہ اللہ کی مدد سے ہوا ہے۔ ایمان اور عمل سب کا انحصار اللہ کی توفیق پر ہے۔ اس لیے جب بھی کسی کو کسی خیر کی توفیق ملے تو وہ اللہ کا شکر ادا کرے۔
+اس کے بجائے اگر وہ اپنے ہم مذہبوں پر اس کا احسان جتانے لگے تو گویا وہ زبان حال سے کہہ رہا ہے کہ یہ کام میں نے اللہ کو دکھانے کے لیے نہیں کیا تھا بلکہ انسانوں کو دکھانے کے لیے کیا تھا۔ خدا ہر چیز سے براہِ راست واقفیت رکھتا ہے، جو شخص خدا کے لیے عمل کرے اس کو یقين رکھنا چاهيے کہ اس کا خدا اس کے عمل کو بتائے بغیر دیکھ رہا ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[49_15: The Rooms الحجرات]]
+- **Next:** [[49_17: The Rooms الحجرات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 66 / 114
+surah_name: The Prohibition / التحريم / حرمت
+ayah: 12 / 12
+type: medinan
+tags: ["story_maryam", "women", "haya", "parables", "iman"]
+image: "/attachments/surah_066.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5241.mp3"></audio>
+**Next:** _(End of Surah)_
+
+---
+
+## Arabic
+
+وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور عمران کی بیٹی مریمؑ کی مثال دیتا ہے جس نے اپنی شرمگاہ کی حفاظت کی تھی، پھر ہم نے اس کے اندر اپنی طرف سے روح پھونک دی، اور اس نے اپنے رب کے ارشادات اور اس کی کتابوں کی تصدیق کی اور وہ اطاعت گزار لوگوں میں سے تھی
+
+---
+
+## 🇬🇧 English
+
+And [the example of] Mary, the daughter of 'Imran, who guarded her chastity, so We blew into [her garment] through Our angel, and she believed in the words of her Lord and His scriptures and was of the devoutly obedient
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+فرعون ایک کافر اور ظالم شخص تھا۔ مگر اس کی بیوی آسیہ بنت مزاحم ایمان دار اور باعمل خاتون تھی۔ بیوی نے جب اپنے آپ کو صحیح روش پر قائم رکھا تو شوہر کی غلط روش اس کو کچھ نقصان نہ پہنچا سکی۔ شوہر جہنم میں داخل کیا گیا اور بیوی کو جنت کے باغوں میں جگہ ملی۔
+أَحْصَنَتْ فَرْجَهَادر اصل کنایہ ہے۔ اس کا مطلب یہ ہے کہ انہوں نے اپنی عصمت کو محفوظ رکھا۔ بچپن سے جوانی تک وہ پوری طرح بے داغ رہیں۔ چنانچہ اللہ نے ان کو معجزاتی پیغمبر کی پیدائش کے لیے چنا۔ بعض روایات کے مطابق جبریل فرشتہ نے ان کے گریبان میں پھونک ماری، جس سے استقرار حمل ہوا اور پھر حضرت مسیح علیہ السلام پیدا ہوئے۔
+
+---
+
+## Connections
+
+- **Previous:** [[66_11: The Prohibition التحريم]]
+- **Next:** _(End of Surah)_
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

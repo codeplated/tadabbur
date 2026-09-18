@@ -1,0 +1,49 @@
+---
+surah: 76 / 114
+surah_name: The Man / الانسان / انسان
+ayah: 31 / 31
+type: medinan
+tags: ["rahmah", "qadr", "oppression", "jahannam"]
+image: "/attachments/surah_076.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5622.mp3"></audio>
+**Next:** _(End of Surah)_
+
+---
+
+## Arabic
+
+يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا
+
+---
+
+## 🇵🇰 Urdu
+
+اپنی رحمت میں جس کو چاہتا ہے داخل کرتا ہے، اور ظالموں کے لیے اس نے دردناک عذاب تیار کر رکھا ہے
+
+---
+
+## 🇬🇧 English
+
+He admits whom He wills into His mercy; but the wrongdoers - He has prepared for them a painful punishment
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حق کی دعوت کو نہ ماننے کے دو خاص سبب ہوتے ہیں۔ یا تو آدمی کے سامنے دنیا کا مفاد ہوتا ہے، اور مفاد سے محرومی کا اندیشہ اس کو حق کی طرف بڑھنے نہیں دیتا۔ دوسرا سبب یہ ہے کہ آدمی تکبر کی نفسیات میں مبتلا ہو اور اس کا تکبر اس میں مانع بن جائے کہ وہ اپنے سے باہر کسی کی بڑائی کو تسلیم کرے۔ یہ دونوں قسم کے لوگ دعوتِ حق کی راہ میں طرح طرح کی رکاوٹیں ڈالتے ہیں۔ مگر حق کے داعی کو حکم ہے کہ وہ ان کا لحاظ کیے بغیر اپنا کام صبر کے ساتھ جاری رکھے۔
+
+---
+
+## Connections
+
+- **Previous:** [[76_30: The Man الانسان]]
+- **Next:** _(End of Surah)_
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

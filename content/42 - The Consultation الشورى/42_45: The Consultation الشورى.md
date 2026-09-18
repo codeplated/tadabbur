@@ -1,0 +1,50 @@
+---
+surah: 42 / 114
+surah_name: The Consultation / الشورى / شورٰی
+ayah: 45 / 53
+type: meccan
+tags: ["akhirah", "jahannam", "family"]
+image: "/attachments/surah_042.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4317.mp3"></audio>
+**Next:** [[42_46: The Consultation الشورى]]
+
+---
+
+## Arabic
+
+وَتَرَىٰهُمۡ يُعۡرَضُونَ عَلَيۡهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرۡفٍ خَفِيّٖۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ ٱلۡخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ وَأَهۡلِيهِمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ أَلَآ إِنَّ ٱلظَّـٰلِمِينَ فِي عَذَابٖ مُّقِيمٖ
+
+---
+
+## 🇵🇰 Urdu
+
+اور تم دیکھو گے کہ یہ جہنم کے سامنے جب لائے جائیں گے تو ذلت کے مارے جھکے جا رہے ہوں گے اور اُس کو نظر بچا بچا کر کن آنکھیوں سے دیکھیں گے اُس وقت وہ لوگ جو ایمان لائے تھے کہیں گے کہ واقعی اصل زیاں کار وہی ہیں جنہوں نے آج قیامت کے دن اپنے آپ کو اور اپنے متعلقین کو خسارے میں ڈال دیا خبردار رہو، ظالم لوگ مستقل عذاب میں ہوں گے
+
+---
+
+## 🇬🇧 English
+
+And you will see them being exposed to the Fire, humbled from humiliation, looking from [behind] a covert glance. And those who had believed will say, "Indeed, the [true] losers are the ones who lost themselves and their families on the Day of Resurrection. Unquestionably, the wrongdoers are in an enduring punishment
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اِس دنيا ميں هدايت كو دليل كے ذريعه كھولا جاتا هے۔ يهي اس دنيا كے لیے خدا كا قانون هے۔ اس كا مطلب يه هے كه اس دنيا ميں صرف وه شخص هدايت پاتا هے جو اس صلاحيت كا ثبوت دے كه وه دليل كي زبان ميں بات كو سمجھ سكتا هے۔ دليل كے ذريعه كسي بات كا ثابت هوجانا اس كے لیے كافي هے كه وه اس كے آگے جھك جائے جو لوگ دليل سے نه مانيں ان كو اس دنيا ميں كبھي هدايت نهيں مل سكتي۔
+جو شخص موجوده دنيا ميں دليل كے آگے نهيں جھكتا وه اپنے آپ كو اس خطره ميں ڈالتا هے كه قيامت ميں اس كو خدائي طاقت كے آگے جھكا يا جائے۔ مگر قيامت كا جھكناكسي كے كچھ كام نه آئے گا۔ كيوں كه وه آدمي كو ذليل كرنے كے لیے هوگا، نه كه اس كو انعام كا مستحق بنانے كے ليے۔
+
+---
+
+## Connections
+
+- **Previous:** [[42_44: The Consultation الشورى]]
+- **Next:** [[42_46: The Consultation الشورى]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

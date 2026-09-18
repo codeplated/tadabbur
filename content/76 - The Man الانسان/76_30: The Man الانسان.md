@@ -1,0 +1,49 @@
+---
+surah: 76 / 114
+surah_name: The Man / الانسان / انسان
+ayah: 30 / 31
+type: medinan
+tags: ["qadr", "knowledge"]
+image: "/attachments/surah_076.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5621.mp3"></audio>
+**Next:** [[76_31: The Man الانسان]]
+
+---
+
+## Arabic
+
+وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اور تمہارے چاہنے سے کچھ نہیں ہوتا جب تک اللہ نہ چاہے یقیناً اللہ بڑا علیم و حکیم ہے
+
+---
+
+## 🇬🇧 English
+
+And you do not will except that Allah wills. Indeed, Allah is ever Knowing and Wise
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حق کی دعوت کو نہ ماننے کے دو خاص سبب ہوتے ہیں۔ یا تو آدمی کے سامنے دنیا کا مفاد ہوتا ہے، اور مفاد سے محرومی کا اندیشہ اس کو حق کی طرف بڑھنے نہیں دیتا۔ دوسرا سبب یہ ہے کہ آدمی تکبر کی نفسیات میں مبتلا ہو اور اس کا تکبر اس میں مانع بن جائے کہ وہ اپنے سے باہر کسی کی بڑائی کو تسلیم کرے۔ یہ دونوں قسم کے لوگ دعوتِ حق کی راہ میں طرح طرح کی رکاوٹیں ڈالتے ہیں۔ مگر حق کے داعی کو حکم ہے کہ وہ ان کا لحاظ کیے بغیر اپنا کام صبر کے ساتھ جاری رکھے۔
+
+---
+
+## Connections
+
+- **Previous:** [[76_29: The Man الانسان]]
+- **Next:** [[76_31: The Man الانسان]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

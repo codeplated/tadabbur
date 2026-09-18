@@ -1,0 +1,49 @@
+---
+surah: 54 / 114
+surah_name: The Moon / القمر / چاند
+ayah: 12 / 55
+type: meccan
+tags: ["story_nuh", "qadr", "history_lessons"]
+image: "/attachments/surah_054.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4858.mp3"></audio>
+**Next:** [[54_13: The Moon القمر]]
+
+---
+
+## Arabic
+
+وَفَجَّرۡنَا ٱلۡأَرۡضَ عُيُونٗا فَٱلۡتَقَى ٱلۡمَآءُ عَلَىٰٓ أَمۡرٖ قَدۡ قُدِرَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور یہ سارا پانی اُس کام کو پورا کرنے لیے مل گیا جو مقدر ہو چکا تھا
+
+---
+
+## 🇬🇧 English
+
+And caused the earth to burst with springs, and the waters met for a matter already predestined
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+قوم عاد جب خدا کے عذاب کی مستحق ہوگئی تو خدا نے ان پر ایسی تیز آندھی بھیجی جس میں لوگوں کا زمین پر ٹھہرنا مشکل ہوگیا۔ آندھی انہیں اس طرح اٹھا اٹھا کر پھینک رہی تھی کہ کوئی دیوار سے جا کر ٹکراتا تھا اور کوئی درخت سے۔ کسی کی چھت اس کے سر پر گر پڑی۔ یہ اس بات کا مظاہرہ تھا کہ انسان بالکل بے بس ہے، خدا کے مقابلہ میں اس کو کسی قسم کا اختیار حاصل نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[54_11: The Moon القمر]]
+- **Next:** [[54_13: The Moon القمر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

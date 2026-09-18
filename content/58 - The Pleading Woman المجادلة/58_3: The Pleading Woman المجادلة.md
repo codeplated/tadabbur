@@ -1,0 +1,50 @@
+---
+surah: 58 / 114
+surah_name: The Pleading Woman / المجادلة / جھگڑنے والی
+ayah: 3 / 22
+type: medinan
+tags: ["divorce", "social_justice", "commands"]
+image: "/attachments/surah_058.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5107.mp3"></audio>
+**Next:** [[58_4: The Pleading Woman المجادلة]]
+
+---
+
+## Arabic
+
+وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمۡ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحۡرِيرُ رَقَبَةٖ مِّن قَبۡلِ أَن يَتَمَآسَّاۚ ذَٰلِكُمۡ تُوعَظُونَ بِهِۦۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ
+
+---
+
+## 🇵🇰 Urdu
+
+جو لوگ اپنی بیویوں سے ظہار کریں پھر اپنی اُس بات سے رجوع کریں جو انہوں نے کہی تھی، تو قبل اس کے کہ دونوں ایک دوسرے کو ہاتھ لگائیں، ایک غلام آزاد کرنا ہوگا اِس سے تم کو نصیحت کی جاتی ہے، اور جو کچھ تم کرتے ہو اللہ اس سے باخبر ہے
+
+---
+
+## 🇬🇧 English
+
+And those who pronounce thihar from their wives and then [wish to] go back on what they said - then [there must be] the freeing of a slave before they touch one another. That is what you are admonished thereby; and Allah is Acquainted with what you do
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اسلام میں صورت اور حقیقت کے درمیان فرق کیا گیا ہے۔ یہی وجہ ہے کہ اسلام نے اس قدیم رواج کو تسلیم نہیں کیا کہ جو عورت حقیقی ماں نہ ہو وہ محض ماں کا لفظ بول دینے سے کسی کی ماں بن جائے۔ اس قسم کا فعل ایک لغوبات تو ضرور ہے مگر اس کی وجہ سے فطرت کے قوانین بدل نہیں سکتے۔
+قرآن میں بتایا گیا کہ محض ظہار سے کسی آدمی کی بیوی پر طلاق نہیں پڑے گی۔ البتہ اس آدمی پر لازم کیا گیا کہ وہ پہلے کفارہ ادا کرے۔ اس کے بعد وہ دوبارہ اپنی بیوی کے پاس جائے۔ کسی غلطی کے بعد جب آدمی اس طرح کفارہ ادا کرتا ہے تو وہ دوبارہ اپنے یقین کو زندہ کرتا ہے۔ وہ اس اصول میں اپنے عقیدہ کو از سرِ نو مستحکم بناتا ہے جس کو وہ غفلت یا نادانی سے چھوڑ بیٹھا تھا۔
+
+---
+
+## Connections
+
+- **Previous:** [[58_2: The Pleading Woman المجادلة]]
+- **Next:** [[58_4: The Pleading Woman المجادلة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

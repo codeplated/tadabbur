@@ -1,0 +1,50 @@
+---
+surah: 42 / 114
+surah_name: The Consultation / الشورى / شورٰی
+ayah: 46 / 53
+type: meccan
+tags: ["hidayah", "wala_bara"]
+image: "/attachments/surah_042.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4318.mp3"></audio>
+**Next:** [[42_47: The Consultation الشورى]]
+
+---
+
+## Arabic
+
+وَمَا كَانَ لَهُم مِّنۡ أَوۡلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِۗ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
+
+---
+
+## 🇵🇰 Urdu
+
+اور ان کے کوئی حامی و سرپرست نہ ہوں گے جو اللہ کے مقابلے میں ان کی مدد کو آئیں جسے اللہ گمراہی میں پھینک دے اس کے لیے بچاؤ کی کوئی سبیل نہیں
+
+---
+
+## 🇬🇧 English
+
+And there will not be for them any allies to aid them other than Allah. And whoever Allah sends astray - for him there is no way
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اِس دنيا ميں هدايت كو دليل كے ذريعه كھولا جاتا هے۔ يهي اس دنيا كے لیے خدا كا قانون هے۔ اس كا مطلب يه هے كه اس دنيا ميں صرف وه شخص هدايت پاتا هے جو اس صلاحيت كا ثبوت دے كه وه دليل كي زبان ميں بات كو سمجھ سكتا هے۔ دليل كے ذريعه كسي بات كا ثابت هوجانا اس كے لیے كافي هے كه وه اس كے آگے جھك جائے جو لوگ دليل سے نه مانيں ان كو اس دنيا ميں كبھي هدايت نهيں مل سكتي۔
+جو شخص موجوده دنيا ميں دليل كے آگے نهيں جھكتا وه اپنے آپ كو اس خطره ميں ڈالتا هے كه قيامت ميں اس كو خدائي طاقت كے آگے جھكا يا جائے۔ مگر قيامت كا جھكناكسي كے كچھ كام نه آئے گا۔ كيوں كه وه آدمي كو ذليل كرنے كے لیے هوگا، نه كه اس كو انعام كا مستحق بنانے كے ليے۔
+
+---
+
+## Connections
+
+- **Previous:** [[42_45: The Consultation الشورى]]
+- **Next:** [[42_47: The Consultation الشورى]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

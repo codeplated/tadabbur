@@ -1,0 +1,50 @@
+---
+surah: 29 / 114
+surah_name: The Spider / العنكبوت / مکڑی
+ayah: 39 / 69
+type: meccan
+tags: ["story_musa", "kibr", "history_lessons"]
+image: "/attachments/surah_029.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3379.mp3"></audio>
+**Next:** [[29_40: The Spider العنكبوت]]
+
+---
+
+## Arabic
+
+وَقَٰرُونَ وَفِرۡعَوۡنَ وَهَٰمَٰنَۖ وَلَقَدۡ جَآءَهُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ فَٱسۡتَكۡبَرُواْ فِي ٱلۡأَرۡضِ وَمَا كَانُواْ سَٰبِقِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور قارون و فرعون و ہامان کو ہم نے ہلاک کیا موسیٰؑ اُن کے پاس بیّنات لے کر آیا مگر انہوں نے زمین میں اپنی بڑائی کا زعم کیا حالانکہ وہ سبقت لے جانے والے نہ تھے
+
+---
+
+## 🇬🇧 English
+
+And [We destroyed] Qarun and Pharaoh and Haman. And Moses had already come to them with clear evidences, and they were arrogant in the land, but they were not outrunners [of Our punishment]
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+انبیاء کی مخاطب قوموں نے جب اپنے نبی کا انکار کیا تو ان کو زمینی اور آسمانی عذاب سے ہلاک کردیا گیا — قوم لوط پر عاصب (پتھر برسانے والی طوفانی ہوا) کا عذاب آیا۔عاد اور ثمود اور اصحاب مدین پر صیحہ (رعد وبرق) کا عذاب آیا۔ قارون کےلیے خسف (زمین میں دھنسا دینے) کا عذاب آیا۔ فرعون اور ہامان کےلیے غرق (سمندر کے پانی میں ڈبا دینے) کا عذاب آیا۔
+ان تمام عذابوں کا مشترک سبب لوگوں کا گھمنڈ تھا۔ یعنی حق کی دعوت کو اس ليے نہ ماننا کہ اس کو ماننے سے اپنی بڑائی ختم ہوجائے گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[29_38: The Spider العنكبوت]]
+- **Next:** [[29_40: The Spider العنكبوت]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

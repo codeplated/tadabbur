@@ -1,0 +1,50 @@
+---
+surah: 22 / 114
+surah_name: The Pilgrimage / الحج / حج
+ayah: 58 / 78
+type: medinan
+tags: ["hijrah", "death_reminder", "rizq", "glad_tidings"]
+image: "/attachments/surah_022.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2653.mp3"></audio>
+**Next:** [[22_59: The Pilgrimage الحج]]
+
+---
+
+## Arabic
+
+وَٱلَّذِينَ هَاجَرُواْ فِي سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓاْ أَوۡ مَاتُواْ لَيَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنٗاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيۡرُ ٱلرَّـٰزِقِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور جن لوگوں نے اللہ کی راہ میں ہجرت کی، پھر قتل کر دیے گئے یا مر گئے، اللہ ان کو اچھّا رزق دے گا اور یقیناً اللہ ہی بہترین رازق ہے
+
+---
+
+## 🇬🇧 English
+
+And those who emigrated for the cause of Allah and then were killed or died - Allah will surely provide for them a good provision. And indeed, it is Allah who is the best of providers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو شخص ایمان کے معاملہ میں مخلص ہو اس کا حال یہ ہوجاتا ہے کہ وہ ہر دوسری چیز کی قربانی گوارا کرلیتا ہے۔ مگر ایمان کی قربانی اسے گوارا نہیں ہوتی۔ اس راہ میں اگر وطن چھوڑنا پڑے تو وہ وطن چھوڑ دیتاہے۔ اس راہ میں قتل ہونا پڑے تو وہ قتل ہوجاتا ہے۔ وہ ایمان کے ساتھ بندھا رہتاہے۔ یہاں تک کہ وہ اسی حال میں مرجاتاہے۔
+جو لوگ دنیا کی زندگی میں اس بات کا ثبوت دیں کہ وہ ایمان کو سب سے قیمتی چیز سمجھتے ہیں، اللہ ان کی اس طرح قدر دانی فرمائے گا کہ انھیں آخرت کی سب سے قیمتی چیز دے دے گا۔ وہ وہاں ابدی طور پر خوشیوں اور راحتوں کی زندگی گزارتے رہیں گے۔
+
+---
+
+## Connections
+
+- **Previous:** [[22_57: The Pilgrimage الحج]]
+- **Next:** [[22_59: The Pilgrimage الحج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

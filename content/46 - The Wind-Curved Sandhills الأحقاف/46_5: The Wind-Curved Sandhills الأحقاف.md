@@ -1,0 +1,52 @@
+---
+surah: 46 / 114
+surah_name: The Wind-Curved Sandhills / الأحقاف / ریگستان
+ayah: 5 / 35
+type: meccan
+tags: ["shirk", "dua", "akhirah"]
+image: "/attachments/surah_046.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4515.mp3"></audio>
+**Next:** [[46_6: The Wind-Curved Sandhills الأحقاف]]
+
+---
+
+## Arabic
+
+وَمَنۡ أَضَلُّ مِمَّن يَدۡعُواْ مِن دُونِ ٱللَّهِ مَن لَّا يَسۡتَجِيبُ لَهُۥٓ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ وَهُمۡ عَن دُعَآئِهِمۡ غَٰفِلُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+آخر اُس شخص سے زیادہ بہکا ہوا انسان اور کون ہو گا جو اللہ کو چھوڑ کر اُن کو پکارے جو قیامت تک اسے جواب نہیں دے سکتے بلکہ اِس سے بھی بے خبر ہیں کہ پکارنے والے اُن کو پکار رہے ہیں
+
+---
+
+## 🇬🇧 English
+
+And who is more astray than he who invokes besides Allah those who will not respond to him until the Day of Resurrection, and they, of their invocation, are unaware
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مفسر ابن كثير نے يهاں ’’كتاب‘‘ سے مراد نقلي دليل اور ’’أَثارَةٍ مِنْ عِلْمٍ‘‘ سے مراد عقلي دليل لي هے (أَيْ لَا دَلِيْلَ لَكُمْ لَا نَقْلِيًّا وَلَا عَقْلِيًّا عَلَى ذَلِكَ) تفسیر ابن کثیر، جلد7، صفحہ
+252
+۔
+علم حقيقةً صرف دو هے۔ ايك الهامي علم (Revealed knowledge)۔ يعني وه علم جو پيغمبروں كے ذريعه سے انسانوں تك پهنچا۔ دوسرا ثابت شده علم (Established knowledge)۔ يعني وه علم جس كا علم هونا انساني تحقيقات اور تجربات سے ثابت هوگيا هو۔ ان دونوں ميں سے كوئي بھي علم يه نهيں بتاتا كه اس كائنات ميں ايك خدا كے سوا كوئي اور هستي هے جو خدائي کے لائق هے۔ اور جب علم كے دو ذريعوں ميں سے كوئي ذريعه شرك كي گواهي نه دے تو مشركانه عقيده انسان كے لیے كيوں كردرست هوسكتا هے۔ جو شخص خدا كو چھوڑ كر كسي اور چيز كو اپنا سهارا بنائے۔ وه سہارا آخرت كے دن اس سے برأت كرے گا، نه كه وه اس كا مددگار بنے ۔
+
+---
+
+## Connections
+
+- **Previous:** [[46_4: The Wind-Curved Sandhills الأحقاف]]
+- **Next:** [[46_6: The Wind-Curved Sandhills الأحقاف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

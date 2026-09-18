@@ -1,0 +1,49 @@
+---
+surah: 65 / 114
+surah_name: The Divorce / الطلاق / طلاق
+ayah: 6 / 12
+type: medinan
+tags: ["divorce", "women", "parenting", "social_justice", "shura"]
+image: "/attachments/surah_065.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5223.mp3"></audio>
+**Next:** [[65_7: The Divorce الطلاق]]
+
+---
+
+## Arabic
+
+أَسۡكِنُوهُنَّ مِنۡ حَيۡثُ سَكَنتُم مِّن وُجۡدِكُمۡ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُواْ عَلَيۡهِنَّۚ وَإِن كُنَّ أُوْلَٰتِ حَمۡلٖ فَأَنفِقُواْ عَلَيۡهِنَّ حَتَّىٰ يَضَعۡنَ حَمۡلَهُنَّۚ فَإِنۡ أَرۡضَعۡنَ لَكُمۡ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأۡتَمِرُواْ بَيۡنَكُم بِمَعۡرُوفٖۖ وَإِن تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهُۥٓ أُخۡرَىٰ
+
+---
+
+## 🇵🇰 Urdu
+
+اُن کو (زمانہ عدت میں) اُسی جگہ رکھو جہاں تم رہتے ہو، جیسی کچھ بھی جگہ تمہیں میسر ہو اور انہیں تنگ کرنے کے لیے ان کو نہ ستاؤ اور اگر وہ حاملہ ہوں تو ان پر اُس وقت تک خرچ کرتے رہو جب تک ان کا وضع حمل نہ ہو جائے پھر اگر وہ تمہارے لیے (بچے کو) دودھ پلائیں تو ان کی اجرت انہیں دو، اور بھلے طریقے سے (اجرت کا معاملہ) باہمی گفت و شنید سے طے کر لو لیکن اگر تم نے (اجرت طے کرنے میں) ایک دوسرے کو تنگ کیا تو بچے کو کوئی اور عورت دودھ پلا لے گی
+
+---
+
+## 🇬🇧 English
+
+Lodge them [in a section] of where you dwell out of your means and do not harm them in order to oppress them. And if they should be pregnant, then spend on them until they give birth. And if they breastfeed for you, then give them their payment and confer among yourselves in the acceptable way; but if you are in discord, then there may breastfeed for the father another woman
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اسلام میں یہ مطلوب ہے کہ آدمی معاملات میں فریق ثانی کے ساتھ فراخ دلی کا طریقہ اختیار کرے۔ وہ صبر کے ساتھ خلاف مزاج باتوں کو سہے۔ ناگواریوں کے باوجود دوسرے کا حق ادا کرے۔ جب آدمی ایسا کرتا ہے تو وہ صرف فریق ثانی کے لیے اچھا نہیں کرتا بلکہ خود اپنے لیے بھی اچھا کرتا ہے۔ اس طرح وہ اپنے اندر حقیقت پسندی کا مزاج پیدا کرتا ہے اور حقیقت پسندی کا مزاج بلاشبہ اس دنیا میں کامیابی کا سب سے بڑا زینہ ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[65_5: The Divorce الطلاق]]
+- **Next:** [[65_7: The Divorce الطلاق]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 100 / 114
+surah_name: The Courser / العاديات / دوڑنے والے گھوڑے
+ayah: 9 / 11
+type: meccan
+tags: ["resurrection", "death_reminder", "knowledge"]
+image: "/attachments/surah_100.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/6155.mp3"></audio>
+**Next:** [[100_10: The Courser العاديات]]
+
+---
+
+## Arabic
+
+۞أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ
+
+---
+
+## 🇵🇰 Urdu
+
+تو کیا وہ اُس حقیقت کو نہیں جانتا جب قبروں میں جو کچھ (مدفون) ہے اُسے نکال لیا جائے گا
+
+---
+
+## 🇬🇧 English
+
+But does he not know that when the contents of the graves are scattered
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+آدمی چاہتا ہے کہ وہ زیادہ سے زیادہ کمائے، وہ زیادہ سے زیادہ سازوسامان اپنے پاس جمع کرے۔ وہ اسی دھن میں لگا رہتا ہے۔ یہاں تک کہ اس کی موت آجاتی ہے۔ اس وقت اس کو معلوم ہوتا ہے کہ جمع کرنے کی چیز تو دوسری تھی اور میں کسی اور چیز کو جمع کرنے میں مصروف رہا۔
+دنیا کی چیزوں کا اضافہ صرف آدمی کی مسئولیت کو بڑھاتا ہے۔ اور آدمی اپنی نادانی سے یہ سمجھتا ہے کہ وہ اپنی کامیابی میں اضافہ کر رہا ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[100_8: The Courser العاديات]]
+- **Next:** [[100_10: The Courser العاديات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

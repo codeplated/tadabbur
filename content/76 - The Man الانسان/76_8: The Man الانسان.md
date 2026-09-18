@@ -1,0 +1,49 @@
+---
+surah: 76 / 114
+surah_name: The Man / الانسان / انسان
+ayah: 8 / 31
+type: medinan
+tags: ["social_justice", "ihsan", "orphans", "zakat"]
+image: "/attachments/surah_076.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5599.mp3"></audio>
+**Next:** [[76_9: The Man الانسان]]
+
+---
+
+## Arabic
+
+وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا
+
+---
+
+## 🇵🇰 Urdu
+
+اور اللہ کی محبت میں مسکین اور یتیم اور قیدی کو کھانا کھلاتے ہیں
+
+---
+
+## 🇬🇧 English
+
+And they give food in spite of love for it to the needy, the orphan, and the captive
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+یہ برتر جنت کا بیان ہے جہاں زیادہ برتر ایمان کا ثبوت دینے والے لوگ بسائے جائیں گے۔ اس جنت کے باشندوں کو شاہانہ نعمتیں حاصل ہوں گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[76_7: The Man الانسان]]
+- **Next:** [[76_9: The Man الانسان]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

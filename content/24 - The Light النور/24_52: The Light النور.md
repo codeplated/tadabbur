@@ -1,0 +1,50 @@
+---
+surah: 24 / 114
+surah_name: The Light / النور / نور
+ayah: 52 / 64
+type: medinan
+tags: ["iman", "taqwa", "glad_tidings"]
+image: "/attachments/surah_024.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2843.mp3"></audio>
+**Next:** [[24_53: The Light النور]]
+
+---
+
+## Arabic
+
+وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخۡشَ ٱللَّهَ وَيَتَّقۡهِ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡفَآئِزُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور کامیاب وہی ہیں جو اللہ اور رسول کی فرماں برداری کریں اور اللہ سے ڈریں اور اس کی نافرمانی سے بچیں
+
+---
+
+## 🇬🇧 English
+
+And whoever obeys Allah and His Messenger and fears Allah and is conscious of Him - it is those who are the attainers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+عام آدمی اپنے مفاد کے تابع ہوتا ہے۔ مومن وہ ہے جو اپنے آپ کو اللہ اور رسول کا تابع بنالے۔ جب خدا اور رسول کا فیصلہ سامنے آجائے تو وہ ہر حال میں وہی کرے جو خدا ورسول کا فیصلہ ہو۔ خواہ وہ اس کی خواہش کے مطابق ہو یا اس کی خواہش کے خلاف۔ خواہ اس میں اس کا مفاد محفوظ ہوتا ہو یا اس میں اس کا مفاد مجروح ہو رہا ہو۔
+آخرت کی کامیابی صرف اس شخص کے ليے ہے جس کا ایمان اس کو خدا اور رسول کے حکم کے آگے جھکادے۔ خدا کا احساس اس کے دل میںاس طرح اتر جائے کہ وہ اسی سے سب سے زیادہ ڈرنے لگے۔ خدا کی ناراضگی سے اپنے آپ کو بچانا اس کی زندگی کا سب سے بڑا مسئلہ بن جائے۔
+
+---
+
+## Connections
+
+- **Previous:** [[24_51: The Light النور]]
+- **Next:** [[24_53: The Light النور]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

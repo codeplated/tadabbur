@@ -1,0 +1,50 @@
+---
+surah: 31 / 114
+surah_name: Luqman / لقمان / لقمان
+ayah: 12 / 34
+type: meccan
+tags: ["story_luqman", "knowledge", "shukr"]
+image: "/attachments/surah_031.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3481.mp3"></audio>
+**Next:** [[31_13: Luqman لقمان]]
+
+---
+
+## Arabic
+
+وَلَقَدۡ ءَاتَيۡنَا لُقۡمَٰنَ ٱلۡحِكۡمَةَ أَنِ ٱشۡكُرۡ لِلَّهِۚ وَمَن يَشۡكُرۡ فَإِنَّمَا يَشۡكُرُ لِنَفۡسِهِۦۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِيٌّ حَمِيدٞ
+
+---
+
+## 🇵🇰 Urdu
+
+ہم نے لقمان کو حکمت عطا کی تھی کہ اللہ کا شکر گزار ہو جو کوئی شکر کرے اُس کا شکر اُس کے اپنے ہی لیے مفید ہے اور جو کوئی کفر کرے تو حقیقت میں اللہ بے نیاز اور آپ سے آپ محمود ہے
+
+---
+
+## 🇬🇧 English
+
+And We had certainly given Luqman wisdom [and said], "Be grateful to Allah." And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allah is Free of need and Praiseworthy
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+لقمان حکیم کی تاریخی حیثیت کے بارے میں ابھی تک قطعی معلومات حاصل نہیں ہوسکی ہیں۔ تاہم وہ ایک دانش مند اور خدا پرست آدمی تھے۔
+قرآن بتاتا ہے کہ لقمان حکیم خدا کے ایک شکر گزار بندے تھے۔ اور اپنے بیٹے کو انھوں نے شرک سے بچنے کی تلقین کی۔ یہ دونوںباتیں ایک ہیں۔ توحید اللہ کو اپنا محسن سمجھنے کے احساس سے ابھرتی ہے۔ اور شرک یہ ہے کہ آدمی اللہ کے سوا کسی اور کو اپنا محسن سمجھ لے اور اس کےلیے اپنے احسان مندی کے جذبات نچھاور کرنے لگے۔ جب دینے والا صرف ایک ہے تو شکر گزاری بھی صرف ایک ہی کی ہونی چاہيے۔
+
+---
+
+## Connections
+
+- **Previous:** [[31_11: Luqman لقمان]]
+- **Next:** [[31_13: Luqman لقمان]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

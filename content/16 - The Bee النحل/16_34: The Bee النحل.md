@@ -1,0 +1,50 @@
+---
+surah: 16 / 114
+surah_name: The Bee / النحل / شہد کی مکھی
+ayah: 34 / 128
+type: meccan
+tags: ["history_lessons", "warnings"]
+image: "/attachments/surah_016.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/1935.mp3"></audio>
+**Next:** [[16_35: The Bee النحل]]
+
+---
+
+## Arabic
+
+فَأَصَابَهُمۡ سَيِّـَٔاتُ مَا عَمِلُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اُن کے کرتوتوں کی خرابیاں آخر اُن کی دامنگیر ہو گئیں اور وہی چیز اُن پر مسلط ہو کر رہی جس کا وہ مذاق اڑایا کرتے تھے
+
+---
+
+## 🇬🇧 English
+
+So they were struck by the evil consequences of what they did and were enveloped by what they used to ridicule
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+خدا کی بات انسان کے سامنے اولاً دلائل کے ذریعے بیان کی جاتی ہے۔ یہ دعوتی مرحلہ ہوتا ہے۔ اگر وہ دلائل کے ذریعے نہ مانے تو پھر وہ وقت آجاتا ہے جب کہ انفرادی موت یا اجتماعی قیامت کی صورت میں اس کو لوگوں کے سامنے کھول دیا جائے۔
+آدمی کے سامنے اگر خدا کی بات دلائل کے ذریعے آئے اور وہ ا س کو نظر انداز کردے تو گویا وہ اس دوسرے مرحلہ کا انتظار کررہا ہے جب کہ خدا اور اس کے فرشتے ظاہر ہوجائیں اور آدمی اس بات کو ذلت کے ساتھ ماننے پر مجبور ہوجائے جس کو اسے عزّت کے ساتھ ماننے کا موقع دیا گیا تھا، مگر اس نے نہیں مانا۔
+
+---
+
+## Connections
+
+- **Previous:** [[16_33: The Bee النحل]]
+- **Next:** [[16_35: The Bee النحل]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

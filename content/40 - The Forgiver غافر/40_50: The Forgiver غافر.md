@@ -1,0 +1,49 @@
+---
+surah: 40 / 114
+surah_name: The Forgiver / غافر / بخشنے والا
+ayah: 50 / 85
+type: meccan
+tags: ["jahannam", "prophethood", "kufr"]
+image: "/attachments/surah_040.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4183.mp3"></audio>
+**Next:** [[40_51: The Forgiver غافر]]
+
+---
+
+## Arabic
+
+قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَـٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ
+
+---
+
+## 🇵🇰 Urdu
+
+وہ پوچھیں گے "کیا تمہارے پاس تمہارے رسول بینات لے کر نہیں آتے رہے تھے؟" وہ کہیں گے "ہاں"جہنم کے اہل کار بولیں گے: "پھر تو تم ہی دعا کرو، اور کافروں کی دعا اکارت ہی جانے والی ہے
+
+---
+
+## 🇬🇧 English
+
+They will say, "Did there not come to you your messengers with clear proofs?" They will say, "Yes." They will reply, "Then supplicate [yourselves], but the supplication of the disbelievers is not except in error
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اِن آیتوں میں جہنم کا ایک منظر دکھایا گیا ہے۔ دنیا میں جو لوگ بڑے بنے ہوئے تھے وہ وہاں اپنی ساری بڑائی بھول جائیں گے۔ وہ عوام جو یہاںاپنے بڑوں پر فخرکرتے تھے وہ وہاں اپنے بڑوں سے بیزاری کا اظہار کریںگے۔ دنیا میںجو لوگ حق کے آگے جھکنے کے لیے تیار نہیں ہوتے تھے وہ وہاں عاجزانہ طورپر حق کے آگے جھک جائیں گے۔ مگرآخرت کا جھکنا کسی کے کچھ کام آنے والا نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[40_49: The Forgiver غافر]]
+- **Next:** [[40_51: The Forgiver غافر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

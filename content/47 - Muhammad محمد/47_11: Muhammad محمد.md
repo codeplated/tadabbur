@@ -1,0 +1,50 @@
+---
+surah: 47 / 114
+surah_name: Muhammad / محمد / محمدﷺ
+ayah: 11 / 38
+type: medinan
+tags: ["wala_bara", "iman", "kufr"]
+image: "/attachments/surah_047.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4556.mp3"></audio>
+**Next:** [[47_12: Muhammad محمد]]
+
+---
+
+## Arabic
+
+ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ لَا مَوۡلَىٰ لَهُمۡ
+
+---
+
+## 🇵🇰 Urdu
+
+یہ اس لیے کہ ایمان لانے والوں کا حامی و ناصر اللہ ہے اور کافروں کا حامی و ناصر کوئی نہیں
+
+---
+
+## 🇬🇧 English
+
+That is because Allah is the protector of those who have believed and because the disbelievers have no protector
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+عرب میں جن لوگوں نے رسول اللہ صلی اللہ علیہ وسلم کا انکار کیا ان کو آپ نے یہ پیشگی خبر دی کہ تم جو کھاپی رہے ہو تو یہ مت سمجھو کہ تم آزاد ہو تم پوری طرح خدا کی گرفت میں ہو۔ اور اس کا ثبوت یہ ہے کہ اگر تم اپنے انکار پر قائم رہے تو خدا کے قانون کے مطابق تم تباہ کردیے جاؤگے۔
+یہ واقعہ عین پیشین گوئی کے مطابق ظہور میں آیا۔ توحید کے علم بردار غالب آئے اور جو لوگ شرک کے علم بردار بنے ہوئے تھے وہ ہمیشہ کے لیے نابود ہوگئے۔
+
+---
+
+## Connections
+
+- **Previous:** [[47_10: Muhammad محمد]]
+- **Next:** [[47_12: Muhammad محمد]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

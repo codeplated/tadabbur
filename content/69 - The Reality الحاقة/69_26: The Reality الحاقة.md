@@ -1,0 +1,49 @@
+---
+surah: 69 / 114
+surah_name: The Reality / الحاقة / حق ہونے والی
+ayah: 26 / 52
+type: meccan
+tags: ["akhirah", "kufr"]
+image: "/attachments/surah_069.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5349.mp3"></audio>
+**Next:** [[69_27: The Reality الحاقة]]
+
+---
+
+## Arabic
+
+وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ
+
+---
+
+## 🇵🇰 Urdu
+
+اور میں نہ جانتا کہ میرا حساب کیا ہے
+
+---
+
+## 🇬🇧 English
+
+And had not known what is my account
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+آخرت کی دنیا میں کامیابی اس شخص کے لیے ہے جو موجودہ دنیا میں خدا سے ڈر کر زندگی گزارے۔ اور جو شخص موجودہ دنیا میں نڈر ہو کر رہے اور بندوں کے مقابلہ میں سرکشی کرے وہ آخرت میں سخت ترین عذاب میں پھنس کر رہ جائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[69_25: The Reality الحاقة]]
+- **Next:** [[69_27: The Reality الحاقة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

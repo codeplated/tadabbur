@@ -1,0 +1,50 @@
+---
+surah: 46 / 114
+surah_name: The Wind-Curved Sandhills / الأحقاف / ریگستان
+ayah: 18 / 35
+type: meccan
+tags: ["jinn", "kufr", "history_lessons"]
+image: "/attachments/surah_046.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4528.mp3"></audio>
+**Next:** [[46_19: The Wind-Curved Sandhills الأحقاف]]
+
+---
+
+## Arabic
+
+أُوْلَـٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+یہ وہ لوگ ہیں جن پر عذاب کا فیصلہ چسپاں ہو چکا ہے اِن سے پہلے جنوں اور انسانوں کے جو ٹولے (اِسی قماش کے) ہو گزرے ہیں اُنہی میں یہ بھی جا شامل ہوں گے بے شک یہ گھاٹے میں رہ جانے والے لوگ ہیں
+
+---
+
+## 🇬🇧 English
+
+Those are the ones upon whom the word has come into effect, [who will be] among nations which had passed on before them of jinn and men. Indeed, they [all] were losers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو اولاد اپنے والدین كي فرماں بردار هو وه خدا كي بھي فرماں بردار هوتي هے۔ اس كے برعكس، نافرمان اولاد كا حال يه هوتا هے كه وه بڑي عمر كو پهنچتے هي بھول جاتے هيں كه ان كے والدين نے بے شمار مصيبتيں اٹھاكر ان كو اس مقام تك پهنچايا هے۔
+كسي شخص كے سب سے زياده خير خواه اس كے والدين هوتے هيں۔ والدين اپني اولاد كو جو مشوره ديتے هيں وه سراسر بے غرضانه خير خواهي پر مبني هوتا هے۔ اس ليے انسان كو چاهيے كه وه اپنے صالح والدين كے مشوروں كا سب سے زياده لحاظ كرے۔ جو شخص اپنے صالح والدين كے مشوروں پر انھيں جھڑك دے وه اپني اس روش سے ظاهر كرتا هے كه وه نهايت سنگ دل انسان هے۔ يهي وه لوگ هيں جو سب سے زياده خساره ميں پڑنے والے هيں۔
+
+---
+
+## Connections
+
+- **Previous:** [[46_17: The Wind-Curved Sandhills الأحقاف]]
+- **Next:** [[46_19: The Wind-Curved Sandhills الأحقاف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

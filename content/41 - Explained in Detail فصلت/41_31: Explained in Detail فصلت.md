@@ -1,0 +1,50 @@
+---
+surah: 41 / 114
+surah_name: Explained in Detail / فصلت / مفصل
+ayah: 31 / 54
+type: meccan
+tags: ["angels", "jannah", "wala_bara"]
+image: "/attachments/surah_041.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4249.mp3"></audio>
+**Next:** [[41_32: Explained in Detail فصلت]]
+
+---
+
+## Arabic
+
+نَحۡنُ أَوۡلِيَآؤُكُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَلَكُمۡ فِيهَا مَا تَشۡتَهِيٓ أَنفُسُكُمۡ وَلَكُمۡ فِيهَا مَا تَدَّعُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+ہم اِس دنیا کی زندگی میں بھی تمہارے ساتھی ہیں اور آخرت میں بھی، وہاں جو کچھ تم چاہو گے تمہیں ملے گا اور ہر چیز جس کی تم تمنا کرو گے وہ تمہاری ہوگی
+
+---
+
+## 🇬🇧 English
+
+We [angels] were your allies in worldly life and [are so] in the Hereafter. And you will have therein whatever your souls desire, and you will have therein whatever you request [or wish]
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+انسانوں میں دو قسم کے انسان ہیں۔ ایک وہ جو شیطانوں اور جھوٹے لیڈروں کو اپنا رہنما بناتے ہیں۔ یہ لوگ دنیا میں خوب ایک دوسرے سے دوستی رکھتے ہیں۔ مگر آخرت میں صورت حال بالکل برعکس ہوگی۔ وہاں پیروی کرنے والے لوگ جب دیکھیں گے کہ ان کے جھوٹے رہنماؤں نے ان کو صرف جہنم میں پہنچایا ہے تو وہ ان سے سخت متنفر ہوجائیں گے۔ اور چاہیں گے کہ انھیں حقیر وذلیل کرکے اپنے دل کی تسکین حاصل کریں۔
+دوسرے انسان وہ ہیں جو خدا کے فرشتوں کو اپنا ساتھی بنائیں۔ ایسے لوگ دنیا سے لے کر آخرت تک فرشتوں کو اپنا ہم نشین پاتے ہیں۔ فرشتے ان کے دل پر ربانی احساسات اتارتے ہیں۔ وہ مشکل حالات میں ان کو قلبی سکون عطا کرتے ہیں۔ وہ لطیف تجربات کے ذریعہ انھیں خدا کی بشارتیں سناتے ہیں۔ پھر یہی فرشتے آخرت میں ان کا استقبال کرکے ان کو جنت کے باغات میں داخل کریں گے۔
+
+---
+
+## Connections
+
+- **Previous:** [[41_30: Explained in Detail فصلت]]
+- **Next:** [[41_32: Explained in Detail فصلت]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

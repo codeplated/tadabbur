@@ -1,0 +1,49 @@
+---
+surah: 28 / 114
+surah_name: The Stories / القصص / قصے
+ayah: 78 / 88
+type: meccan
+tags: ["story_musa", "kibr", "wealth", "history_lessons"]
+image: "/attachments/surah_028.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3330.mp3"></audio>
+**Next:** [[28_79: The Stories القصص]]
+
+---
+
+## Arabic
+
+قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمٍ عِندِيٓۚ أَوَلَمۡ يَعۡلَمۡ أَنَّ ٱللَّهَ قَدۡ أَهۡلَكَ مِن قَبۡلِهِۦ مِنَ ٱلۡقُرُونِ مَنۡ هُوَ أَشَدُّ مِنۡهُ قُوَّةٗ وَأَكۡثَرُ جَمۡعٗاۚ وَلَا يُسۡـَٔلُ عَن ذُنُوبِهِمُ ٱلۡمُجۡرِمُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+تو اُس نے کہا "یہ سب کچھ تو مجھے اُس علم کی بنا پر دیا گیا ہے جو مجھ کو حاصل ہے" کیا اس کو علم نہ تھا کہ اللہ اس سے پہلے بہت سے ایسے لوگوں کو ہلاک کر چکا ہے جو اس سے زیادہ قوت اور جمعیت رکھتے تھے؟ مجرموں سے تو ان کے گناہ نہیں پوچھے جاتے
+
+---
+
+## 🇬🇧 English
+
+He said, "I was only given it because of knowledge I have." Did he not know that Allah had destroyed before him of generations those who were greater than him in power and greater in accumulation [of wealth]? But the criminals, about their sins, will not be asked
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+قارون کا جو کرداریہاں بیان ہوا ہے یہی ہمیشہ صاحبانِ دولت کاکردار رہا ہے۔ دولت مند آدمی سمجھتا ہے کہ اس کو جو کچھ ملا ہے وہ اس کے علم کی بدولت ملا ہے۔ مگر کسی دولت مند کا علم اس کو یہ نہیں بتاتا کہ تم سے پہلے بھی بہت سے لوگوں کو دولت ملی مگر ان کی دولت انھیں موت یا ہلاکت سے نہ بچا سکی۔ پھر تم کو وہ کس طرح بچانے والی ثابت ہوگی۔
+
+---
+
+## Connections
+
+- **Previous:** [[28_77: The Stories القصص]]
+- **Next:** [[28_79: The Stories القصص]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

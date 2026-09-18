@@ -1,0 +1,49 @@
+---
+surah: 7 / 114
+surah_name: The Heights / الأعراف / اونچی جگہ
+ayah: 11 / 206
+type: meccan
+tags: ["story_adam", "angels", "shaytan", "human_creation"]
+image: "/attachments/surah_007.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/965.mp3"></audio>
+**Next:** [[7_12: The Heights الأعراف]]
+
+---
+
+## Arabic
+
+وَلَقَدۡ خَلَقۡنَٰكُمۡ ثُمَّ صَوَّرۡنَٰكُمۡ ثُمَّ قُلۡنَا لِلۡمَلَـٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ لَمۡ يَكُن مِّنَ ٱلسَّـٰجِدِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+ہم نے تمہاری تخلیق کی ابتدا کی، پھر تمہاری صورت بنائی، پھر فرشتوں سے کہا آدمؑ کو سجدہ کرو اس حکم پر سب نے سجدہ کیا مگر ابلیس سجدہ کرنے والوں میں شامل نہ ہوا
+
+---
+
+## 🇬🇧 English
+
+And We have certainly created you, [O Mankind], and given you [human] form. Then We said to the angels, "Prostrate to Adam"; so they prostrated, except for Iblees. He was not of those who prostrated
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+قیامت کے منظر کو موجودہ دنیا میں حقیقی طور پر کھولا نہیں جا سکتا۔ تا ہم قرآن میں جگہ جگہ ان کو اشارہ یا تمثیل میں بتایا گیا ہے تا کہ آدمی ان کا مجمل احساس کر سکے۔ قیامت جب آئے گی تو وہ اتنی ہولناک ہوگی کہ آدمی اپنے ان رشتوں اور مفادات کو بھول جائے گا جن کو آج وہ اتنا اہم سمجھے ہوئے ہے کہ ان کی خاطر وہ حق کو نظر انداز کر دیتا ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[7_10: The Heights الأعراف]]
+- **Next:** [[7_12: The Heights الأعراف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

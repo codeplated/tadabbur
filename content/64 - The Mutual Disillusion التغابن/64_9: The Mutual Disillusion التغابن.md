@@ -1,0 +1,49 @@
+---
+surah: 64 / 114
+surah_name: The Mutual Disillusion / التغابن / ہار جیت
+ayah: 9 / 18
+type: medinan
+tags: ["akhirah", "iman", "jannah", "glad_tidings"]
+image: "/attachments/surah_064.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5208.mp3"></audio>
+**Next:** [[64_10: The Mutual Disillusion التغابن]]
+
+---
+
+## Arabic
+
+يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
+
+---
+
+## 🇵🇰 Urdu
+
+(اِس کا پتا تمہیں اس روز چل جائے گا) جب اجتماع کے دن وہ تم سب کو اکٹھا کرے گا وہ دن ہوگا ایک دوسرے کے مقابلے میں لوگوں کی ہار جیت کا جو اللہ پر ایمان لایا ہے اور نیک عمل کرتا ہے، اللہ اس کے گناہ جھاڑ دے گا اور اسے ایسی جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی یہ لوگ ہمیشہ ہمیشہ ان میں رہیں گے یہ بڑی کامیابی ہے
+
+---
+
+## 🇬🇧 English
+
+The Day He will assemble you for the Day of Assembly - that is the Day of Deprivation. And whoever believes in Allah and does righteousness - He will remove from him his misdeeds and admit him to gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کوئی مصیبت اپنے آپ نہیں آتی، ہر مصیبت خدا کی طرف سے آتی ہے۔ اور اس لیے آتی ہے کہ اس کے ذریعہ سے انسان کو ہدایت عطا کی جائے۔ مصیبت آدمی کے دل کو نرم کرتی ہے۔ اور اس کی سوئی ہوئی نفسیات میں ہلچل پیدا کرتی ہے۔ مصیبت کے جھٹکے آدمی کے ذہن کو جگانے کا کام کرتے ہیں۔ اگر آدمی اپنے آپ کو منفی رد عمل سے بچائے تو مصیبت اس کے لیے بہترین ربانی معلم بن جائے گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[64_8: The Mutual Disillusion التغابن]]
+- **Next:** [[64_10: The Mutual Disillusion التغابن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 35 / 114
+surah_name: Originator / فاطر / پیدا کرنے والا
+ayah: 41 / 45
+type: meccan
+tags: ["nature_signs", "asma_ul_husna"]
+image: "/attachments/surah_035.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3701.mp3"></audio>
+**Next:** [[35_42: Originator فاطر]]
+
+---
+
+## Arabic
+
+۞إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا
+
+---
+
+## 🇵🇰 Urdu
+
+حقیقت یہ ہے کہ اللہ ہی ہے جو آسمانوں اور زمین کو ٹل جانے سے روکے ہوئے ہے، اور اگر وہ ٹل جائیں تو اللہ کے بعد کوئی دوسرا انہیں تھامنے والا نہیں ہے بے شک اللہ بڑا حلیم اور درگزر فرمانے والا ہے
+
+---
+
+## 🇬🇧 English
+
+Indeed, Allah holds the heavens and the earth, lest they cease. And if they should cease, no one could hold them [in place] after Him. Indeed, He is Forbearing and Forgiving
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کائنات کی تخلیق اور اتھاہ خلا میں بے شمار اجرام سماوی کا نظام ہیبت ناک حد تک عظیم ہے۔ یہ بالکل ناقابل قیاس ہے کہ اس عظیم کارنامہ کو جزئی یا کلّی طورپر ان ہستیوں میں سے کسی کی طرف منسوب کیا جاسکے جن کو لوگ بطور خود معبود بنا کر پوجتے ہیں۔ اسی طرح اس کا بھی ثبوت نہیں کہ خدا نے خود یہ خبر دی ہو کہ کوئی اور ہے جو اس کے ساتھ خدائی میں شریک ہے۔
+حقیقت یہ ہے کہ غیر اللہ کی پرستش کا سارا معاملہ صرف فریب پر قائم ہے۔ اس قسم کا فریب اسی وقت تک چلے گا جب تک قیامت نہ آئے۔ قیامت کے آتے ہی ان کا اس طرح خاتمہ ہوجائے گا جیسے کہ ان کا کوئی وجود ہی نہ تھا۔
+
+---
+
+## Connections
+
+- **Previous:** [[35_40: Originator فاطر]]
+- **Next:** [[35_42: Originator فاطر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

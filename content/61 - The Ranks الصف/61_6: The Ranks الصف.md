@@ -1,0 +1,50 @@
+---
+surah: 61 / 114
+surah_name: The Ranks / الصف / صف
+ayah: 6 / 14
+type: medinan
+tags: ["story_isa", "prophethood", "story_muhammad", "revelation", "story_bani_israil"]
+image: "/attachments/surah_061.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5169.mp3"></audio>
+**Next:** [[61_7: The Ranks الصف]]
+
+---
+
+## Arabic
+
+وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَـٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ
+
+---
+
+## 🇵🇰 Urdu
+
+اور یاد کرو عیسیٰؑ ابن مریمؑ کی وہ بات جو اس نے کہی تھی کہ "اے بنی اسرائیل، میں تمہاری طرف اللہ کا بھیجا ہوا رسول ہوں، تصدیق کرنے والا ہوں اُس توراۃ کی جو مجھ سے پہلے آئی ہوئی موجود ہے، اور بشارت دینے والا ہوں ایک رسول کی جو میرے بعد آئے گا جس کا نام احمد ہوگا مگر جب وہ ان کے پاس کھلی کھلی نشانیاں لے کر آیا تو انہوں نے کہا یہ تو صریح دھوکا ہے
+
+---
+
+## 🇬🇧 English
+
+And [mention] when Jesus, the son of Mary, said, "O children of Israel, indeed I am the messenger of Allah to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Ahmad." But when he came to them with clear evidences, they said, "This is obvious magic
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حضرت مسیح علیہ السلام کے معجزات اس بات کا ثبوت تھے کہ آپ خدا کے پیغمبر ہیں۔ مگر یہود نے ان معجزات کو جادو کا کرشمہ کہہ کر ان کو نظر انداز کردیا۔ اس طرح قدیم آسمانی کتابوں میں واضح طور پر پیغمبر آخر الزماں کی پیشگی خبر موجود تھی۔ مگر جب آپ آئے تو یہود اور نصاریٰ دونوں نے آپ کا انکار کردیا۔ انسان اتنا ظالم ہے کہ وہ کھلی کھلی حقیقتوں کا اعتراف کرنے کے لیے بھی تیار نہیں ہوتا۔
+اس آیت میں غلبہ سے مراد فکری غلبہ ہے۔ یعنی خدا اور مذہب کے بارے میں جتنے غیر موحدانہ عقائد دنیا میں ہیں ان کو زیر کرکے توحید کے عقیدہ کو غالب فکر کی حیثیت دے دی جائے۔ بقیہ تمام عقائد ہمیشہ کے لیے فکری طور پر مغلوب ہو کر رہ جائیں۔ قرآن میں یہ پیشین گوئی انتہائی ناموافق حالات میں 3 ھ میں نازل ہوئی تھی۔ مگر بعد کو وہ حرف بحرف پوری ہوئی۔
+
+---
+
+## Connections
+
+- **Previous:** [[61_5: The Ranks الصف]]
+- **Next:** [[61_7: The Ranks الصف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,49 @@
+---
+surah: 28 / 114
+surah_name: The Stories / القصص / قصے
+ayah: 33 / 88
+type: meccan
+tags: ["story_musa", "anxiety_fear"]
+image: "/attachments/surah_028.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3285.mp3"></audio>
+**Next:** [[28_34: The Stories القصص]]
+
+---
+
+## Arabic
+
+قَالَ رَبِّ إِنِّي قَتَلۡتُ مِنۡهُمۡ نَفۡسٗا فَأَخَافُ أَن يَقۡتُلُونِ
+
+---
+
+## 🇵🇰 Urdu
+
+موسیٰؑ نے عرض کیا "میرے آقا، میں تو ان کا ایک آدمی قتل کر چکا ہوں، ڈرتا ہوں کہ وہ مجھے مار ڈالیں گے
+
+---
+
+## 🇬🇧 English
+
+He said, "My Lord, indeed, I killed from among them someone, and I fear they will kill me
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+خدا جب کسی کو اپنی دعوت کے کام پر مامور کرتا ہے تو لازمی طورپر اس کو وہ تمام اسباب بھی دیتاہے جو کارِ دعوت کی مؤثر ادائیگی کے ليے ضروری ہیں۔ چنانچہ حضرت موسیٰ کو ان کے حالات کے لحاظ سے متعدد چیزیں دی گئیں۔ آپ کو ماموریت کی سند کے طورپر خارقِ عادت معجزے عطا کيے گئے۔ آپ کو مدد گار دیا گیا جو اعلان حق کے کام میں آپ کا معاون ہو۔ آپ کو شخصی ہیبت دی گئی تاکہ فرعون کی قوم آپ پر ہاتھ ڈالنے کی جرأت نہ کرے۔ خداکی طرف سے یہ مقدر کردیا گیا کہ حضرت موسیٰ اور آپ کے ساتھیوں (بنی اسرائیل) ہی کو آخری غلبہ حاصل ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[28_32: The Stories القصص]]
+- **Next:** [[28_34: The Stories القصص]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

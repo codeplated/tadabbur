@@ -1,0 +1,49 @@
+---
+surah: 74 / 114
+surah_name: The Cloaked One / المدثر / کپڑا اوڑھنے والا
+ayah: 53 / 56
+type: meccan
+tags: ["akhirah", "kufr"]
+image: "/attachments/surah_074.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5548.mp3"></audio>
+**Next:** [[74_54: The Cloaked One المدثر]]
+
+---
+
+## Arabic
+
+كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ
+
+---
+
+## 🇵🇰 Urdu
+
+ہرگز نہیں، اصل بات یہ ہے کہ یہ آخرت کا خوف نہیں رکھتے
+
+---
+
+## 🇬🇧 English
+
+No! But they do not fear the Hereafter
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+نصیحت خواہ کتنی ہی مدلل ہو، سننے والے کے ليے وہ اسی وقت موثر بنتی ہے جب کہ وہ اس کے بارے میں سنجیدہ ہو۔ اگر سننے والا سنجیدہ نہ ہو تو نصیحت اس کے دل میں نہیں اترے گی، جو دلیل ایک سنجیدہ انسان کو تڑپادیتی ہے وہ صرف اس کی لایعنی بحثوں میں اضافہ کرنے کا باعث بنے گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[74_52: The Cloaked One المدثر]]
+- **Next:** [[74_54: The Cloaked One المدثر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

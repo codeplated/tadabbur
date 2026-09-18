@@ -1,0 +1,49 @@
+---
+surah: 65 / 114
+surah_name: The Divorce / الطلاق / طلاق
+ayah: 4 / 12
+type: medinan
+tags: ["divorce", "women", "taqwa", "commands"]
+image: "/attachments/surah_065.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5221.mp3"></audio>
+**Next:** [[65_5: The Divorce الطلاق]]
+
+---
+
+## Arabic
+
+وَٱلَّـٰٓـِٔي يَئِسۡنَ مِنَ ٱلۡمَحِيضِ مِن نِّسَآئِكُمۡ إِنِ ٱرۡتَبۡتُمۡ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشۡهُرٖ وَٱلَّـٰٓـِٔي لَمۡ يَحِضۡنَۚ وَأُوْلَٰتُ ٱلۡأَحۡمَالِ أَجَلُهُنَّ أَن يَضَعۡنَ حَمۡلَهُنَّۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مِنۡ أَمۡرِهِۦ يُسۡرٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اور تمہاری عورتوں میں سے جو حیض سے مایوس ہو چکی ہوں ان کے معاملہ میں اگر تم لوگوں کو کوئی شک لاحق ہے تو (تمہیں معلوم ہو کہ) ان کی عدت تین مہینے ہے اور یہی حکم اُن کا ہے جنہیں ابھی حیض نہ آیا ہو اور حاملہ عورتوں کی عدت کی حد یہ ہے کہ اُن کا وضع حمل ہو جائے جو شخص اللہ سے ڈرے اُس کے معاملہ میں وہ سہولت پیدا کر دیتا ہے
+
+---
+
+## 🇬🇧 English
+
+And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth. And whoever fears Allah - He will make for him of his matter ease
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+شریعت نے طلاق اور دوسرے معاملات میں انسان کو کچھ ضوابط کا پابند کیا ہے۔ یہ ضوابط بظاہر انسان کی آزادانہ طبیعت کے لیے رکاوٹ ہیں۔ مگر حقیقت کے اعتبار سے یہ نعمت ہیں۔ ان ضوابط کا یہ فائدہ ہے کہ آدمی بہت سے غیر ضروری نقصانات سے بچ جاتا ہے۔ مزید یہ کہ اس دنیا کا نظام اس طرح بنا ہے کہ یہاں ہر نقصان کی تلافی کسی نہ کسی طرح کی جاتی ہے۔ تاہم یہ تلافی صرف اس شخص کے حصہ میں آتی ہے جو فطرت کے دائرہ سے باہر نہ جائے۔
+
+---
+
+## Connections
+
+- **Previous:** [[65_3: The Divorce الطلاق]]
+- **Next:** [[65_5: The Divorce الطلاق]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

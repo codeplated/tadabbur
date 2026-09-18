@@ -1,0 +1,50 @@
+---
+surah: 28 / 114
+surah_name: The Stories / القصص / قصے
+ayah: 85 / 88
+type: meccan
+tags: ["story_muhammad", "hijrah", "revelation"]
+image: "/attachments/surah_028.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3337.mp3"></audio>
+**Next:** [[28_86: The Stories القصص]]
+
+---
+
+## Arabic
+
+إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ
+
+---
+
+## 🇵🇰 Urdu
+
+اے نبیؐ، یقین جانو کہ جس نے یہ قرآن تم پر فرض کیا ہے وہ تمہیں ایک بہترین انجام کو پہنچانے والا ہے اِن لوگوں سے کہہ دو کہ "میرا رب خُوب جانتا ہے کہ ہدایت لے کر کون آیا ہے اور کھُلی گمراہی میں کون مُبتلا ہے
+
+---
+
+## 🇬🇧 English
+
+Indeed, [O Muhammad], He who imposed upon you the Qur'an will take you back to a place of return. Say, "My Lord is most knowing of who brings guidance and who is in clear error
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+پیغمبر کا معاملہ ہر اعتبار سے خدائی معاملہ ہوتاہے۔ اس کو پیغمبری کسی طلب کے بغیر یک طرفہ طور پر خدا کی طرف سے دی جاتی ہے۔ وہ اپنے پورے وجود کے ساتھ حق پر قائم ہوتا ہے۔ وہ مامور ہوتاہے کہ خالص بے آمیز صداقت کا اعلان کرے، خواہ وہ لوگوں کو کتنا ہی ناگوار ہو۔ اس کےلیے مقدر ہوتاہے کہ وہ لازمی طورپر اپنی مطلوبہ منزل تک پہنچے اور کوئی رکاوٹ اس کےلیے رکاوٹ نہ بننے پائے۔
+یہی معاملہ پیغمبر کے بعد پیغمبر کی پیروی میں اٹھنے والے داعی کا ہوتاہے۔ وہ جس حد تک پیغمبر کی مشابہت کرے گا اسی قدر وہ خدا کے ان وعدوں کا مستحق ہوتا چلا جائے گا جو اس نے اپنے پیغمبروں سے اپنی کتاب میں کيے ہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[28_84: The Stories القصص]]
+- **Next:** [[28_86: The Stories القصص]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

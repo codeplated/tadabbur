@@ -1,0 +1,50 @@
+---
+surah: 21 / 114
+surah_name: The Prophets / الأنبياء / پیغمبر
+ayah: 91 / 112
+type: meccan
+tags: ["story_maryam", "story_isa", "haya", "miracles"]
+image: "/attachments/surah_021.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2574.mp3"></audio>
+**Next:** [[21_92: The Prophets الأنبياء]]
+
+---
+
+## Arabic
+
+وَٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهَا مِن رُّوحِنَا وَجَعَلۡنَٰهَا وَٱبۡنَهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور وہ خاتون جس نے اپنی عصمت کی حفاظت کی تھی ہم نے اُس کے اندر اپنی روح سے پھونکا اور اُسے اور اُس کے بیٹے کو دنیا بھر کے لیے نشانی بنا دیا
+
+---
+
+## 🇬🇧 English
+
+And [mention] the one who guarded her chastity, so We blew into her [garment] through Our angel [Gabriel], and We made her and her son a sign for the worlds
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حضرت مریم کی صفت خاص یہ بتائی گئی ہے کہ انھوں نے اپنی شہوت کو قابو میں رکھا۔ اس کا انھیں یہ انعام ملا کہ وہ اس پیغمبر کی ماں بنائی گئیں جو براہ راست معجزۂ خداوندی کے تحت پیدا ہوا۔
+یہی بات عام مردوں اور عورتوں کے لیے بھی صحیح ہے۔ ہر ایک کا امتحان موجودہ دنیا میں یہ ہے کہ وہ اپنی شہوتوں اور خواہشوں کو قابو میں رکھے۔ جو شخص جتنا زیادہ اس ضبط کا ثبوت دے گا اسی کے بقدر وہ خدا کی خصوصی عنایتوں میں حصہ دار بنے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[21_90: The Prophets الأنبياء]]
+- **Next:** [[21_92: The Prophets الأنبياء]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

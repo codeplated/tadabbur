@@ -1,0 +1,49 @@
+---
+surah: 70 / 114
+surah_name: The Ascending Stairways / المعارج / عروج
+ayah: 11 / 44
+type: meccan
+tags: ["akhirah", "jahannam", "parenting"]
+image: "/attachments/surah_070.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5386.mp3"></audio>
+**Next:** [[70_12: The Ascending Stairways المعارج]]
+
+---
+
+## Arabic
+
+يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ
+
+---
+
+## 🇵🇰 Urdu
+
+حالانکہ وہ ایک دوسرے کو دکھائے جائیں گے مجرم چاہے گا کہ اس دن کے عذاب سے بچنے کے لیے اپنی اولاد کو
+
+---
+
+## 🇬🇧 English
+
+They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+ان آیات میں مختصر طور پر دونوں قسم کے انسانوں کی صفات بیان کر دی گئی ہیں۔ ان لوگوں کی بھی جو جنت میں داخل کيے جانے کے مستحق قرار پائیں گے اور ان لوگوں کی بھی جن کے اعمال انھیں قیامت کے دن جہنم میں گرانے کا سبب بنیں گے۔
+
+---
+
+## Connections
+
+- **Previous:** [[70_10: The Ascending Stairways المعارج]]
+- **Next:** [[70_12: The Ascending Stairways المعارج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,49 @@
+---
+surah: 70 / 114
+surah_name: The Ascending Stairways / المعارج / عروج
+ayah: 28 / 44
+type: meccan
+tags: ["taqwa", "akhirah"]
+image: "/attachments/surah_070.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5403.mp3"></audio>
+**Next:** [[70_29: The Ascending Stairways المعارج]]
+
+---
+
+## Arabic
+
+إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ
+
+---
+
+## 🇵🇰 Urdu
+
+کیونکہ اُن کے رب کا عذاب ایسی چیز نہیں ہے جس سے کوئی بے خوف ہو
+
+---
+
+## 🇬🇧 English
+
+Indeed, the punishment of their Lord is not that from which one is safe
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+ان آیات میں مختصر طور پر دونوں قسم کے انسانوں کی صفات بیان کر دی گئی ہیں۔ ان لوگوں کی بھی جو جنت میں داخل کيے جانے کے مستحق قرار پائیں گے اور ان لوگوں کی بھی جن کے اعمال انھیں قیامت کے دن جہنم میں گرانے کا سبب بنیں گے۔
+
+---
+
+## Connections
+
+- **Previous:** [[70_27: The Ascending Stairways المعارج]]
+- **Next:** [[70_29: The Ascending Stairways المعارج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

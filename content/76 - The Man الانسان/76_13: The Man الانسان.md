@@ -1,0 +1,49 @@
+---
+surah: 76 / 114
+surah_name: The Man / الانسان / انسان
+ayah: 13 / 31
+type: medinan
+tags: ["jannah"]
+image: "/attachments/surah_076.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5604.mp3"></audio>
+**Next:** [[76_14: The Man الانسان]]
+
+---
+
+## Arabic
+
+مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسٗا وَلَا زَمۡهَرِيرٗا
+
+---
+
+## 🇵🇰 Urdu
+
+وہاں وہ اونچی مسندوں پر تکیے لگائے بیٹھے ہونگے نہ اُنہیں دھوپ کی گرمی ستائے گی نہ جاڑے کی ٹھر
+
+---
+
+## 🇬🇧 English
+
+[They will be] reclining therein on adorned couches. They will not see therein any [burning] sun or [freezing] cold
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+یہ برتر جنت کا بیان ہے جہاں زیادہ برتر ایمان کا ثبوت دینے والے لوگ بسائے جائیں گے۔ اس جنت کے باشندوں کو شاہانہ نعمتیں حاصل ہوں گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[76_12: The Man الانسان]]
+- **Next:** [[76_14: The Man الانسان]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

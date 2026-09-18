@@ -1,0 +1,49 @@
+---
+surah: 74 / 114
+surah_name: The Cloaked One / المدثر / کپڑا اوڑھنے والا
+ayah: 48 / 56
+type: meccan
+tags: ["akhirah", "shirk"]
+image: "/attachments/surah_074.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5543.mp3"></audio>
+**Next:** [[74_49: The Cloaked One المدثر]]
+
+---
+
+## Arabic
+
+فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّـٰفِعِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اُس وقت سفارش کرنے والوں کی سفارش ان کے کسی کام نہ آئے گی
+
+---
+
+## 🇬🇧 English
+
+So there will not benefit them the intercession of [any] intercessors
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اس دنیا میں گردش کا نظام ہے۔ اسی کی وجہ سے چاند کی تاریخیں بدلتی ہیں اور زمین پر باری باری رات اور دن آتے ہیں۔ یہ گردش اور تبدیلی کا نظام گویا ایک اشارہ ہے کہ اسی طرح موجودہ دور بدل کر آخرت کا دور آئے گا۔ جو لوگ اس نظام پر غور کریں، وہ چاہیں گے کہ ’’رات‘‘ کے آنے سے پہلے اپنے ’’دن‘‘ کو استعمال کرلیں۔ وہ جہنم والے اعمال سے بھاگیں گے اور جنت والے اعمال کو اختیار کریں گے۔
+
+---
+
+## Connections
+
+- **Previous:** [[74_47: The Cloaked One المدثر]]
+- **Next:** [[74_49: The Cloaked One المدثر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

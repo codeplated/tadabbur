@@ -1,0 +1,50 @@
+---
+surah: 3 / 114
+surah_name: Family of Imran / آل عمران / عمران کا خاندان
+ayah: 10 / 200
+type: medinan
+tags: ["kufr", "dunya", "jahannam"]
+image: "/attachments/surah_003.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/303.mp3"></audio>
+**Next:** [[3_11: Family of Imran آل عمران]]
+
+---
+
+## Arabic
+
+إِنَّ ٱلَّذِينَ كَفَرُواْ لَن تُغۡنِيَ عَنۡهُمۡ أَمۡوَٰلُهُمۡ وَلَآ أَوۡلَٰدُهُم مِّنَ ٱللَّهِ شَيۡـٔٗاۖ وَأُوْلَـٰٓئِكَ هُمۡ وَقُودُ ٱلنَّارِ
+
+---
+
+## 🇵🇰 Urdu
+
+جن لوگوں نے کفر کا رویہ اختیار کیا ہے، انہیں اللہ کے مقابلے میں نہ اُن کا مال کچھ کام دے گا، نہ اولاد وہ دوزخ کا ایندھن بن کر رہیں گے
+
+---
+
+## 🇬🇧 English
+
+Indeed, those who disbelieve - never will their wealth or their children avail them against Allah at all. And it is they who are fuel for the Fire
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+خدا کسی آدمی کو ذکر و فکر کی سطح پر ملتاہے۔ یعنی آدمی سوچ کے ذریعہ سے خدا کو پاتا ہے۔ خدا نے موجودہ دنیا میں اپنے دلائل بکھیر دئے ہیں، آدمی کی اپنی ذات میں، باہر کی کائنات میں اور پھر پیغمبر کی تعلیمات میں۔ جو لوگ ان خدائی نشانیوں میں غور کریں گے وہی خدا کو پائیں گے۔
+دلیل اس دنیا میں خدا کی نمائندہ ہے۔ ایک شخص کے سامنے سچی دلیل آئے اور وہ اس کو نظر انداز کردے تو گویا کہ اس نے خدا کو نظر انداز کیا۔ ایسے لوگوں کےلیے خدا کے یہاں ابدی محرومی کے سوا اور کچھ نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[3_9: Family of Imran آل عمران]]
+- **Next:** [[3_11: Family of Imran آل عمران]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

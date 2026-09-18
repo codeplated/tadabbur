@@ -1,0 +1,49 @@
+---
+surah: 72 / 114
+surah_name: The Jinn / الجن / جن
+ayah: 8 / 28
+type: meccan
+tags: ["jinn", "nature_signs", "angels"]
+image: "/attachments/surah_072.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5455.mp3"></audio>
+**Next:** [[72_9: The Jinn الجن]]
+
+---
+
+## Arabic
+
+وَأَنَّا لَمَسۡنَا ٱلسَّمَآءَ فَوَجَدۡنَٰهَا مُلِئَتۡ حَرَسٗا شَدِيدٗا وَشُهُبٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اور یہ کہ "ہم نے آسمان کو ٹٹولا تو دیکھا کہ وہ پہرے داروں سے پٹا پڑا ہے اور شہابوں کی بارش ہو رہی ہے
+
+---
+
+## 🇬🇧 English
+
+And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا کا نظام امتحان کی مصلحت کے تحت بنایا گیا ہے۔ اسی لیے سچائی یہاں صرف پیغام رسانی کی حد تک سامنے لائی جاتی ہے۔ اگر امتحان کی مصلحت نہ ہو اور غیب کا پردہ ہٹا دیا جائے تو لوگ دیکھیں گے کہ فرشتوں سے لے کر جنات کے صالحین تک سب خدا کی خدائی کا اعتراف کر رہے ہیں اور ساری کائنات سراپا اس کی تصدیق بنی ہوئی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[72_7: The Jinn الجن]]
+- **Next:** [[72_9: The Jinn الجن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

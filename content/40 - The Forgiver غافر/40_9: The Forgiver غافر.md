@@ -1,0 +1,49 @@
+---
+surah: 40 / 114
+surah_name: The Forgiver / غافر / بخشنے والا
+ayah: 9 / 85
+type: meccan
+tags: ["angels", "dua", "rahmah"]
+image: "/attachments/surah_040.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4142.mp3"></audio>
+**Next:** [[40_10: The Forgiver غافر]]
+
+---
+
+## Arabic
+
+وَقِهِمُ ٱلسَّيِّـَٔاتِۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوۡمَئِذٖ فَقَدۡ رَحِمۡتَهُۥۚ وَذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ
+
+---
+
+## 🇵🇰 Urdu
+
+اور بچا دے اُن کو برائیوں سے جس کو تو نے قیامت کے دن برائیوں سے بچا دیا اُس پر تو نے بڑا رحم کیا، یہی بڑی کامیابی ہے
+
+---
+
+## 🇬🇧 English
+
+And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو اللہ کے بندے بے آمیز حق کی دعوت لے کر اٹھتے ہیں ان کو ہمیشہ ستایا جاتا ہے۔ ان کو ماحول میں حقیر بنادیا جاتا ہے۔ مگر عین اس وقت جب کہ ظاہر پرست انسانوں کے درمیان ان کا یہ حال ہوتا ہے، عین اسی وقت زمین و آسمان ان کے برسرِ حق ہونے کی تصدیق کررہے ہوتے ہیں۔ کائنات کا انتظام کرنے والے فرشتے ان کے حسنِ انجام کے منتظر ہوتے ہیں۔ وقتی دنیا میں ناقابلِ تذکرہ سمجھے جانے والے لوگ ابدی دنیا میں اس مقام عزت پر ہوتے ہیں کہ اللہ کے مقرب ترین فرشتے بھی ان کے حق میں دعائیں کررہے ہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[40_8: The Forgiver غافر]]
+- **Next:** [[40_10: The Forgiver غافر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

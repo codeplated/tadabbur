@@ -1,0 +1,50 @@
+---
+surah: 16 / 114
+surah_name: The Bee / النحل / شہد کی مکھی
+ayah: 11 / 128
+type: meccan
+tags: ["nature_signs", "rizq", "knowledge"]
+image: "/attachments/surah_016.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/1912.mp3"></audio>
+**Next:** [[16_12: The Bee النحل]]
+
+---
+
+## Arabic
+
+يُنۢبِتُ لَكُم بِهِ ٱلزَّرۡعَ وَٱلزَّيۡتُونَ وَٱلنَّخِيلَ وَٱلۡأَعۡنَٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَتَفَكَّرُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+وہ اس پانی کے ذریعہ سے کھیتیاں اگاتا ہے اور زیتون اور کھجور اور انگور اور طرح طرح کے دوسرے پھل پیدا کرتا ہے اِس میں ایک بڑی نشانی ہے اُن لوگوں کے لیے جو غور و فکر کرتے ہیں
+
+---
+
+## 🇬🇧 English
+
+He causes to grow for you thereby the crops, olives, palm trees, grapevines, and from all the fruits. Indeed in that is a sign for a people who give thought
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+بادل اوپر فضا سے پانی برساتے ہیں اور نیچے زمین پر اس سے نہایت با معنی قسم کے نتائج ظاہر ہوتے ہیں۔ ’’زمین وآسمان‘‘ کا اس طرح ہم آہنگ ہو کر عمل کرنا واضح طورپر یہ ثابت کرتاہے کہ جو خدا آسمان کا ہے، وہی خدا زمین کا بھی ہے۔
+کائنات کے مختلف حصوں کے درمیان کامل ہم آہنگی ہے۔ یہ ہم آہنگی اس بات کا قطعی ثبوت ہے کہ ساری کائنات کا خالق ومالک صرف ایک ہے۔ کائنات کے موجودہ ڈھانچہ میں ایک سے زیادہ خدا کی کوئی گنجائش نہیں۔ اب جب خالق ومالک حقیقۃً صرف ایک خدا ہے تو اس کے سوا دوسری جس چیز کو بھی معبودیت کا درجہ دیا جائے گا، وہ سراسر بے بنیاد ہوگا۔
+
+---
+
+## Connections
+
+- **Previous:** [[16_10: The Bee النحل]]
+- **Next:** [[16_12: The Bee النحل]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

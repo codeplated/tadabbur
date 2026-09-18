@@ -1,0 +1,50 @@
+---
+surah: 62 / 114
+surah_name: The Congregation, Friday / الجمعة / جمعہ
+ayah: 8 / 11
+type: medinan
+tags: ["death_reminder", "akhirah", "knowledge"]
+image: "/attachments/surah_062.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5185.mp3"></audio>
+**Next:** [[62_9: The Congregation, Friday الجمعة]]
+
+---
+
+## Arabic
+
+قُلۡ إِنَّ ٱلۡمَوۡتَ ٱلَّذِي تَفِرُّونَ مِنۡهُ فَإِنَّهُۥ مُلَٰقِيكُمۡۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اِن سے کہو، "جس موت سے تم بھاگتے ہو وہ تو تمہیں آ کر رہے گی پھر تم اس کے سامنے پیش کیے جاؤ گے جو پوشیدہ و ظاہر کا جاننے والا ہے، اور وہ تمہیں بتا دے گا کہ تم کیا کچھ کرتے رہے ہو
+
+---
+
+## 🇬🇧 English
+
+Say, "Indeed, the death from which you flee - indeed, it will meet you. Then you will be returned to the Knower of the unseen and the witnessed, and He will inform you about what you used to do
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+خدا کی کتاب جب کسی قوم کو دی جاتی ہے تو اس لیے دی جاتی ہے کہ وہ اس کو اپنے اندر اتارے اور اس کو اپنی زندگی میں اپنائے۔ مگر جو قوم اس معنی میں کتاب آسمانی کی حامل نہ بن سکے اس کی مثال اس گدھے کی سی ہوگی جس کے اوپر علمی کتابیں لدی ہوئی ہوں اور اس کو کچھ خبر نہ ہو کہ اس کے اوپر کیا ہے۔
+یہود نے اگرچہ عملی طور پر خدا کے دین کو چھوڑ رکھا تھا، اس کے باوجود وہ اس کو اپنے قومی فخر کا نشان بنائے ہوئے تھے۔ مگر اس قسم کا فخر کسی کے کچھ کام آنے والا نہیں۔ ایسا فخر ہمیشہ جھوٹا فخر ہوتا ہے۔ اور اس کا ایک ثبوت یہ ہے کہ آدمی جس دین کو اپنے فخر کا سامان بنائے ہوئے ہوتا ہے اس کے لیے وہ قربانی دینے کو تیار نہیں ہوتا۔ تاہم جب موت آئے گی تو ایسے لوگ جان لیں گے کہ دنیا میں وہ جس فخر پر جی رہے تھے وہ آخرت میں انہیں ذلت کے سوا اور کچھ دینے والا نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[62_7: The Congregation, Friday الجمعة]]
+- **Next:** [[62_9: The Congregation, Friday الجمعة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

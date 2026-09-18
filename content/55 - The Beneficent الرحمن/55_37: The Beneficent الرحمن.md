@@ -1,0 +1,49 @@
+---
+surah: 55 / 114
+surah_name: The Beneficent / الرحمن / مہربان
+ayah: 37 / 78
+type: medinan
+tags: ["akhirah", "nature_signs"]
+image: "/attachments/surah_055.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4938.mp3"></audio>
+**Next:** [[55_38: The Beneficent الرحمن]]
+
+---
+
+## Arabic
+
+فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ
+
+---
+
+## 🇵🇰 Urdu
+
+پھر (کیا بنے گی اُس وقت) جب آسمان پھٹے گا اور لال چمڑے کی طرح سرخ ہو جائے گا؟
+
+---
+
+## 🇬🇧 English
+
+And when the heaven is split open and becomes rose-colored like oil
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+انکار اور سرکشی کی وجہ ہمیشہ بے خوفی ہوتی ہے۔ قیامت کا ہولناک لمحہ جب سامنے آئے گا تو مجرم اپنی سرکشی بھول جائیں گے۔ موجودہ دنیا میں جس حق کو وہ طاقت ور دلائل کے باوجود ماننے کے لیے تیار نہ ہوتے تھے، قیامت میں اس کو بلا بحث مان لیں گے۔ مگر اس وقت کا ماننا کسی کے کچھ کام نہ آئے گا۔ اللہ کی قدرتوں کو غیب میں ماننا معتبر ہے، نہ کہ اس کے ظاہر ہوجانے کے بعد۔
+
+---
+
+## Connections
+
+- **Previous:** [[55_36: The Beneficent الرحمن]]
+- **Next:** [[55_38: The Beneficent الرحمن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

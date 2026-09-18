@@ -1,0 +1,49 @@
+---
+surah: 45 / 114
+surah_name: The Crouching / الجاثية / زانوٗوں کے بل گری ہوئی
+ayah: 22 / 37
+type: meccan
+tags: ["purpose_of_life", "akhirah", "adl"]
+image: "/attachments/surah_045.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4495.mp3"></audio>
+**Next:** [[45_23: The Crouching الجاثية]]
+
+---
+
+## Arabic
+
+وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَلِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اللہ نے تو آسمانوں اور زمین کو برحق پیدا کیا ہے اور اس لیے کیا ہے کہ ہر متنفس کو اُس کی کمائی کا بدلہ دیا جائے لوگوں پر ظلم ہرگز نہ کیا جائے گا
+
+---
+
+## 🇬🇧 English
+
+And Allah created the heavens and earth in truth and so that every soul may be recompensed for what it has earned, and they will not be wronged
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو شخص يه خيال كرے كه آدمي اچھا بن كر رهے يا برا بن كر، سب برابر هے۔ آخر كار دونوں هي كو مركر مٹ جانا هے، وه نهايت غلط خيال اپنے دماغ ميں قائم كرتا هے۔ ايسا سمجھنا اس شعورِ عدل كے خلاف هے جو هر آدمي كي فطرت ميں پيدائشي طورپر موجود هے۔ نيز يه كائنات كي اس معنويت كا انكار كرنا هےجو اس كے نظام ميں كمال درجه ميں پائي جاتي هے۔ حقيقت يه هے كه انسان كي اندروني فطرت اور اس كے باهر كي وسيع كائنات دونوں اس كو سراسر باطل ثابت كرتے هيں كه زندگي كو ايك ايسي بے مقصد چيز سمجھ ليا جائے جس كا كوئي انجام سامنے آنے والا نهيں۔
+
+---
+
+## Connections
+
+- **Previous:** [[45_21: The Crouching الجاثية]]
+- **Next:** [[45_23: The Crouching الجاثية]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

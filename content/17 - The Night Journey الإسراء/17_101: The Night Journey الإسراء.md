@@ -1,0 +1,50 @@
+---
+surah: 17 / 114
+surah_name: The Night Journey / الإسراء / رات کا صفر
+ayah: 101 / 111
+type: meccan
+tags: ["story_musa", "miracles", "story_bani_israil"]
+image: "/attachments/surah_017.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2130.mp3"></audio>
+**Next:** [[17_102: The Night Journey الإسراء]]
+
+---
+
+## Arabic
+
+وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَـٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا
+
+---
+
+## 🇵🇰 Urdu
+
+ہم نے موسیٰؑ کو تو نشانیاں عطا کی تھیں جو صریح طور پر دکھائی دے رہی تھیں اب یہ تم خود بنی اسرائیل سے پوچھ لو کہ جب وہ سامنے آئیں تو فرعون نے یہی کہا تھا نا کہ "اے موسیٰؑ، میں سمجھتا ہوں کہ تو ضرور ایک سحر زدہ آدمی ہے
+
+---
+
+## 🇬🇧 English
+
+And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, "Indeed I think, O Moses, that you are affected by magic
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+فرعون کے سامنے کھلی ہوئی نشانیاں پیش کی گئیں تو اس نے کہا کہ یہ ’’جادو‘‘ ہے۔ اس کا مطلب یہ ہے کہ داعی کی طرف سے خواہ کتنی ہی طاقت ور دلیل اور کتنی ہی بڑی نشانی پیش کردی جائے، انسان کے لیے یہ دروازہ بند نہیں ہوتا کہ وہ کچھ الفاظ بول کر اس کو رد کردے — وہ خدائی نشانی کو انسانی جادو کہہ دے۔ وہ علمی دلیل کو ناقص مطالعہ کہہ کر ٹال دے۔ وہ واضح قرائن کو غیر معقول کہہ کر نظر انداز کردے۔
+حق کے مخالفین جب لفظی مخالفت سے حق کی آواز دبانے میں کامیاب نہیں ہوتے تو وہ جارحانہ کارروائیوں پر اتر آتے ہیں۔ مگر وہ بھول جاتے ہیں کہ یہ کسی انسان کا معاملہ نہیں۔ بلکہ خدا کا معاملہ ہے اور کون ہے جو خدا کے ساتھ جارحیت کرکے کامیاب ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[17_100: The Night Journey الإسراء]]
+- **Next:** [[17_102: The Night Journey الإسراء]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

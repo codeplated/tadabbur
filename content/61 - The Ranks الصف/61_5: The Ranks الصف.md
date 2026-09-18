@@ -1,0 +1,50 @@
+---
+surah: 61 / 114
+surah_name: The Ranks / الصف / صف
+ayah: 5 / 14
+type: medinan
+tags: ["story_musa", "speech_ethics", "hidayah", "adab"]
+image: "/attachments/surah_061.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5168.mp3"></audio>
+**Next:** [[61_6: The Ranks الصف]]
+
+---
+
+## Arabic
+
+وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ لِمَ تُؤۡذُونَنِي وَقَد تَّعۡلَمُونَ أَنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡۖ فَلَمَّا زَاغُوٓاْ أَزَاغَ ٱللَّهُ قُلُوبَهُمۡۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور یاد کرو موسیٰؑ کی وہ بات جو اس نے اپنی قوم سے کہی تھی "اے میری قوم کے لوگو، تم کیوں مجھے اذیت دیتے ہو حالانکہ تم خوب جانتے ہو کہ میں تمہاری طرف اللہ کا بھیجا ہوا رسول ہوں؟" پھر جب انہوں نے ٹیڑھ اختیار کی تو اللہ نے ان کے دل ٹیڑھے کر دیے، اللہ فاسقوں کو ہدایت نہیں دیتا
+
+---
+
+## 🇬🇧 English
+
+And [mention, O Muhammad], when Moses said to his people, "O my people, why do you harm me while you certainly know that I am the messenger of Allah to you?" And when they deviated, Allah caused their hearts to deviate. And Allah does not guide the defiantly disobedient people
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حضرت موسیٰ علیہ السلام بنی اسرائیل کے درمیان آئے۔ بنی اسرائیل اس وقت ایک زوال یافتہ قوم تھے۔ ان کے اندر یہ حوصلہ باقی نہیں رہا تھا کہ جو کہیں وہی کریں۔ اور جو کریں وہی کہیں۔ چنانچہ ان کا حال یہ تھا کہ وہ حضرت موسیٰ کے ہاتھ پر ایمان کا اقرار بھی کرتے تھے اور اسی کے ساتھ ہر قسم کی بدعہدی اور نافرمانی میں بھی مبتلا رہتے تھے۔ حتی کہ حضرت موسیٰ کے ساتھ اپنے برے سلوک کو جائز ثابت کرنے کے لیے وہ خود حضرت موسیٰ پر جھوٹے جھوٹے الزام لگاتے تھے۔ بائبل میں خروج اور گنتی کے ابواب میں اس کی تفصیل دیکھی جا سکتی ہے۔
+عہد کرنے کے بعد عہد کی خلاف ورزی آدمی کو پہلے سے بھی زیادہ حق سے دور کردیتی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[61_4: The Ranks الصف]]
+- **Next:** [[61_6: The Ranks الصف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

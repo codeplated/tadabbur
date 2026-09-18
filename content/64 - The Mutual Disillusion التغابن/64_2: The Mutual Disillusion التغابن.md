@@ -1,0 +1,49 @@
+---
+surah: 64 / 114
+surah_name: The Mutual Disillusion / التغابن / ہار جیت
+ayah: 2 / 18
+type: medinan
+tags: ["human_creation", "iman", "kufr", "qadr"]
+image: "/attachments/surah_064.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5201.mp3"></audio>
+**Next:** [[64_3: The Mutual Disillusion التغابن]]
+
+---
+
+## Arabic
+
+هُوَ ٱلَّذِي خَلَقَكُمۡ فَمِنكُمۡ كَافِرٞ وَمِنكُم مُّؤۡمِنٞۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٌ
+
+---
+
+## 🇵🇰 Urdu
+
+وہی ہے جس نے تم کو پیدا کیا، پھر تم میں سے کوئی کافر ہے اور کوئی مومن، اور اللہ وہ سب کچھ دیکھ رہا ہے جو تم کرتے ہو
+
+---
+
+## 🇬🇧 English
+
+It is He who created you, and among you is the disbeliever, and among you is the believer. And Allah, of what you do, is Seeing
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+’’کائنات اللہ کی تسبیح کر رہی ہے‘‘کا مطلب یہ ہے کہ اللہ نے جس حقیقت کو قرآن میں کھولا ہے، کائنات سراپا اس کی تصدیق بنی ہوئی ہے، وہ زبان حال سے حمدوستائش کی حد تک اس کی تائید کر رہی ہے۔ اس دو طرفہ اعلان کے باوجود جو لوگ مومن نہ بنیں انہیں اس کے بعد تیسرے اعلان کا انتظار کرنا چاہيے جب کہ تمام لوگ خدا کے یہاں جمع کیے جائیں گے، تاکہ خود مالک کائنات کی زبان سے اپنے بارے میں آخری فیصلہ کو سنیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[64_1: The Mutual Disillusion التغابن]]
+- **Next:** [[64_3: The Mutual Disillusion التغابن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

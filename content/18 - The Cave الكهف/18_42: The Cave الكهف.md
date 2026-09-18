@@ -1,0 +1,50 @@
+---
+surah: 18 / 114
+surah_name: The Cave / الكهف / غار
+ayah: 42 / 110
+type: meccan
+tags: ["parables", "shirk", "wealth"]
+image: "/attachments/surah_018.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2182.mp3"></audio>
+**Next:** [[18_43: The Cave الكهف]]
+
+---
+
+## Arabic
+
+وَأُحِيطَ بِثَمَرِهِۦ فَأَصۡبَحَ يُقَلِّبُ كَفَّيۡهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُشۡرِكۡ بِرَبِّيٓ أَحَدٗا
+
+---
+
+## 🇵🇰 Urdu
+
+آخرکار ہوا یہ کہ اس کا سارا ثمرہ مارا گیا اور وہ اپنے انگوروں کے باغ کو ٹٹیوں پر الٹا پڑا دیکھ کر اپنی لگائی ہوئی لاگت پر ہاتھ ملتا رہ گیا اور کہنے لگا کہ "کاش! میں نے اپنے رب کے ساتھ کسی کو شریک نہ ٹھیرایا ہوتا
+
+---
+
+## 🇬🇧 English
+
+And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, "Oh, I wish I had not associated with my Lord anyone
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+آدمی ایک کام میں اپنی پونجی لگاتا ہے اور اپنی قابلیت صرف کرتا ہے۔ وہ سمجھتا ہے کہ میری قابلیت اور میری پونجی کامیاب نتیجہ کے ساتھ میری طرف لوٹے گی۔ مگر مختلف قسم کے حادثات آتے ہیں اور اس کی امیدوں کو تہس نہس کردیتے ہیں۔ آدمی کی کوئی بھی تدبیر یا اس کی کوئی بھی قابلیت اس کو بچانے والی ثابت نہیں ہوتی۔
+خدا موجودہ دنیامیں بار بارا اس طرح کے نمونے دکھاتا ہے تاکہ انسان اس سے سبق لے۔ تاکہ وہ خدا کے سوا کسی دوسری چیز کو اہمیت دینے کی غلطی نہ کرے۔
+
+---
+
+## Connections
+
+- **Previous:** [[18_41: The Cave الكهف]]
+- **Next:** [[18_43: The Cave الكهف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

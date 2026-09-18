@@ -1,0 +1,49 @@
+---
+surah: 33 / 114
+surah_name: The Combined Forces / الأحزاب / متحد گروہ
+ayah: 52 / 73
+type: medinan
+tags: ["prophets_household", "marriage"]
+image: "/attachments/surah_033.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3585.mp3"></audio>
+**Next:** [[33_53: The Combined Forces الأحزاب]]
+
+---
+
+## Arabic
+
+لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعۡدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَٰجٖ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ يَمِينُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ رَّقِيبٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اس کے بعد تمہارے لیے دوسری عورتیں حلال نہیں ہیں، اور نہ اس کی اجازت ہے کہ ان کی جگہ اور بیویاں لے آؤ خواہ اُن کا حسن تمہیں کتنا ہی پسند ہو، البتہ لونڈیوں کی تمہیں اجازت ہے اللہ ہر چیز پر نگران ہے
+
+---
+
+## 🇬🇧 English
+
+Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allah, over all things, an Observer
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جہاں کئی خواتین کا مسئلہ ہو وہاں شکایت کا امکان بڑھ جاتاہے۔ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ کئی بیویاں تھیں اس بنا پر اندیشہ تھا کہ حقوقِ زوجیت کے بارے میں خواتین کو عدم مساوات کی شکایت ہو اور اس کا نتیجہ یہ نکلے کہ رسول اللہ صلی اللہ علیہ وسلم یکسوئی کے ساتھ دینی مہم کی ادائيگی نہ فرماسکیں۔ اس ليے اعلان فرمایا کہ پیغمبر کا معاملہ خصوصی معاملہ ہے۔وہ عام مسلمانوں کی طرح حقوق زوجیت میں مساوات کے پابند نہیں ہیں۔ حقوقِ زوجیت کی رعایت اور حقوقِ اسلام کی رعایت میں ٹکراؤ ہو تو پیغمبر کےلیے جائز ہوگا کہ وہ حقوقِ اسلام کی رعایت کو ترجیح دیں۔رسول اللہ صلی اللہ علیہ وسلم کو عام ضابطہ سے مستثنیٰ کرنے کا مقصد یہ تھا کہ خواتین کے اندر شکایتی ذہن کی پیدائش کور وکا جاسکے، ورنہ رسول اللہ صلی اللہ علیہ وسلم نے اس اختیار کو عملاً بہت ہی کم استعمال فرمایا۔
+
+---
+
+## Connections
+
+- **Previous:** [[33_51: The Combined Forces الأحزاب]]
+- **Next:** [[33_53: The Combined Forces الأحزاب]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 33 / 114
+surah_name: The Combined Forces / الأحزاب / متحد گروہ
+ayah: 59 / 73
+type: medinan
+tags: ["women", "haya", "prophets_household", "commands"]
+image: "/attachments/surah_033.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3592.mp3"></audio>
+**Next:** [[33_60: The Combined Forces الأحزاب]]
+
+---
+
+## Arabic
+
+يَـٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزۡوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلۡمُؤۡمِنِينَ يُدۡنِينَ عَلَيۡهِنَّ مِن جَلَٰبِيبِهِنَّۚ ذَٰلِكَ أَدۡنَىٰٓ أَن يُعۡرَفۡنَ فَلَا يُؤۡذَيۡنَۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اے نبیؐ، اپنی بیویوں اور بیٹیوں اور اہل ایمان کی عورتوں سے کہہ دو کہ اپنے اوپر اپنی چادروں کے پلو لٹکا لیا کریں یہ زیادہ مناسب طریقہ ہے تاکہ وہ پہچان لی جائیں اور نہ ستائی جائیں اللہ تعالیٰ غفور و رحیم ہے
+
+---
+
+## 🇬🇧 English
+
+O Prophet, tell your wives and your daughters and the women of the believers to bring down over themselves [part] of their outer garments. That is more suitable that they will be known and not be abused. And ever is Allah Forgiving and Merciful
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مسلمان عورت جب کسی ضرورت سے اپنے گھر کے باہر نکلے تو وہ کس طرح نکلے۔اس کو ایسے لباس میں نکلنا چاہيے جو اس بات کا ایک خاموش اعلان ہو کہ وہ ایک شریف اور حیادار عورت ہے۔ وہ سنجیدہ ضرورت کے تحت باہر نکلی ہے، نہ کہ تفریح اور دل لگی کےلیے۔ سادہ کپڑے، حیا دار چال، چادر یا برقعہ سے جسم ڈھکا ہوا ہونا اسی کی ایک علامت ہے۔ حقیقت یہ ہے کہ جسمانی نمائش کے ساتھ باہر نکلنا دوسروں کو دعوتِ التفات دینا ہے۔ اور جسمانی نمائش کے بغیر نکلنا گویا عمل کی زبان میں دوسروں سے یہ کہنا ہے کہ میں صرف اپنے کام سے باہر نکلی ہوں، مجھے تم سے کوئی مطلب نہیں۔
+’’دل کے مریضوں ‘‘ سے یہاں مراد غالباً یہود ہیں۔ کیوں کہ وہی لوگ مسلمانوں کو اور مسلم خواتین کو زیادہ پریشان کررہے تھے اور یہی لوگ تھے جو مذکورہ تنبیہ کے مطابق قتل کيے گئے یا شہر سے نکال دئے گئے تھے۔
+
+---
+
+## Connections
+
+- **Previous:** [[33_58: The Combined Forces الأحزاب]]
+- **Next:** [[33_60: The Combined Forces الأحزاب]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

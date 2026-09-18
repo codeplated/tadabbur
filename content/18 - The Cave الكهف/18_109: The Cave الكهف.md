@@ -1,0 +1,50 @@
+---
+surah: 18 / 114
+surah_name: The Cave / الكهف / غار
+ayah: 109 / 110
+type: meccan
+tags: ["asma_ul_husna", "knowledge", "parables", "tawheed"]
+image: "/attachments/surah_018.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2249.mp3"></audio>
+**Next:** [[18_110: The Cave الكهف]]
+
+---
+
+## Arabic
+
+قُل لَّوۡ كَانَ ٱلۡبَحۡرُ مِدَادٗا لِّكَلِمَٰتِ رَبِّي لَنَفِدَ ٱلۡبَحۡرُ قَبۡلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّي وَلَوۡ جِئۡنَا بِمِثۡلِهِۦ مَدَدٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اے محمدؐ، کہو کہ اگر سمندر میرے رب کی باتیں لکھنے کے لیے روشنائی بن جائے تو وہ ختم ہو جائے مگر میرے رب کی باتیں ختم نہ ہوں، بلکہ اتنی ہی روشنائی ہم اور لے آئیں تو وہ بھی کفایت نہ کرے
+
+---
+
+## 🇬🇧 English
+
+Say, "If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it as a supplement
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو لوگ خدا کے پیغام کو نہیں مانتے وہ ایسی چیز کو نہیں مانتے جو تمام ثابت شدہ چیزوں سے زیادہ ثابت شدہ ہے۔ وہ اتنی مسلم ہے جس کو لکھنے کے لیے دنیا کے تمام درختوں کے قلم بھی ناکافی ثابت ہوں۔ تمام سمندروں کو روشنائی کی جگہ استعمال کیا جائےتوسمندر بھی خشک ہوجائے اس سے پہلے کہ کلماتِ رب ختم ہوں۔
+مگر انسان کیسا ظالم ہے کہ اس کے باوجود وہ حق کو نہیں پہچانتا۔ اس کے باوجود وہ اپنی زندگی کو حق کے مطابق نہیں ڈھالتا۔
+
+---
+
+## Connections
+
+- **Previous:** [[18_108: The Cave الكهف]]
+- **Next:** [[18_110: The Cave الكهف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

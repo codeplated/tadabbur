@@ -1,0 +1,49 @@
+---
+surah: 77 / 114
+surah_name: The Emissaries / المرسلات / بھیجی جانے والی ہوائیں
+ayah: 29 / 50
+type: meccan
+tags: ["jahannam", "kufr"]
+image: "/attachments/surah_077.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5651.mp3"></audio>
+**Next:** [[77_30: The Emissaries المرسلات]]
+
+---
+
+## Arabic
+
+ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+چلو اب اُسی چیز کی طرف جسے تم جھٹلایا کرتے تھے
+
+---
+
+## 🇬🇧 English
+
+[They will be told], "Proceed to that which you used to deny
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+آخرت کی ہولناکیاں جب سامنے آئیں گی تو انسان ان کے مقابلہ میں اپنے آپ کو بالکل بے بس پائے گا۔ اس وقت ان لوگوں کا بولنا بند ہوجائے گا جو دنیا میں اس طرح بولتے تھے جیسے کہ ان کے الفاظ کا ذخیرہ کبھی ختم ہونے والا نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[77_28: The Emissaries المرسلات]]
+- **Next:** [[77_30: The Emissaries المرسلات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

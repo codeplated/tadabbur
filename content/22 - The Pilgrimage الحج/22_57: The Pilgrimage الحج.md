@@ -1,0 +1,50 @@
+---
+surah: 22 / 114
+surah_name: The Pilgrimage / الحج / حج
+ayah: 57 / 78
+type: medinan
+tags: ["kufr", "jahannam"]
+image: "/attachments/surah_022.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2652.mp3"></audio>
+**Next:** [[22_58: The Pilgrimage الحج]]
+
+---
+
+## Arabic
+
+وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَا فَأُوْلَـٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ
+
+---
+
+## 🇵🇰 Urdu
+
+اور جنہوں نے کفر کیا ہو گا اور ہماری آیات کو جھٹلایا ہوگا اُن کے لیے رسوا کن عذاب ہوگا
+
+---
+
+## 🇬🇧 English
+
+And they who disbelieved and denied Our signs - for those there will be a humiliating punishment
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+پیغمبر کی دعوت میں دلیل کی عظمت پوری طرح موجود ہوتی ہے۔ مگر وہ لوگ جو صرف ظاہری عظمتوں کو جانتے ہیں وہ پیغمبر کی معنوی عظمت کو دیکھ نہیں پاتے اور اس کا انکار کردیتے ہیں۔ ایسے لوگ ہمیشہ شک و شبہ میں پڑے رہتے ہیں۔ کیوں کہ وہ حق کو ظاہری عظمتوں میں دیکھنا چاہتے ہیں۔ اور اللہ کی سنت یہ ہے کہ وہ حق کو مجرد روپ میں لوگوں کے سامنے لائے تاکہ جو لوگ حقیقت شناس ہیں وہ اس کو پہچان کر اس سے وابستہ ہوجائیں۔ اور جو ظاہر پرست ہیں وہ اس کو نظر انداز کرکے اپنا مجرم ہونا ثابت کریں۔
+’’آیتوں کو جھٹلانا‘‘ یہ ہے کہ آدمی دلیل کی سطح پر ظاہرہونے والے حق کو نظر انداز کردے۔ وہ اس صداقت کو ماننے کے ليے تیار نہ ہو جو مجرد روپ میں اس کے سامنے ظاہر ہوئی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[22_56: The Pilgrimage الحج]]
+- **Next:** [[22_58: The Pilgrimage الحج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

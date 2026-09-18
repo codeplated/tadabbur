@@ -1,0 +1,50 @@
+---
+surah: 47 / 114
+surah_name: Muhammad / محمد / محمدﷺ
+ayah: 7 / 38
+type: medinan
+tags: ["o_believers", "conflict", "tawakkul", "commands"]
+image: "/attachments/surah_047.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4552.mp3"></audio>
+**Next:** [[47_8: Muhammad محمد]]
+
+---
+
+## Arabic
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَنصُرُواْ ٱللَّهَ يَنصُرۡكُمۡ وَيُثَبِّتۡ أَقۡدَامَكُمۡ
+
+---
+
+## 🇵🇰 Urdu
+
+اے لوگو جو ایمان لائے ہو، اگر تم اللہ کی مدد کرو گے تو وہ تمہاری مدد کرے گا اور تمہارے قدم مضبوط جما دے گا
+
+---
+
+## 🇬🇧 English
+
+O you who have believed, if you support Allah, He will support you and plant firmly your feet
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+عرب میں جن لوگوں نے رسول اللہ صلی اللہ علیہ وسلم کا انکار کیا ان کو آپ نے یہ پیشگی خبر دی کہ تم جو کھاپی رہے ہو تو یہ مت سمجھو کہ تم آزاد ہو تم پوری طرح خدا کی گرفت میں ہو۔ اور اس کا ثبوت یہ ہے کہ اگر تم اپنے انکار پر قائم رہے تو خدا کے قانون کے مطابق تم تباہ کردیے جاؤگے۔
+یہ واقعہ عین پیشین گوئی کے مطابق ظہور میں آیا۔ توحید کے علم بردار غالب آئے اور جو لوگ شرک کے علم بردار بنے ہوئے تھے وہ ہمیشہ کے لیے نابود ہوگئے۔
+
+---
+
+## Connections
+
+- **Previous:** [[47_6: Muhammad محمد]]
+- **Next:** [[47_8: Muhammad محمد]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

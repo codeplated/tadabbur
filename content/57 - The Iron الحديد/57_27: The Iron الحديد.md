@@ -1,0 +1,49 @@
+---
+surah: 57 / 114
+surah_name: The Iron / الحديد / فولاد
+ayah: 27 / 29
+type: medinan
+tags: ["story_isa", "prophethood", "revelation", "rahmah", "community"]
+image: "/attachments/surah_057.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5102.mp3"></audio>
+**Next:** [[57_28: The Iron الحديد]]
+
+---
+
+## Arabic
+
+ثُمَّ قَفَّيۡنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيۡنَا بِعِيسَى ٱبۡنِ مَرۡيَمَ وَءَاتَيۡنَٰهُ ٱلۡإِنجِيلَۖ وَجَعَلۡنَا فِي قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأۡفَةٗ وَرَحۡمَةٗۚ وَرَهۡبَانِيَّةً ٱبۡتَدَعُوهَا مَا كَتَبۡنَٰهَا عَلَيۡهِمۡ إِلَّا ٱبۡتِغَآءَ رِضۡوَٰنِ ٱللَّهِ فَمَا رَعَوۡهَا حَقَّ رِعَايَتِهَاۖ فَـَٔاتَيۡنَا ٱلَّذِينَ ءَامَنُواْ مِنۡهُمۡ أَجۡرَهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اُن کے بعد ہم نے پے در پے اپنے رسول بھیجے، اور ان سب کے بعد عیسیٰؑ ابن مریم کو مبعوث کیا اور اُس کو انجیل عطا کی اور جن لوگوں نے اس کی پیروی اختیار کی اُن کے دلوں میں ہم نے ترس اور رحم ڈال دیا اور رہبانیت انہوں نے خود ایجاد کرلی، ہم نے اُسے اُن پر فرض نہیں کیا تھا، مگر اللہ کی خوشنودی کی طلب میں انہوں نے آپ ہی یہ بدعت نکالی اور پھر اس کی پابندی کرنے کا جو حق تھا اسے ادا نہ کیا اُن میں سے جو لوگ ایمان لائے ہوئے تھے اُن کا اجر ہم نے ان کو عطا کیا، مگر ان میں سے اکثر لوگ فاسق ہیں
+
+---
+
+## 🇬🇧 English
+
+Then We sent following their footsteps Our messengers and followed [them] with Jesus, the son of Mary, and gave him the Gospel. And We placed in the hearts of those who followed him compassion and mercy and monasticism, which they innovated; We did not prescribe it for them except [that they did so] seeking the approval of Allah. But they did not observe it with due observance. So We gave the ones who believed among them their reward, but many of them are defiantly disobedient
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اللہ کی طرف سے جتنے پیغمبر آئے سب ایک ہی دین لے کر آئے۔ مگر بعد کے زمانہ میں لوگوں نے پیغمبر کے نام پر بدعتیں ایجاد کرلیں۔ اس کی ایک مثال حضرت مسیح علیہ السلام کے پیرو ہیں۔ حضرت مسیح کے ذمہ صرف دعوت کا کام تھا۔ آپ کی پیغمبرانہ ذمہ داری میں قتال شامل نہ تھا۔ چنانچہ آپ نے سب سے زیادہ داعیانہ اخلاق پر زور دیا۔ اور داعیانہ اخلاق سراسررافت و رحمت پر مبنی ہوتا ہے۔ آپ نے اپنے پیروؤں سے کہا کہ وہ لوگوں کے مقابلہ میں یک طرفہ طور پر رافت و رحمت کا طریقہ اختیار کریں۔ مگر حضرت مسیح کے بعد آپ کے پیرو اس مصلحت کو سمجھ نہ سکے۔ ان کا یہ مزاج انہیں رہبانیت کی طرف بہا لے گیا۔ اعراض دنیا کی جو تعلیم انہیں دعوت کے مقصد سے دی گئی تھی اس کو انہوں نے مزید مبالغہ کے ساتھ ترک ِدنيا کے لیے اختیار کرنا شروع کردیا۔
+
+---
+
+## Connections
+
+- **Previous:** [[57_26: The Iron الحديد]]
+- **Next:** [[57_28: The Iron الحديد]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

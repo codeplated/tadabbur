@@ -1,0 +1,49 @@
+---
+surah: 21 / 114
+surah_name: The Prophets / الأنبياء / پیغمبر
+ayah: 72 / 112
+type: meccan
+tags: ["story_ibrahim", "story_ishaq", "story_yaqub"]
+image: "/attachments/surah_021.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2555.mp3"></audio>
+**Next:** [[21_73: The Prophets الأنبياء]]
+
+---
+
+## Arabic
+
+وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ نَافِلَةٗۖ وَكُلّٗا جَعَلۡنَا صَٰلِحِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور ہم نے اسے اسحاقؑ عطا کیا اور یعقوبؑ اس پر مزید، اور ہر ایک کو صالح بنایا
+
+---
+
+## 🇬🇧 English
+
+And We gave him Isaac and Jacob in addition, and all [of them] We made righteous
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حضرت ابراہیم عراق میں پیدا ہوئے۔ جب ان کی قوم اور وہاں کا بادشاہ نمرود آپ کا دشمن ہوگیا تو اتمام حجت کے بعد آپ نے اپنا وطن چھوڑ دیا۔ اور اللہ کے حکم سے شام وفلسطین کے سرسبز علاقہ کی طرف چلے گئے۔ آپ کے ملک والوں نے اگرچہ آپ کا ساتھ نہیں دیا تھا مگر خدا نے آپ کو بیٹے اور پوتے دئے جو آپ کے راستہ پر چلنے والے بنے۔ حتی کہ ان کی صالحیت خدا نے اس طرح قبول فرمائی کہ آپ کی نسل میں نبوت کا سلسلہ جاری کردیا۔
+
+---
+
+## Connections
+
+- **Previous:** [[21_71: The Prophets الأنبياء]]
+- **Next:** [[21_73: The Prophets الأنبياء]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

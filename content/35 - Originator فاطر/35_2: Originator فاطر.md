@@ -1,0 +1,49 @@
+---
+surah: 35 / 114
+surah_name: Originator / فاطر / پیدا کرنے والا
+ayah: 2 / 45
+type: meccan
+tags: ["rahmah", "qadr", "tawakkul"]
+image: "/attachments/surah_035.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3662.mp3"></audio>
+**Next:** [[35_3: Originator فاطر]]
+
+---
+
+## Arabic
+
+مَّا يَفۡتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحۡمَةٖ فَلَا مُمۡسِكَ لَهَاۖ وَمَا يُمۡسِكۡ فَلَا مُرۡسِلَ لَهُۥ مِنۢ بَعۡدِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
+
+---
+
+## 🇵🇰 Urdu
+
+اللہ جس رحمت کا دروازہ بھی لوگوں کے لیے کھول دے اسے کوئی روکنے والا نہیں اور جسے وہ بند کر دے اسے اللہ کے بعد پھر کوئی دوسرا کھولنے والا نہیں وہ زبردست اور حکیم ہے
+
+---
+
+## 🇬🇧 English
+
+Whatever Allah grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+فرشتوں کو اللہ تعالیٰ نے پیغام رسانی کےلیے اور اپنے احکام کی تنفیذ کےلیے پیدا کیا ہے۔ مگر شیطان نے لوگوں کو سکھایا کہ فرشتے مستقل بالذات حیثیت رکھتے ہیں۔ وہ دنیا میں برکت اورآخرت میں نجات کا ذریعہ بن سکتے ہیں۔ چنانچہ کچھ قومیں لات اور منات جیسے ناموں سے ان کی فرضی تصویریں بنا کر ان کی عبادت کرنے لگیں۔ کچھ قوموں نے ان کو دیوی دیوتا قرار دے کر انھیں پوجنا شروع کردیا۔ موجودہ زمانہ میں قانون فطرت (law of nature)کی تعظیم بھی اسی گمراہی کا جدیدایڈیشن ہے۔ مگر حقیقت یہ ہے کہ فرشتے ہوں یا قانون فطرت، سب ایک خدا کے محکوم ہیں۔ سب ایک خدا کے کارگزار ہیں، خواہ وہ دو بازوؤں والے ہوں یا 600 بازوؤں والے یا 600 کرور بازوؤں والے۔
+
+---
+
+## Connections
+
+- **Previous:** [[35_1: Originator فاطر]]
+- **Next:** [[35_3: Originator فاطر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

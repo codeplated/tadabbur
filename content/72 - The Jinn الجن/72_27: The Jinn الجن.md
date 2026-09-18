@@ -1,0 +1,49 @@
+---
+surah: 72 / 114
+surah_name: The Jinn / الجن / جن
+ayah: 27 / 28
+type: meccan
+tags: ["prophethood", "angels", "knowledge"]
+image: "/attachments/surah_072.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5474.mp3"></audio>
+**Next:** [[72_28: The Jinn الجن]]
+
+---
+
+## Arabic
+
+إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولٖ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدٗا
+
+---
+
+## 🇵🇰 Urdu
+
+سوائے اُس رسول کے جسے اُس نے (غیب کا کوئی علم دینے کے لیے) پسند کر لیا ہو، تو اُس کے آگے اور پیچھے وہ محافظ لگا دیتا ہے
+
+---
+
+## 🇬🇧 English
+
+Except whom He has approved of messengers, and indeed, He sends before each messenger and behind him observers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حق کا داعی بظاہر ایک عام انسان ہوتا ہے اس لیے وہ لوگ اس پر ٹوٹ پڑتے ہیں جن کے اوپر اس کی دعوت کی زد پڑ رہی ہو۔ وہ بھول جاتے ہیں کہ داعی حق کے خلاف کارروائی خود خدا کے خلاف کارروائی ہے۔ اور کون ہے جو خدا کے خلاف کارروائی کرکے کامیاب ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[72_26: The Jinn الجن]]
+- **Next:** [[72_28: The Jinn الجن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

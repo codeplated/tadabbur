@@ -1,0 +1,50 @@
+---
+surah: 29 / 114
+surah_name: The Spider / العنكبوت / مکڑی
+ayah: 63 / 69
+type: meccan
+tags: ["tawheed", "nature_signs", "dhikr"]
+image: "/attachments/surah_029.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3403.mp3"></audio>
+**Next:** [[29_64: The Spider العنكبوت]]
+
+---
+
+## Arabic
+
+وَلَئِن سَأَلۡتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ مِنۢ بَعۡدِ مَوۡتِهَا لَيَقُولُنَّ ٱللَّهُۚ قُلِ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور اگر تم ان سے پوچھو کس نے آسمان سے پانی برسایا اور اِس کے ذریعہ سے مُردہ پڑی ہوئی زمین کو جِلا اٹھایا تو وہ ضرور کہیں گے اللہ نے کہو، الحمدللہ، مگر اکثر لوگ سمجھتے نہیں ہیں
+
+---
+
+## 🇬🇧 English
+
+And if you asked them, "Who sends down rain from the sky and gives life thereby to the earth after its lifelessness?" they would surely say " Allah." Say, "Praise to Allah "; but most of them do not reason
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+زمین و آسمان کو پیدا کرنا اتنا بڑا واقعہ ہے کہ ایک قادر مطلق خدا ہی اس کو انجام دے سکتا ہے۔ سورج اور چاند کی گردش، بارش کا برسنا اور زمین سے نباتات کا ا گنا یہ سب اس سے زیادہ بڑے واقعات ہیں کہ کوئی غیر خدا ان کو وجود میں لاسکے۔
+جو لوگ کسی نوعیت کے شرک میں مبتلا ہیں وہ بھی اپنی مفروضہ ہستیوں کے بارے میں یہ عقیدہ نہیں رکھتے کہ وہ ان عظیم واقعات کو ظہور میں لائے ہیں۔ اس کے باوجود بہت سے لوگ خدا کے سوا دوسروں کی اس امید میں پرستش کرتے ہیں کہ وہ ان کا رزق بڑھا دیں گے۔ حالاں کہ جب ہر قسم کے اعلیٰ اختیارات صرف خدا کو حاصل ہیں تو دوسرا کون ہے جو رزق کی تقسیم میں اثر انداز ہوسکے۔
+
+---
+
+## Connections
+
+- **Previous:** [[29_62: The Spider العنكبوت]]
+- **Next:** [[29_64: The Spider العنكبوت]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 49 / 114
+surah_name: The Rooms / الحجرات / حجرے
+ayah: 17 / 18
+type: medinan
+tags: ["iman", "hidayah", "kibr", "shukr"]
+image: "/attachments/surah_049.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4629.mp3"></audio>
+**Next:** [[49_18: The Rooms الحجرات]]
+
+---
+
+## Arabic
+
+يَمُنُّونَ عَلَيۡكَ أَنۡ أَسۡلَمُواْۖ قُل لَّا تَمُنُّواْ عَلَيَّ إِسۡلَٰمَكُمۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيۡكُمۡ أَنۡ هَدَىٰكُمۡ لِلۡإِيمَٰنِ إِن كُنتُمۡ صَٰدِقِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+یہ لوگ تم پر احسان جتاتے ہیں کہ اِنہوں نے اسلام قبول کر لیا اِن سے کہو اپنے اسلام کا احسان مجھ پر نہ رکھو، بلکہ اللہ تم پر اپنا احسان رکھتا ہے کہ اس نے تمہیں ایمان کی ہدایت دی اگر تم واقعی اپنے دعوائے ایمان میں سچے ہو
+
+---
+
+## 🇬🇧 English
+
+They consider it a favor to you that they have accepted Islam. Say, "Do not consider your Islam a favor to me. Rather, Allah has conferred favor upon you that He has guided you to the faith, if you should be truthful
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کوئی شخص اسلام میں داخل ہو یا اس کے ہاتھ سے کوئی اسلامی کام انجام پائے تو اس کو سمجھنا چاہيے کہ یہ اللہ کی مدد سے ہوا ہے۔ ایمان اور عمل سب کا انحصار اللہ کی توفیق پر ہے۔ اس لیے جب بھی کسی کو کسی خیر کی توفیق ملے تو وہ اللہ کا شکر ادا کرے۔
+اس کے بجائے اگر وہ اپنے ہم مذہبوں پر اس کا احسان جتانے لگے تو گویا وہ زبان حال سے کہہ رہا ہے کہ یہ کام میں نے اللہ کو دکھانے کے لیے نہیں کیا تھا بلکہ انسانوں کو دکھانے کے لیے کیا تھا۔ خدا ہر چیز سے براہِ راست واقفیت رکھتا ہے، جو شخص خدا کے لیے عمل کرے اس کو یقين رکھنا چاهيے کہ اس کا خدا اس کے عمل کو بتائے بغیر دیکھ رہا ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[49_16: The Rooms الحجرات]]
+- **Next:** [[49_18: The Rooms الحجرات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

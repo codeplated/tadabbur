@@ -1,0 +1,50 @@
+---
+surah: 39 / 114
+surah_name: The Troops / الزمر / گروہ
+ayah: 7 / 75
+type: meccan
+tags: ["kufr", "shukr", "adl", "akhirah"]
+image: "/attachments/surah_039.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4065.mp3"></audio>
+**Next:** [[39_8: The Troops الزمر]]
+
+---
+
+## Arabic
+
+إِن تَكۡفُرُواْ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنكُمۡۖ وَلَا يَرۡضَىٰ لِعِبَادِهِ ٱلۡكُفۡرَۖ وَإِن تَشۡكُرُواْ يَرۡضَهُ لَكُمۡۗ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ
+
+---
+
+## 🇵🇰 Urdu
+
+اگر تم کفر کرو تو اللہ تم سے بے نیاز ہے، لیکن وہ اپنے بندوں کے لیے کفر کو پسند نہیں کرتا، اور اگر تم شکر کر و تو اسے وہ تمہارے لیے پسند کرتا ہے کوئی بوجھ اٹھانے والا کسی دوسرے کا بوجھ نہ اٹھائے گا آخرکار تم سب کو اپنے رب کی طرف پلٹنا ہے، پھر وہ تمہیں بتا دے گا کہ تم کیا کرتے رہے ہو، وہ تو دلوں کا حال تک جانتا ہے
+
+---
+
+## 🇬🇧 English
+
+If you disbelieve - indeed, Allah is Free from need of you. And He does not approve for His servants disbelief. And if you are grateful, He approves it for you; and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you about what you used to do. Indeed, He is Knowing of that within the breasts
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+خدا کو ماننااور اس کا شکر گزار بننا خود انسانی عقل کا تقاضا ہے۔ کیونکہ یہ حقیقت ِ واقعہ کا اعتراف ہے اور حقیقت ِ واقعہ کا اعتراف بلا شبہ سب سے بڑا عقلی تقاضا ہے۔
+آخرت عدلِ کامل کا ظہور ہے اور یہ ناممکن ہے کہ عدل کامل کی دنیا میں وہ ناقص صورت حال جاری رہے جو موجودہ دنیا میں نظر آتی ہے۔ عدل کا تقاضا ہے کہ ہر آدمی عین وہی ثابت ہو جو کہ فی الواقع وہ ہے، اور عین وہی پائے جس کا وہ حقیقۃً مستحق تھا۔ موجودہ دنیا میں ایسا نہیں ہوتا۔ آخرت اس ليے آئے گی کہ وہ دنیا کی اس کمی کو دور کرے، وہ ناقص دنیا کو آخری حد تک کامل دنیا بنادے۔
+
+---
+
+## Connections
+
+- **Previous:** [[39_6: The Troops الزمر]]
+- **Next:** [[39_8: The Troops الزمر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

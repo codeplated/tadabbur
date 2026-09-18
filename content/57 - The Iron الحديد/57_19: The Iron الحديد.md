@@ -1,0 +1,49 @@
+---
+surah: 57 / 114
+surah_name: The Iron / الحديد / فولاد
+ayah: 19 / 29
+type: medinan
+tags: ["iman", "sidq", "conflict", "jahannam"]
+image: "/attachments/surah_057.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5094.mp3"></audio>
+**Next:** [[57_20: The Iron الحديد]]
+
+---
+
+## Arabic
+
+وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦٓ أُوْلَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمۡ لَهُمۡ أَجۡرُهُمۡ وَنُورُهُمۡۖ وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ
+
+---
+
+## 🇵🇰 Urdu
+
+اور جو لوگ اللہ اور اس کے رسولوں پر ایمان لائے ہیں وہی اپنے رب کے نزدیک صدیق اور شہید ہیں، اُن کے لیے اُن کا اجر اور اُن کا نور ہے اور جن لوگوں نے کفر کیا ہے اور ہماری آیات کو جھٹلایا ہے وہ دوزخی ہیں
+
+---
+
+## 🇬🇧 English
+
+And those who have believed in Allah and His messengers - those are [in the ranks of] the supporters of truth and the martyrs, with their Lord. For them is their reward and their light. But those who have disbelieved and denied Our verses - those are the companions of Hellfire
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اللہ کی رضا کے لیے دوسروں کو مال دینا اور دین کی ضرورتوں پر خرچ کرنا بہت بڑا عمل ہے۔ جو مرد اور عورت اس طرح خرچ کریں وہی وہ لوگ ہیں جنہوں نے اپنے ایمان کا ثبوت دیا۔ انہوں نے حق کے خلاف شبہات کے ماحول میں حق کو دیکھا اس لیے ان کا یہ عمل آخرت میں ان کے لیے روشنی بن جائے گا۔ وہ خدا کی نشانیوں کو ماننے والے قرار پائیں گے۔ ان کو اللہ کے گواہ کا درجہ دیا جائے گا، یعنی آخرت کی عدالت میں لوگوں کے احوال بتانے والے۔
+
+---
+
+## Connections
+
+- **Previous:** [[57_18: The Iron الحديد]]
+- **Next:** [[57_20: The Iron الحديد]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

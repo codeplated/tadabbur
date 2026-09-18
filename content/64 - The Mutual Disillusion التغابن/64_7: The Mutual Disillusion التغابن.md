@@ -1,0 +1,49 @@
+---
+surah: 64 / 114
+surah_name: The Mutual Disillusion / التغابن / ہار جیت
+ayah: 7 / 18
+type: medinan
+tags: ["resurrection", "kufr", "akhirah"]
+image: "/attachments/surah_064.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5206.mp3"></audio>
+**Next:** [[64_8: The Mutual Disillusion التغابن]]
+
+---
+
+## Arabic
+
+زَعَمَ ٱلَّذِينَ كَفَرُوٓاْ أَن لَّن يُبۡعَثُواْۚ قُلۡ بَلَىٰ وَرَبِّي لَتُبۡعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلۡتُمۡۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ
+
+---
+
+## 🇵🇰 Urdu
+
+منکرین نے بڑے دعوے سے کہا ہے کہ وہ مرنے کے بعد ہرگز دوبارہ نہ اٹھائے جائیں گے ان سے کہو "نہیں، میرے رب کی قسم تم ضرور اٹھائے جاؤ گے، پھر ضرور تمہیں بتایا جائے گا کہ تم نے (دنیا میں) کیا کچھ کیا ہے، اور ایسا کرنا اللہ کے لیے بہت آسان ہے
+
+---
+
+## 🇬🇧 English
+
+Those who disbelieve have claimed that they will never be resurrected. Say, "Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allah, is easy
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کوئی مصیبت اپنے آپ نہیں آتی، ہر مصیبت خدا کی طرف سے آتی ہے۔ اور اس لیے آتی ہے کہ اس کے ذریعہ سے انسان کو ہدایت عطا کی جائے۔ مصیبت آدمی کے دل کو نرم کرتی ہے۔ اور اس کی سوئی ہوئی نفسیات میں ہلچل پیدا کرتی ہے۔ مصیبت کے جھٹکے آدمی کے ذہن کو جگانے کا کام کرتے ہیں۔ اگر آدمی اپنے آپ کو منفی رد عمل سے بچائے تو مصیبت اس کے لیے بہترین ربانی معلم بن جائے گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[64_6: The Mutual Disillusion التغابن]]
+- **Next:** [[64_8: The Mutual Disillusion التغابن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

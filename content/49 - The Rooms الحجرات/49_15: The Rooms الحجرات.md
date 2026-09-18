@@ -1,0 +1,50 @@
+---
+surah: 49 / 114
+surah_name: The Rooms / الحجرات / حجرے
+ayah: 15 / 18
+type: medinan
+tags: ["iman", "conflict", "sidq", "wealth"]
+image: "/attachments/surah_049.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4627.mp3"></audio>
+**Next:** [[49_16: The Rooms الحجرات]]
+
+---
+
+## Arabic
+
+إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ أُوْلَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+حقیقت میں تو مومن وہ ہیں جو اللہ اور اُس کے رسول پر ایمان لائے پھر انہوں نے کوئی شک نہ کیا اور اپنی جانوں اور مالوں سے اللہ کی راہ میں جہاد کیا وہی سچے لوگ ہیں
+
+---
+
+## 🇬🇧 English
+
+The believers are only the ones who have believed in Allah and His Messenger and then doubt not but strive with their properties and their lives in the cause of Allah. It is those who are the truthful
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مدینہ کے اطراف میں کئی چھوٹے چھوٹے قبیلے تھے۔ یہ لوگ ہجرت کے بعد اسلام میں داخل ہوگئے مگر ان کا اسلام کسی گہرے ذہنی انقلاب کا نتیجہ نہ تھا۔ اللہ کی نظر میں اسلام پر ایمان لانے والا وہ ہے جو اسلام کو ایک ایسی حقیقت کے طور پر پائے جو اس کے دل کی گہرائیوں میں اتر جائے، جو لوگ اس خدا کے دین کو قبول کریں وہ ایک لازوال یقین کو پالیتے ہیں۔ وہ قربانی کی حد تک اس پر قائم رہنے کے لیے تیار رہتے ہیں۔
+آدمی کوئی اچھا کام کرے تو وہ اس کا اظہار کرنا ضروری سمجھتا ہے۔ حالانکہ اس قسم کا اظہار اس کے عمل کو باطل کردینے والا ہے۔ اچھا عمل حقیقۃً وہ ہے جو اللہ کے لیے کیا جائے۔ پھر اللہ جب خود ہر بات کو جانتا ہے تو اس کے اعلان و اظہار کی کیا ضرورت۔
+
+---
+
+## Connections
+
+- **Previous:** [[49_14: The Rooms الحجرات]]
+- **Next:** [[49_16: The Rooms الحجرات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

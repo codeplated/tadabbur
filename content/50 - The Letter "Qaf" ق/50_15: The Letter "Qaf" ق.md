@@ -1,0 +1,50 @@
+---
+surah: 50 / 114
+surah_name: The Letter "Qaf" / ق / قٓ
+ayah: 15 / 45
+type: meccan
+tags: ["resurrection", "human_creation"]
+image: "/attachments/surah_050.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4645.mp3"></audio>
+**Next:** [[50_16: The Letter "Qaf" ق]]
+
+---
+
+## Arabic
+
+أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ جَدِيدٖ
+
+---
+
+## 🇵🇰 Urdu
+
+کیا پہلی بار کی تخلیق سے ہم عاجز تھے؟ مگر ایک نئی تخلیق کی طرف سے یہ لوگ شک میں پڑے ہوئے ہیں
+
+---
+
+## 🇬🇧 English
+
+Did We fail in the first creation? But they are in confusion over a new creation
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+قرآن نے تاریخ کا جو تصور پیش کیا ہے، اس کے مطابق یہاں بار بار ایسا ہوا ہے کہ پیغمبروں کے انکار کے نتیجہ میں ان کی مخاطب قومیں ہلاک کردی گئیں۔ یہاں انہیں ہلاک شدہ قوموں میں سے کچھ قوموں کا ذکر بطور مثال فرمایا گیا ہے۔ قوموں کی یہ ہلاکت در اصل آخرت کا ایک حصہ ہے۔ منکرین حق کے لیے جو عذاب آخرت میں مقدر ہے اس کا ایک جزء اسی آج کی دنیا میں دکھا دیا جاتا ہے۔
+دنیا کی پہلی تخلیق اس کی دوسری تخلیق کے امکان کو ثابت کر رہی ہے۔ اگر آدمی سنجیدہ ہو تو آخرت کو ماننے کے لیے اس کے بعد اسے کسی اور دلیل کی ضرورت نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[50_14: The Letter "Qaf" ق]]
+- **Next:** [[50_16: The Letter "Qaf" ق]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,17 @@
+formulas:
+  surah_number: number(file.name.split("_")[0])
+views:
+  - type: cards
+    name: Surahs
+    filters:
+      and:
+        - file.name.contains("_1:")
+    order:
+      - file.name
+    sort:
+      - property: formula.surah_number
+        direction: ASC
+    rowHeight: tall
+    cardSize: 270
+    image: note.image
+    imageAspectRatio: 1

@@ -1,0 +1,49 @@
+---
+surah: 18 / 114
+surah_name: The Cave / الكهف / غار
+ayah: 82 / 110
+type: meccan
+tags: ["story_musa", "orphans", "rahmah", "qadr", "parents"]
+image: "/attachments/surah_018.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2222.mp3"></audio>
+**Next:** [[18_83: The Cave الكهف]]
+
+---
+
+## Arabic
+
+وَأَمَّا ٱلۡجِدَارُ فَكَانَ لِغُلَٰمَيۡنِ يَتِيمَيۡنِ فِي ٱلۡمَدِينَةِ وَكَانَ تَحۡتَهُۥ كَنزٞ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحٗا فَأَرَادَ رَبُّكَ أَن يَبۡلُغَآ أَشُدَّهُمَا وَيَسۡتَخۡرِجَا كَنزَهُمَا رَحۡمَةٗ مِّن رَّبِّكَۚ وَمَا فَعَلۡتُهُۥ عَنۡ أَمۡرِيۚ ذَٰلِكَ تَأۡوِيلُ مَا لَمۡ تَسۡطِع عَّلَيۡهِ صَبۡرٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اور اس دیوار کا معاملہ یہ ہے کہ یہ دو یتیم لڑکوں کی ہے جو اس شہر میں رہتے ہیں اس دیوار کے نیچے اِن بچّوں کے لیے ایک خزانہ مدفون ہے اور ان کا باپ ایک نیک آدمی تھا اس لیے تمہارے رب نے چاہا کہ یہ دونوں بچّے بالغ ہوں اور اپنا خزانہ نکال لیں یہ تمہارے رب کی رحمت کی بنا پرکیا گیا ہے، میں نے کچھ اپنے اختیار سے نہیں کر دیا ہے یہ ہے حقیقت اُن باتوں کی جن پر تم صبر نہ کر سکے
+
+---
+
+## 🇬🇧 English
+
+And as for the wall, it belonged to two orphan boys in the city, and there was beneath it a treasure for them, and their father had been righteous. So your Lord intended that they reach maturity and extract their treasure, as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of that about which you could not have patience
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+ان مثالوں سے اندازہ ہوتا ہے کہ خدا ہر وقت موجودہ دنیا کي نگرانی کررہا ہے۔ اس نے اگرچہ امتحان کی مصلحت کی بناپر اس دنیا کا نظام اسباب وعلل کے تحت قائم کررکھا ہے۔ مگر اسی کے ساتھ وہ اس نظام میں بار بار مداخلت کرتا رہتا ہے۔ خدا کہیں تعمیر کا طریقہ اختیار کرتاہے اور کہیں بظاہر تخریب کا۔ مگر وسیع تر مصلحت کے اعتبار سے سب اس کی رحمت ہوتی ہے۔ اور اس بات کا تیقن حاصل کرنا ہوتاہے کہ اسباب کی آزادانہ گردش میں تخلیق کے اصل مقاصد فوت نہ ہونے پائیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[18_81: The Cave الكهف]]
+- **Next:** [[18_83: The Cave الكهف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

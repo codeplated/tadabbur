@@ -1,0 +1,50 @@
+---
+surah: 22 / 114
+surah_name: The Pilgrimage / الحج / حج
+ayah: 61 / 78
+type: medinan
+tags: ["nature_signs"]
+image: "/attachments/surah_022.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2656.mp3"></audio>
+**Next:** [[22_62: The Pilgrimage الحج]]
+
+---
+
+## Arabic
+
+ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَأَنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ
+
+---
+
+## 🇵🇰 Urdu
+
+یہ اس لیے کہ رات سے دن اور دن سے رات نکالنے والا اللہ ہی ہے اور وہ سمیع و بصیر ہے
+
+---
+
+## 🇬🇧 English
+
+That is because Allah causes the night to enter the day and causes the day to enter the night and because Allah is Hearing and Seeing
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+دنیا کا نظام خاموش زبان میں انسان کو زبردست سبق دے رہاہے۔ یہاں بار بار ایسا ہوتا ہے کہ رات کی تاریکی آتی ہے اوروہ دن کو ڈھانک لیتی ہے۔ یہاں ہر روز دن آتا ہے اور رات کی تاریکی کو ختم کردیتا ہے۔ یہ تمثیل کی زبان میں اس حقیقت کا کائناتی اعلان ہے کہ ایک گروہ اگر شان وشوکت حاصل کيے ہوئے ہو تو اس کو اس غلط فہمی میں نہیں رہنا چاہيے کہ اس کی شان شوکت ختم ہونے والی نہیں۔ اسی طرح دوسرا گروہ مظلوم ہے تو اس کو بھی یہ خیال نہیں کرنا چاہيے کہ اس کی مظلومیت ہمیشہ باقی رہے گی۔
+جو خدا آسمانی دنیا میں روشنی کو تاریکی کے خانہ میںڈال دیتا ہے اور تاریکی کو روشنی کا روپ عطا کرتا ہے وہی خدا انسانی دنیا میں بھی اسی قسم کے واقعات رونما کرسکتا ہے۔ یہاں کوئی بھی طاقت نہیں جو خدا کو ایسا کرنے سے روک دے۔
+
+---
+
+## Connections
+
+- **Previous:** [[22_60: The Pilgrimage الحج]]
+- **Next:** [[22_62: The Pilgrimage الحج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

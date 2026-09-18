@@ -1,0 +1,49 @@
+---
+surah: 21 / 114
+surah_name: The Prophets / الأنبياء / پیغمبر
+ayah: 46 / 112
+type: meccan
+tags: ["warnings"]
+image: "/attachments/surah_021.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2529.mp3"></audio>
+**Next:** [[21_47: The Prophets الأنبياء]]
+
+---
+
+## Arabic
+
+وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةٞ مِّنۡ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور اگر تیرے رب کا عذاب ذرا سا انہیں چھو جائے تو ابھی چیخ اٹھیں کہ ہائے ہماری کم بختی، بے شک ہم خطا وار تھے
+
+---
+
+## 🇬🇧 English
+
+And if [as much as] a whiff of the punishment of your Lord should touch them, they would surely say, "O woe to us! Indeed, we have been wrongdoers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+’’وحی کے ذریعے ڈرانا‘‘ گویا دلیل کے ذریعہ لوگوں کو متنبہ کرنا ہے۔ حق کا داعی ہمیشہ دلیل کی زبان میں اپنی بات کو پیش کرتا ہے۔ اور دلیل ہی کی زبان میں لوگوں کو اسے پہچاننا پڑتا ہے۔ جو لوگ دلیل کے سامنے اندھے بہرے بنے رہیں، ان کی آنکھ صرف اس وقت کھلتی ہے جب کہ خدا کی طاقت کھلے طورپر ظاہر ہوجائے۔ اس وقت ہر سرکش اور متکبر فوراً مان لے گا۔ مگر اس وقت کا ماننا کسی کے کچھ کام نہ آئے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[21_45: The Prophets الأنبياء]]
+- **Next:** [[21_47: The Prophets الأنبياء]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

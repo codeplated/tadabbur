@@ -1,0 +1,50 @@
+---
+surah: 30 / 114
+surah_name: The Romans / الروم / روم
+ayah: 33 / 60
+type: meccan
+tags: ["dua", "shirk", "shukr"]
+image: "/attachments/surah_030.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3442.mp3"></audio>
+**Next:** [[30_34: The Romans الروم]]
+
+---
+
+## Arabic
+
+وَإِذَا مَسَّ ٱلنَّاسَ ضُرّٞ دَعَوۡاْ رَبَّهُم مُّنِيبِينَ إِلَيۡهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنۡهُ رَحۡمَةً إِذَا فَرِيقٞ مِّنۡهُم بِرَبِّهِمۡ يُشۡرِكُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+لوگوں کا حال یہ ہے کہ جب انہیں کوئی تکلیف پہنچتی ہے تو اپنے رب کی طرف رجوع کر کے اُسے پکارتے ہیں، پھر جب وہ کچھ اپنی رحمت کا ذائقہ انہیں چکھا دیتا ہے تو یکایک ان میں سے کچھ لوگ شرک کرنے لگتے ہیں
+
+---
+
+## 🇬🇧 English
+
+And when adversity touches the people, they call upon their Lord, turning in repentance to Him. Then when He lets them taste mercy from Him, at once a party of them associate others with their Lord
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+عام حالات میں آدمی اپنے کو بااختیار پاتاہے۔ اس ليے عام حالات میں وہ مصنوعی طورپر سرکش بنا رہتاہے۔ مگر جب نازک حالات اس کو اس کی بے بسی کا تجربہ کراتے ہیں، اس وقت اس کے ذہن کے پردے ہٹ جاتے ہیں۔ وہ اس وقت وہ اصلی انسان (man cut to size) بن جاتا ہے جو کہ وہ حقیقۃً ہے۔ اس وقت وہ اپنی عاجزانہ حیثیت کا اعتراف کرتے ہوئے خدا کو پکارنے لگتا ہے۔
+یہ نفسیات کی سطح پر توحید الٰہ کا ثبوت ہے۔ اس طرح انسان کو اس کے ذاتی تجربہ میں حقیقت کا چہرہ دکھایا جاتا ہے۔ مگر آدمی اتنا نادان ہے کہ جیسے ہی حالات بدلے وہ دوبارہ پہلے کی طرح غفلت اور سرکشی میں مبتلا ہوجاتاہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[30_32: The Romans الروم]]
+- **Next:** [[30_34: The Romans الروم]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

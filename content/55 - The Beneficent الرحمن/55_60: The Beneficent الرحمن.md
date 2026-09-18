@@ -1,0 +1,49 @@
+---
+surah: 55 / 114
+surah_name: The Beneficent / الرحمن / مہربان
+ayah: 60 / 78
+type: medinan
+tags: ["jannah", "ihsan"]
+image: "/attachments/surah_055.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4961.mp3"></audio>
+**Next:** [[55_61: The Beneficent الرحمن]]
+
+---
+
+## Arabic
+
+هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ
+
+---
+
+## 🇵🇰 Urdu
+
+نیکی کا بدلہ نیکی کے سوا اور کیا ہو سکتا ہے
+
+---
+
+## 🇬🇧 English
+
+Is the reward for good [anything] but good
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+و سیع تقسیم کے اعتبار سے جنت کے دو بڑے درجے ہیں۔ ان آیات میں دوباغوں والی جس جنت کا ذکر ہے وہ پہلے درجہ والی جنت ہے۔ اس جنت میں شاہانہ درجہ کی نعمتیں مہیا ہوں گی۔ یہ اعلی نعمتیں ان لوگوں کو ملیں گی جن پر اللہ کا فکر اتنا غالب ہوا کہ موجودہ دنیا میں ہی انہوں نے اپنے آپ کو اللہ کے سامنے کھڑا کرلیا۔ انہوں نے احسان کے درجہ میں اللہ سے تعلق کا ثبوت دیا۔
+
+---
+
+## Connections
+
+- **Previous:** [[55_59: The Beneficent الرحمن]]
+- **Next:** [[55_61: The Beneficent الرحمن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 58 / 114
+surah_name: The Pleading Woman / المجادلة / جھگڑنے والی
+ayah: 19 / 22
+type: medinan
+tags: ["shaytan", "dhikr", "nifaq"]
+image: "/attachments/surah_058.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5123.mp3"></audio>
+**Next:** [[58_20: The Pleading Woman المجادلة]]
+
+---
+
+## Arabic
+
+ٱسۡتَحۡوَذَ عَلَيۡهِمُ ٱلشَّيۡطَٰنُ فَأَنسَىٰهُمۡ ذِكۡرَ ٱللَّهِۚ أُوْلَـٰٓئِكَ حِزۡبُ ٱلشَّيۡطَٰنِۚ أَلَآ إِنَّ حِزۡبَ ٱلشَّيۡطَٰنِ هُمُ ٱلۡخَٰسِرُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+شیطان اُن پر مسلط ہو چکا ہے اور ا ُس نے خدا کی یاد اُن کے دل سے بھلا دی ہے وہ شیطان کی پارٹی کے لوگ ہیں خبردار ہو، شیطان کی پارٹی والے ہی خسارے میں رہنے والے ہیں
+
+---
+
+## 🇬🇧 English
+
+Satan has overcome them and made them forget the remembrance of Allah. Those are the party of Satan. Unquestionably, the party of Satan - they will be the losers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مفاد پرست آدمی جب دعوتِ حق کی مخالفت کرتا ہے تو وہ سمجھتا ہے کہ اس طرح وہ اپنے آپ کو محفوظ کر رہا ہے مگر اس وقت وہ دہشت زدہ ، ہوکر رہ جائے گا۔جب آخرت میں وہ دیکھے گا کہ جن چیزوں پر اس نے بھروسہ کر رکھا تھا وہ فیصلہ کے اس وقت میں اس کے کچھ کام آنے والی نہیں۔
+منافق آدمی اپنے موقف کو صحیح ثابت کرنے کے ليے بڑھ بڑھ کر باتیں کر تاہے۔ حتي کہ وہ قسمیں کھا کر اپنے اخلاص کا یقین دلاتا ہے۔ یہ سب کر کے وہ سمجھتا ہے کہ ’’ وہ کسی چیز پر ہے‘‘۔ اس نے اپنے حق میں کوئی واقعی بنیاد فراہم کرلی ہے۔ مگر قیامت کا دھماکہ جب حقیقتوں کو کھولے گا اس وقت وہ جان لے گا کہ یہ محض شیطان کے سکھائے ہوئے جھوٹے الفاظ تھے جن کو وہ اپنے بے قصور ہونے کا یقینی ثبوت سمجھتا رہا۔
+
+---
+
+## Connections
+
+- **Previous:** [[58_18: The Pleading Woman المجادلة]]
+- **Next:** [[58_20: The Pleading Woman المجادلة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

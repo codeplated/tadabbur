@@ -1,0 +1,49 @@
+---
+surah: 69 / 114
+surah_name: The Reality / الحاقة / حق ہونے والی
+ayah: 10 / 52
+type: meccan
+tags: ["prophethood", "history_lessons", "warnings"]
+image: "/attachments/surah_069.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5333.mp3"></audio>
+**Next:** [[69_11: The Reality الحاقة]]
+
+---
+
+## Arabic
+
+فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً
+
+---
+
+## 🇵🇰 Urdu
+
+ان سب نے اپنے رب کے رسول کی بات نہ مانی تو اُس نے اُن کو بڑی سختی کے ساتھ پکڑا
+
+---
+
+## 🇬🇧 English
+
+And they disobeyed the messenger of their Lord, so He seized them with a seizure exceeding [in severity]
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا امتحان کی مصلحت کے مطابق بنائی گئی ہے۔ جب امتحان کی مدت ختم ہوگی تو یہ دنیا توڑ کر نئی دنیا نئے تقاضوں کے مطابق بنائی جائے گی۔ خدا کا جلال آج بالواسطہ طور پر ظاہر ہورہا ہے، اس وقت خدا کا جلال براہ راست طور پر ظاہر ہوجائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[69_9: The Reality الحاقة]]
+- **Next:** [[69_11: The Reality الحاقة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

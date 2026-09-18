@@ -1,0 +1,49 @@
+---
+surah: 29 / 114
+surah_name: The Spider / العنكبوت / مکڑی
+ayah: 46 / 69
+type: meccan
+tags: ["ahl_al_kitab", "dawah", "speech_ethics", "tawheed"]
+image: "/attachments/surah_029.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3386.mp3"></audio>
+**Next:** [[29_47: The Spider العنكبوت]]
+
+---
+
+## Arabic
+
+۞وَلَا تُجَٰدِلُوٓاْ أَهۡلَ ٱلۡكِتَٰبِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ إِلَّا ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡۖ وَقُولُوٓاْ ءَامَنَّا بِٱلَّذِيٓ أُنزِلَ إِلَيۡنَا وَأُنزِلَ إِلَيۡكُمۡ وَإِلَٰهُنَا وَإِلَٰهُكُمۡ وَٰحِدٞ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور اہل کتاب سے بحث نہ کرو مگر عمدہ طریقہ سے، سوائے اُن لوگوں کے جو اُن میں سے ظالم ہوں، اور اُن سے کہو کہ "ہم ایمان لائے ہیں اُس چیز پر بھی جو ہماری طرف بھیجی گئی ہے اور اُس چیز پر بھی جو تمہاری طرف بھیجی گئی تھی، ہمارا خدا اور تمہارا خدا ایک ہی ہے اور ہم اُسی کے مُسلم (فرماں بردار) ہیں
+
+---
+
+## 🇬🇧 English
+
+And do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one; and we are Muslims [in submission] to Him
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+داعی کےلیے صحیح طریقہ یہ ہے کہ جو لوگ بحث کریں اور الجھیں ان سے وہ سلام کرکے جدا ہوجائے۔ اور جو لوگ سنجیدہ ہوں ان پر وہ امر حق کو واضح کرنے کی کوشش کرے۔ نیز یہ کہ دعوتی کلام کو حکیمانہ کلام ہونا چاہيے — اور حکیمانہ کلام کی ایک خاص پہچان یہ ہے کہ اس میں مدعو کی نفسیات کا پورا لحاظ کیاجاتاہے۔ داعی اپنی بات کو ایسے اسلوب سے کہتا ہے کہ مدعو اس کو اپنے دل کی بات سمجھے، نہ کہ غیر کی بات سمجھ کر اس سے متوحش ہوجائے۔ داعیانہ کلام ناصحانہ کلام ہوتا ہے، نہ کہ مناظرانہ کلام۔
+
+---
+
+## Connections
+
+- **Previous:** [[29_45: The Spider العنكبوت]]
+- **Next:** [[29_47: The Spider العنكبوت]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

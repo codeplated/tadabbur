@@ -1,0 +1,50 @@
+---
+surah: 22 / 114
+surah_name: The Pilgrimage / الحج / حج
+ayah: 30 / 78
+type: medinan
+tags: ["hajj", "shirk", "sidq", "prohibitions"]
+image: "/attachments/surah_022.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2625.mp3"></audio>
+**Next:** [[22_31: The Pilgrimage الحج]]
+
+---
+
+## Arabic
+
+ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ
+
+---
+
+## 🇵🇰 Urdu
+
+یہ تھا (تعمیر کعبہ کا مقصد) اور جو کوئی اللہ کی قائم کردہ حرمتوں کا احترام کرے تو یہ اس کے رب کے نزدیک خود اسی کے لیے بہتر ہے اور تمہارے لیے مویشی جانور حلال کیے گئے، ما سوا اُن چیزوں کے جو تمہیں بتائی جا چکی ہیں پس بتوں کی گندگی سے بچو، جھوٹی باتوں سے پرہیز کرو
+
+---
+
+## 🇬🇧 English
+
+That [has been commanded], and whoever honors the sacred ordinances of Allah - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock, except what is recited to you. So avoid the uncleanliness of idols and avoid false statement
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حلال کیا ہے اور حرام کیا ہے، کیا چیز مقدس ہے اور کیا چیز غیر مقدس، عبادت کے کون سے طریقے درست ہیں اور کون سے طریقے درست نہیں۔ یہ سب باتیں خدا نے اپنے پیغمبروں کے ذریعے واضح طورپر بتادی ہیں۔ ان میں کسی قسم کا تغیر وتبدل جائز نہیں۔ ہر تبدیلی جو بطور خود ان چیزوں میں کی جائے وہ اللہ کے نزدیک جھوٹ ہے، بلکہ وہ سب سے بڑا جھوٹ ہے۔ انسان کے لیے لازم ہے کہ ان چیزوں میں بالکل لفظی طورپر پیغمبرانہ تعلیمات کی پیروی کرے۔ وہ کسی حال میںان میں کوئی کمی بیشی نہ کرے۔
+یہ امور وہ ہیں جن کی حقیقت صرف خدا کو معلوم ہے۔ آدمی جب ان میں اپنی طرف سے کوئی بات کہتا ہے تو وہ ایسی چیز کے بارے میں اپنی واقفیت کا دعویٰ کرتا ہے جس کی اسے کوئی واقفیت نہیں۔ ظاہر ہے کہ یہ جھوٹ ہے، بلکہ اتنا بڑا جھوٹ ہے کہ اس سے بڑا جھوٹ اور کوئی نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[22_29: The Pilgrimage الحج]]
+- **Next:** [[22_31: The Pilgrimage الحج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

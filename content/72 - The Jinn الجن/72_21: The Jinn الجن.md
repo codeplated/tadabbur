@@ -1,0 +1,49 @@
+---
+surah: 72 / 114
+surah_name: The Jinn / الجن / جن
+ayah: 21 / 28
+type: meccan
+tags: ["story_muhammad", "prophethood", "qadr"]
+image: "/attachments/surah_072.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5468.mp3"></audio>
+**Next:** [[72_22: The Jinn الجن]]
+
+---
+
+## Arabic
+
+قُلۡ إِنِّي لَآ أَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا رَشَدٗا
+
+---
+
+## 🇵🇰 Urdu
+
+کہو، "میں تم لوگوں کے لئے نہ کسی نقصان کا اختیار رکھتا ہوں نہ کسی بھلائی کا
+
+---
+
+## 🇬🇧 English
+
+Say, "Indeed, I do not possess for you [the power of] harm or right direction
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا کا نظام امتحان کی مصلحت کے تحت بنایا گیا ہے۔ اسی لیے سچائی یہاں صرف پیغام رسانی کی حد تک سامنے لائی جاتی ہے۔ اگر امتحان کی مصلحت نہ ہو اور غیب کا پردہ ہٹا دیا جائے تو لوگ دیکھیں گے کہ فرشتوں سے لے کر جنات کے صالحین تک سب خدا کی خدائی کا اعتراف کر رہے ہیں اور ساری کائنات سراپا اس کی تصدیق بنی ہوئی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[72_20: The Jinn الجن]]
+- **Next:** [[72_22: The Jinn الجن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

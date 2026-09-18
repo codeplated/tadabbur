@@ -1,0 +1,49 @@
+---
+surah: 69 / 114
+surah_name: The Reality / الحاقة / حق ہونے والی
+ayah: 16 / 52
+type: meccan
+tags: ["akhirah", "nature_signs"]
+image: "/attachments/surah_069.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5339.mp3"></audio>
+**Next:** [[69_17: The Reality الحاقة]]
+
+---
+
+## Arabic
+
+وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ
+
+---
+
+## 🇵🇰 Urdu
+
+اُس دن آسمان پھٹے گا اور اس کی بندش ڈھیلی پڑ جائے گی
+
+---
+
+## 🇬🇧 English
+
+And the heaven will split [open], for that Day it is infirm
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا امتحان کی مصلحت کے مطابق بنائی گئی ہے۔ جب امتحان کی مدت ختم ہوگی تو یہ دنیا توڑ کر نئی دنیا نئے تقاضوں کے مطابق بنائی جائے گی۔ خدا کا جلال آج بالواسطہ طور پر ظاہر ہورہا ہے، اس وقت خدا کا جلال براہ راست طور پر ظاہر ہوجائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[69_15: The Reality الحاقة]]
+- **Next:** [[69_17: The Reality الحاقة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

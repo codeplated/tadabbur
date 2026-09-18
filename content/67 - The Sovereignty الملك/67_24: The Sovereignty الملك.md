@@ -1,0 +1,50 @@
+---
+surah: 67 / 114
+surah_name: The Sovereignty / الملك / ملک
+ayah: 24 / 30
+type: meccan
+tags: ["resurrection", "akhirah", "human_creation"]
+image: "/attachments/surah_067.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5265.mp3"></audio>
+**Next:** [[67_25: The Sovereignty الملك]]
+
+---
+
+## Arabic
+
+قُلۡ هُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اِن سے کہو، اللہ ہی ہے جس نے تمہیں زمین میں پھیلایا اور اسی کی طرف تم سمیٹے جاؤ گے
+
+---
+
+## 🇬🇧 English
+
+Say, "It is He who has multiplied you throughout the earth, and to Him you will be gathered
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+انسان کو سننے اور دیکھنے اور سوچنے کی صلاحیتیں دی گئی ہیں۔ اب کوئی انسان وہ ہے کہ جو کچھ سنا اسی پر چل پڑا، جو دیکھا اس کو بس اس کے ظاہر کے اعتبار سے مان لیا۔ جو بات ایک بار ذہن میں آگئی اسی پر جم گیا۔ یہ انسان وہ ہے جو جانور کی طرح سرجھکائے ہوئے بس ایک ڈگر پر چلا جا رہا ہے۔
+دوسرا انسان وہ ہے جو سنی ہوئی بات کی تحقیق کرے۔ جو دیکھی ہوئی بات کو مزید زیادہ صحت کے ساتھ جاننے کی کوشش کرے۔ جو اپنے ذاتی خول سے باہر نکل کر سچائی کو دریافت کرے۔ یہ دوسرا انسان وہ ہے جو سیدھا ہو کر ایک ہموار راستہ پر چلا جا رہا ہے— سمع و بصر و فواد کی صلاحیت آدمی کو اس لیے دی گئی ہے کہ وہ حق کو پہچانے، نہ یہ کہ وہ اندھے بہرے کی طرح اس سے بے خبر رہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[67_23: The Sovereignty الملك]]
+- **Next:** [[67_25: The Sovereignty الملك]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,49 @@
+---
+surah: 72 / 114
+surah_name: The Jinn / الجن / جن
+ayah: 5 / 28
+type: meccan
+tags: ["jinn", "sidq", "kufr"]
+image: "/attachments/surah_072.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5452.mp3"></audio>
+**Next:** [[72_6: The Jinn الجن]]
+
+---
+
+## Arabic
+
+وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبٗا
+
+---
+
+## 🇵🇰 Urdu
+
+اور یہ کہ "ہم نے سمجھا تھا کہ انسان اور جن کبھی خدا کے بارے میں جھوٹ نہیں بول سکتے
+
+---
+
+## 🇬🇧 English
+
+And we had thought that mankind and the jinn would never speak about Allah a lie
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+یہاں انسان کے سوا ایک اور مخلوق آباد ہے جس کو جن کہتے ہیں۔ انسان اس کو نہیں دیکھتا۔ قرآن میں ایک سے زیادہ مقام پر ان کا ذکر کیا گیا ہے۔ سورۃ جن کی ان آیات سے معلوم ہوتا ہے کہ جنوں میں بھی گمراہ اور ہدایت یاب دونوں قسم کے ہوتے ہیں۔ انسانوں میں جس طرح نادان رہنما عوام کو بہکاتے ہیں۔ اسی طرح جنوں میں بھی نادان رہنما ہیں۔ اور وہ پرفریب الفاظ بول کر انہیں راستہ سے بھٹکاتے رہتے ہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[72_4: The Jinn الجن]]
+- **Next:** [[72_6: The Jinn الجن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

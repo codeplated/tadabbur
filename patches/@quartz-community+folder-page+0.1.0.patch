@@ -1,0 +1,38 @@
+diff --git a/node_modules/@quartz-community/folder-page/dist/components/index.js b/node_modules/@quartz-community/folder-page/dist/components/index.js
+index add93a0..21172db 100644
+--- a/node_modules/@quartz-community/folder-page/dist/components/index.js
++++ b/node_modules/@quartz-community/folder-page/dist/components/index.js
+@@ -2813,9 +2813,13 @@ var FolderContent_default = ((opts) => {
+     const hastRoot = tree;
+     const content = hastRoot.children.length === 0 ? fileData?.description : htmlToJsx(hastRoot);
+     const pageListContent = PageList(listProps);
++    // Tadabbur: a folder with its own index note already says what it holds,
++    // in a deliberate order. Appending the raw file list under it repeats
++    // every page, sorted as text, and undoes the point of writing the index.
++    const hasOwnContent = hastRoot.children.length > 0;
+     return /* @__PURE__ */ u2("div", { class: "popover-hint", children: [
+       /* @__PURE__ */ u2("article", { class: classes, children: /* @__PURE__ */ u2("div", { class: "markdown-preview-view markdown-rendered", children: content }) }),
+-      /* @__PURE__ */ u2("div", { class: "page-listing", children: [
++      !hasOwnContent && /* @__PURE__ */ u2("div", { class: "page-listing", children: [
+         options.showFolderCount && /* @__PURE__ */ u2("p", { children: i18n(
+           cfg?.locale ?? "en-US"
+         ).pages.folderContent.itemsUnderFolder({
+diff --git a/node_modules/@quartz-community/folder-page/dist/index.js b/node_modules/@quartz-community/folder-page/dist/index.js
+index 09ec4e6..ec91f7f 100644
+--- a/node_modules/@quartz-community/folder-page/dist/index.js
++++ b/node_modules/@quartz-community/folder-page/dist/index.js
+@@ -2799,9 +2799,13 @@ var FolderContent_default = ((opts) => {
+     const hastRoot = tree;
+     const content = hastRoot.children.length === 0 ? fileData?.description : htmlToJsx(hastRoot);
+     const pageListContent = PageList(listProps);
++    // Tadabbur: a folder with its own index note already says what it holds,
++    // in a deliberate order. Appending the raw file list under it repeats
++    // every page, sorted as text, and undoes the point of writing the index.
++    const hasOwnContent = hastRoot.children.length > 0;
+     return /* @__PURE__ */ u2("div", { class: "popover-hint", children: [
+       /* @__PURE__ */ u2("article", { class: classes, children: /* @__PURE__ */ u2("div", { class: "markdown-preview-view markdown-rendered", children: content }) }),
+-      /* @__PURE__ */ u2("div", { class: "page-listing", children: [
++      !hasOwnContent && /* @__PURE__ */ u2("div", { class: "page-listing", children: [
+         options.showFolderCount && /* @__PURE__ */ u2("p", { children: i18n(
+           cfg?.locale ?? "en-US"
+         ).pages.folderContent.itemsUnderFolder({

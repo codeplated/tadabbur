@@ -1,0 +1,49 @@
+---
+surah: 74 / 114
+surah_name: The Cloaked One / المدثر / کپڑا اوڑھنے والا
+ayah: 31 / 56
+type: meccan
+tags: ["jahannam", "angels", "iman", "nifaq", "trial_test", "hidayah"]
+image: "/attachments/surah_074.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5526.mp3"></audio>
+**Next:** [[74_32: The Cloaked One المدثر]]
+
+---
+
+## Arabic
+
+وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ
+
+---
+
+## 🇵🇰 Urdu
+
+ہم نے دوزخ کے یہ کارکن فرشتے بنائے ہیں، اور ان کی تعداد کو کافروں کے لیے فتنہ بنا دیا ہے، تاکہ اہل کتاب کو یقین آ جائے اور ایمان لانے والوں کا ایمان بڑھے، اور اہل کتاب اور مومنین کسی شک میں نہ رہیں، اور دل کے بیمار اور کفار یہ کہیں کہ بھلا اللہ کا اِس عجیب بات سے کیا مطلب ہو سکتا ہے اِس طرح اللہ جسے چاہتا ہے گمراہ کر دیتا ہے اور جسے چاہتا ہے ہدایت بخش دیتا ہے اور تیرے رب کے لشکروں کو خود اُس کے سوا کوئی نہیں جانتا اور اس دوزخ کا ذکر اِس کے سوا کسی غرض کے لیے نہیں کیا گیا ہے کہ لوگوں کو اس سے نصیحت ہو
+
+---
+
+## 🇬🇧 English
+
+And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, "What does Allah intend by this as an example?" Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جہنم کے احوال جو قرآن میں بتائے گئے ہیں وہ سب اَن دیکھی دنیا سے تعلق رکھتے ہیں۔ جہنم میں 19 فرشتوں کا ہونا بھی اسی نوعیت کی چیز ہے۔ آدمی اگر موشگافی کرے تو یہ چیزیں اس کے شبہات میں اضافہ کریں گی۔ لیکن اگر مجمل ایمان کا طریقہ اختیار کیا جائے تو اس قسم کی باتوں سے آدمی کے خوفِ آخرت میں اضافہ ہوگا۔
+
+---
+
+## Connections
+
+- **Previous:** [[74_30: The Cloaked One المدثر]]
+- **Next:** [[74_32: The Cloaked One المدثر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

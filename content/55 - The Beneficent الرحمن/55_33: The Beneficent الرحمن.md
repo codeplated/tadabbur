@@ -1,0 +1,49 @@
+---
+surah: 55 / 114
+surah_name: The Beneficent / الرحمن / مہربان
+ayah: 33 / 78
+type: medinan
+tags: ["jinn", "akhirah", "qadr"]
+image: "/attachments/surah_055.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4934.mp3"></audio>
+**Next:** [[55_34: The Beneficent الرحمن]]
+
+---
+
+## Arabic
+
+يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ
+
+---
+
+## 🇵🇰 Urdu
+
+اے گروہ جن و انس، گر تم زمین اور آسمانوں کی سرحدوں سے نکل کر بھاگ سکتے ہو تو بھاگ دیکھو نہیں بھاگ سکتے اِس کے لیے بڑا زور چاہیے
+
+---
+
+## 🇬🇧 English
+
+O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah]
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا امتحان کی دنیا ہے۔ جب تک امتحان کی مدت ختم نہیں ہوتی ہر شخص سرکشی کرنے کے لیے آزاد ہے۔ مگر کامل آزادی کے باوجود کوئی جن و انس اس پر قادر نہیں کہ وہ کائنات کی حدود سے باہر چلا جائے۔ یہی واقعہ یہ ثابت کرنے کے لیے کافی ہے کہ انسان پوری طرح خدا کی گرفت میں ہے امتحان کی مدت ختم ہونے پر جب وہ لوگوں کو پکڑے گا تو کسی کے لیے ممکن نہ ہوگا کہ اس سے اپنے آپ کو بچا سکے۔
+
+---
+
+## Connections
+
+- **Previous:** [[55_32: The Beneficent الرحمن]]
+- **Next:** [[55_34: The Beneficent الرحمن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

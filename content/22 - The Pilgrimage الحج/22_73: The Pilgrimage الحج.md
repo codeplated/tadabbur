@@ -1,0 +1,50 @@
+---
+surah: 22 / 114
+surah_name: The Pilgrimage / الحج / حج
+ayah: 73 / 78
+type: medinan
+tags: ["o_mankind", "parables", "shirk", "animals"]
+image: "/attachments/surah_022.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2668.mp3"></audio>
+**Next:** [[22_74: The Pilgrimage الحج]]
+
+---
+
+## Arabic
+
+يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٞ فَٱسۡتَمِعُواْ لَهُۥٓۚ إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن يَخۡلُقُواْ ذُبَابٗا وَلَوِ ٱجۡتَمَعُواْ لَهُۥۖ وَإِن يَسۡلُبۡهُمُ ٱلذُّبَابُ شَيۡـٔٗا لَّا يَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ
+
+---
+
+## 🇵🇰 Urdu
+
+لوگو، ایک مثال دی جاتی ہے، غور سے سنو جن معبودوں کو تم خدا کو چھوڑ کر پکارتے ہو وہ سب مِل کر ایک مکھی بھی پیدا کرنا چاہیں تو نہیں کر سکتے بلکہ اگر مکھی ان سے کوئی چیز چھین لے جائے تو وہ اسے چھڑا بھی نہیں سکتے مدد چاہنے والے بھی کمزور اور جن سے مدد چاہی جاتی ہے وہ بھی کمزور
+
+---
+
+## 🇬🇧 English
+
+O people, an example is presented, so listen to it. Indeed, those you invoke besides Allah will never create [as much as] a fly, even if they gathered together for that purpose. And if the fly should steal away from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اللہ کے سوا کسی اور کو تقدس کا مقام دینا سراسر بے عقلی کی بات ہے۔ اس ليے مقدس مقام اس کو دیا جاتاہے جس کے اندر کوئی طاقت ہو۔ اور اس دنیا کا حال یہ ہے کہ یہاں کسی بھی انسان یا غیر انسان کو کوئی حقیقی طاقت حاصل نہیں۔ مکھی ایک انتہائی معمولی چیز ہے۔ مگر زمین و آسمان کی تمام چیزیں مل کر بھی ایک مکھی کو وجود میں نہیں لاسکتیں۔ پھر کسی غیر خدا کو مقدس سمجھنا کیوں کر درست ہوسکتا ہے۔
+اس قسم کے تمام عقیدے دراصل خدا کی خدائی کے کمتر اندازہ (underestimation)پر مبنی ہیں۔ لوگ خداکو مانتے ہیں مگر وہ اس کی عظمت وقدرت سے بے خبر ہیں۔ اگر وہ خدا کو ویسا مانیں جیساکہ اس کو ماننا چاہيے تو انھیں اپنے یہ تمام عقیدے مضحکہ خیر حد تک بے معنی معلوم ہوں۔ وہ خود ہی ایسے تمام عقیدوں سے دست بردار ہوجائیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[22_72: The Pilgrimage الحج]]
+- **Next:** [[22_74: The Pilgrimage الحج]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

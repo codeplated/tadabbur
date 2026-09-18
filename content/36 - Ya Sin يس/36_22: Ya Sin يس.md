@@ -1,0 +1,49 @@
+---
+surah: 36 / 114
+surah_name: Ya Sin / يس / یٰسٓ
+ayah: 22 / 83
+type: meccan
+tags: ["tawheed", "dawah"]
+image: "/attachments/surah_036.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3727.mp3"></audio>
+**Next:** [[36_23: Ya Sin يس]]
+
+---
+
+## Arabic
+
+وَمَالِيَ لَآ أَعۡبُدُ ٱلَّذِي فَطَرَنِي وَإِلَيۡهِ تُرۡجَعُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+آخر کیوں نہ میں اُس ہستی کی بندگی کروں جس نے مجھے پیدا کیا ہے اور جس کی طرف تم سب کو پلٹ کر جانا ہے؟
+
+---
+
+## 🇬🇧 English
+
+And why should I not worship He who created me and to whom you will be returned
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مردِ حق نے اپنی زندگی خطرہ میں ڈال کر پیغمبروں کی دعوت کی تائید کی تھی۔ اس کا یہ عمل اتنا قیمتی تھا کہ اس کے بعد اس کو جنت میں داخل کردیا گیا۔ جنت میں داخل ہونے کے بعد وہ اپنی ظالم قوم کو برا نہیں کہتا۔ بلکہ یہ تمنا کرتا ہے کہ کاش وہ لوگ میرا انجام جانتے تو وہ حق کے مخالف نہ بنتے۔ یہ سچے مومن کی تصویر ہے۔ مومن ہر حال میں لوگوں کا خیر خواہ ہوتاہے، خواہ لوگ اس کے ساتھ کیسا ہی ظالمانہ سلوک کریں۔
+
+---
+
+## Connections
+
+- **Previous:** [[36_21: Ya Sin يس]]
+- **Next:** [[36_23: Ya Sin يس]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

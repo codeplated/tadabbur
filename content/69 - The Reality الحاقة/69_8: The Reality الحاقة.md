@@ -1,0 +1,49 @@
+---
+surah: 69 / 114
+surah_name: The Reality / الحاقة / حق ہونے والی
+ayah: 8 / 52
+type: meccan
+tags: ["story_hud", "history_lessons"]
+image: "/attachments/surah_069.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5331.mp3"></audio>
+**Next:** [[69_9: The Reality الحاقة]]
+
+---
+
+## Arabic
+
+فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ
+
+---
+
+## 🇵🇰 Urdu
+
+اب کیا اُن میں سے کوئی تمہیں باقی بچا نظر آتا ہے؟
+
+---
+
+## 🇬🇧 English
+
+Then do you see of them any remains
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا امتحان کی مصلحت کے مطابق بنائی گئی ہے۔ جب امتحان کی مدت ختم ہوگی تو یہ دنیا توڑ کر نئی دنیا نئے تقاضوں کے مطابق بنائی جائے گی۔ خدا کا جلال آج بالواسطہ طور پر ظاہر ہورہا ہے، اس وقت خدا کا جلال براہ راست طور پر ظاہر ہوجائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[69_7: The Reality الحاقة]]
+- **Next:** [[69_9: The Reality الحاقة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

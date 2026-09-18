@@ -1,0 +1,49 @@
+---
+surah: 18 / 114
+surah_name: The Cave / الكهف / غار
+ayah: 52 / 110
+type: meccan
+tags: ["akhirah", "shirk"]
+image: "/attachments/surah_018.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2192.mp3"></audio>
+**Next:** [[18_53: The Cave الكهف]]
+
+---
+
+## Arabic
+
+وَيَوۡمَ يَقُولُ نَادُواْ شُرَكَآءِيَ ٱلَّذِينَ زَعَمۡتُمۡ فَدَعَوۡهُمۡ فَلَمۡ يَسۡتَجِيبُواْ لَهُمۡ وَجَعَلۡنَا بَيۡنَهُم مَّوۡبِقٗا
+
+---
+
+## 🇵🇰 Urdu
+
+پھر کیا کریں گے یہ لوگ اُس روز جبکہ اِن کا رب اِن سے کہے گا کہ پکارو اب اُن ہستیوں کو جنہیں تم میرا شریک سمجھ بیٹھے تھے یہ ان کو پکاریں گے، مگر وہ اِن کی مدد کو نہ آئیں گے اور ہم ان کے درمیان ایک ہی ہلاکت کا گڑھا مشترک کر دیں گے
+
+---
+
+## 🇬🇧 English
+
+And [warn of] the Day when He will say, "Call 'My partners' whom you claimed," and they will invoke them, but they will not respond to them. And We will put between them [a valley of] destruction
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+دنیا میں جن شخصیتوں کے بل پر آدمی حق کا انکار کرتاہے، قیامت میں وہ اس کے کچھ کام نہ آئیں گی۔ آج وہ ایک دوسرے کے ساتھی ہیں مگر جب حقائق کھلیں گے تو دونوں ایک دوسرے سے نفرت کرنے لگیں گے۔ ایسا معلوم ہوگا گویا دونوں کے درمیان ہلاکت خیز رکاوٹ قائم ہوگئی ہے۔ موجودہ دنیا میں وہ اپنے آپ کو مامون ومحفوظ سمجھتے ہیں۔ مگر قیامت میں ان کا انجام صرف یہ ہونے والا ہے کہ وہ اپنے آپ کو جہنم کے دروازے پر کھڑا ہوا پائیں اور اس سے بھاگنے کی کوئی تدبیر نہ کرسکیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[18_51: The Cave الكهف]]
+- **Next:** [[18_53: The Cave الكهف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

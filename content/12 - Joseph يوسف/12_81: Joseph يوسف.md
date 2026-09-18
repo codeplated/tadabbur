@@ -1,0 +1,49 @@
+---
+surah: 12 / 114
+surah_name: Joseph / يوسف / یوسف
+ayah: 81 / 111
+type: meccan
+tags: ["story_yusuf", "sidq"]
+image: "/attachments/surah_012.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/1677.mp3"></audio>
+**Next:** [[12_82: Joseph يوسف]]
+
+---
+
+## Arabic
+
+ٱرۡجِعُوٓاْ إِلَىٰٓ أَبِيكُمۡ فَقُولُواْ يَـٰٓأَبَانَآ إِنَّ ٱبۡنَكَ سَرَقَ وَمَا شَهِدۡنَآ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حَٰفِظِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+تم جا کر اپنے والد سے کہو کہ "ابا جان، آپ کے صاحبزادے نے چوری کی ہے ہم نے اسے چوری کرتے ہوئے نہیں دیکھا، جو کچھ ہمیں معلوم ہوا ہے بس وہی ہم بیان کر رہے ہیں، اور غیب کی نگہبانی تو ہم نہ کر سکتے تھے
+
+---
+
+## 🇬🇧 English
+
+Return to your father and say, "O our father, indeed your son has stolen, and we did not testify except to what we knew. And we were not witnesses of the unseen
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+حضرت یوسف کے سوتیلے بھائیوں میں غالباً ایک بھائی دوسروں سے مختلف تھا۔ اسی بھائی نے ابتدائی مرحلہ میں مشورہ دیا تھا کہ یوسف کوقتل نہ کرو بلکہ کسی اندھے کنوئیں میں ڈال دو تاکہ کوئی آتا جاتا قافلہ اس کو نکال لے جائے۔ یہی حال اب اس بھائی کا مصر میںہوا۔ وہ دوسرے بھائیوں سے الگ ہوگیا۔ اس کی غیرت نے گوارا نہیں کیا کہ جس باپ کے نزدیک وہ ایک بھائی کو کھونے کا مجرم بن چکا ہے، اسی باپ کے سامنے اب وہ دوسرے بھائی کو کھونے کا مجرم بن کر حاضر ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[12_80: Joseph يوسف]]
+- **Next:** [[12_82: Joseph يوسف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,49 @@
+---
+surah: 46 / 114
+surah_name: The Wind-Curved Sandhills / الأحقاف / ریگستان
+ayah: 25 / 35
+type: meccan
+tags: ["story_hud", "history_lessons", "warnings"]
+image: "/attachments/surah_046.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4535.mp3"></audio>
+**Next:** [[46_26: The Wind-Curved Sandhills الأحقاف]]
+
+---
+
+## Arabic
+
+تُدَمِّرُ كُلَّ شَيۡءِۭ بِأَمۡرِ رَبِّهَا فَأَصۡبَحُواْ لَا يُرَىٰٓ إِلَّا مَسَٰكِنُهُمۡۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+اپنے رب کے حکم سے ہر چیز کو تباہ کر ڈالے گا" آخرکار اُن کا حال یہ ہوا کہ اُن کے رہنے کی جگہوں کے سوا وہاں کچھ نظر نہ آتا تھا اِس طرح ہم مجرموں کو بدلہ دیا کرتے ہیں
+
+---
+
+## 🇬🇧 English
+
+Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+عذاب کے بادل کو عاد کے لوگ بارش کا بادل سمجھے۔ وہ اس کی حقیقت کو صرف اس وقت سمجھ سکے جب کہ عذاب کی آندھی نے ان کی بستیوں میں داخل ہو کر ان کو بالکل کھنڈر بنا دیا، انسان اتنا ظالم ہے کہ وہ ایک لمحہ پہلے تک بھی حق کا اعتراف نہیں کرتا۔ وہ صرف اس وقت اعتراف کرتا ہے جب کہ اعتراف کرنے کا موقع اس سے چھین ليا گیا ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[46_24: The Wind-Curved Sandhills الأحقاف]]
+- **Next:** [[46_26: The Wind-Curved Sandhills الأحقاف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

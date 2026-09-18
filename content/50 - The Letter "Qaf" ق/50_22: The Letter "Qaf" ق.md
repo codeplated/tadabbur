@@ -1,0 +1,49 @@
+---
+surah: 50 / 114
+surah_name: The Letter "Qaf" / ق / قٓ
+ayah: 22 / 45
+type: meccan
+tags: ["akhirah", "dunya"]
+image: "/attachments/surah_050.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/4652.mp3"></audio>
+**Next:** [[50_23: The Letter "Qaf" ق]]
+
+---
+
+## Arabic
+
+لَّقَدۡ كُنتَ فِي غَفۡلَةٖ مِّنۡ هَٰذَا فَكَشَفۡنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلۡيَوۡمَ حَدِيدٞ
+
+---
+
+## 🇵🇰 Urdu
+
+اِس چیز کی طرف سے تو غفلت میں تھا، ہم نے وہ پردہ ہٹا دیا جو تیرے آگے پڑا ہوا تھا اور آج تیری نگاہ خوب تیز ہے
+
+---
+
+## 🇬🇧 English
+
+[It will be said], "You were certainly in unmindfulness of this, and We have removed from you your cover, so your sight, this Day, is sharp
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+ان آیات میں موت اور اس کے بعد قیامت کا منظر کھینچا گیا ہے۔ بتایا گیا ہے کہ وہاں ان لوگوں پر کیا بیتے گی جو موجودہ امتحان کی دنیا میں اپنے کو آزاد پا کر سرکش بنے ہوئے تھے۔ حقیقت یہ ہے کہ یہ منظر کشی اتنی بھیانک ہے کہ زندہ آدمی کو تڑپا دینے کے لیے کافی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[50_21: The Letter "Qaf" ق]]
+- **Next:** [[50_23: The Letter "Qaf" ق]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

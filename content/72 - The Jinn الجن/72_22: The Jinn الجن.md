@@ -1,0 +1,49 @@
+---
+surah: 72 / 114
+surah_name: The Jinn / الجن / جن
+ayah: 22 / 28
+type: meccan
+tags: ["tawakkul", "story_muhammad", "tawheed"]
+image: "/attachments/surah_072.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5469.mp3"></audio>
+**Next:** [[72_23: The Jinn الجن]]
+
+---
+
+## Arabic
+
+قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدٞ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا
+
+---
+
+## 🇵🇰 Urdu
+
+کہو، "مجھے اللہ کی گرفت سے کوئی نہیں بچا سکتا اور نہ میں اُس کے دامن کے سوا کوئی جائے پناہ پا سکتا ہوں
+
+---
+
+## 🇬🇧 English
+
+Say, "Indeed, there will never protect me from Allah anyone [if I should disobey], nor will I find in other than Him a refuge
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا کا نظام امتحان کی مصلحت کے تحت بنایا گیا ہے۔ اسی لیے سچائی یہاں صرف پیغام رسانی کی حد تک سامنے لائی جاتی ہے۔ اگر امتحان کی مصلحت نہ ہو اور غیب کا پردہ ہٹا دیا جائے تو لوگ دیکھیں گے کہ فرشتوں سے لے کر جنات کے صالحین تک سب خدا کی خدائی کا اعتراف کر رہے ہیں اور ساری کائنات سراپا اس کی تصدیق بنی ہوئی ہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[72_21: The Jinn الجن]]
+- **Next:** [[72_23: The Jinn الجن]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

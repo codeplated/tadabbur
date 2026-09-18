@@ -1,0 +1,49 @@
+---
+surah: 32 / 114
+surah_name: The Prostration / السجدة / سجدہ
+ayah: 27 / 30
+type: meccan
+tags: ["nature_signs", "rizq", "animals"]
+image: "/attachments/surah_032.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3530.mp3"></audio>
+**Next:** [[32_28: The Prostration السجدة]]
+
+---
+
+## Arabic
+
+أَوَلَمۡ يَرَوۡاْ أَنَّا نَسُوقُ ٱلۡمَآءَ إِلَى ٱلۡأَرۡضِ ٱلۡجُرُزِ فَنُخۡرِجُ بِهِۦ زَرۡعٗا تَأۡكُلُ مِنۡهُ أَنۡعَٰمُهُمۡ وَأَنفُسُهُمۡۚ أَفَلَا يُبۡصِرُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+اور کیا اِن لوگوں نے یہ منظر کبھی نہیں دیکھا کہ ہم ایک بے آب و گیاہ زمین کی طرف پانی بہا لاتے ہیں، اور پھر اسی زمین سے وہ فصل اُگاتے ہیں جس سے ان کے جانوروں کو بھی چارہ ملتا ہے اور یہ خود بھی کھاتے ہیں؟ تو کیا انہیں کچھ نہیں سوجھتا؟
+
+---
+
+## 🇬🇧 English
+
+Have they not seen that We drive the water [in clouds] to barren land and bring forth thereby crops from which their livestock eat and [they] themselves? Then do they not see
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+قدیم مکہ میں مشرکین ہر اعتبار سے غالب اور سر بلند تھے اور اسلام ہر اعتبار سے پست اور مغلوب ہورہا تھا۔ چنانچہ مشرکین اسلام اور مسلمانوں کا مذاق اڑاتے تھے۔ اس کا جواب اللہ تعالیٰ نے ایک مثال کے ذریعہ دیا۔فرمایا، کیا تم خدا کی اس قدرت کو نہیں دیکھتے کہ ایک زمین بالکل خشک اور چٹیل پڑی ہوتی ہے۔ بظاہریہ ناممکن ہوتا ہے کہ وہ کبھی سرسبزوشاداب ہوسکے گی۔ مگراس کے بعد خدا بادلوں کو لاکر اس کے اوپر بارش برساتا ہے تو چند دن میں یہ حال ہوجاتا ہے کہ جہاں خاک اڑ رہی تھی وہاں سبزہ لہلہانے لگتاہے۔ خدا کی یہی قدرت یہ بھی کرسکتی ہے کہ اسلام کو اس طرح فروغ دے کہ وہی وقت کا غالب فکر بن جائے۔
+
+---
+
+## Connections
+
+- **Previous:** [[32_26: The Prostration السجدة]]
+- **Next:** [[32_28: The Prostration السجدة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

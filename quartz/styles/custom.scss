@@ -1,0 +1,337 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+:root {
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 16px;
+}
+
+// Core Quartz styles live in @layer quartz-base, so these win without
+// !important. Plugin CSS is unlayered and loads separately, so plugin
+// selectors below need !important to beat it.
+.text-highlight,
+a.internal,
+code,
+pre [data-highlighted-chars],
+input[type="checkbox"] {
+  border-radius: var(--radius-sm);
+}
+
+a.internal:has(> img) {
+  border-radius: var(--radius);
+}
+
+pre,
+figure[data-rehype-pretty-code-figure] > [data-rehype-pretty-code-title],
+img,
+audio,
+video,
+iframe,
+.external-embed.youtube,
+.callout,
+input,
+button,
+select,
+textarea {
+  border-radius: var(--radius);
+}
+
+.popover > .popover-inner,
+.popover > .popover-inner[data-content-type*="image"] img {
+  border-radius: var(--radius-lg);
+}
+
+blockquote {
+  border-radius: var(--radius-sm);
+}
+
+article .table-container,
+article table {
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.graph > .graph-outer,
+.graph > .global-graph-outer > .global-graph-container,
+.search > .search-container > .search-space > *:not(.ghost-text):not(.tag-suggestions),
+.search > .search-container > .search-space > .search-layout > div,
+.search > .search-container > .search-space > .tag-suggestions,
+.note-properties,
+.bases-card,
+.bases-board-column,
+.bases-gallery-item,
+.bases-table,
+.bases-empty,
+.bases-map-placeholder,
+#mermaid-container > #mermaid-space {
+  border-radius: var(--radius-lg) !important;
+}
+
+.graph > .graph-outer > .global-graph-icon,
+.search > .search-button,
+.search > .search-container > .search-space > .search-layout .highlight,
+.search
+  > .search-container
+  > .search-space
+  > .search-layout
+  > .results-container
+  .result-card
+  > ul
+  > li
+  > p,
+.note-properties .note-properties-tags .tag-link,
+.note-properties .note-properties-object code,
+.bases-table td code,
+.bases-board-card,
+.clipboard-button,
+.expand-button,
+#mermaid-container > #mermaid-space > .mermaid-controls,
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button,
+.search-scroll-target {
+  border-radius: var(--radius) !important;
+}
+
+.bases-board-column-header {
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0 !important;
+}
+
+// Cards are a.internal links, so they inherit the inline-link padding and the
+// global img margin/radius. Reset both so the image sits flush at the top and
+// the card's own rounded, overflow-hidden edge does the clipping.
+a.internal.bases-card {
+  padding: 0;
+}
+
+.bases-card .bases-card-image img {
+  margin: 0;
+  border-radius: 0;
+}
+
+// Surah thumbnails are square. The base file ships an `imageAspectRatio` that
+// bases-page writes as an inline style on the image wrapper, so overriding it
+// needs !important — otherwise a portrait ratio in the generated .base file
+// crops the top and bottom off every card.
+.bases-card .bases-card-image {
+  aspect-ratio: 1 !important;
+}
+
+.bases-card .bases-card-body {
+  flex: 1;
+  justify-content: center;
+}
+
+.bases-card .bases-card-meta:empty {
+  display: none;
+}
+
+// Notes mix English UI with Arabic/Urdu verse text. The page as a whole
+// stays ltr (nav, sidebar, search), but a paragraph that is purely Arabic
+// or Urdu needs its own direction detected from its content instead of
+// inheriting ltr from the page, or it renders right-to-left characters
+// correctly reordered but still flush against the left margin.
+article {
+  p,
+  li,
+  blockquote,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  td,
+  th {
+    unicode-bidi: plaintext;
+  }
+}
+
+// The ScriptLang transformer tags Arabic-script text as lang="ar" or
+// lang="ur" on every page. Anything it can't reach (sidebar, page title,
+// search) falls back from the Latin fonts to the Arabic font.
+:root {
+  // "Noto Emoji" is the monochrome cut, and it holds no Latin or Arabic
+  // glyphs, so sitting last it only catches what the text fonts lack: an
+  // emoji a reader typed renders as a glyph in the surrounding text colour
+  // instead of the system's colour artwork.
+  --arabicFont: "Scheherazade New", "Noto Naskh Arabic", "Noto Emoji", serif;
+  --urduFont: "Noto Nastaliq Urdu", "Noto Naskh Arabic", "Noto Emoji", serif;
+  --headerFont: "Lora", "Scheherazade New", Georgia, "Noto Emoji", serif;
+  --bodyFont: "Literata", "Scheherazade New", Georgia, "Noto Emoji", serif;
+  --titleFont: var(--headerFont);
+}
+
+[lang="ar"] {
+  font-family: var(--arabicFont);
+}
+
+[lang="ur"] {
+  font-family: var(--urduFont);
+}
+
+// Inline runs inside Latin text. Line-height stays under the block's so one
+// Arabic word doesn't stretch the line it sits on, but Nastaliq needs enough
+// room that a run wrapping onto its own line doesn't collide with the line
+// above it — as happens in the narrow topic table on the front page.
+span[lang="ar"] {
+  font-size: 1.15em;
+  line-height: 1.4;
+}
+
+span[lang="ur"] {
+  line-height: 1.7;
+}
+
+:root[saved-theme="dark"] {
+  color-scheme: dark;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+article {
+  p,
+  li {
+    font-size: 1.05rem;
+    line-height: 1.8;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  hr {
+    margin: 2.5rem auto;
+  }
+
+  // Nastaliq stacks letters diagonally and needs far more vertical room
+  // than Naskh or Latin, or ascenders collide with the line above.
+  :is(p, li, td, th, dd)[lang="ar"] {
+    font-size: 1.5rem;
+    line-height: 2.1;
+  }
+
+  :is(p, li, td, th, dd)[lang="ur"] {
+    font-size: 1.2rem;
+    line-height: 2.5;
+  }
+
+  :is(h1, h2, h3, h4, h5, h6)[lang="ur"] {
+    line-height: 2.2;
+  }
+
+  // Verse-sized Arabic belongs in body text, not in an index table: a column
+  // is narrow, so 1.5rem forces a short cell like a root (ح-ي-و) to break
+  // across lines mid-word.
+  :is(td, th)[lang="ar"] {
+    font-size: 1.15rem;
+    line-height: 1.9;
+  }
+
+  :is(td, th)[lang="ur"] {
+    font-size: 1.05rem;
+    line-height: 2.1;
+  }
+
+  // A Latin block holding an inline Nastaliq run needs a taller line than its
+  // Latin text alone would: the run sets the font, but the line box comes from
+  // the block. Without this, a run that wraps onto its own line — as in the
+  // narrow topic table on the front page — sits on the line above it.
+  :is(p, li, td, th, dd):not([lang]):has(span[lang="ur"]) {
+    line-height: 2.4;
+  }
+
+  :is(p, li, h1, h2, h3, h4, h5, h6, td, th, dd)[lang] {
+    direction: rtl;
+    text-align: right;
+  }
+
+  // The verse itself gets extra size; same font as all other Arabic.
+  h2#arabic + p[lang="ar"] {
+    font-size: 1.9rem;
+    line-height: 2.2;
+    color: var(--dark);
+  }
+}
+
+// Logo above the site title, drawn with masks so it takes the theme colors.
+// The shapes mirror quartz/static/logo.svg: the book on its rahl stand is
+// one layer, the crescent and star another, so each can move on hover.
+$logo-book: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M32 27 C26 23 17 23 9 26 V46 C17 43 26 43 32 47 C38 43 47 43 55 46 V26 C47 23 38 23 32 27 Z'/%3E%3Cpath d='M32 27 V47'/%3E%3Cpath stroke-width='2' d='M14.5 32 C18.5 31 22.5 31 26.5 32.5 M14.5 37.5 C18.5 36.5 22.5 36.5 26.5 38 M37.5 32.5 C41.5 31 45.5 31 49.5 32 M37.5 38 C41.5 36.5 45.5 36.5 49.5 37.5'/%3E%3Cpath d='M21 47 L43 60 M43 47 L21 60'/%3E%3C/svg%3E";
+$logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath d='M30.94 5.08 A7 7 0 1 0 38.62 14.29 A6 6 0 0 1 30.94 5.08 Z'/%3E%3Cpath d='M43 3 Q43.7 6.3 47 7 Q43.7 7.7 43 11 Q42.3 7.7 39 7 Q42.3 6.3 43 3 Z'/%3E%3C/svg%3E";
+
+.page-title {
+  --logo-size: 4.2rem;
+
+  @media all and ($mobile) {
+    --logo-size: 3rem;
+  }
+
+  a {
+    position: relative;
+    display: inline-block;
+    padding-top: calc(var(--logo-size) + 0.3rem);
+  }
+
+  a::before,
+  a::after {
+    content: "";
+    position: absolute;
+    left: -0.55rem;
+    top: 0;
+    width: var(--logo-size);
+    height: var(--logo-size);
+    mask-repeat: no-repeat;
+    mask-size: 100% 100%;
+    transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  a::before {
+    mask-image: url($logo-book);
+    background-color: var(--secondary);
+    transform-origin: 50% 85%;
+  }
+
+  a::after {
+    mask-image: url($logo-light);
+    background-color: var(--tertiary);
+    transform-origin: 58% 14%;
+    animation: logo-glow 4s ease-in-out infinite;
+  }
+
+  a:hover::before,
+  a:focus-visible::before {
+    transform: rotate(-6deg) scale(1.05);
+  }
+
+  a:hover::after,
+  a:focus-visible::after {
+    transform: translateY(-3px) rotate(-12deg) scale(1.08);
+    animation-play-state: paused;
+  }
+}
+
+@keyframes logo-glow {
+  0%,
+  70%,
+  100% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 0.55;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-title a::before,
+  .page-title a::after {
+    animation: none;
+    transition: none;
+  }
+}

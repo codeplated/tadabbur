@@ -1,0 +1,49 @@
+---
+surah: 74 / 114
+surah_name: The Cloaked One / المدثر / کپڑا اوڑھنے والا
+ayah: 6 / 56
+type: meccan
+tags: ["ikhlas", "zakat", "prohibitions"]
+image: "/attachments/surah_074.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5501.mp3"></audio>
+**Next:** [[74_7: The Cloaked One المدثر]]
+
+---
+
+## Arabic
+
+وَلَا تَمۡنُن تَسۡتَكۡثِرُ
+
+---
+
+## 🇵🇰 Urdu
+
+اور احسان نہ کرو زیادہ حاصل کرنے کے لیے
+
+---
+
+## 🇬🇧 English
+
+And do not confer favor to acquire more
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+اس دنیا میں اصل پیغمبرانہ کام انذار ہے۔ یعنی آخرت میں پیش آنے والے سنگین مسئلہ سے لوگوں کو آگاہ کرنا۔ یہ کام وہی شخص کرسکتا ہے، جس کا دل اللہ کی بڑائی سے لبریز ہو۔ جو اچھے اخلاق کا مالک ہو۔ جو ہر قسم کی برائی سے دور ہو۔ جو بدلہ کی امید کے بغیر نیکی کرے۔ جو دوسروں کی طرف سے پیش آنے والی تکلیفوں پر یک طرفہ صبر کرسکے۔
+
+---
+
+## Connections
+
+- **Previous:** [[74_5: The Cloaked One المدثر]]
+- **Next:** [[74_7: The Cloaked One المدثر]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 30 / 114
+surah_name: The Romans / الروم / روم
+ayah: 35 / 60
+type: meccan
+tags: ["shirk"]
+image: "/attachments/surah_030.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/3444.mp3"></audio>
+**Next:** [[30_36: The Romans الروم]]
+
+---
+
+## Arabic
+
+أَمۡ أَنزَلۡنَا عَلَيۡهِمۡ سُلۡطَٰنٗا فَهُوَ يَتَكَلَّمُ بِمَا كَانُواْ بِهِۦ يُشۡرِكُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+کیا ہم نے کوئی سند اور دلیل ان پر نازل کی ہے جو شہادت دیتی ہو اس شرک کی صداقت پر جو یہ کر رہے ہیں؟
+
+---
+
+## 🇬🇧 English
+
+Or have We sent down to them an authority, and it speaks of what they were associating with Him
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+عام حالات میں آدمی اپنے کو بااختیار پاتاہے۔ اس ليے عام حالات میں وہ مصنوعی طورپر سرکش بنا رہتاہے۔ مگر جب نازک حالات اس کو اس کی بے بسی کا تجربہ کراتے ہیں، اس وقت اس کے ذہن کے پردے ہٹ جاتے ہیں۔ وہ اس وقت وہ اصلی انسان (man cut to size) بن جاتا ہے جو کہ وہ حقیقۃً ہے۔ اس وقت وہ اپنی عاجزانہ حیثیت کا اعتراف کرتے ہوئے خدا کو پکارنے لگتا ہے۔
+یہ نفسیات کی سطح پر توحید الٰہ کا ثبوت ہے۔ اس طرح انسان کو اس کے ذاتی تجربہ میں حقیقت کا چہرہ دکھایا جاتا ہے۔ مگر آدمی اتنا نادان ہے کہ جیسے ہی حالات بدلے وہ دوبارہ پہلے کی طرح غفلت اور سرکشی میں مبتلا ہوجاتاہے۔
+
+---
+
+## Connections
+
+- **Previous:** [[30_34: The Romans الروم]]
+- **Next:** [[30_36: The Romans الروم]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

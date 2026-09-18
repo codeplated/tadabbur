@@ -1,0 +1,50 @@
+---
+surah: 62 / 114
+surah_name: The Congregation, Friday / الجمعة / جمعہ
+ayah: 10 / 11
+type: medinan
+tags: ["salah", "work_ethics", "dhikr", "rizq", "commands"]
+image: "/attachments/surah_062.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5187.mp3"></audio>
+**Next:** [[62_11: The Congregation, Friday الجمعة]]
+
+---
+
+## Arabic
+
+فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِي ٱلۡأَرۡضِ وَٱبۡتَغُواْ مِن فَضۡلِ ٱللَّهِ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+پھر جب نماز پوری ہو جائے تو زمین میں پھیل جاؤ اور اللہ کا فضل تلاش کرو اور اللہ کو کثرت سے یاد کرتے رہو، شاید کہ تمہیں فلاح نصیب ہو جائے
+
+---
+
+## 🇬🇧 English
+
+And when the prayer has been concluded, disperse within the land and seek from the bounty of Allah, and remember Allah often that you may succeed
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+یہ کسی آدمی کے نفاق کی علامت ہے کہ وہ بڑی بڑی باتیں کرے۔ اور قسم کھا کر اپنی بات کا یقین دلائے۔ مخلص آدمی اللہ کے خوف سے دبا ہوا ہوتا ہے۔ وہ زبان سے زیادہ دل سے بولتا ہے۔ منافق آدمی صرف انسان کو اپنی آواز سنانے کا مشتاق ہوتا ہے، اور مخلص آدمی خدا کو سنانے کا۔
+جب ایک شخص ایمان لاتا ہے تو وہ ایک سنجیدہ عہد کرتا ہے۔ اس کے بعد زندگی کے عملی مواقع آتے ہیں، جہاں ضرورت ہوتی ہے کہ وہ اس عہد کے مطابق عمل کرے۔ اب جو شخص ایسے مواقع پر اپنے دل کی آواز کو سن کر عہد کے تقاضے پورے کرے گا۔ اس نے اپنے عہد ایمان کو پختہ کیا۔ اس کے برعکس، جس کا یہ حال ہو کہ اس کے دل نے آوازدی مگر اس نے دل کی آواز کو نظر انداز کرکے عہد کے خلاف عمل کیا تو اس کا نتیجہ یہ ہوگا کہ وہ دھیرے دھیرے اپنے عہد ایمان کے معاملہ میں بے حس ہوجائے گا— یہی مطلب ہے دل پر مہر کرنےكا۔
+
+---
+
+## Connections
+
+- **Previous:** [[62_9: The Congregation, Friday الجمعة]]
+- **Next:** [[62_11: The Congregation, Friday الجمعة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

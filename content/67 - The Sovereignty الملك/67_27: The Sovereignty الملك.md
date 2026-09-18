@@ -1,0 +1,49 @@
+---
+surah: 67 / 114
+surah_name: The Sovereignty / الملك / ملک
+ayah: 27 / 30
+type: meccan
+tags: ["akhirah", "kufr"]
+image: "/attachments/surah_067.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5268.mp3"></audio>
+**Next:** [[67_28: The Sovereignty الملك]]
+
+---
+
+## Arabic
+
+فَلَمَّا رَأَوۡهُ زُلۡفَةٗ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ
+
+---
+
+## 🇵🇰 Urdu
+
+پھر جب یہ اُس چیز کو قریب دیکھ لیں گے تو اُن سب لوگوں کے چہرے بگڑ جائیں گے جنہوں نے انکار کیا ہے، اور اُس وقت ان سے کہا جائے گا کہ یہی ہے وہ چیز جس کے لیے تم تقاضے کر رہے تھے
+
+---
+
+## 🇬🇧 English
+
+But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, "This is that for which you used to call
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مخاطب جب دلیل سے نہ مانے تو داعی یقین کا کلمہ بول کر اس کے اندرون کو جھنجھوڑتا ہے۔ یہ آیتیں گویا اسی قسم کے یقین کے کلمات ہیں۔ آدمی کے اندر اگر کچھ بھی احساس زندہ ہو تو یہ آخری کلمات اس کو تڑپا دیتے ہیں۔ مگر جس شخص کا احساس بالکل بجھ چکا ہو وہ کسی تدبیر سے بھی نہیں جاگتا۔ وہ ’’پانی‘‘ کی قیمت کو صرف اس وقت تسلیم کرتا ہے جب کہ اس کو پانی سے محروم کرکے صحرا میں ڈال دیا گیا ہو۔
+
+---
+
+## Connections
+
+- **Previous:** [[67_26: The Sovereignty الملك]]
+- **Next:** [[67_28: The Sovereignty الملك]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

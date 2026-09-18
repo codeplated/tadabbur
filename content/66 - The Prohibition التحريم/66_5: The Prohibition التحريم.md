@@ -1,0 +1,49 @@
+---
+surah: 66 / 114
+surah_name: The Prohibition / التحريم / حرمت
+ayah: 5 / 12
+type: medinan
+tags: ["prophets_household", "women", "tawbah", "divorce"]
+image: "/attachments/surah_066.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5234.mp3"></audio>
+**Next:** [[66_6: The Prohibition التحريم]]
+
+---
+
+## Arabic
+
+عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَـٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَـٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا
+
+---
+
+## 🇵🇰 Urdu
+
+بعید نہیں کہ اگر نبیؐ تم سب بیویوں کو طلاق دیدے تو اللہ اسے ایسی بیویاں تمہارے بدلے میں عطا فرما دے جو تم سے بہتر ہوں، سچی مسلمان، با ایمان، اطاعت گزار، توبہ گزار، عبادت گزار، اور روزہ دار، خواہ شوہر دیدہ ہوں یا باکرہ
+
+---
+
+## 🇬🇧 English
+
+Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allah], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+بیویوں کے پیدا کردہ بعض اندرونی مسائل کی وجہ سے رسول اللہ صلی اللہ علیہ وسلم نے اپنے گھر میں یہ قسم کھالی کہ میں شہد نہیں کھاؤں گا۔ مگر پیغمبر کا عمل اس کی امت کے لیے نمونہ بن جاتا ہے، اس لیے اللہ تعالیٰ نے حکم دیا کہ آپ شرعی طریقہ کے مطابق کفارہ ادا کرکے اپنی قسم کو توڑ دیں۔ اور شہد نہ کھانے کے عہد سے اپنے آپ کو آزاد کرلیں۔ تاکہ ایسا نہ ہو کہ آئندہ آپ کے امتی اس کو تقوی کا معیار سمجھ کر شہد کھانے سے پرہیز کرنے لگیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[66_4: The Prohibition التحريم]]
+- **Next:** [[66_6: The Prohibition التحريم]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

@@ -1,0 +1,50 @@
+---
+surah: 18 / 114
+surah_name: The Cave / الكهف / غار
+ayah: 31 / 110
+type: meccan
+tags: ["jannah"]
+image: "/attachments/surah_018.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/2171.mp3"></audio>
+**Next:** [[18_32: The Cave الكهف]]
+
+---
+
+## Arabic
+
+أُوْلَـٰٓئِكَ لَهُمۡ جَنَّـٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَيَلۡبَسُونَ ثِيَابًا خُضۡرٗا مِّن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۚ نِعۡمَ ٱلثَّوَابُ وَحَسُنَتۡ مُرۡتَفَقٗا
+
+---
+
+## 🇵🇰 Urdu
+
+ان کے لیے سدا بہار جنتیں ہیں جن کے نیچے نہریں بہہ رہی ہوں گی، وہاں وہ سونے کے کنگنوں سے آراستہ کیے جائیں گے، باریک ریشم اور اطلس و دیبا کے سبز کپڑے پہنیں گے، اور اونچی مسندوں پر تکیے لگا کر بیٹھیں گے بہترین اجر اور اعلیٰ درجے کی جائے قیام
+
+---
+
+## 🇬🇧 English
+
+Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+جو لوگ گھمنڈ، مصلحت اور ظاہر پرستی سے خالی ہوتے ہیں، ان کا حال یہ ہوتا ہے کہ جب خدائی صداقت ان کے سامنے ظاہر ہوتی ہے تو وہ اس کو فوراً پہچان لیتے ہیں۔ خواہ وہ صداقت ان کے جیسے ایک انسان کی زبان سے کیوں نہ ظاہر ہوئی ہو۔
+وہ اپنے آپ کو حق کے آگے ڈال دیتے ہیں۔ وہ اپنی زندگی کو اس کے مطابق ڈھالنا شروع کردیتے ہیں، نہ کہ خود صداقت کو اپنی زندگی کے مطابق ڈھالنے لگیں۔ جو لوگ اس طرح حق پرستی کا ثبوت دیں وہ خدا کے محبوب بندے ہیں۔ان کو آخرت میں شاہانہ انعامات سے نوازا جائے گا۔
+
+---
+
+## Connections
+
+- **Previous:** [[18_30: The Cave الكهف]]
+- **Next:** [[18_32: The Cave الكهف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

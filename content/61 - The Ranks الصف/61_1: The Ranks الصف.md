@@ -1,0 +1,51 @@
+---
+surah: 61 / 114
+surah_name: The Ranks / الصف / صف
+ayah: 1 / 14
+type: medinan
+tags: ["dhikr", "tawheed", "nature_signs"]
+image: "/attachments/surah_061.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5164.mp3"></audio>
+**Next:** [[61_2: The Ranks الصف]]
+
+---
+
+## Arabic
+
+بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
+
+سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
+
+---
+
+## 🇵🇰 Urdu
+
+اللہ کی تسبیح کی ہے ہر اُس چیز نے جو آسمانوں اور زمین میں ہے، اور وہ غالب اور حکیم ہے
+
+---
+
+## 🇬🇧 English
+
+Whatever is in the heavens and whatever is on the earth exalts Allah, and He is the Exalted in Might, the Wise
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+انسان کے سوا جو کائنات ہے اس میں کہیں تضاد نہیں۔ اس دنیا میں لکڑی ہمیشہ لکڑی رہتی ہے۔ اور جو چیز اپنے آپ کو لوہا اور پتھر کے روپ میں ظاہر کرے وہ حقیقی تجربہ میں بھی لوہا اور پتھر ہی ثابت ہوتی ہے۔ انسان کو بھی ایسا ہی بننا چاہیے۔ انسان کے کہنے اور کرنے میں مطابقت ہونی چاہیے، حتی کہ اس وقت بھی جب کہ آدمی کو اپنے کہنے کی یہ قیمت دینی پڑے کہ ہر قسم کی دشواریوں کے باوجود وہ صبر کا پہاڑ بن جائے۔
+
+---
+
+## Connections
+
+- **Previous:** _(Start of Surah)_
+- **Next:** [[61_2: The Ranks الصف]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

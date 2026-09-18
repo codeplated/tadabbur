@@ -1,0 +1,49 @@
+---
+surah: 77 / 114
+surah_name: The Emissaries / المرسلات / بھیجی جانے والی ہوائیں
+ayah: 28 / 50
+type: meccan
+tags: ["warnings", "kufr"]
+image: "/attachments/surah_077.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5650.mp3"></audio>
+**Next:** [[77_29: The Emissaries المرسلات]]
+
+---
+
+## Arabic
+
+وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ
+
+---
+
+## 🇵🇰 Urdu
+
+تباہی ہے اُس روز جھٹلانے والوں کے لیے
+
+---
+
+## 🇬🇧 English
+
+Woe, that Day, to the deniers
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا کا نظام اس طرح بنایا گیا ہے کہ اس پر غور کرنے والا اس کے آئینہ میں آخرت کو دیکھ لیتا ہے۔ اس کے باوجود جو لوگ حق کو جھٹلاتے ہیں ان سے بڑا مجرم اور کوئی نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[77_27: The Emissaries المرسلات]]
+- **Next:** [[77_29: The Emissaries المرسلات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

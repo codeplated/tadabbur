@@ -1,0 +1,49 @@
+---
+surah: 76 / 114
+surah_name: The Man / الانسان / انسان
+ayah: 21 / 31
+type: medinan
+tags: ["jannah", "taharah"]
+image: "/attachments/surah_076.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5612.mp3"></audio>
+**Next:** [[76_22: The Man الانسان]]
+
+---
+
+## Arabic
+
+عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا
+
+---
+
+## 🇵🇰 Urdu
+
+اُن کے اوپر باریک ریشم کے سبز لباس اور اطلس و دیبا کے کپڑے ہوں گے، ان کو چاندی کے کنگن پہنا ئے جائیں گے، اور ان کا رب ان کو نہایت پاکیزہ شراب پلائے گا
+
+---
+
+## 🇬🇧 English
+
+Upon the inhabitants will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+یہ برتر جنت کا بیان ہے جہاں زیادہ برتر ایمان کا ثبوت دینے والے لوگ بسائے جائیں گے۔ اس جنت کے باشندوں کو شاہانہ نعمتیں حاصل ہوں گی۔
+
+---
+
+## Connections
+
+- **Previous:** [[76_20: The Man الانسان]]
+- **Next:** [[76_22: The Man الانسان]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

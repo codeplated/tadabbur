@@ -1,0 +1,49 @@
+---
+surah: 77 / 114
+surah_name: The Emissaries / المرسلات / بھیجی جانے والی ہوائیں
+ayah: 11 / 50
+type: meccan
+tags: ["akhirah", "prophethood"]
+image: "/attachments/surah_077.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5633.mp3"></audio>
+**Next:** [[77_12: The Emissaries المرسلات]]
+
+---
+
+## Arabic
+
+وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ
+
+---
+
+## 🇵🇰 Urdu
+
+اور رسولوں کی حاضری کا وقت آ پہنچے گا (اس روز وہ چیز واقع ہو جائے گی)
+
+---
+
+## 🇬🇧 English
+
+And when the messengers' time has come
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+موجودہ دنیا کا نظام اس طرح بنایا گیا ہے کہ اس پر غور کرنے والا اس کے آئینہ میں آخرت کو دیکھ لیتا ہے۔ اس کے باوجود جو لوگ حق کو جھٹلاتے ہیں ان سے بڑا مجرم اور کوئی نہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[77_10: The Emissaries المرسلات]]
+- **Next:** [[77_12: The Emissaries المرسلات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

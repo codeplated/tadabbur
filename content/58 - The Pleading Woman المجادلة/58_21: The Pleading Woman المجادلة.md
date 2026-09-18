@@ -1,0 +1,50 @@
+---
+surah: 58 / 114
+surah_name: The Pleading Woman / المجادلة / جھگڑنے والی
+ayah: 21 / 22
+type: medinan
+tags: ["qadr", "prophethood", "glad_tidings"]
+image: "/attachments/surah_058.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5125.mp3"></audio>
+**Next:** [[58_22: The Pleading Woman المجادلة]]
+
+---
+
+## Arabic
+
+كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
+
+---
+
+## 🇵🇰 Urdu
+
+اللہ نے لکھ دیا ہے کہ میں اور میرے رسول غالب ہو کر رہیں گے فی الواقع اللہ زبردست اور زور آور ہے
+
+---
+
+## 🇬🇧 English
+
+Allah has written, "I will surely overcome, I and My messengers." Indeed, Allah is Powerful and Exalted in Might
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+مفاد پرست آدمی جب دعوتِ حق کی مخالفت کرتا ہے تو وہ سمجھتا ہے کہ اس طرح وہ اپنے آپ کو محفوظ کر رہا ہے مگر اس وقت وہ دہشت زدہ ، ہوکر رہ جائے گا۔جب آخرت میں وہ دیکھے گا کہ جن چیزوں پر اس نے بھروسہ کر رکھا تھا وہ فیصلہ کے اس وقت میں اس کے کچھ کام آنے والی نہیں۔
+منافق آدمی اپنے موقف کو صحیح ثابت کرنے کے ليے بڑھ بڑھ کر باتیں کر تاہے۔ حتي کہ وہ قسمیں کھا کر اپنے اخلاص کا یقین دلاتا ہے۔ یہ سب کر کے وہ سمجھتا ہے کہ ’’ وہ کسی چیز پر ہے‘‘۔ اس نے اپنے حق میں کوئی واقعی بنیاد فراہم کرلی ہے۔ مگر قیامت کا دھماکہ جب حقیقتوں کو کھولے گا اس وقت وہ جان لے گا کہ یہ محض شیطان کے سکھائے ہوئے جھوٹے الفاظ تھے جن کو وہ اپنے بے قصور ہونے کا یقینی ثبوت سمجھتا رہا۔
+
+---
+
+## Connections
+
+- **Previous:** [[58_20: The Pleading Woman المجادلة]]
+- **Next:** [[58_22: The Pleading Woman المجادلة]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+

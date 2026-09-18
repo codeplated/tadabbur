@@ -1,0 +1,49 @@
+---
+surah: 79 / 114
+surah_name: Those who drag forth / النازعات / زور سے کھینچنے والے
+ayah: 28 / 46
+type: meccan
+tags: ["nature_signs"]
+image: "/attachments/surah_079.png"
+---
+<!-- GENERATED:START -->
+## 🔊 Recitation
+
+<audio controls src="https://cdn.islamic.app/quran/audio/ar.alafasy/5740.mp3"></audio>
+**Next:** [[79_29: Those who drag forth النازعات]]
+
+---
+
+## Arabic
+
+رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا
+
+---
+
+## 🇵🇰 Urdu
+
+اُس کی چھت خوب اونچی اٹھائی پھر اُس کا توازن قائم کیا
+
+---
+
+## 🇬🇧 English
+
+He raised its ceiling and proportioned it
+
+---
+
+## 🇵🇰 Tafsir — Bayan ul Quran
+
+کائنات کی صورت میں جو واقعہ ہمارے سامنے موجود ہے وہ اتنا زیادہ بڑا ہے کہ اس کے بعد ہر دوسرا واقعہ اس سے چھوٹا ہوجاتا ہے۔ پھر جس دنیا میں بڑے واقعہ کا ظہور ممکن ہو وہاں چھوٹے واقعہ کا ظہور کیوں ممکن نہ ہوگا۔ ایسی حالت میں قرآن کی یہ خبر کہ انسان کو دوبارہ پیدا ہونا ہے، ایک ایسی خبر ہے جس کو قابل فہم بنانے کے لیے پہلے ہی سے بہت بڑے پیمانے پر معلوم اسباب موجود ہیں۔
+
+---
+
+## Connections
+
+- **Previous:** [[79_27: Those who drag forth النازعات]]
+- **Next:** [[79_29: Those who drag forth النازعات]]
+- **Thematic:** *(add links here)*
+
+<!-- GENERATED:END -->
+## 📝 Tafsir Notes
+
