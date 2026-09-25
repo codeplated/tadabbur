@@ -11,7 +11,7 @@ quran_occurrences: 17
 tags: ["asma_ul_husna", "shukr", "dhikr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Hamid — ٱلْحَمِيد
+# Al-Hamid — ٱلْحَمِيد
 ### The Praiseworthy
 #### لائق تعریف
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "shukr", "dhikr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Hamid is intrinsically worthy of all praise — not because people praise Him, but because His nature is praiseworthy. He is the Praiseworthy even when unacknowledged — His praiseworthiness does not depend on anyone praising Him.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الحمید ذاتی طور پر تعریف کے لائق ہے — چاہے کوئی تعریف کرے یا نہ کرے۔ 'الحمد للہ' اسی کی طرف ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 The practice of Hamd — conscious, intentional praise — trains the heart to see goodness in every situation. Looking for what is praiseworthy in your circumstances is the worship of Al-Hamid.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_267: The Cow البقرة]]
-- [[4_131: The Women النساء]]
-- [[11_73: Hud هود]]
-- [[14_1: Abraham ابراهيم]]
-- [[14_8: Abraham ابراهيم]]
-- [[17_44: The Night Journey الإسراء]]
-- [[22_24: The Pilgrimage الحج]]
-- [[22_64: The Pilgrimage الحج]]
+- [[2_267]]
+- [[4_131]]
+- [[11_73]]
+- [[14_1]]
+- [[14_8]]
+- [[17_44]]
+- [[22_24]]
+- [[22_64]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[52 - Al-Haqq ٱلْحَقّ]]
 - [[53 - Al-Wakil ٱلْوَكِيل]]
@@ -64,5 +64,5 @@ The practice of Hamd — conscious, intentional praise — trains the heart to s
 - [[72 - Al-Muqaddim ٱلْمُقَدِّم]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

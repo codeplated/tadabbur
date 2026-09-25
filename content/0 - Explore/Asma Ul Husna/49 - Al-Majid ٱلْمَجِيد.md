@@ -11,7 +11,7 @@ quran_occurrences: 2
 tags: ["asma_ul_husna", "dhikr", "ihsan"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Majid — ٱلْمَجِيد
+# Al-Majid — ٱلْمَجِيد
 ### The Glorious · The Magnificent
 #### بزرگی والا
 
@@ -21,32 +21,32 @@ tags: ["asma_ul_husna", "dhikr", "ihsan"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Majid combines glory, honor, and nobility of character — magnificence that is both external and internal. The angels said 'He is Praiseworthy, Glorious' (11:73) when giving Ibrahim the glad tidings of Ishaq. His glory is not just power — it is noble character.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المجید وہ شان ہے جو باہر سے ظاہر بھی ہے اور اندر سے حقیقی بھی — عالی ظرفی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Al-Majid's glory is the ultimate standard of nobility. The closer you draw to Him, the more His nobility reflects in your character.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[11_73: Hud هود]]
-- [[85_15: The Mansions of the Stars البروج]]
+- [[11_73]]
+- [[85_15]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[37 - Al-Ali ٱلْعَلِيّ]]
 - [[38 - Al-Kabir ٱلْكَبِير]]
@@ -58,5 +58,5 @@ Al-Majid's glory is the ultimate standard of nobility. The closer you draw to Hi
 - [[55 - Al-Matin ٱلْمَتِين]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

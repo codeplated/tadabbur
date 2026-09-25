@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "trial_test", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Ad-Darr — ٱلضَّارّ
+# Ad-Darr — ٱلضَّارّ
 ### The Distresser · The Afflicter
 #### نقصان دینے والا
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "qadr", "trial_test", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Ad-Darr paired with An-Nafi' represents complete sovereignty over all outcomes. Whatever harm reaches any being, it comes only by His permission and within His plan. This prevents false attributions of harm to independent evil powers or chance. The One who permits harm is the same One who can remove it.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الضار نفع و نقصان دونوں پر مطلق اختیار رکھتا ہے۔ جو نقصان بھی پہنچے، اس کی اجازت سے ہے — یہ سمجھ شرک اور تشویش دونوں سے بچاتی ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Every hardship passed through Al-Darr's permission. It was not imposed by an independent evil power. The One who permits harm can also remove it.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[6_17: The Cattle الأنعام]]
-- [[7_188: The Heights الأعراف]]
-- [[10_107: Jonah يونس]]
-- [[13_11: The Thunder الرعد]]
-- [[21_83: The Prophets الأنبياء]]
+- [[6_17]]
+- [[7_188]]
+- [[10_107]]
+- [[13_11]]
+- [[21_83]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
@@ -61,5 +61,5 @@ Every hardship passed through Al-Darr's permission. It was not imposed by an ind
 - [[91 - Al-Mani' ٱلْمَانِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

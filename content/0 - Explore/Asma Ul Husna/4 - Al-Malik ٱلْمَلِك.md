@@ -11,7 +11,7 @@ quran_occurrences: 5
 tags: ["asma_ul_husna", "tawheed", "leadership", "akhirah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Malik — ٱلْمَلِك
+# Al-Malik — ٱلْمَلِك
 ### The Absolute Sovereign
 #### بادشاہ
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "tawheed", "leadership", "akhirah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Malik is the King whose dominion is absolute, unconditional, and eternal. Human kings borrow their authority, lose it, and die. Al-Malik owns everything inherently — nothing in creation exists outside His kingdom. On the Day of Judgment, all pretended sovereignties dissolve and only Al-Malik remains (40:16).
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 اللہ وہ بادشاہ ہے جس کی بادشاہت حقیقی اور ابدی ہے۔ دنیا کے بادشاہ عاریتی اقتدار رکھتے ہیں — اللہ کی ملکیت ذاتی اور مطلق ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel powerless before worldly authorities, Al-Malik reminds you that the ultimate authority rests elsewhere. No decree of any earthly king can override His.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[20_114: Ta-Ha طه]]
-- [[23_116: The Believers المؤمنون]]
-- [[59_23: The Exile الحشر]]
-- [[62_1: The Congregation, Friday الجمعة]]
-- [[114_2: Mankind الناس]]
+- [[20_114]]
+- [[23_116]]
+- [[59_23]]
+- [[62_1]]
+- [[114_2]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
 - [[9 - Al-Aziz ٱلْعَزِيز]]
@@ -61,5 +61,5 @@ When you feel powerless before worldly authorities, Al-Malik reminds you that th
 - [[92 - Ad-Darr ٱلضَّارّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

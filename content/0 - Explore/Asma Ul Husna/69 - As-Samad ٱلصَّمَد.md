@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "tawakkul", "dua"]
 ---
 <!-- GENERATED:START -->
-# ✨ As-Samad — ٱلصَّمَد
+# As-Samad — ٱلصَّمَد
 ### The Eternal Refuge · The Self-Sufficient Master
 #### بے نیاز
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "tawakkul", "dua"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 As-Samad is the most condensed name in Surah Al-Ikhlas: the One who is eternal and self-sufficient, whom all of creation needs and turns to, while He needs none of them. Ibn Abbas: 'the Master who is perfect in all His attributes, to whom all creation turns in their needs.'
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الصمد — ہر مخلوق اس کی محتاج ہے اور اسی کی طرف رجوع کرتی ہے، جبکہ وہ کسی کا محتاج نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Every need — spiritual, emotional, material — ultimately resolves only at As-Samad. People and circumstances are instruments; As-Samad is the real source. Turn to the source directly.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[112_2: The Sincerity الإخلاص]]
+- [[112_2]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[63 - Al-Hayy ٱلْحَيّ]]
 - [[64 - Al-Qayyum ٱلْقَيُّوم]]
@@ -57,5 +57,5 @@ Every need — spiritual, emotional, material — ultimately resolves only at As
 - [[97 - Al-Baqi ٱلْبَاقِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

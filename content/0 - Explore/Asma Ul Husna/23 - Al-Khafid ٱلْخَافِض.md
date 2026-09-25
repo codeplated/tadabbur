@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "kibr", "akhirah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Khafid — ٱلْخَافِض
+# Al-Khafid — ٱلْخَافِض
 ### The Reducer · The Abaser
 #### پست کرنے والا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "kibr", "akhirah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Khafid lowers and abases whomever He wills — the arrogant, the oppressor, the one who rises in pride. It is the divine counterweight to worldly arrogance: no elevation achieved through pride and transgression is permanent. Paired with Ar-Rafi' — He lowers some and raises others.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الخافض پست کرتا ہے — متکبرین کو، ظالمین کو۔ کوئی بھی ناجائز بلندی ہمیشہ نہیں رہتی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you see the arrogant thriving and the humble struggling, Al-Khafid reminds that all positions are temporary and divinely managed.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[56_3: The Inevitable الواقعة]]
+- [[56_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[10 - Al-Jabbar ٱلْجَبَّار]]
 - [[11 - Al-Mutakabbir ٱلْمُتَكَبِّر]]
@@ -57,5 +57,5 @@ When you see the arrogant thriving and the humble struggling, Al-Khafid reminds 
 - [[34 - Al-Azim ٱلْعَظِيم]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "grief_loss", "hope_raja", "oppression"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Jabbar — ٱلْجَبَّار
+# Al-Jabbar — ٱلْجَبَّار
 ### The Compeller · The Restorer
 #### جبر کرنے والا · ٹوٹے کو جوڑنے والا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "grief_loss", "hope_raja", "oppression"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Jabbar has a dual beauty: the One who compels all things to His will, AND the One who repairs what is broken — the same root gives 'jabira' (a splint that sets broken bones). Human tyrants are 'jabbar' in a negative sense; Allah's jabr is the compulsion that restores justice and heals the broken-hearted.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الجبار کے دو معنی ہیں: وہ جو ہر چیز کو اپنی مرضی پر مجبور کرتا ہے، اور وہ جو ٹوٹے ہوئے کو جوڑتا ہے۔ دنیا کے جبار ظالم ہوتے ہیں — اللہ کا جبر رحمت ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 If you are broken — by loss, betrayal, failure, illness — Al-Jabbar is the Divine Healer who sets broken things back together. You don't have to hold yourself together alone.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[59_23: The Exile الحشر]]
+- [[59_23]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
@@ -57,5 +57,5 @@ If you are broken — by loss, betrayal, failure, illness — Al-Jabbar is the D
 - [[92 - Ad-Darr ٱلضَّارّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

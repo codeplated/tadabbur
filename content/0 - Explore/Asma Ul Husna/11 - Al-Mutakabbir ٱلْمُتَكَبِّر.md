@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "kibr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mutakabbir — ٱلْمُتَكَبِّر
+# Al-Mutakabbir — ٱلْمُتَكَبِّر
 ### The Supremely Great
 #### بڑائی والا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "kibr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mutakabbir is the One whose greatness is absolute — He alone has the right to this attribute. When a human exhibits kibr (arrogance), it is a sin because they are claiming a quality that belongs only to Allah. A hadith qudsi states: 'Pride is My cloak and Greatness is My garment — whoever contests Me in either, I will punish.'
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المتکبر حقیقی معنوں میں بڑا ہے۔ انسان کا تکبر گناہ ہے کیونکہ وہ اللہ کی صفت میں شریک ہونے کی کوشش کرتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Whenever arrogance rises in you — about achievements, looks, status, or knowledge — Al-Mutakabbir is the reminder that true greatness belongs to One alone.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[59_23: The Exile الحشر]]
+- [[59_23]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
@@ -57,5 +57,5 @@ Whenever arrogance rises in you — about achievements, looks, status, or knowle
 - [[24 - Ar-Rafi' ٱلرَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

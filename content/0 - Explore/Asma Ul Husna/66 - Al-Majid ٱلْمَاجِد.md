@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "dua", "rizq", "hope_raja"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Majid — ٱلْمَاجِد
+# Al-Majid — ٱلْمَاجِد
 ### The Glorious · The Noble
 #### بزرگ
 
@@ -21,33 +21,33 @@ tags: ["asma_ul_husna", "dua", "rizq", "hope_raja"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Majid emphasizes Allah's inherent glory and magnanimity — His generosity flows naturally from His glory. He is too glorious to be stingy, too magnanimous to ignore the needy. His grandeur itself is the guarantor of His generosity.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الماجد بزرگی اور کرم کا مجموعہ ہے — اس کی شان سے کمینہ پن ناممکن ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Approach Al-Majid in dua with high expectations — His glory demands generosity. Do not limit your duas; His glory is not diminished by giving.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[11_73: Hud هود]]
-- [[85_15: The Mansions of the Stars البروج]]
-- [[85_21: The Mansions of the Stars البروج]]
+- [[11_73]]
+- [[85_15]]
+- [[85_21]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[53 - Al-Wakil ٱلْوَكِيل]]
 - [[54 - Al-Qawi ٱلْقَوِيّ]]
@@ -59,5 +59,5 @@ Approach Al-Majid in dua with high expectations — His glory demands generosity
 - [[73 - Al-Mu'akhkhir ٱلْمُؤَخِّر]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

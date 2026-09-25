@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "leadership", "tawakkul", "qadr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Wali — ٱلْوَالِي
+# Al-Wali — ٱلْوَالِي
 ### The Governor · The Ruler
 #### حاکم
 
@@ -21,33 +21,33 @@ tags: ["asma_ul_husna", "leadership", "tawakkul", "qadr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Wali (the Governor, different from Al-Wali the Friend) is the supreme administrator of all affairs. No system — celestial, biological, social, spiritual — operates independently of His governance. He actively governs every moment.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الوالی (حاکم) ہر چیز کا انتظام کرنے والا ہے۔ کوئی قانونِ فطرت بھی اس کی اجازت کے بغیر نہیں چلتا۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Nothing in your life is outside Al-Wali's administration. The systems and circumstances around you are managed by the supreme Governor — trust the governance.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[13_11: The Thunder الرعد]]
-- [[18_44: The Cave الكهف]]
-- [[42_28: The Consultation الشورى]]
+- [[13_11]]
+- [[18_44]]
+- [[42_28]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[70 - Al-Qadir ٱلْقَادِر]]
 - [[71 - Al-Muqtadir ٱلْمُقْتَدِر]]
@@ -59,5 +59,5 @@ Nothing in your life is outside Al-Wali's administration. The systems and circum
 - [[91 - Al-Mani' ٱلْمَانِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "knowledge"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Batin — ٱلْبَاطِن
+# Al-Batin — ٱلْبَاطِن
 ### The Hidden · The Innermost
 #### باطن
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "knowledge"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Batin is hidden — not perceivable by the senses, not containable within human concepts. Al-Zahir and Al-Batin together constitute the most profound paradox of divine reality: simultaneously the most evident reality in existence and the most hidden.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الباطن حواس سے پرے ہے۔ الظاہر اور الباطن ایک ساتھ: سب سے واضح اور سب سے پوشیدہ۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Al-Batin prevents you from thinking you have fully understood God. Every time you feel you've grasped His full reality, Al-Batin reminds you the deepest reality always exceeds the grasp.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[57_3: The Iron الحديد]]
+- [[57_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
 - [[51 - Ash-Shahid ٱلشَّهِيد]]
@@ -57,5 +57,5 @@ Al-Batin prevents you from thinking you have fully understood God. Every time yo
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

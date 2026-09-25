@@ -109,12 +109,23 @@ deploy. Patches keep the stock npm package and only store the diff.
 
 Existing patches:
 
-- `@quartz-community+graph+0.1.0.patch` — two fixes in the graph's inline
+- `@quartz-community+graph+0.1.0.patch` — three fixes in the graph's inline
   script: (1) decodes `window.location.pathname` so the current page is
   found when the slug contains Arabic (otherwise the local graph can't
   highlight the page you're on); (2) skips `.base` files when building the
   node set, so `Quran.base` isn't a graph hub. It matches on the `.base`
-  extension, so it covers any base file the generator emits.
+  extension, so it covers any base file the generator emits; (3) returns
+  before loading d3 and pixi.js when `(hover: none)` matches, so touch
+  devices don't pull ~700KB off a CDN and force-simulate 6,500 nodes for a
+  box no finger can usefully pan. `custom.scss` hides the empty frame under
+  the same query, so the two always agree — including when a tablet is
+  rotated.
+- `@quartz-community+explorer+0.1.0.patch` — the file tree scrolls its active
+  item into view on load with `scrollIntoView`, which scrolls every scrollable
+  ancestor, the document included. With 114 surah folders that opened each page
+  285px down on a tablet and 341px down on desktop, below the title. The patch
+  scrolls the tree's own container instead. (Phones were unaffected: their tree
+  is a fixed drawer, so there was nothing for the document to scroll.)
 - `@quartz-community+folder-page+0.1.0.patch` — the plugin always appends a
   raw file list under a folder's own page. Every surah folder now has an
   `index.md` that lists its ayaat in order, so the appended list repeated all
@@ -125,7 +136,9 @@ Existing patches:
   title list on tag pages. A tag page groups ayahs by surah in Quran order
   (from `surah`, `ayah`, `surah_name`), shows each as `surah:ayah` with its
   English translation and other tags, adds a surah jump bar, and lists
-  non-ayah pages (personalities, names) under "Related pages". The
+  non-ayah pages (personalities, names) under "Related pages", after the
+  ayaat — they used to come first, which on a phone put a couple of thousand
+  pixels of secondary content ahead of the verses the tag is about. The
   translation is the first line after the `English` heading, or frontmatter
   `description` if the generator sets one. `/tags` becomes an A–Z grid of
   tags with page counts. An intro for a tag comes from
@@ -146,7 +159,8 @@ Quartz update:
 | `quartz/plugins/transformers/index.ts` | Exports `ScriptLang` |
 | `quartz/plugins/loader/config-loader.ts` | Registers `ScriptLang` as a built-in transformer |
 | `quartz/components/Head.tsx` | Loads Scheherazade New, Noto Naskh Arabic, Noto Nastaliq Urdu and Noto Emoji from Google Fonts |
-| `quartz/styles/custom.scss` | All site styling, including the CSS-mask logo |
+| `quartz/components/scripts/popover.inline.ts` | `setupPopovers` returns early when `(hover: none)` matches. A tap fires `mouseenter`, so on a phone every link touched fetched and parsed the whole target page for a card that flashed up and was navigated away from |
+| `quartz/styles/custom.scss` | All site styling, including the CSS-mask logo and the phone/tablet layout |
 | `quartz/static/icon.png`, `logo.svg`, `og-image.png` | Tadabbur branding (og-image is the default social preview card) |
 
 The generator writes no emoji. For anything a reader types into a note, the
@@ -227,7 +241,9 @@ configuration:
 
 plugins:
   note-properties:
-    includeAll: true              # every generator field; hides tags and
+    includeAll: true              # every generator field; hides tags, image
+                                  # (a card thumbnail path, not something a
+                                  # reader needs above the verse) and
                                   # title/modified/socialImage (added by the plugin)
   obsidian-flavored-markdown:
     enableInHtmlEmbed: true       # required — notes contain <audio> HTML tags
@@ -256,6 +272,64 @@ Do not add audio files to this repo.
 
 ---
 
+## Mobile and Tablet
+
+Most readers open this site on a phone, so the small-screen layout is the one
+that has to be right. It all lives in the "Phones and tablets" section at the
+end of `quartz/styles/custom.scss`.
+
+Two kinds of media query are used there and they are **not** interchangeable:
+
+| Query                     | Means                                | Used for                                                       |
+| ------------------------- | ------------------------------------ | -------------------------------------------------------------- |
+| `($mobile)` / `($tablet)` | how much room there is               | layout: the app bar, grid columns, card columns, drawer        |
+| `(hover: none)`           | the reader is pointing with a finger | tap-target sizes, and anything that used to depend on hovering |
+
+A touch tablet in landscape is wide enough for the desktop layout but still
+needs finger-sized controls, which is why the two are kept apart. `--tap-target`
+(2.75rem) is the minimum for anything a finger has to hit; `--mobile-bar-height`
+(3.5rem) is the app bar, and the explorer drawer and every scroll anchor
+measure from it — change one and the other follows.
+
+What the section does, and why, so it doesn't get undone by accident:
+
+- **The app bar.** On mobile the left sidebar becomes a sticky row at the top
+  of the page. Stacking the logo above a 1.75rem title made it 179px tall —
+  a fifth of an iPhone screen, permanently, with the article scrolling
+  underneath it. It is now one 56px row: menu, logo beside the title, search,
+  theme. `scroll-padding-top` is tied to its height so heading links and the
+  tag-page jump bar don't land underneath it.
+- **The explorer drawer** is anchored below the bar rather than over it (the
+  menu button used to overlap its first rows), is `position: fixed` rather
+  than absolute at `100vw`, and locks the page behind it. Tree rows are
+  `--tap-target` tall on touch, in the drawer and the tablet sidebar alike.
+- **The graph is skipped on touch** (see Graph View).
+- **The right rail stacks** on a phone instead of splitting a 390px screen
+  between two widgets, and the backlink list no longer scrolls inside the
+  scrolling page.
+- **Full-screen UI uses `dvh`, never `vh`** — `100vh` counts browser chrome
+  that scrolls away.
+- **Search opens at the top of the screen** on mobile; at `12vh` the field and
+  most of its results sat behind the keyboard.
+- **Cards go two-up** on a phone and three-up on a tablet. One per row turned
+  the 114 surahs of `Quran.base` into a 48,000px scroll.
+- **A tag page's jump bar** becomes one swipeable row. Wrapped, a busy tag's
+  75 surah chips were 20 rows of them before the first ayah.
+- **A surah's ayah index becomes a grid of chips on touch.** The generator
+  writes the ayaat as a run of numbers separated by "·", which is around 12px
+  of tap target each, and it is the way into every ayah of the surah.
+
+Two of these key off headings the generator writes (`## Ayaat`,
+`## Connections`, `## Recitation`), in the same way the Arabic verse styling
+already keys off `## Arabic`. If those headings change, the styling stops
+applying and the page degrades to plain prose — it doesn't break.
+
+Check any layout change at 390px (phone), 768px and 820px (tablet, portrait —
+note 768 gets the _mobile_ layout and 820 the tablet one) and 1180px (tablet,
+landscape).
+
+---
+
 ## Graph View
 
 The graph renders all 6,500+ nodes using D3 force simulation.
@@ -268,7 +342,9 @@ If improving graph performance:
 - Do NOT increase node count or disable depth limiting
 - Test on mobile after any change — mobile is the primary bottleneck
 
-`.base` files are excluded from the graph via the graph patch (see above).
+`.base` files are excluded from the graph via the graph patch (see above),
+and the same patch skips the graph entirely on touch devices — so the
+numbers above only ever apply to a desktop browser with a pointer.
 
 ---
 
@@ -299,3 +375,7 @@ If improving graph performance:
 - Do not change `baseUrl` without also updating DNS and Cloudflare settings
 - Do not edit `quartz.ts`
 - Do not add a `prebuild` npm hook
+- Do not use `100vh` for full-screen mobile UI — use `100dvh`
+- Do not add chrome above the article on mobile without checking what it
+  costs above the fold; the app bar and page header are already most of a
+  phone screen before the first line of the verse

@@ -126,6 +126,14 @@ function clearActivePopover() {
 }
 
 function setupPopovers() {
+  // Popovers are a hover affordance. A tap on a phone fires mouseenter too, so
+  // every link the reader touches fetched and parsed the whole target page for
+  // a card that flashed up and was navigated away from — paid for on mobile
+  // data. Nothing on a touch device can hover, so nothing is lost by skipping.
+  if (window.matchMedia("(hover: none)").matches) {
+    return
+  }
+
   const links = [...document.querySelectorAll("a.internal")] as HTMLAnchorElement[]
   for (const link of links) {
     link.addEventListener("mouseenter", mouseEnterHandler)

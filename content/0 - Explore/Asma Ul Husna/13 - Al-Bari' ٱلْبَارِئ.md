@@ -11,7 +11,7 @@ quran_occurrences: 2
 tags: ["asma_ul_husna", "human_creation", "nature_signs"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Bari' — ٱلْبَارِئ
+# Al-Bari' — ٱلْبَارِئ
 ### The Originator · The Evolver
 #### بنانے والا
 
@@ -21,32 +21,32 @@ tags: ["asma_ul_husna", "human_creation", "nature_signs"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Bari' creates things distinct from one another — He individuates creation into unique forms. While Al-Khaliq emphasizes creation from nothing, Al-Bari' emphasizes that each thing is made distinct, with its own identity. No two faces, no two fingerprints, no two souls are alike.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الباری وہ ہے جو ہر چیز کو الگ اور منفرد بناتا ہے۔ کوئی دو چہرے، دو انگلیوں کے نشان، دو روحیں یکساں نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 You were created distinct from every other human who has ever lived. Al-Bari' did not make you a copy. Your uniqueness is not accidental — it is divinely intentional.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_54: The Cow البقرة]]
-- [[59_24: The Exile الحشر]]
+- [[2_54]]
+- [[59_24]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[12 - Al-Khaliq ٱلْخَالِق]]
 - [[14 - Al-Musawwir ٱلْمُصَوِّر]]
@@ -56,5 +56,5 @@ You were created distinct from every other human who has ever lived. Al-Bari' di
 - [[96 - Al-Badi' ٱلْبَدِيع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

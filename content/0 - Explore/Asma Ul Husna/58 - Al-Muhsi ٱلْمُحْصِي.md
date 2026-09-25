@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "akhirah", "knowledge", "taqwa"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Muhsi — ٱلْمُحْصِي
+# Al-Muhsi — ٱلْمُحْصِي
 ### The Reckoner · The Counter
 #### گننے والا
 
@@ -21,33 +21,33 @@ tags: ["asma_ul_husna", "akhirah", "knowledge", "taqwa"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Muhsi has counted and catalogued everything with perfect precision. 'He has enumerated all things in number' (72:28). Every sin and every good deed, no matter how small, is in His count — simultaneously sobering and reassuring.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المحصی نے ہر چیز گن رکھی ہے — 'اس نے ہر چیز کو گنتی سے ضبط کیا ہے' (72:28)۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel your small acts of goodness don't add up, Al-Muhsi's count includes every atom of good. And when you minimize your small sins, remember they are in His count too.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[19_94: Mary مريم]]
-- [[36_12: Ya Sin يس]]
-- [[72_28: The Jinn الجن]]
+- [[19_94]]
+- [[36_12]]
+- [[72_28]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[44 - Ar-Raqib ٱلرَّقِيب]]
 - [[46 - Al-Wasi' ٱلْوَاسِع]]
@@ -59,5 +59,5 @@ When you feel your small acts of goodness don't add up, Al-Muhsi's count include
 - [[94 - An-Nur ٱلنُّور]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

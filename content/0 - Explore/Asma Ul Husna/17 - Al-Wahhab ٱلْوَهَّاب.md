@@ -11,7 +11,7 @@ quran_occurrences: 3
 tags: ["asma_ul_husna", "dua", "rizq", "shukr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Wahhab — ٱلْوَهَّاب
+# Al-Wahhab — ٱلْوَهَّاب
 ### The Bestower · The Giver of Gifts
 #### بے حساب عطا کرنے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "dua", "rizq", "shukr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Wahhab gives freely, abundantly, and without any expectation of return. Unlike human giving which is often transactional, Al-Wahhab's gifts require nothing — no payment, no gratitude, no worthiness. Ibrahim asked for righteous children (3:38), Sulayman asked for an unrivalled kingdom (38:35) — both invoking Al-Wahhab.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الوہاب بغیر کسی معاوضے کے دیتا ہے — کثرت سے، بار بار۔ ابراہیم اور سلیمان علیہم السلام نے اسی نام سے دعا مانگی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel you have nothing to offer Allah in exchange for what you need, Al-Wahhab gives without requiring exchange. Your emptiness is not a barrier to His generosity.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_8: Family of Imran آل عمران]]
-- [[3_38: Family of Imran آل عمران]]
-- [[38_9: The Letter "Saad" ص]]
-- [[38_35: The Letter "Saad" ص]]
+- [[3_8]]
+- [[3_38]]
+- [[38_9]]
+- [[38_35]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
 - [[19 - Al-Fattah ٱلْفَتَّاح]]
@@ -60,5 +60,5 @@ When you feel you have nothing to offer Allah in exchange for what you need, Al-
 - [[93 - An-Nafi' ٱلنَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

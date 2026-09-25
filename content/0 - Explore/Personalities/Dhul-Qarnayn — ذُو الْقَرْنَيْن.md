@@ -7,32 +7,32 @@ era: "Ancient history — identity debated"
 tags: ["story_dhulqarnayn", "leadership", "adl", "akhirah"]
 ---
 <!-- GENERATED:START -->
-# 👤 Dhul-Qarnayn — ذُو الْقَرْنَيْن
+# Dhul-Qarnayn — ذُو الْقَرْنَيْن
 ### ذوالقرنین
 
 > **Also known as:** The Two-Horned One, Alexander (debated), Cyrus the Great (debated)
 
 ---
 
-## ✅ Path — Straight Path | صراط مستقیم
+## Path — Straight Path | صراط مستقیم
 
 **Reason:** Given power in the earth by Allah; used it with justice; built the barrier against Yajuj and Majuj; attributed all power to Allah
 
 ---
 
-## 📖 Story — English
+## Story — English
 
 A powerful ruler given dominion across the earth by Allah. He traveled to the west (where the sun sets in murky water), then to the east (where the sun rises on people with no shelter), then between two mountains where a people complained about the corruptors Yajuj and Majuj. He built an iron and copper barrier to contain them. His response when offered payment for building the barrier: 'What my Lord has established me in is better — but assist me with strength and I will make a barrier between you and them.' At every stage he attributed his power to Allah. He declared the barrier is from the mercy of his Lord, and when Allah's promise comes the barrier will be leveled.
 
 ---
 
-## 📖 کہانی — اردو
+## کہانی — اردو
 
 اللہ کا عطا کردہ عالمی حکمران۔ مغرب، مشرق اور دو پہاڑوں کے درمیان تک سفر کیا۔ یاجوج ماجوج کے خلاف لوہے اور تانبے کی دیوار بنائی۔ معاوضہ ٹھکرایا: 'اللہ نے جو دیا وہ بہتر ہے'۔ طاقت کو اللہ سے منسوب کیا۔
 
 ---
 
-## 💡 Lessons from the Quran
+## Lessons from the Quran
 
 1. Power given by Allah used justly — not for personal gain
 2. Refusing payment: 'What my Lord has given me is better'
@@ -41,32 +41,32 @@ A powerful ruler given dominion across the earth by Allah. He traveled to the we
 
 ---
 
-## 📍 Mentioned in Quran
+## Mentioned in Quran
 
-- [[18_83: The Cave الكهف]]
-- [[18_84: The Cave الكهف]]
-- [[18_85: The Cave الكهف]]
-- [[18_86: The Cave الكهف]]
-- [[18_87: The Cave الكهف]]
-- [[18_88: The Cave الكهف]]
-- [[18_89: The Cave الكهف]]
-- [[18_90: The Cave الكهف]]
-- [[18_91: The Cave الكهف]]
-- [[18_92: The Cave الكهف]]
-- [[18_93: The Cave الكهف]]
-- [[18_94: The Cave الكهف]]
-- [[18_95: The Cave الكهف]]
-- [[18_96: The Cave الكهف]]
-- [[18_97: The Cave الكهف]]
-- [[18_98: The Cave الكهف]]
-- [[18_99: The Cave الكهف]]
+- [[18_83]]
+- [[18_84]]
+- [[18_85]]
+- [[18_86]]
+- [[18_87]]
+- [[18_88]]
+- [[18_89]]
+- [[18_90]]
+- [[18_91]]
+- [[18_92]]
+- [[18_93]]
+- [[18_94]]
+- [[18_95]]
+- [[18_96]]
+- [[18_97]]
+- [[18_98]]
+- [[18_99]]
 
 ---
 
-## 🔗 Connected Personalities
+## Connected Personalities
 
 _No connections recorded._
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

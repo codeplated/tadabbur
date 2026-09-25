@@ -11,7 +11,7 @@ quran_occurrences: 95
 tags: ["asma_ul_husna", "rahmah", "tawbah", "hope_raja"]
 ---
 <!-- GENERATED:START -->
-# ✨ Ar-Rahim — ٱلرَّحِيم
+# Ar-Rahim — ٱلرَّحِيم
 ### The Most Merciful
 #### بار بار رحم کرنے والا
 
@@ -21,37 +21,37 @@ tags: ["asma_ul_husna", "rahmah", "tawbah", "hope_raja"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 While Ar-Rahman is the vast mercy given to all creation without condition, Ar-Rahim is the specific, focused mercy Allah reserves especially for the believers — particularly in the Hereafter. Ar-Rahman is the ocean; Ar-Rahim is the river directed toward those who turn to Him.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 رحیم وہ رحمت ہے جو بار بار آتی ہے اور خاص طور پر مومنوں کے لیے آخرت میں ظاہر ہوگی۔ رحمان عام ہے، رحیم خاص۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you repent after making a mistake, you are turning to Ar-Rahim — the mercy that comes back to you again and again, no matter how many times you fall.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[1_3: The Opener الفاتحة]]
-- [[2_37: The Cow البقرة]]
-- [[2_54: The Cow البقرة]]
-- [[2_128: The Cow البقرة]]
-- [[4_100: The Women النساء]]
-- [[33_43: The Combined Forces الأحزاب]]
-- [[48_14: The Victory الفتح]]
+- [[1_3]]
+- [[2_37]]
+- [[2_54]]
+- [[2_128]]
+- [[4_100]]
+- [[33_43]]
+- [[48_14]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[2 - Ar-Rahman ٱلرَّحْمَـٰن]]
 - [[15 - Al-Ghaffar ٱلْغَفَّار]]
@@ -63,5 +63,5 @@ When you repent after making a mistake, you are turning to Ar-Rahim — the merc
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

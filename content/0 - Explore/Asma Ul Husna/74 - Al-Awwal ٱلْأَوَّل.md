@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "time"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Awwal — ٱلْأَوَّل
+# Al-Awwal — ٱلْأَوَّل
 ### The First
 #### اول
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "time"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Awwal is the First — before Whom there is nothing. He has no beginning; He existed before existence itself. One of the four names in Surah Al-Hadid (57:3). Since He is The First, everything that exists came after Him and from His will.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الاول وہ ہے جس سے پہلے کچھ نہیں — نہ وجود، نہ وقت، نہ مکان۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Before every relationship, every possession, every opportunity — Al-Awwal was there. Everything came after Him and through Him. Start every endeavor by acknowledging Al-Awwal.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[57_3: The Iron الحديد]]
+- [[57_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[64 - Al-Qayyum ٱلْقَيُّوم]]
@@ -57,5 +57,5 @@ Before every relationship, every possession, every opportunity — Al-Awwal was 
 - [[97 - Al-Baqi ٱلْبَاقِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

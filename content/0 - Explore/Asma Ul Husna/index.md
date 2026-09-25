@@ -1,4 +1,4 @@
-# ✨ Asma ul Husna — The 99 Names
+# Asma ul Husna — The 99 Names
 
 **Total: 99**
 

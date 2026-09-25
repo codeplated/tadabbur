@@ -11,7 +11,7 @@ quran_occurrences: 8
 tags: ["asma_ul_husna", "nature_signs", "human_creation", "tawheed"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Khaliq — ٱلْخَالِق
+# Al-Khaliq — ٱلْخَالِق
 ### The Creator
 #### پیدا کرنے والا
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "nature_signs", "human_creation", "tawheed"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Khaliq creates from absolute nothingness — a creative act utterly unique to Allah. Human 'creation' is always a rearrangement of existing matter; Allah's creation is ex nihilo. The root also carries meaning of precision and measurement — everything He creates is exactly calibrated to its purpose.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الخالق وہ ہے جو عدم سے وجود بناتا ہے۔ انسان صرف موجود چیزوں کو بدلتا ہے — اللہ نیستی سے ہستی بناتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel like you have no resources to work with, Al-Khaliq creates from nothing. Your apparent emptiness is not a limitation on what He can build through you.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[6_102: The Cattle الأنعام]]
-- [[13_16: The Thunder الرعد]]
-- [[15_28: The Rocky Tract الحجر]]
-- [[23_14: The Believers المؤمنون]]
-- [[35_3: Originator فاطر]]
-- [[39_62: The Troops الزمر]]
-- [[40_62: The Forgiver غافر]]
-- [[59_24: The Exile الحشر]]
+- [[6_102]]
+- [[13_16]]
+- [[15_28]]
+- [[23_14]]
+- [[35_3]]
+- [[39_62]]
+- [[40_62]]
+- [[59_24]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[13 - Al-Bari' ٱلْبَارِئ]]
 - [[14 - Al-Musawwir ٱلْمُصَوِّر]]
@@ -62,5 +62,5 @@ When you feel like you have no resources to work with, Al-Khaliq creates from no
 - [[96 - Al-Badi' ٱلْبَدِيع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

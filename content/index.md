@@ -1,10 +1,10 @@
 **Tadabbur** (تدبّر) means to reflect deeply, to ponder — the kind of unhurried reading the Quran itself calls its readers to:
 
-> “Then do they not reflect upon (yatadabbaroon) the Quran, or are there locks upon [their] hearts?” — [[47_24: Muhammad محمد|Quran 47:24]]
+> “Then do they not reflect upon (yatadabbaroon) the Quran, or are there locks upon [their] hearts?” — [[47_24|Quran 47:24]]
 
 This site is a structured companion for that reflection: every ayah of all 114 surahs, laid out with recitation audio, Arabic text, Urdu and English translation, and cross-linked by theme — so you can move from a single verse to everywhere else in the Quran that verse’s ideas appear.
 
-# 🗂 The General Topics of the Quran
+# The General Topics of the Quran
 
 *Notes* counts how many notes carry each tag — ayaat plus the personality and Name of Allah notes that share it.
 
@@ -106,94 +106,95 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
 | 71 | **Sabr** صبر | [#sabr](tags/sabr) | 128 | Patience & steadfastness — in hardship, in obedience & against sin |
-| 72 | **Shukr** شکر | [#shukr](tags/shukr) | 196 | Gratitude for Allah's blessings — and the ingratitude of man |
-| 73 | **Tawakkul** توکل | [#tawakkul](tags/tawakkul) | 144 | Reliance & trust in Allah |
-| 74 | **Ikhlas** اخلاص | [#ikhlas](tags/ikhlas) | 89 | Sincerity of intention & avoiding showing off |
-| 75 | **Taqwa** تقویٰ | [#taqwa](tags/taqwa) | 299 | God-consciousness, piety & awe of Allah |
-| 76 | **Ihsan** احسان | [#ihsan](tags/ihsan) | 115 | Excellence, goodness & kindness in action |
-| 77 | **Sidq** صدق | [#sidq](tags/sidq) | 144 | Truthfulness in word & deed — and the evil of lying |
-| 78 | **Amanah & Promises** امانت و عہد | [#amanah](tags/amanah) | 121 | Trusts, promises, oaths & covenants |
-| 79 | **Adl** عدل | [#adl](tags/adl) | 176 | Justice & fairness — in judgment, testimony & dealings |
-| 80 | **Hilm & Afw** حلم و عفو | [#hilm](tags/hilm) | 39 | Forbearance, restraining anger & forgiving others |
-| 81 | **Arrogance & Humility** تکبر و عاجزی | [#kibr](tags/kibr) | 206 | Pride as a disease of the heart & the humility Allah loves |
-| 82 | **Hasad** حسد | [#hasad](tags/hasad) | 24 | Envy & jealousy |
-| 83 | **Haya** حیا و عفت | [#haya](tags/haya) | 80 | Modesty, chastity & hijab |
-| 84 | **Ethics of Speech** زبان کے آداب | [#speech_ethics](tags/speech_ethics) | 133 | Good words — and backbiting, mockery, slander & idle talk |
-| 85 | **Adab** آداب | [#adab](tags/adab) | 56 | Manners — greetings, seeking permission, gatherings & conduct |
+| 72 | **Jihad & Striving** جہاد و جدوجہد | [#jihad](tags/jihad) | 28 | Exertion in Allah's way — with the self, wealth, tongue & the Quran |
+| 73 | **Shukr** شکر | [#shukr](tags/shukr) | 196 | Gratitude for Allah's blessings — and the ingratitude of man |
+| 74 | **Tawakkul** توکل | [#tawakkul](tags/tawakkul) | 144 | Reliance & trust in Allah |
+| 75 | **Ikhlas** اخلاص | [#ikhlas](tags/ikhlas) | 89 | Sincerity of intention & avoiding showing off |
+| 76 | **Taqwa** تقویٰ | [#taqwa](tags/taqwa) | 299 | God-consciousness, piety & awe of Allah |
+| 77 | **Ihsan** احسان | [#ihsan](tags/ihsan) | 115 | Excellence, goodness & kindness in action |
+| 78 | **Sidq** صدق | [#sidq](tags/sidq) | 144 | Truthfulness in word & deed — and the evil of lying |
+| 79 | **Amanah & Promises** امانت و عہد | [#amanah](tags/amanah) | 121 | Trusts, promises, oaths & covenants |
+| 80 | **Adl** عدل | [#adl](tags/adl) | 176 | Justice & fairness — in judgment, testimony & dealings |
+| 81 | **Hilm & Afw** حلم و عفو | [#hilm](tags/hilm) | 39 | Forbearance, restraining anger & forgiving others |
+| 82 | **Arrogance & Humility** تکبر و عاجزی | [#kibr](tags/kibr) | 206 | Pride as a disease of the heart & the humility Allah loves |
+| 83 | **Hasad** حسد | [#hasad](tags/hasad) | 24 | Envy & jealousy |
+| 84 | **Haya** حیا و عفت | [#haya](tags/haya) | 80 | Modesty, chastity & hijab |
+| 85 | **Ethics of Speech** زبان کے آداب | [#speech_ethics](tags/speech_ethics) | 133 | Good words — and backbiting, mockery, slander & idle talk |
+| 86 | **Adab** آداب | [#adab](tags/adab) | 56 | Manners — greetings, seeking permission, gatherings & conduct |
 
 ### Spirit
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 86 | **Tazkiyah** تزکیۂ نفس | [#tazkiyah](tags/tazkiyah) | 128 | Purifying the soul — the nafs, desires & hearts sealed or softened |
-| 87 | **Dunya** دنیا | [#dunya](tags/dunya) | 187 | The worldly life — its reality, allure & heedlessness |
-| 88 | **Purpose of Life** مقصدِ حیات | [#purpose_of_life](tags/purpose_of_life) | 27 | Why we exist — worship, vicegerency & the test |
-| 89 | **Love of Allah** محبتِ الٰہی | [#love_of_allah](tags/love_of_allah) | 52 | Whom Allah loves, whom He does not & loving Him |
-| 90 | **Hope & Raja** امید | [#hope_raja](tags/hope_raja) | 62 | Hope in Allah & never despairing of His mercy |
-| 91 | **Anxiety, Fear & Sakinah** خوف و سکینت | [#anxiety_fear](tags/anxiety_fear) | 96 | Worry, fear & finding tranquility of heart |
-| 92 | **Grief & Loss** غم | [#grief_loss](tags/grief_loss) | 34 | Sorrow, loss & consolation |
-| 93 | **Trials & Tests** آزمائش | [#trial_test](tags/trial_test) | 118 | Why hardship & ease come — the tests of this life |
+| 87 | **Tazkiyah** تزکیۂ نفس | [#tazkiyah](tags/tazkiyah) | 128 | Purifying the soul — the nafs, desires & hearts sealed or softened |
+| 88 | **Dunya** دنیا | [#dunya](tags/dunya) | 187 | The worldly life — its reality, allure & heedlessness |
+| 89 | **Purpose of Life** مقصدِ حیات | [#purpose_of_life](tags/purpose_of_life) | 27 | Why we exist — worship, vicegerency & the test |
+| 90 | **Love of Allah** محبتِ الٰہی | [#love_of_allah](tags/love_of_allah) | 52 | Whom Allah loves, whom He does not & loving Him |
+| 91 | **Hope & Raja** امید | [#hope_raja](tags/hope_raja) | 62 | Hope in Allah & never despairing of His mercy |
+| 92 | **Anxiety, Fear & Sakinah** خوف و سکینت | [#anxiety_fear](tags/anxiety_fear) | 96 | Worry, fear & finding tranquility of heart |
+| 93 | **Grief & Loss** غم | [#grief_loss](tags/grief_loss) | 34 | Sorrow, loss & consolation |
+| 94 | **Trials & Tests** آزمائش | [#trial_test](tags/trial_test) | 118 | Why hardship & ease come — the tests of this life |
 
 ### Life
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 94 | **Rizq** رزق | [#rizq](tags/rizq) | 183 | Sustenance & provision — Allah as the Provider |
-| 95 | **Wealth & Spending** مال و خرچ | [#wealth](tags/wealth) | 114 | Earning & spending — hoarding, stinginess & extravagance |
-| 96 | **Trade & Business** تجارت | [#trade](tags/trade) | 27 | Business ethics, contracts & fair measure |
-| 97 | **Debt & Loans** قرض | [#debt](tags/debt) | 6 | Lending, recording debts & easing the debtor |
-| 98 | **Riba** سود | [#riba](tags/riba) | 7 | Usury & interest — its prohibition & consequences |
-| 99 | **Time** وقت | [#time](tags/time) | 94 | Time, its value & the shortness of life |
-| 100 | **Knowledge & Wisdom** علم و حکمت | [#knowledge](tags/knowledge) | 315 | Seeking knowledge, wisdom, scholars & using reason |
-| 101 | **Health & Healing** صحت و شفا | [#health](tags/health) | 18 | The body, illness & healing |
-| 102 | **Halal & Haram Food** حلال و حرام | [#food_halal](tags/food_halal) | 44 | Permissible & forbidden food, drink & intoxicants |
-| 103 | **Work & Effort** محنت | [#work_ethics](tags/work_ethics) | 25 | Effort, striving & earning a living |
+| 95 | **Rizq** رزق | [#rizq](tags/rizq) | 183 | Sustenance & provision — Allah as the Provider |
+| 96 | **Wealth & Spending** مال و خرچ | [#wealth](tags/wealth) | 114 | Earning & spending — hoarding, stinginess & extravagance |
+| 97 | **Trade & Business** تجارت | [#trade](tags/trade) | 27 | Business ethics, contracts & fair measure |
+| 98 | **Debt & Loans** قرض | [#debt](tags/debt) | 6 | Lending, recording debts & easing the debtor |
+| 99 | **Riba** سود | [#riba](tags/riba) | 7 | Usury & interest — its prohibition & consequences |
+| 100 | **Time** وقت | [#time](tags/time) | 94 | Time, its value & the shortness of life |
+| 101 | **Knowledge & Wisdom** علم و حکمت | [#knowledge](tags/knowledge) | 315 | Seeking knowledge, wisdom, scholars & using reason |
+| 102 | **Health & Healing** صحت و شفا | [#health](tags/health) | 18 | The body, illness & healing |
+| 103 | **Halal & Haram Food** حلال و حرام | [#food_halal](tags/food_halal) | 44 | Permissible & forbidden food, drink & intoxicants |
+| 104 | **Work & Effort** محنت | [#work_ethics](tags/work_ethics) | 25 | Effort, striving & earning a living |
 
 ### Relations
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 104 | **Marriage & Nikah** نکاح | [#marriage](tags/marriage) | 64 | Marriage, its rights & purposes |
-| 105 | **Family & Kinship** خاندان | [#family](tags/family) | 134 | Family bonds, kinship duties & rights |
-| 106 | **Parents & Elders** والدین | [#parents](tags/parents) | 40 | Honouring parents & the elderly |
-| 107 | **Parenting & Children** اولاد | [#parenting](tags/parenting) | 50 | Children, their rights & raising them |
-| 108 | **Women** خواتین | [#women](tags/women) | 115 | The dignity & rights of women; exemplary women of the Quran |
-| 109 | **Divorce & Iddah** طلاق و عدت | [#divorce](tags/divorce) | 26 | Divorce, waiting periods & parting with kindness |
-| 110 | **Inheritance & Wills** وراثت و وصیت | [#inheritance](tags/inheritance) | 17 | Shares of inheritance & bequests |
-| 111 | **Orphans & the Vulnerable** یتیم | [#orphans](tags/orphans) | 22 | Care for orphans & protecting their wealth |
+| 105 | **Marriage & Nikah** نکاح | [#marriage](tags/marriage) | 64 | Marriage, its rights & purposes |
+| 106 | **Family & Kinship** خاندان | [#family](tags/family) | 134 | Family bonds, kinship duties & rights |
+| 107 | **Parents & Elders** والدین | [#parents](tags/parents) | 40 | Honouring parents & the elderly |
+| 108 | **Parenting & Children** اولاد | [#parenting](tags/parenting) | 50 | Children, their rights & raising them |
+| 109 | **Women** خواتین | [#women](tags/women) | 115 | The dignity & rights of women; exemplary women of the Quran |
+| 110 | **Divorce & Iddah** طلاق و عدت | [#divorce](tags/divorce) | 26 | Divorce, waiting periods & parting with kindness |
+| 111 | **Inheritance & Wills** وراثت و وصیت | [#inheritance](tags/inheritance) | 17 | Shares of inheritance & bequests |
+| 112 | **Orphans & the Vulnerable** یتیم | [#orphans](tags/orphans) | 22 | Care for orphans & protecting their wealth |
 
 ### Society
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 112 | **Ummah & Brotherhood** امت و اخوت | [#community](tags/community) | 70 | Unity, brotherhood & avoiding division |
-| 113 | **Alliances & Loyalty** ولاء و براء | [#wala_bara](tags/wala_bara) | 94 | Whom believers take as allies & protectors |
-| 114 | **People of the Book** اہلِ کتاب | [#ahl_al_kitab](tags/ahl_al_kitab) | 156 | Jews & Christians — dialogue, their claims & critique |
-| 115 | **Da'wah** دعوت و تبلیغ | [#dawah](tags/dawah) | 203 | Calling to Allah — enjoining good & forbidding evil |
-| 116 | **Leadership & Authority** قیادت | [#leadership](tags/leadership) | 79 | Rulers, authority, obedience & responsibility |
-| 117 | **Shura** شوریٰ | [#shura](tags/shura) | 8 | Consultation & collective decision-making |
-| 118 | **Crime & Punishment** حدود و قصاص | [#criminal_law](tags/criminal_law) | 30 | Qisas, hudud & blood money |
-| 119 | **Oppression** ظلم | [#oppression](tags/oppression) | 167 | Dhulm — oppressors, the oppressed & standing against injustice |
-| 120 | **Jihad, War & Peace** جہاد، جنگ و صلح | [#conflict](tags/conflict) | 143 | Fighting in Allah's way, its ethics, treaties & peacemaking |
-| 121 | **Social Justice** سماجی انصاف | [#social_justice](tags/social_justice) | 43 | Rights of the poor & needy, fair distribution & freeing slaves |
-| 122 | **Earth & Corruption** زمین و فساد | [#environment](tags/environment) | 29 | Stewardship of the earth & spreading corruption (fasad) in it |
+| 113 | **Ummah & Brotherhood** امت و اخوت | [#community](tags/community) | 70 | Unity, brotherhood & avoiding division |
+| 114 | **Alliances & Loyalty** ولاء و براء | [#wala_bara](tags/wala_bara) | 94 | Whom believers take as allies & protectors |
+| 115 | **People of the Book** اہلِ کتاب | [#ahl_al_kitab](tags/ahl_al_kitab) | 156 | Jews & Christians — dialogue, their claims & critique |
+| 116 | **Da'wah** دعوت و تبلیغ | [#dawah](tags/dawah) | 203 | Calling to Allah — enjoining good & forbidding evil |
+| 117 | **Leadership & Authority** قیادت | [#leadership](tags/leadership) | 79 | Rulers, authority, obedience & responsibility |
+| 118 | **Shura** شوریٰ | [#shura](tags/shura) | 8 | Consultation & collective decision-making |
+| 119 | **Crime & Punishment** حدود و قصاص | [#criminal_law](tags/criminal_law) | 30 | Qisas, hudud & blood money |
+| 120 | **Oppression** ظلم | [#oppression](tags/oppression) | 167 | Dhulm — oppressors, the oppressed & standing against injustice |
+| 121 | **War, Ethics & Peace** جنگ و صلح | [#conflict](tags/conflict) | 143 | Fighting in Allah's way, its ethics, treaties & peacemaking |
+| 122 | **Social Justice** سماجی انصاف | [#social_justice](tags/social_justice) | 43 | Rights of the poor & needy, fair distribution & freeing slaves |
+| 123 | **Earth & Corruption** زمین و فساد | [#environment](tags/environment) | 29 | Stewardship of the earth & spreading corruption (fasad) in it |
 
 ### Signs
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 123 | **Signs in Creation** قدرت کی نشانیاں | [#nature_signs](tags/nature_signs) | 408 | The heavens & earth, rain, plants, seas, night & day as signs of Allah |
-| 124 | **Creation of Mankind** تخلیقِ انسان | [#human_creation](tags/human_creation) | 153 | From clay & a drop — stages of creation & human nature |
-| 125 | **Animals** جانور | [#animals](tags/animals) | 82 | Cattle, bees, birds & other creatures & their lessons |
-| 126 | **Miracles** معجزات | [#miracles](tags/miracles) | 135 | Signs & miracles granted to the prophets |
-| 127 | **Lessons from History** تاریخ کے سبق | [#history_lessons](tags/history_lessons) | 350 | Past nations — their rise, destruction & what to learn |
+| 124 | **Signs in Creation** قدرت کی نشانیاں | [#nature_signs](tags/nature_signs) | 408 | The heavens & earth, rain, plants, seas, night & day as signs of Allah |
+| 125 | **Creation of Mankind** تخلیقِ انسان | [#human_creation](tags/human_creation) | 153 | From clay & a drop — stages of creation & human nature |
+| 126 | **Animals** جانور | [#animals](tags/animals) | 82 | Cattle, bees, birds & other creatures & their lessons |
+| 127 | **Miracles** معجزات | [#miracles](tags/miracles) | 135 | Signs & miracles granted to the prophets |
+| 128 | **Lessons from History** تاریخ کے سبق | [#history_lessons](tags/history_lessons) | 350 | Past nations — their rise, destruction & what to learn |
 
 ### Meta
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 128 | **Muqatta'at** حروفِ مقطعات | [#muqattaat](tags/muqattaat) | 30 | The disjointed letters that open 29 surahs |
-| 129 | **Sajdah Ayaat** آیاتِ سجدہ | [#sajdah_tilawah](tags/sajdah_tilawah) | 15 | Ayaat of prostration during recitation |
-| 130 | **O You Who Believe** یا ایہا الذین آمنوا | [#o_believers](tags/o_believers) | 89 | Direct addresses to the believers |
-| 131 | **O Mankind** یا ایہا الناس | [#o_mankind](tags/o_mankind) | 22 | Addresses to all of humanity |
-| 132 | **They Ask You** یسئلونک | [#they_ask_you](tags/they_ask_you) | 17 | Questions put to the Prophet ﷺ & their answers |
-| 133 | **Direct Commands** اوامر | [#commands](tags/commands) | 277 | Explicit commands from Allah |
-| 134 | **Prohibitions** نواہی | [#prohibitions](tags/prohibitions) | 96 | What Allah has forbidden |
-| 135 | **Glad Tidings** بشارت | [#glad_tidings](tags/glad_tidings) | 246 | Promises of reward & mercy |
-| 136 | **Warnings** تنبیہ | [#warnings](tags/warnings) | 357 | Divine warnings & admonitions |
-| 137 | **Parables & Amthal** امثال | [#parables](tags/parables) | 100 | Quranic parables, similitudes & examples |
-| 138 | **Divine Oaths** قسمیں | [#oaths](tags/oaths) | 87 | Allah's oaths & what they emphasize |
+| 129 | **Muqatta'at** حروفِ مقطعات | [#muqattaat](tags/muqattaat) | 30 | The disjointed letters that open 29 surahs |
+| 130 | **Sajdah Ayaat** آیاتِ سجدہ | [#sajdah_tilawah](tags/sajdah_tilawah) | 15 | Ayaat of prostration during recitation |
+| 131 | **O You Who Believe** یا ایہا الذین آمنوا | [#o_believers](tags/o_believers) | 89 | Direct addresses to the believers |
+| 132 | **O Mankind** یا ایہا الناس | [#o_mankind](tags/o_mankind) | 22 | Addresses to all of humanity |
+| 133 | **They Ask You** یسئلونک | [#they_ask_you](tags/they_ask_you) | 17 | Questions put to the Prophet ﷺ & their answers |
+| 134 | **Direct Commands** اوامر | [#commands](tags/commands) | 277 | Explicit commands from Allah |
+| 135 | **Prohibitions** نواہی | [#prohibitions](tags/prohibitions) | 96 | What Allah has forbidden |
+| 136 | **Glad Tidings** بشارت | [#glad_tidings](tags/glad_tidings) | 246 | Promises of reward & mercy |
+| 137 | **Warnings** تنبیہ | [#warnings](tags/warnings) | 357 | Divine warnings & admonitions |
+| 138 | **Parables & Amthal** امثال | [#parables](tags/parables) | 100 | Quranic parables, similitudes & examples |
+| 139 | **Divine Oaths** قسمیں | [#oaths](tags/oaths) | 87 | Allah's oaths & what they emphasize |

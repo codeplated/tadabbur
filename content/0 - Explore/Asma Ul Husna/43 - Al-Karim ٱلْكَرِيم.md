@@ -11,7 +11,7 @@ quran_occurrences: 2
 tags: ["asma_ul_husna", "ihsan", "rizq", "hope_raja"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Karim — ٱلْكَرِيم
+# Al-Karim — ٱلْكَرِيم
 ### The Generous · The Noble
 #### کریم · سخی
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "ihsan", "rizq", "hope_raja"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Karim is generous without reminding of the favor, without making the recipient feel indebted, and giving even to those who do not deserve it. 'Man is ungrateful to his Lord, the Karim' (82:6) — yet Al-Karim keeps giving despite ingratitude.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الکریم کی سخاوت مکمل ہے — بغیر احسان جتائے، نافرمان کو بھی۔ انسان ناشکرا ہے (82:6) پھر بھی الکریم دیتا رہتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel you don't deserve Allah's blessings because of your sins, Al-Karim gives even to the undeserving. His generosity is not contingent on your worthiness.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[23_116: The Believers المؤمنون]]
-- [[27_40: The Ant النمل]]
-- [[82_6: The Cleaving الإنفطار]]
-- [[96_3: The Clot العلق]]
+- [[23_116]]
+- [[27_40]]
+- [[82_6]]
+- [[96_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
@@ -60,5 +60,5 @@ When you feel you don't deserve Allah's blessings because of your sins, Al-Karim
 - [[93 - An-Nafi' ٱلنَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

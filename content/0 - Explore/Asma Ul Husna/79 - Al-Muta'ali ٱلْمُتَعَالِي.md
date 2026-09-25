@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "kibr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Muta'ali — ٱلْمُتَعَالِي
+# Al-Muta'ali — ٱلْمُتَعَالِي
 ### The Most Exalted · The Self-Exalted
 #### بلند تر
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "kibr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Muta'ali is exalted above all things by His own nature — His transcendence is inherent, not granted by others. He transcends every limitation and every analogy humans might apply. Whatever you conceive of as the greatest possible being — Al-Muta'ali is above that.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المتعالی ذاتی طور پر ہر چیز سے بلند ہے۔ جو سب سے عظیم چیز آپ سوچ سکتے ہیں — المتعالی اس سے بھی اوپر ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Intellectual humility before Al-Muta'ali: your understanding, your mental image of God — all fall short. This is the correct posture before the Most Exalted.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[13_9: The Thunder الرعد]]
+- [[13_9]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[71 - Al-Muqtadir ٱلْمُقْتَدِر]]
 - [[72 - Al-Muqaddim ٱلْمُقَدِّم]]
@@ -57,5 +57,5 @@ Intellectual humility before Al-Muta'ali: your understanding, your mental image 
 - [[92 - Ad-Darr ٱلضَّارّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

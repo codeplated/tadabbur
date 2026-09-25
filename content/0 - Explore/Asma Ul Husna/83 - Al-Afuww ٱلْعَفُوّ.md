@@ -11,7 +11,7 @@ quran_occurrences: 5
 tags: ["asma_ul_husna", "tawbah", "hilm", "rahmah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Afuww — ٱلْعَفُوّ
+# Al-Afuww — ٱلْعَفُوّ
 ### The Pardoner · The Effacer of Sins
 #### معاف کرنے والا
 
@@ -21,37 +21,37 @@ tags: ["asma_ul_husna", "tawbah", "hilm", "rahmah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Afuww effaces sins entirely — not just forgives and covers (like Al-Ghafur) but wipes clean as if they never existed. Aisha رضي الله عنها was taught: 'Allahumma innaka afuwwun tuhibbul afwa fa'fu anni' — the chosen du'a for Laylatul Qadr.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 العفو گناہ مٹا دیتا ہے — چھپاتا نہیں، مٹا دیتا ہے۔ لیلۃ القدر کی دعا: 'اے اللہ تو العفو ہے، معافی کو پسند کرتا ہے، مجھے معاف کر دے'۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Make this du'a every Laylatul Qadr: 'Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.' One night of sincere calling on Al-Afuww can wipe a lifetime of sins clean.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_187: The Cow البقرة]]
-- [[4_43: The Women النساء]]
-- [[4_99: The Women النساء]]
-- [[4_149: The Women النساء]]
-- [[5_101: The Table Spread المائدة]]
-- [[22_60: The Pilgrimage الحج]]
-- [[58_2: The Pleading Woman المجادلة]]
+- [[2_187]]
+- [[4_43]]
+- [[4_99]]
+- [[4_149]]
+- [[5_101]]
+- [[22_60]]
+- [[58_2]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[2 - Ar-Rahman ٱلرَّحْمَـٰن]]
 - [[3 - Ar-Rahim ٱلرَّحِيم]]
@@ -63,5 +63,5 @@ Make this du'a every Laylatul Qadr: 'Allahumma innaka afuwwun tuhibbul afwa fa'f
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

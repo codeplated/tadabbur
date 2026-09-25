@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "hope_raja", "rahmah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Fattah — ٱلْفَتَّاح
+# Al-Fattah — ٱلْفَتَّاح
 ### The Opener · The Judge
 #### کھولنے والا · فیصلہ کرنے والا
 
@@ -21,32 +21,32 @@ tags: ["asma_ul_husna", "rizq", "hope_raja", "rahmah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Fattah opens what is closed — locked doors, blocked paths, closed hearts, sealed provisions. The word 'fath' means both 'opening' and 'victory'. He opens the doors of mercy, knowledge, rizq, and opportunity when all human means have been exhausted.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الفتاح بند دروازے کھولتا ہے — روزی کے، رحمت کے، علم کے، موقع کے۔ جب تمام انسانی راستے بند ہو جائیں، الفتاح کا دروازہ کھلتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When every door seems closed — a job, a relationship, a solution — Al-Fattah is the name to invoke. No situation is permanently sealed against His decree.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[34_26: Sheba سبإ]]
-- [[35_2: Originator فاطر]]
+- [[34_26]]
+- [[35_2]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
@@ -58,5 +58,5 @@ When every door seems closed — a job, a relationship, a solution — Al-Fattah
 - [[93 - An-Nafi' ٱلنَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

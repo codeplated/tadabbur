@@ -7,32 +7,32 @@ era: "Patriarch era, Canaan"
 tags: ["story_yaqub", "story_yusuf", "prophethood", "sabr", "grief_loss", "hope_raja", "family"]
 ---
 <!-- GENERATED:START -->
-# 🌙 Yaqub (Jacob) — يَعْقُوب
+# Yaqub (Jacob) — يَعْقُوب
 ### یعقوب علیہ السلام
 
 > **Also known as:** Jacob, Israel, Abu Yusuf
 
 ---
 
-## ✅ Path — Straight Path | صراط مستقیم
+## Path — Straight Path | صراط مستقیم
 
 **Reason:** Maintained faith through decades of grief over Yusuf; his grief was worship not complaint (12:86)
 
 ---
 
-## 📖 Story — English
+## Story — English
 
 Son of Ishaq, father of twelve sons including Yusuf. Warned Yusuf not to tell his brothers his dream. When Yusuf disappeared, his brothers brought back a false blood-stained shirt. Yaqub said 'Sabrun jamil — beautiful patience' and declared they had fabricated something. He wept so much for Yusuf that he lost his sight. When accused of losing himself in grief, he said 'I complain of my suffering only to Allah' (12:86). He never lost hope in Yusuf being alive. Years later his sight was restored when Yusuf's shirt was placed on his face.
 
 ---
 
-## 📖 کہانی — اردو
+## کہانی — اردو
 
 اسحاق کے بیٹے، یوسف کے باپ۔ یوسف کے غائب ہونے پر خون آلود قمیص لائی گئی۔ 'صبر جمیل' کہا۔ اتنا رویا کہ آنکھیں چلی گئیں۔ کہا: 'میں اپنا غم صرف اللہ سے کہتا ہوں' (12:86)۔ یوسف کی امید کبھی نہ چھوڑی۔
 
 ---
 
-## 💡 Lessons from the Quran
+## Lessons from the Quran
 
 1. Sabrun jamil — beautiful patience that does not include complaint to people
 2. Grief expressed to Allah alone is not weakness — it is worship
@@ -42,55 +42,55 @@ Son of Ishaq, father of twelve sons including Yusuf. Warned Yusuf not to tell hi
 
 ---
 
-## 📍 Mentioned in Quran
+## Mentioned in Quran
 
-- [[2_132: The Cow البقرة]]
-- [[2_133: The Cow البقرة]]
-- [[2_136: The Cow البقرة]]
-- [[2_140: The Cow البقرة]]
-- [[3_84: Family of Imran آل عمران]]
-- [[4_163: The Women النساء]]
-- [[6_84: The Cattle الأنعام]]
-- [[11_71: Hud هود]]
-- [[12_4: Joseph يوسف]]
-- [[12_5: Joseph يوسف]]
-- [[12_6: Joseph يوسف]]
-- [[12_7: Joseph يوسف]]
-- [[12_8: Joseph يوسف]]
-- [[12_11: Joseph يوسف]]
-- [[12_12: Joseph يوسف]]
-- [[12_13: Joseph يوسف]]
-- [[12_14: Joseph يوسف]]
-- [[12_16: Joseph يوسف]]
-- [[12_17: Joseph يوسف]]
-- [[12_18: Joseph يوسف]]
-- [[12_63: Joseph يوسف]]
-- [[12_64: Joseph يوسف]]
-- [[12_65: Joseph يوسف]]
-- [[12_66: Joseph يوسف]]
-- [[12_67: Joseph يوسف]]
-- [[12_68: Joseph يوسف]]
-- [[12_83: Joseph يوسف]]
-- [[12_84: Joseph يوسف]]
-- [[12_85: Joseph يوسف]]
-- [[12_86: Joseph يوسف]]
-- [[12_87: Joseph يوسف]]
-- [[12_93: Joseph يوسف]]
-- [[12_94: Joseph يوسف]]
-- [[12_96: Joseph يوسف]]
-- [[12_97: Joseph يوسف]]
-- [[12_98: Joseph يوسف]]
-- [[12_99: Joseph يوسف]]
-- [[12_100: Joseph يوسف]]
-- [[19_6: Mary مريم]]
-- [[19_49: Mary مريم]]
-- [[21_72: The Prophets الأنبياء]]
-- [[29_27: The Spider العنكبوت]]
-- [[38_45: The Letter "Saad" ص]]
+- [[2_132]]
+- [[2_133]]
+- [[2_136]]
+- [[2_140]]
+- [[3_84]]
+- [[4_163]]
+- [[6_84]]
+- [[11_71]]
+- [[12_4]]
+- [[12_5]]
+- [[12_6]]
+- [[12_7]]
+- [[12_8]]
+- [[12_11]]
+- [[12_12]]
+- [[12_13]]
+- [[12_14]]
+- [[12_16]]
+- [[12_17]]
+- [[12_18]]
+- [[12_63]]
+- [[12_64]]
+- [[12_65]]
+- [[12_66]]
+- [[12_67]]
+- [[12_68]]
+- [[12_83]]
+- [[12_84]]
+- [[12_85]]
+- [[12_86]]
+- [[12_87]]
+- [[12_93]]
+- [[12_94]]
+- [[12_96]]
+- [[12_97]]
+- [[12_98]]
+- [[12_99]]
+- [[12_100]]
+- [[19_6]]
+- [[19_49]]
+- [[21_72]]
+- [[29_27]]
+- [[38_45]]
 
 ---
 
-## 🔗 Connected Personalities
+## Connected Personalities
 
 - [[Ishaq (Isaac) — إِسْحَاق]]
 - [[Yusuf (Joseph) — يُوسُف]]
@@ -98,5 +98,5 @@ Son of Ishaq, father of twelve sons including Yusuf. Warned Yusuf not to tell hi
 - [[Brothers of Yusuf — أبناء يعقوب]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

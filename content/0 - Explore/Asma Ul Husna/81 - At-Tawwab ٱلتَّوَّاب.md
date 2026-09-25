@@ -11,7 +11,7 @@ quran_occurrences: 11
 tags: ["asma_ul_husna", "tawbah", "rahmah", "hope_raja"]
 ---
 <!-- GENERATED:START -->
-# ✨ At-Tawwab — ٱلتَّوَّاب
+# At-Tawwab — ٱلتَّوَّاب
 ### The Acceptor of Repentance
 #### توبہ قبول کرنے والا
 
@@ -21,39 +21,39 @@ tags: ["asma_ul_husna", "tawbah", "rahmah", "hope_raja"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 At-Tawwab turns toward His servants — He turns first to enable repentance, then turns again to accept it. 'Then He turned to them so they could repent' (9:118). The door of tawbah closes only at two points: when the sun rises from the West, or at the moment of death.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 التواب بار بار توبہ قبول کرتا ہے — بلکہ پہلے خود رخ کرتا ہے تاکہ بندہ توبہ کر سکے (9:118)۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you turn toward Him in repentance, you find He was already facing you. The meeting is guaranteed.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_37: The Cow البقرة]]
-- [[2_54: The Cow البقرة]]
-- [[2_128: The Cow البقرة]]
-- [[2_160: The Cow البقرة]]
-- [[4_16: The Women النساء]]
-- [[4_64: The Women النساء]]
-- [[9_104: The Repentance التوبة]]
-- [[9_118: The Repentance التوبة]]
-- [[49_12: The Rooms الحجرات]]
+- [[2_37]]
+- [[2_54]]
+- [[2_128]]
+- [[2_160]]
+- [[4_16]]
+- [[4_64]]
+- [[9_104]]
+- [[9_118]]
+- [[49_12]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[2 - Ar-Rahman ٱلرَّحْمَـٰن]]
 - [[3 - Ar-Rahim ٱلرَّحِيم]]
@@ -65,5 +65,5 @@ When you turn toward Him in repentance, you find He was already facing you. The 
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

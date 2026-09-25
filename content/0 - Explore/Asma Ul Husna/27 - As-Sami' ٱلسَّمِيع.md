@@ -11,7 +11,7 @@ quran_occurrences: 45
 tags: ["asma_ul_husna", "dua", "speech_ethics"]
 ---
 <!-- GENERATED:START -->
-# ✨ As-Sami' — ٱلسَّمِيع
+# As-Sami' — ٱلسَّمِيع
 ### The All-Hearing
 #### سننے والا
 
@@ -21,36 +21,36 @@ tags: ["asma_ul_husna", "dua", "speech_ethics"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 As-Sami' hears every sound simultaneously — every voice, every whisper, every unspoken prayer of the heart. His hearing is not passive — it is active, responsive listening. The woman who argued about her husband: 'Allah heard the conversation' (58:1). This ayah opened with the guarantee: He heard her.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 السمیع ایک ساتھ ہر آواز سنتا ہے — بولی ہو یا ان بولی۔ اس کا سننا جواب دینے کا وعدہ ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you pray in the middle of the night and feel no one can hear you — As-Sami' is listening to every word, every sob, every plea. You are never speaking into silence.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_127: The Cow البقرة]]
-- [[2_137: The Cow البقرة]]
-- [[2_181: The Cow البقرة]]
-- [[2_256: The Cow البقرة]]
-- [[3_34: Family of Imran آل عمران]]
-- [[58_1: The Pleading Woman المجادلة]]
+- [[2_127]]
+- [[2_137]]
+- [[2_181]]
+- [[2_256]]
+- [[3_34]]
+- [[58_1]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
 - [[28 - Al-Basir ٱلْبَصِير]]
@@ -62,5 +62,5 @@ When you pray in the middle of the night and feel no one can hear you — As-Sam
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

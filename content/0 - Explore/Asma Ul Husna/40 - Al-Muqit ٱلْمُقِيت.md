@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Muqit — ٱلْمُقِيت
+# Al-Muqit — ٱلْمُقِيت
 ### The Sustainer · The Nourisher
 #### پالنے والا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "rizq", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Muqit provides the specific sustenance needed by each creature — physical, spiritual, and intellectual nourishment tailored to each one's needs. Not just general provision, but the precise, customized provision each being requires.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المقیت ہر مخلوق کو اس کی خاص ضرورت کے مطابق پالتا ہے — جسمانی، روحانی، ذہنی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 The specific form of sustenance you need — the exact nourishment your soul, body, and mind require — is being managed by Al-Muqit.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[4_85: The Women النساء]]
+- [[4_85]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
@@ -57,5 +57,5 @@ The specific form of sustenance you need — the exact nourishment your soul, bo
 - [[93 - An-Nafi' ٱلنَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

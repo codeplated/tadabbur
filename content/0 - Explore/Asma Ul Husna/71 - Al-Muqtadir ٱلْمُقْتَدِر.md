@@ -11,7 +11,7 @@ quran_occurrences: 4
 tags: ["asma_ul_husna", "qadr", "tawakkul", "history_lessons"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Muqtadir — ٱلْمُقْتَدِر
+# Al-Muqtadir — ٱلْمُقْتَدِر
 ### The All-Determining · The Prevailing
 #### غالب قدرت والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "qadr", "tawakkul", "history_lessons"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Muqtadir is an intensified form of Al-Qadir — absolutely, prevailingly powerful. His power prevails over all opposition. No plan of creation can prevail against Al-Muqtadir when He has decided.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المقتدر القادر کا مبالغہ ہے — وہ قدرت جو ہر مزاحمت پر غالب آتی ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When the opposition you face seems overwhelming, Al-Muqtadir's prevailing power is the counterweight. No force can successfully resist what He has decreed.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[6_65: The Cattle الأنعام]]
-- [[18_45: The Cave الكهف]]
-- [[54_42: The Moon القمر]]
-- [[54_55: The Moon القمر]]
+- [[6_65]]
+- [[18_45]]
+- [[54_42]]
+- [[54_55]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[55 - Al-Matin ٱلْمَتِين]]
 - [[57 - Al-Hamid ٱلْحَمِيد]]
@@ -60,5 +60,5 @@ When the opposition you face seems overwhelming, Al-Muqtadir's prevailing power 
 - [[79 - Al-Muta'ali ٱلْمُتَعَالِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

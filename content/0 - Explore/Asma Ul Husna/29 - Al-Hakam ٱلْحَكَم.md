@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "adl", "akhirah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Hakam — ٱلْحَكَم
+# Al-Hakam — ٱلْحَكَم
 ### The Judge · The Arbitrator
 #### فیصلہ کرنے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "adl", "akhirah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Hakam is the ultimate Judge whose verdicts are perfect, final, and without bias. No bribe, no influence, no eloquent argument changes His judgment. He is the final court of appeal where every oppressor faces their verdict and every wronged person receives justice.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الحکم وہ منصف ہے جس کا فیصلہ قطعی اور بے عیب ہے۔ اس کی عدالت میں رشوت نہیں چلتی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you cannot get justice through earthly courts, Al-Hakam is the final court. When falsely accused, His knowledge of your truth is your ultimate defense.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[6_114: The Cattle الأنعام]]
-- [[11_45: Hud هود]]
-- [[40_48: The Forgiver غافر]]
-- [[95_8: The Fig التين]]
+- [[6_114]]
+- [[11_45]]
+- [[40_48]]
+- [[95_8]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[30 - Al-Adl ٱلْعَدْل]]
 - [[41 - Al-Hasib ٱلْحَسِيب]]
@@ -56,5 +56,5 @@ When you cannot get justice through earthly courts, Al-Hakam is the final court.
 - [[87 - Al-Muqsit ٱلْمُقْسِط]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

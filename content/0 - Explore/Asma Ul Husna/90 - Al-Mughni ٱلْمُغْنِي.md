@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "rizq", "wealth", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mughni — ٱلْمُغْنِي
+# Al-Mughni — ٱلْمُغْنِي
 ### The Enricher
 #### غنی کرنے والا
 
@@ -21,33 +21,33 @@ tags: ["asma_ul_husna", "rizq", "wealth", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mughni enriches and suffices — He makes rich (materially, spiritually, emotionally) whom He wills. The greatest richness He grants is richness of the heart — contentment (ghina an-nafs) — which the Prophet ﷺ said is the true wealth.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المغنی غنی کرتا ہے — مادی بھی، روحانی بھی۔ سب سے بڑی غنائیت دل کی ہے جسے نبی ﷺ نے 'غنائے نفس' کہا۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 The contentment you seek through accumulating more is actually given by Al-Mughni as an inner state, not an outer one. Seek richness of heart from the Enricher.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[9_28: The Repentance التوبة]]
-- [[53_48: The Star النجم]]
-- [[93_8: The Morning Hours الضحى]]
+- [[9_28]]
+- [[53_48]]
+- [[93_8]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
@@ -59,5 +59,5 @@ The contentment you seek through accumulating more is actually given by Al-Mughn
 - [[93 - An-Nafi' ٱلنَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "qadr", "leadership", "kibr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mu'izz — ٱلْمُعِزّ
+# Al-Mu'izz — ٱلْمُعِزّ
 ### The Bestower of Honor
 #### عزت دینے والا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "qadr", "leadership", "kibr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mu'izz gives honor, might, and dignity to whomever He wills. True honor belongs only to Allah, and He shares it with whom He wills (3:26). No human being can grant real honor — they can only give social recognition, which is as unstable as their approval.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المعز عزت اور وقار دیتا ہے جسے چاہے۔ حقیقی عزت اللہ کے ہاتھ میں ہے — انسانوں کی تعریف یا مذمت سے نہیں ملتی اور نہیں جاتی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you compromise your values to gain people's approval, you are seeking honor from those who cannot give it. Al-Mu'izz is the only source of honor that actually matters.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_26: Family of Imran آل عمران]]
+- [[3_26]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[16 - Al-Qahhar ٱلْقَهَّار]]
 - [[21 - Al-Qabid ٱلْقَابِض]]
@@ -57,5 +57,5 @@ When you compromise your values to gain people's approval, you are seeking honor
 - [[38 - Al-Kabir ٱلْكَبِير]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 3
 tags: ["asma_ul_husna", "adl", "oppression", "history_lessons"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Muntaqim — ٱلْمُنْتَقِم
+# Al-Muntaqim — ٱلْمُنْتَقِم
 ### The Avenger · The Retributor
 #### انتقام لینے والا
 
@@ -21,36 +21,36 @@ tags: ["asma_ul_husna", "adl", "oppression", "history_lessons"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Muntaqim takes retribution on behalf of His creation against those who persist in oppression and disbelief. This is not vengeful cruelty but the vindication of justice. Every oppressor who escaped earthly justice will face Al-Muntaqim.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المنتقم مظلوموں کی طرف سے ظالموں سے انتقام لیتا ہے۔ یہ عدل کا اظہار ہے، ظالمانہ غضب نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 This name is not permission to seek private revenge. It is the assurance that divine justice catches every escaping wrongdoer. Leave it to Al-Muntaqim.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_4: Family of Imran آل عمران]]
-- [[5_95: The Table Spread المائدة]]
-- [[14_47: Abraham ابراهيم]]
-- [[32_22: The Prostration السجدة]]
-- [[39_37: The Troops الزمر]]
-- [[44_16: The Smoke الدخان]]
+- [[3_4]]
+- [[5_95]]
+- [[14_47]]
+- [[32_22]]
+- [[39_37]]
+- [[44_16]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[29 - Al-Hakam ٱلْحَكَم]]
 - [[30 - Al-Adl ٱلْعَدْل]]
@@ -58,5 +58,5 @@ This name is not permission to seek private revenge. It is the assurance that di
 - [[87 - Al-Muqsit ٱلْمُقْسِط]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

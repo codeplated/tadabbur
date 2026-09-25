@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "resurrection", "human_creation"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mu'id — ٱلْمُعِيد
+# Al-Mu'id — ٱلْمُعِيد
 ### The Restorer · The Reproducer
 #### دوبارہ لوٹانے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "resurrection", "human_creation"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mu'id restores and repeats creation — particularly the resurrection of the dead. To Al-Mu'id, restoration is simpler than origination. He also restores what is lost — faith, health, relationships — when His wisdom permits.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المعید دوبارہ لوٹانے والا ہے۔ جس نے پہلی بار بنایا، دوبارہ بنانا اس کے لیے اور آسان ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 After every loss, Al-Mu'id can restore. After every 'ending,' He can restore what matters. Nothing ends permanently except by His will.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[10_4: Jonah يونس]]
-- [[27_64: The Ant النمل]]
-- [[29_19: The Spider العنكبوت]]
-- [[85_13: The Mansions of the Stars البروج]]
+- [[10_4]]
+- [[27_64]]
+- [[29_19]]
+- [[85_13]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[12 - Al-Khaliq ٱلْخَالِق]]
 - [[13 - Al-Bari' ٱلْبَارِئ]]
@@ -58,5 +58,5 @@ After every loss, Al-Mu'id can restore. After every 'ending,' He can restore wha
 - [[96 - Al-Badi' ٱلْبَدِيع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

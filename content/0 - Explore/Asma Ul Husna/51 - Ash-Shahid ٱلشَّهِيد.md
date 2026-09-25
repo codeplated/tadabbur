@@ -11,7 +11,7 @@ quran_occurrences: 5
 tags: ["asma_ul_husna", "taqwa", "akhirah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Ash-Shahid — ٱلشَّهِيد
+# Ash-Shahid — ٱلشَّهِيد
 ### The Witness
 #### گواہ
 
@@ -21,37 +21,37 @@ tags: ["asma_ul_husna", "taqwa", "akhirah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Ash-Shahid is the ultimate witness present at all events with perfect and complete awareness. His testimony on the Day of Judgment will be the decisive, irrefutable account. 'Allah bears witness that there is no deity except Him' (3:18) — His self-testimony is the highest testimony possible.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الشہید ہر چیز کا حاضر و ناظر گواہ ہے۔ قیامت میں اس کی گواہی قطعی اور ناقابل انکار ہوگی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Your private struggles, private worship, and private virtues are witnessed by Ash-Shahid. What no human sees, He sees and records. Your private faithfulness is not wasted.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_18: Family of Imran آل عمران]]
-- [[4_33: The Women النساء]]
-- [[4_79: The Women النساء]]
-- [[4_166: The Women النساء]]
-- [[5_117: The Table Spread المائدة]]
-- [[6_19: The Cattle الأنعام]]
-- [[10_46: Jonah يونس]]
+- [[3_18]]
+- [[4_33]]
+- [[4_79]]
+- [[4_166]]
+- [[5_117]]
+- [[6_19]]
+- [[10_46]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[32 - Al-Khabir ٱلْخَبِير]]
 - [[44 - Ar-Raqib ٱلرَّقِيب]]
@@ -63,5 +63,5 @@ Your private struggles, private worship, and private virtues are witnessed by As
 - [[77 - Al-Batin ٱلْبَاطِن]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

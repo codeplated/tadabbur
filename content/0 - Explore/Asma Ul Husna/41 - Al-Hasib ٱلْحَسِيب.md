@@ -11,7 +11,7 @@ quran_occurrences: 3
 tags: ["asma_ul_husna", "tawakkul", "akhirah", "adl"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Hasib — ٱلْحَسِيب
+# Al-Hasib — ٱلْحَسِيب
 ### The Reckoner · The Sufficient
 #### حساب لینے والا · کافی
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "tawakkul", "akhirah", "adl"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Hasib has two meanings: the One who takes perfect account of all deeds, and the One who is sufficient for those who trust Him. 'Hasbunallah wa ni'mal wakil' invokes Al-Hasib. The accounting He keeps is perfect — every deed, every intention precisely recorded.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الحسیب دو معنی رکھتا ہے: کامل حساب لینے والا اور کافی و کفایت کرنے والا۔ 'حسبنا اللہ' اسی نام کی پکار ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 'Hasbunallah' is the active declaration that Al-Hasib is sufficient for your situation. When resources, support, and options run out, He remains.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_173: Family of Imran آل عمران]]
-- [[4_6: The Women النساء]]
-- [[4_86: The Women النساء]]
-- [[33_39: The Combined Forces الأحزاب]]
+- [[3_173]]
+- [[4_6]]
+- [[4_86]]
+- [[33_39]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[29 - Al-Hakam ٱلْحَكَم]]
 - [[30 - Al-Adl ٱلْعَدْل]]
@@ -56,5 +56,5 @@ Al-Hasib has two meanings: the One who takes perfect account of all deeds, and t
 - [[87 - Al-Muqsit ٱلْمُقْسِط]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

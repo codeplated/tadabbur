@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "hidayah", "dua"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Hadi — ٱلْهَادِي
+# Al-Hadi — ٱلْهَادِي
 ### The Guide
 #### ہدایت دینے والا
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "hidayah", "dua"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Hadi guides creation to what is beneficial and right — giving instinct to animals, guidance to the human heart, and revealed guidance through prophets and scripture. 'Sufficient is your Lord as a Guide and Helper' (25:31). His guidance is always available — the condition is sincere seeking.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الہادی رہنمائی کا سرچشمہ ہے۔ 'آپ کا رب کافی ہے بطور ہادی اور مددگار' (25:31)۔ اس کی ہدایت ہمیشہ دستیاب ہے — شرط اخلاص ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Every istikhara is asking Al-Hadi to guide your decision. Every time you read Quran for clarity, you are accessing His guidance.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_272: The Cow البقرة]]
-- [[16_9: The Bee النحل]]
-- [[22_54: The Pilgrimage الحج]]
-- [[25_31: The Criterion الفرقان]]
-- [[39_23: The Troops الزمر]]
+- [[2_272]]
+- [[16_9]]
+- [[22_54]]
+- [[25_31]]
+- [[39_23]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
 - [[27 - As-Sami' ٱلسَّمِيع]]
@@ -61,5 +61,5 @@ Every istikhara is asking Al-Hadi to guide your decision. Every time you read Qu
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

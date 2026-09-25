@@ -11,7 +11,7 @@ quran_occurrences: 9
 tags: ["asma_ul_husna", "tawakkul", "conflict"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Qawi — ٱلْقَوِيّ
+# Al-Qawi — ٱلْقَوِيّ
 ### The All-Strong
 #### قوت والا
 
@@ -21,39 +21,39 @@ tags: ["asma_ul_husna", "tawakkul", "conflict"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Qawi possesses absolute, perfect strength — never diminishing, never tiring, never weakening. His strength is not brute force but absolute capability combined with wisdom. Often paired with Al-Aziz.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 القوی کی قوت مطلق ہے — کبھی کم نہیں ہوتی، کبھی تھکتی نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Whatever strength you lack in facing your challenges — Al-Qawi can supply it. Your weakness is not a problem when you are aligned with the All-Strong.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_165: The Cow البقرة]]
-- [[8_52: The Spoils of War الأنفال]]
-- [[11_66: Hud هود]]
-- [[22_40: The Pilgrimage الحج]]
-- [[22_74: The Pilgrimage الحج]]
-- [[33_25: The Combined Forces الأحزاب]]
-- [[42_19: The Consultation الشورى]]
-- [[57_25: The Iron الحديد]]
-- [[58_21: The Pleading Woman المجادلة]]
+- [[2_165]]
+- [[8_52]]
+- [[11_66]]
+- [[22_40]]
+- [[22_74]]
+- [[33_25]]
+- [[42_19]]
+- [[57_25]]
+- [[58_21]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[42 - Al-Jalil ٱلْجَلِيل]]
 - [[49 - Al-Majid ٱلْمَجِيد]]
@@ -65,5 +65,5 @@ Whatever strength you lack in facing your challenges — Al-Qawi can supply it. 
 - [[70 - Al-Qadir ٱلْقَادِر]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

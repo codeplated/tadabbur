@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "kibr", "akhirah", "qadr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Ar-Rafi' — ٱلرَّافِع
+# Ar-Rafi' — ٱلرَّافِع
 ### The Exalter · The Elevator
 #### بلند کرنے والا
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "kibr", "akhirah", "qadr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Ar-Rafi' raises and elevates whomever He wills — in rank, in station, in honor, in the Hereafter. He elevated Prophet Idris (19:57) and raised Isa to Himself (4:158). True elevation comes only from Him — no amount of human networking or self-promotion can substitute.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الرافع بلند کرتا ہے۔ ادریس اور عیسیٰ علیہم السلام کو اس نے اٹھایا۔ حقیقی عزت اسی سے ملتی ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you work hard and feel overlooked, Ar-Rafi' is the One who actually elevates — not subject to office politics or bias. Seek elevation from Him.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_55: Family of Imran آل عمران]]
-- [[4_158: The Women النساء]]
-- [[6_83: The Cattle الأنعام]]
-- [[19_57: Mary مريم]]
-- [[56_3: The Inevitable الواقعة]]
+- [[3_55]]
+- [[4_158]]
+- [[6_83]]
+- [[19_57]]
+- [[56_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[11 - Al-Mutakabbir ٱلْمُتَكَبِّر]]
 - [[16 - Al-Qahhar ٱلْقَهَّار]]
@@ -61,5 +61,5 @@ When you work hard and feel overlooked, Ar-Rafi' is the One who actually elevate
 - [[37 - Al-Ali ٱلْعَلِيّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

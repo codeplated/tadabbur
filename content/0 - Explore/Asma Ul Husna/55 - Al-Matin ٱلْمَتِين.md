@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Matin — ٱلْمَتِين
+# Al-Matin — ٱلْمَتِين
 ### The Firm · The Steadfast
 #### مضبوط
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "rizq", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Matin is firm and unshakeable — His promises do not waver, His plans are not disrupted. 'Surely Allah is the Provider, Possessor of Firm Strength' (51:58). What He has decreed will come to pass; what He has promised will be fulfilled.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المتین مضبوط اور غیر متزلزل ہے — اس کے وعدے نہیں بدلتے، اس کے منصوبے نہیں ٹوٹتے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When the world feels unstable — relationships, institutions, economies all shifting — Al-Matin is the unmovable foundation. Build your life on Him.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[51_58: The Winnowing Winds الذاريات]]
+- [[51_58]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[49 - Al-Majid ٱلْمَجِيد]]
 - [[52 - Al-Haqq ٱلْحَقّ]]
@@ -57,5 +57,5 @@ When the world feels unstable — relationships, institutions, economies all shi
 - [[71 - Al-Muqtadir ٱلْمُقْتَدِر]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

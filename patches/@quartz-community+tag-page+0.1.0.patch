@@ -1,5 +1,5 @@
 diff --git a/node_modules/@quartz-community/tag-page/dist/components/index.js b/node_modules/@quartz-community/tag-page/dist/components/index.js
-index c58e177..c4e9263 100644
+index c58e177..2b418f9 100644
 --- a/node_modules/@quartz-community/tag-page/dist/components/index.js
 +++ b/node_modules/@quartz-community/tag-page/dist/components/index.js
 @@ -2795,6 +2795,7 @@ function i18n(locale) {
@@ -162,14 +162,6 @@ index c58e177..c4e9263 100644
 +        href: `#surah-${g2.surah}`,
 +        children: [`${g2.surah}. ${g2.label.split(" · ")[0]}`, u2("span", { class: "tt-count", children: g2.items.length })]
 +      })) }),
-+      others.length > 0 && u2("section", { class: "tt-group", children: [
-+        u2("h2", { children: "Related pages" }),
-+        u2("ul", { class: "tt-list", children: others.map((file) => u2("li", { class: "tt-item tt-other", children: [
-+          u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
-+          subtitleOf(file) && u2("p", { class: "tt-sub", children: subtitleOf(file) }),
-+          u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
-+        ] })) })
-+      ] }),
 +      groups.map((g2) => u2("section", { class: "tt-group", id: `surah-${g2.surah}`, children: [
 +        u2("h2", { children: [u2("span", { class: "tt-surah-num", children: g2.surah }), " ", g2.label, u2("span", { class: "tt-count", children: plural(g2.items.length, "ayah") })] }),
 +        u2("ul", { class: "tt-list", children: g2.items.map(({ file, surah, ayah }) => {
@@ -201,7 +193,15 @@ index c58e177..c4e9263 100644
 -        ] })
 -      ] });
 -    }
-+      ] }))
++      ] })),
++      others.length > 0 && u2("section", { class: "tt-group", children: [
++        u2("h2", { children: "Related pages" }),
++        u2("ul", { class: "tt-list", children: others.map((file) => u2("li", { class: "tt-item tt-other", children: [
++          u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
++          subtitleOf(file) && u2("p", { class: "tt-sub", children: subtitleOf(file) }),
++          u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
++        ] })) })
++      ] }),
 +    ] });
    };
 -  TagContent.css = concatenateResources(listPage_default, PageList.css);
@@ -210,7 +210,7 @@ index c58e177..c4e9263 100644
  });
  
 diff --git a/node_modules/@quartz-community/tag-page/dist/index.js b/node_modules/@quartz-community/tag-page/dist/index.js
-index 9a9ecda..068def0 100644
+index 9a9ecda..77cd4f5 100644
 --- a/node_modules/@quartz-community/tag-page/dist/index.js
 +++ b/node_modules/@quartz-community/tag-page/dist/index.js
 @@ -2779,6 +2779,7 @@ function i18n(locale) {
@@ -373,14 +373,6 @@ index 9a9ecda..068def0 100644
 +        href: `#surah-${g2.surah}`,
 +        children: [`${g2.surah}. ${g2.label.split(" · ")[0]}`, u2("span", { class: "tt-count", children: g2.items.length })]
 +      })) }),
-+      others.length > 0 && u2("section", { class: "tt-group", children: [
-+        u2("h2", { children: "Related pages" }),
-+        u2("ul", { class: "tt-list", children: others.map((file) => u2("li", { class: "tt-item tt-other", children: [
-+          u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
-+          subtitleOf(file) && u2("p", { class: "tt-sub", children: subtitleOf(file) }),
-+          u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
-+        ] })) })
-+      ] }),
 +      groups.map((g2) => u2("section", { class: "tt-group", id: `surah-${g2.surah}`, children: [
 +        u2("h2", { children: [u2("span", { class: "tt-surah-num", children: g2.surah }), " ", g2.label, u2("span", { class: "tt-count", children: plural(g2.items.length, "ayah") })] }),
 +        u2("ul", { class: "tt-list", children: g2.items.map(({ file, surah, ayah }) => {
@@ -412,7 +404,15 @@ index 9a9ecda..068def0 100644
 -        ] })
 -      ] });
 -    }
-+      ] }))
++      ] })),
++      others.length > 0 && u2("section", { class: "tt-group", children: [
++        u2("h2", { children: "Related pages" }),
++        u2("ul", { class: "tt-list", children: others.map((file) => u2("li", { class: "tt-item tt-other", children: [
++          u2("a", { class: "internal tt-title", href: resolveRelative(slug2, file.slug), children: file.frontmatter?.title }),
++          subtitleOf(file) && u2("p", { class: "tt-sub", children: subtitleOf(file) }),
++          u2(TagChips, { tags: file.frontmatter?.tags ?? [], current: tag, slug: slug2 })
++        ] })) })
++      ] }),
 +    ] });
    };
 -  TagContent.css = concatenateResources(listPage_default, PageList.css);

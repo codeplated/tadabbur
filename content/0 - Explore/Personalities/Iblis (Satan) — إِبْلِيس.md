@@ -7,32 +7,32 @@ era: "Pre-human creation; ongoing until Day of Judgment"
 tags: ["shaytan", "jinn", "story_adam", "kibr"]
 ---
 <!-- GENERATED:START -->
-# 🔥 Iblis (Satan) — إِبْلِيس
+# Iblis (Satan) — إِبْلِيس
 ### ابلیس
 
 > **Also known as:** Shaytan, Satan, Al-Aduw (The Enemy), Al-Waswas
 
 ---
 
-## ❌ Path — Deviated Path | گمراہی
+## Path — Deviated Path | گمراہی
 
 **Reason:** Refused to prostrate to Adam out of arrogance; declared enemy of humanity until Day of Judgment (7:11-18)
 
 ---
 
-## 📖 Story — English
+## Story — English
 
 A jinn (not an angel) who had risen to the rank of angels through worship. When Allah commanded the angels to prostrate to Adam, Iblis refused — saying he was made of fire and Adam of clay, fire being superior. Allah expelled him. He asked for respite until the Day of Judgment and was granted it. He then declared he would mislead humanity from every direction. His fundamental sin was arrogance (kibr) — the first sin in creation. He admitted Allah's existence and power but allowed pride to override obedience.
 
 ---
 
-## 📖 کہانی — اردو
+## کہانی — اردو
 
 ایک جن جو عبادت سے فرشتوں کی صف میں پہنچ گیا تھا۔ آدم کو سجدہ کرنے سے انکار کیا — کہا آگ سے ہوں، مٹی سے بہتر ہوں۔ نکالا گیا۔ قیامت تک مہلت مانگی اور ملی۔ انسانیت کو گمراہ کرنے کا اعلان کیا۔ اس کا گناہ تکبر تھا۔
 
 ---
 
-## 💡 Lessons from the Quran
+## Lessons from the Quran
 
 1. Arrogance (kibr) is the root sin — it was the first act of disobedience in creation
 2. Worship without humility is worthless
@@ -42,63 +42,63 @@ A jinn (not an angel) who had risen to the rank of angels through worship. When 
 
 ---
 
-## 📍 Mentioned in Quran
+## Mentioned in Quran
 
-- [[2_34: The Cow البقرة]]
-- [[2_36: The Cow البقرة]]
-- [[3_36: Family of Imran آل عمران]]
-- [[4_117: The Women النساء]]
-- [[4_119: The Women النساء]]
-- [[4_120: The Women النساء]]
-- [[7_11: The Heights الأعراف]]
-- [[7_12: The Heights الأعراف]]
-- [[7_13: The Heights الأعراف]]
-- [[7_14: The Heights الأعراف]]
-- [[7_15: The Heights الأعراف]]
-- [[7_16: The Heights الأعراف]]
-- [[7_17: The Heights الأعراف]]
-- [[7_18: The Heights الأعراف]]
-- [[14_22: Abraham ابراهيم]]
-- [[15_31: The Rocky Tract الحجر]]
-- [[15_32: The Rocky Tract الحجر]]
-- [[15_33: The Rocky Tract الحجر]]
-- [[15_34: The Rocky Tract الحجر]]
-- [[15_35: The Rocky Tract الحجر]]
-- [[15_36: The Rocky Tract الحجر]]
-- [[15_37: The Rocky Tract الحجر]]
-- [[15_38: The Rocky Tract الحجر]]
-- [[15_39: The Rocky Tract الحجر]]
-- [[15_40: The Rocky Tract الحجر]]
-- [[17_61: The Night Journey الإسراء]]
-- [[17_62: The Night Journey الإسراء]]
-- [[17_63: The Night Journey الإسراء]]
-- [[17_64: The Night Journey الإسراء]]
-- [[17_65: The Night Journey الإسراء]]
-- [[18_50: The Cave الكهف]]
-- [[20_116: Ta-Ha طه]]
-- [[26_95: The Poets الشعراء]]
-- [[34_20: Sheba سبإ]]
-- [[35_6: Originator فاطر]]
-- [[36_60: Ya Sin يس]]
-- [[38_71: The Letter "Saad" ص]]
-- [[38_72: The Letter "Saad" ص]]
-- [[38_73: The Letter "Saad" ص]]
-- [[38_74: The Letter "Saad" ص]]
-- [[38_75: The Letter "Saad" ص]]
-- [[38_76: The Letter "Saad" ص]]
-- [[38_77: The Letter "Saad" ص]]
-- [[38_78: The Letter "Saad" ص]]
-- [[38_79: The Letter "Saad" ص]]
-- [[38_80: The Letter "Saad" ص]]
-- [[38_81: The Letter "Saad" ص]]
-- [[38_82: The Letter "Saad" ص]]
-- [[38_83: The Letter "Saad" ص]]
-- [[38_84: The Letter "Saad" ص]]
-- [[38_85: The Letter "Saad" ص]]
+- [[2_34]]
+- [[2_36]]
+- [[3_36]]
+- [[4_117]]
+- [[4_119]]
+- [[4_120]]
+- [[7_11]]
+- [[7_12]]
+- [[7_13]]
+- [[7_14]]
+- [[7_15]]
+- [[7_16]]
+- [[7_17]]
+- [[7_18]]
+- [[14_22]]
+- [[15_31]]
+- [[15_32]]
+- [[15_33]]
+- [[15_34]]
+- [[15_35]]
+- [[15_36]]
+- [[15_37]]
+- [[15_38]]
+- [[15_39]]
+- [[15_40]]
+- [[17_61]]
+- [[17_62]]
+- [[17_63]]
+- [[17_64]]
+- [[17_65]]
+- [[18_50]]
+- [[20_116]]
+- [[26_95]]
+- [[34_20]]
+- [[35_6]]
+- [[36_60]]
+- [[38_71]]
+- [[38_72]]
+- [[38_73]]
+- [[38_74]]
+- [[38_75]]
+- [[38_76]]
+- [[38_77]]
+- [[38_78]]
+- [[38_79]]
+- [[38_80]]
+- [[38_81]]
+- [[38_82]]
+- [[38_83]]
+- [[38_84]]
+- [[38_85]]
 
 ---
 
-## 🔗 Connected Personalities
+## Connected Personalities
 
 - [[Adam — آدَم]]
 - [[Hawwa (Eve) — حَوَّاء]]
@@ -106,5 +106,5 @@ A jinn (not an angel) who had risen to the rank of angels through worship. When 
 - [[Qabil (Cain) — قَابِيل]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

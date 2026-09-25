@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "tawakkul", "shirk"]
 ---
 <!-- GENERATED:START -->
-# ✨ An-Nafi' — ٱلنَّافِع
+# An-Nafi' — ٱلنَّافِع
 ### The Benefiter · The Creator of Good
 #### نفع دینے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "qadr", "tawakkul", "shirk"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 An-Nafi' is the source and giver of all benefit — every good thing, every advantage, every healing. Paired with Ad-Darr: only Allah has real power to help or harm. An-Nafi' can bring benefit through any channel He chooses — unlikely means, unexpected people, surprising circumstances.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 النافع تمام نفع کا سرچشمہ ہے — ہر بھلائی، ہر فائدہ، ہر شفا۔ نفع اور نقصان دونوں صرف اللہ کے ہاتھ میں ہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you are unsure which path will benefit you, consult An-Nafi' through Istikhara. When you need benefit no human can supply, seek it from its source.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_176: Family of Imran آل عمران]]
-- [[6_17: The Cattle الأنعام]]
-- [[7_188: The Heights الأعراف]]
-- [[10_107: Jonah يونس]]
+- [[3_176]]
+- [[6_17]]
+- [[7_188]]
+- [[10_107]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
@@ -60,5 +60,5 @@ When you are unsure which path will benefit you, consult An-Nafi' through Istikh
 - [[90 - Al-Mughni ٱلْمُغْنِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

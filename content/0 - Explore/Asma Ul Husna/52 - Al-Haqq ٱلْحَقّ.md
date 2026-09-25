@@ -11,7 +11,7 @@ quran_occurrences: 10
 tags: ["asma_ul_husna", "tawheed", "hidayah", "shirk"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Haqq — ٱلْحَقّ
+# Al-Haqq — ٱلْحَقّ
 ### The Truth · The Reality
 #### حق · سچ
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "tawheed", "hidayah", "shirk"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Haqq is not just truthful, but Truth itself — the ultimate reality. He is permanent while everything else is transient. 'That is because Allah is the Truth, and that which they call upon other than Him is falsehood' (22:62).
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الحق صرف سچ نہیں بولتا — وہ خود سچ ہے، خود حقیقت ہے۔ ایک بدلتی دنیا میں الحق وہ ثابت نقطہ ہے جو کبھی نہیں بدلتا۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 In a world of misinformation and uncertainty, orienting yourself to Al-Haqq is the compass. Let what you know about Him be the anchor.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[6_62: The Cattle الأنعام]]
-- [[10_32: Jonah يونس]]
-- [[18_44: The Cave الكهف]]
-- [[20_114: Ta-Ha طه]]
-- [[22_6: The Pilgrimage الحج]]
-- [[22_62: The Pilgrimage الحج]]
-- [[23_116: The Believers المؤمنون]]
-- [[31_30: Luqman لقمان]]
+- [[6_62]]
+- [[10_32]]
+- [[18_44]]
+- [[20_114]]
+- [[22_6]]
+- [[22_62]]
+- [[23_116]]
+- [[31_30]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[38 - Al-Kabir ٱلْكَبِير]]
 - [[39 - Al-Hafiz ٱلْحَفِيظ]]
@@ -64,5 +64,5 @@ In a world of misinformation and uncertainty, orienting yourself to Al-Haqq is t
 - [[57 - Al-Hamid ٱلْحَمِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

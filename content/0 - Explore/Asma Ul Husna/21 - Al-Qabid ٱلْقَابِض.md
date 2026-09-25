@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "qadr", "trial_test"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Qabid — ٱلْقَابِض
+# Al-Qabid — ٱلْقَابِض
 ### The Withholder · The Constrictor
 #### روکنے والا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "rizq", "qadr", "trial_test"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Qabid withholds, constrains, and constricts — rizq, souls at death, the heart. This is never arbitrary. Al-Qabid always appears paired with Al-Basit (the Expander) — together forming the complete picture of sovereignty over all states of expansion and contraction.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 القابض روکتا اور تنگ کرتا ہے۔ لیکن یہ ہمیشہ حکمت کے ساتھ ہے۔ القابض ہمیشہ الباسط کے ساتھ آتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you are in a period of constriction — financially, emotionally, spiritually — Al-Qabid is teaching, pruning, or redirecting. Constriction is not abandonment; it is purposeful.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_245: The Cow البقرة]]
+- [[2_245]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[9 - Al-Aziz ٱلْعَزِيز]]
 - [[10 - Al-Jabbar ٱلْجَبَّار]]
@@ -57,5 +57,5 @@ When you are in a period of constriction — financially, emotionally, spiritual
 - [[26 - Al-Mudhill ٱلْمُذِلّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

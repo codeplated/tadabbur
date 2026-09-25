@@ -11,7 +11,7 @@ quran_occurrences: 18
 tags: ["asma_ul_husna", "wealth", "zakat", "tawheed"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Ghani — ٱلْغَنِيّ
+# Al-Ghani — ٱلْغَنِيّ
 ### The Self-Sufficient · The Rich
 #### بے نیاز · غنی
 
@@ -21,40 +21,40 @@ tags: ["asma_ul_husna", "wealth", "zakat", "tawheed"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Ghani is completely self-sufficient — He needs nothing from anyone. Your worship does not benefit Him; your sin does not harm Him. 'O mankind, you are the ones in need of Allah, while Allah is Al-Ghani, Al-Hamid' (35:15). Worship benefits the worshipper, not Allah.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الغنی کو کسی کی ضرورت نہیں — آپ کی عبادت اسے فائدہ نہیں، آپ کا گناہ نقصان نہیں۔ 'اے لوگو! تم اللہ کے محتاج ہو' (35:15)۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Worship Al-Ghani because it transforms you, not because He needs it. Worship out of need (which you have) rather than obligation (which is distorted) — it becomes the most rational act.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_263: The Cow البقرة]]
-- [[2_267: The Cow البقرة]]
-- [[3_97: Family of Imran آل عمران]]
-- [[4_131: The Women النساء]]
-- [[6_133: The Cattle الأنعام]]
-- [[10_68: Jonah يونس]]
-- [[22_64: The Pilgrimage الحج]]
-- [[27_40: The Ant النمل]]
-- [[29_6: The Spider العنكبوت]]
-- [[35_15: Originator فاطر]]
+- [[2_263]]
+- [[2_267]]
+- [[3_97]]
+- [[4_131]]
+- [[6_133]]
+- [[10_68]]
+- [[22_64]]
+- [[27_40]]
+- [[29_6]]
+- [[35_15]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -66,5 +66,5 @@ Worship Al-Ghani because it transforms you, not because He needs it. Worship out
 - [[97 - Al-Baqi ٱلْبَاقِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

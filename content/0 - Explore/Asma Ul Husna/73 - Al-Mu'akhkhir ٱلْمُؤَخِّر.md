@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "time", "tawbah", "sabr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mu'akhkhir — ٱلْمُؤَخِّر
+# Al-Mu'akhkhir — ٱلْمُؤَخِّر
 ### The Delayer · The Retarder
 #### پیچھے کرنے والا
 
@@ -21,33 +21,33 @@ tags: ["asma_ul_husna", "qadr", "time", "tawbah", "sabr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mu'akhkhir delays what He wills — deferring punishment for the sinner to give time for repentance, delaying a blessing until the recipient is ready. The delay is always purposeful — never negligence, never inability.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المؤخر پیچھے ڈالتا ہے — توبہ کا موقع دینے کے لیے یا نعمت اس وقت تک روکنے کے لیے جب تک مستحق نہ ہو۔ تاخیر غفلت نہیں — حکمت ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 The prayer not yet answered, the door not yet opened — Al-Mu'akhkhir is delaying for a reason you may not see yet. The delay is not a denial; it is divine timing.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[14_42: Abraham ابراهيم]]
-- [[16_61: The Bee النحل]]
-- [[71_4: Noah نوح]]
+- [[14_42]]
+- [[16_61]]
+- [[71_4]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[66 - Al-Majid ٱلْمَاجِد]]
 - [[70 - Al-Qadir ٱلْقَادِر]]
@@ -59,5 +59,5 @@ The prayer not yet answered, the door not yet opened — Al-Mu'akhkhir is delayi
 - [[86 - Dhul-Jalali wal-Ikram ذُو ٱلْجَلَالِ وَٱلْإِكْرَام]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

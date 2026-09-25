@@ -11,7 +11,7 @@ quran_occurrences: 12
 tags: ["asma_ul_husna", "wala_bara", "tawakkul", "love_of_allah", "hidayah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Wali — ٱلْوَلِيّ
+# Al-Wali — ٱلْوَلِيّ
 ### The Protecting Friend · The Guardian
 #### دوست · سرپرست
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "wala_bara", "tawakkul", "love_of_allah", "hidayah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Wali is the closest, most loyal Friend and Protector — intimately involved in the believer's life. 'Allah is the Wali of those who believe' (2:257). Friendship requires loyalty from both sides.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الولی قریبی دوست اور محافظ ہے۔ 'اللہ مومنوں کا ولی ہے' (2:257)۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Loneliness is the disease of the modern age. Al-Wali is the answer — a real, available, deeply engaged Friend who wants your company and cares for your wellbeing.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_107: The Cow البقرة]]
-- [[2_257: The Cow البقرة]]
-- [[3_68: Family of Imran آل عمران]]
-- [[4_45: The Women النساء]]
-- [[4_119: The Women النساء]]
-- [[6_14: The Cattle الأنعام]]
-- [[7_196: The Heights الأعراف]]
-- [[9_116: The Repentance التوبة]]
+- [[2_107]]
+- [[2_257]]
+- [[3_68]]
+- [[4_45]]
+- [[4_119]]
+- [[6_14]]
+- [[7_196]]
+- [[9_116]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[33 - Al-Halim ٱلْحَلِيم]]
 - [[35 - Al-Ghafur ٱلْغَفُور]]
@@ -64,5 +64,5 @@ Loneliness is the disease of the modern age. Al-Wali is the answer — a real, a
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

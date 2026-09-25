@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "death_reminder", "dunya"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Baqi — ٱلْبَاقِي
+# Al-Baqi — ٱلْبَاقِي
 ### The Everlasting
 #### باقی رہنے والا
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "death_reminder", "dunya"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Baqi remains after all of creation passes away. 'All on earth will perish, but the Face of your Lord will remain, full of majesty and honor' (55:26-27). 'Al-baqiyat as-salihat' — the righteous deeds that endure with Al-Baqi — are better in reward than all of this world.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الباقی ہمیشہ رہے گا — 'زمین میں جو کچھ ہے فنا ہو جائے گا اور آپ کے رب کا چہرہ باقی رہے گا' (55:26-27)۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Every act of worship, every sadaqah jariyah, every prayer for others — these 'baqiyat as-salihat' endure with Al-Baqi. Build what lasts.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[19_76: Mary مريم]]
-- [[20_73: Ta-Ha طه]]
-- [[28_60: The Stories القصص]]
-- [[55_26: The Beneficent الرحمن]]
-- [[55_27: The Beneficent الرحمن]]
+- [[19_76]]
+- [[20_73]]
+- [[28_60]]
+- [[55_26]]
+- [[55_27]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -61,5 +61,5 @@ Every act of worship, every sadaqah jariyah, every prayer for others — these '
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

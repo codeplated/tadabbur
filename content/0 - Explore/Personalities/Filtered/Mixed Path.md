@@ -1,4 +1,4 @@
-# ⚠️ Mixed — Erred, Repented, or Complex — مخلوط
+# Mixed — Erred, Repented, or Complex — مخلوط
 
 **Total: 4**
 
@@ -6,16 +6,16 @@
 
 | # | Name | Type | Era |
 |---|------|------|-----|
-| 1 | [[Zulaikha (Wife of Al-Aziz) — زُلَيْخَا\|Zulaikha (Wife of Al-Aziz)]] | 👤 Person | Time of Yusuf, Egypt |
-| 2 | [[Brothers of Yusuf — أبناء يعقوب\|Brothers of Yusuf]] | 👥 Group / Nation | Time of Yusuf, Canaan and Egypt |
-| 3 | [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل\|Bani Israel (Children of Israel)]] | 👥 Group / Nation | From Yaqub through to the time of … |
-| 4 | [[People of the Ditch — أَصْحَاب الْأُخْدُود\|People of the Ditch]] | 👥 Group / Nation | Pre-Islamic Arabia or Yemen, schol… |
+| 1 | [[Zulaikha (Wife of Al-Aziz) — زُلَيْخَا\|Zulaikha (Wife of Al-Aziz)]] | Person | Time of Yusuf, Egypt |
+| 2 | [[Brothers of Yusuf — أبناء يعقوب\|Brothers of Yusuf]] | Group / Nation | Time of Yusuf, Canaan and Egypt |
+| 3 | [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل\|Bani Israel (Children of Israel)]] | Group / Nation | From Yaqub through to the time of … |
+| 4 | [[People of the Ditch — أَصْحَاب الْأُخْدُود\|People of the Ditch]] | Group / Nation | Pre-Islamic Arabia or Yemen, schol… |
 
 ---
 
 ## Details
 
-### 👤 [[Zulaikha (Wife of Al-Aziz) — زُلَيْخَا]] — زلیخا
+### [[Zulaikha (Wife of Al-Aziz) — زُلَيْخَا]] — زلیخا
 
 **Era:** Time of Yusuf, Egypt
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 👥 [[Brothers of Yusuf — أبناء يعقوب]] — یوسف کے بھائی
+### [[Brothers of Yusuf — أبناء يعقوب]] — یوسف کے بھائی
 
 **Era:** Time of Yusuf, Canaan and Egypt
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 👥 [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل]] — بنی اسرائیل
+### [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل]] — بنی اسرائیل
 
 **Era:** From Yaqub through to the time of Muhammad ﷺ
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 👥 [[People of the Ditch — أَصْحَاب الْأُخْدُود]] — اصحاب الاخدود
+### [[People of the Ditch — أَصْحَاب الْأُخْدُود]] — اصحاب الاخدود
 
 **Era:** Pre-Islamic Arabia or Yemen, scholars debate
 

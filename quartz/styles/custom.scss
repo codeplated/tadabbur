@@ -47,10 +47,18 @@ blockquote {
   border-radius: var(--radius-sm);
 }
 
-article .table-container,
 article table {
   border-radius: var(--radius);
   overflow: hidden;
+}
+
+// The rounded corner needs a clip, but clipping both axes also hides whatever
+// the table is too wide to show, with no way to reach it — on a phone that was
+// the whole last column of every topic table on the front page. Clip the
+// vertical axis for the corner, let the horizontal one scroll.
+article .table-container {
+  border-radius: var(--radius);
+  overflow: auto hidden;
 }
 
 .graph > .graph-outer,
@@ -333,5 +341,670 @@ $logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewB
   .page-title a::after {
     animation: none;
     transition: none;
+  }
+}
+
+// ── Front page hero ──────────────────────────────────────────────────────
+// content/index.md opens straight into a paragraph, so the site gives no
+// visual sense of what it is before the reader starts reading. This puts
+// quartz/static/hero.jpg — the repo-root hero.jpg rotated 90°, cropped to
+// 7:1 and given its "A structured Quran Knowledge Base" tagline (own
+// contrast band and gold flourishes baked in) — above the first
+// paragraph. The tagline lives in the image, not a pseudo-element, so
+// there's nothing to keep in sync here.
+// Keyed to slug="index" so no other page and nothing in content/index.md
+// has to change. The box is always wider than it is 7:1-tall at every
+// breakpoint below, so `cover` only ever crops the image's sides, never
+// the vertically-centered text.
+body[data-slug="index"] .center > article::before {
+  content: "";
+  display: block;
+  height: 280px;
+  margin: 0 0 2rem;
+  border-radius: var(--radius-lg);
+  background: url("/static/hero.jpg") center / cover no-repeat;
+
+  @media all and ($tablet) {
+    height: 220px;
+  }
+
+  @media all and ($mobile) {
+    height: 170px;
+  }
+}
+
+// ============================================================================
+// Phones and tablets
+// ============================================================================
+// Most readers open this site on a phone, so the small-screen layout is the one
+// that has to be right. Two kinds of query below do different jobs and are not
+// interchangeable:
+//
+//   ($mobile) / ($tablet)  — how much room there is, so: layout.
+//   (hover: none)          — whether the reader is pointing with a finger, so:
+//                            target sizes and anything that depended on hover.
+//                            A touch tablet in landscape is wide enough for the
+//                            desktop layout but still needs finger-sized
+//                            controls, which is why these are kept apart.
+
+:root {
+  // The height of the phone app bar. Everything that has to sit clear of it —
+  // scroll anchors, the explorer drawer — measures from this.
+  --mobile-bar-height: 3.5rem;
+  // Comfortable minimum for anything a finger has to hit.
+  --tap-target: 2.75rem;
+}
+
+// ── Touch basics ────────────────────────────────────────────────────────────
+
+@media (hover: none) {
+  // Chrome, not prose: double-tap-to-zoom stays available on the text itself,
+  // but a control shouldn't wait 300ms to find out whether the tap was one.
+  button,
+  summary,
+  .search-button,
+  .explorer-content a,
+  .explorer-content button,
+  .folder-icon,
+  .tags a,
+  .tt-jump a,
+  .tt-index a,
+  .bases-card,
+  .bases-view-tabs button,
+  .breadcrumb-element a {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: color-mix(in srgb, var(--secondary) 20%, transparent);
+  }
+}
+
+// The search input clears its outline, and nothing else defines a focus ring.
+// Keyboard and switch-control users need to see where they are.
+:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+// ── The phone app bar ───────────────────────────────────────────────────────
+// Left sidebar turns into a row of controls at the top of the page on mobile,
+// and it is sticky, so every pixel it takes is a pixel of verse the reader
+// never sees. Stacking the logo above a 1.75rem title made it 179px tall — a
+// fifth of an iPhone screen, permanently. This lays it out as one 56px row:
+//
+//   [menu] [logo Tadabbur — تدبّر] ............... [search] [theme]
+
+@media all and ($mobile) {
+  html {
+    // Heading links, the tag-page jump bar and the table of contents all jump
+    // to an anchor; without this they land underneath the bar.
+    scroll-padding-top: calc(var(--mobile-bar-height) + 0.75rem);
+  }
+
+  .page > #quartz-body > .sidebar.left {
+    box-sizing: border-box;
+    // Fixed, not a minimum: the drawer opens at exactly this offset, so a bar
+    // that grew by a few pixels would show a strip of the page above it.
+    height: var(--mobile-bar-height);
+    // Above the article, which scrolls under it. The explorer drawer (z-index
+    // 100) and its toggle (101) are children, so they still come out on top.
+    z-index: 50;
+    gap: 0.35rem;
+    align-items: center;
+    // #quartz-body holds a 1rem gutter; cancel it and re-apply it inside so the
+    // bar's background and rule run the full width of the screen.
+    margin: 0 -1rem;
+    padding: 0.25rem 1rem;
+    background-color: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  .page-title {
+    --logo-size: 2.1rem;
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 1.05rem;
+    line-height: 1.2;
+
+    a {
+      display: block;
+      // The logo moves from above the title to beside it.
+      padding-top: 0;
+      padding-left: calc(var(--logo-size) + 0.5rem);
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      // The line box does the vertical centring, which a flex box would do
+      // too — but text-overflow needs a block container to ellipsis in.
+      min-height: var(--tap-target);
+      line-height: var(--tap-target);
+    }
+
+    // Centred on the title rather than sitting over it. `margin-top` does the
+    // centring because `transform` belongs to the hover animation.
+    a::before,
+    a::after {
+      left: 0;
+      top: 50%;
+      margin-top: calc(var(--logo-size) / -2);
+    }
+  }
+
+  // The toolbar group grows its search slot by inline style, which would leave
+  // a gap between the search and theme icons once the button is icon-sized.
+  .sidebar.left > .flex-component > div {
+    flex: 0 0 auto !important;
+  }
+
+  // Icon-only search: the word doesn't survive on a 390px bar, and a magnifier
+  // needs no label.
+  .search {
+    min-width: 0;
+    max-width: none;
+    flex-grow: 0;
+  }
+
+  .search > .search-button {
+    width: var(--tap-target);
+    height: var(--tap-target);
+    justify-content: center;
+    padding: 0;
+    border-color: transparent;
+
+    > p {
+      display: none;
+    }
+
+    svg {
+      width: 20px;
+      min-width: 20px;
+      margin: 0;
+    }
+  }
+}
+
+// Every control in the bar gets a finger-sized box. The icons stay 20px; it is
+// the hit area that grows.
+@media (hover: none) {
+  .darkmode {
+    width: var(--tap-target);
+    height: var(--tap-target);
+  }
+
+  .darkmode svg {
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+  }
+
+  .explorer button.mobile-explorer {
+    width: var(--tap-target);
+    height: var(--tap-target);
+    justify-content: center;
+    padding: 0;
+    border-radius: var(--radius);
+  }
+
+  // The tablet sidebar keeps the full-width search button and the Explorer
+  // fold header; both were around 20–32px tall.
+  .search > .search-button {
+    min-height: var(--tap-target);
+  }
+
+  .explorer button.desktop-explorer,
+  .toc button.toc-header {
+    min-height: var(--tap-target);
+  }
+
+  .note-properties .note-properties-header {
+    box-sizing: border-box;
+    min-height: var(--tap-target);
+  }
+}
+
+// ── The explorer drawer ─────────────────────────────────────────────────────
+// 114 surahs plus the explore folders: on a phone this is the main way around
+// the site. It was a full-screen overlay pinned to the top of the page, so its
+// first rows sat underneath the app bar and the menu button overlapped them.
+// Anchoring it below the bar leaves the bar usable while it is open.
+
+@media all and ($mobile) {
+  .explorer .explorer-content {
+    position: fixed;
+    top: var(--mobile-bar-height);
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: none;
+    padding: 0.5rem 1rem 2rem;
+    // Closed, it sits one screen to the left. `translateX(-100%)` is measured
+    // on the drawer itself, unlike the plugin's `-100vw`, which is a viewport
+    // width away from wherever the drawer happens to start.
+    transform: translateX(-100%);
+  }
+
+  .explorer:not(.collapsed) > .explorer-content {
+    transform: none;
+  }
+
+  // The plugin adds this to <html> while the drawer is open but only uses it to
+  // contain overscroll. Without it the page keeps scrolling behind the drawer.
+  html.mobile-no-scroll,
+  html.mobile-no-scroll body {
+    overflow: hidden;
+  }
+
+  // Open state on the menu button, so it reads as a toggle and not a stray icon
+  // floating over the file tree.
+  .explorer:not(.collapsed) button.mobile-explorer {
+    background-color: var(--highlight);
+
+    .lucide-menu {
+      stroke: var(--secondary);
+    }
+  }
+}
+
+// The file tree is a list of tap targets on any touch device — in the phone
+// drawer and in the tablet sidebar alike. 24px rows with a 12px fold arrow are
+// a mis-tap waiting to happen.
+@media (hover: none) {
+  .explorer-content {
+    ul li > a,
+    .folder-container div > a,
+    .folder-container div > button {
+      display: flex;
+      align-items: center;
+      min-height: var(--tap-target);
+      font-size: 1rem;
+      line-height: 1.35;
+    }
+
+    .folder-container div > button {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
+    // The arrow opens the folder while the label navigates into it, so it needs
+    // a hit area of its own rather than 12px of glyph.
+    .folder-icon {
+      box-sizing: border-box;
+      width: var(--tap-target);
+      height: var(--tap-target);
+      padding: calc((var(--tap-target) - 12px) / 2);
+      margin-right: 0;
+      margin-left: -0.55rem;
+    }
+  }
+}
+
+// ── Search ──────────────────────────────────────────────────────────────────
+
+@media all and ($mobile) {
+  .search > .search-container {
+    // 100vh keeps counting the browser chrome that scrolls away.
+    height: 100dvh;
+  }
+
+  .search > .search-container > .search-space {
+    width: calc(100% - 2rem);
+    // The field was pushed 12vh down the screen, which on a phone puts it —
+    // and most of its results — behind the keyboard the moment it opens.
+    margin-top: 0.75rem;
+  }
+
+  .search > .search-container > .search-space > .search-layout > div {
+    height: auto;
+  }
+
+  .search > .search-container > .search-space > .search-layout[data-preview] > .results-container {
+    max-height: calc(100dvh - 8rem);
+  }
+}
+
+// ── The right rail: graph and backlinks ─────────────────────────────────────
+
+// The graph pulls d3 and pixi.js (~700KB) off a CDN on every page load and then
+// force-simulates 6,500 nodes — to fill a 169px box no finger can usefully pan.
+// The graph patch skips that work on touch devices; this hides the empty frame
+// it would otherwise leave behind. Both key off `(hover: none)`, so they agree
+// with each other when a tablet rotates.
+@media (hover: none) {
+  .sidebar.right > .graph {
+    display: none;
+  }
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.right {
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+
+    // Side by side, each gets half a phone screen; stacked, each gets all of
+    // it, and the 24rem cap that made the backlink list scroll inside a
+    // scrolling page can go.
+    & > * {
+      flex: 0 0 auto;
+      max-height: none;
+    }
+  }
+
+  .backlinks > ul.overflow {
+    max-height: none;
+  }
+}
+
+// ── The page header: breadcrumbs, title, properties, tags ───────────────────
+// Everything here sits between the reader and the verse, and on a phone it ran
+// to roughly 250px before the first word of content.
+
+@media all and ($mobile) {
+  // One line that scrolls, rather than two or three that wrap. The last crumb
+  // is the page you are on, and the <h1> right underneath already says so.
+  .breadcrumb-container {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    mask-image: linear-gradient(to right, black calc(100% - 1.5rem), transparent);
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .breadcrumb-element {
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+
+  .article-title {
+    margin-top: 1.25rem;
+    font-size: 1.45rem;
+    line-height: 1.25;
+  }
+
+  .note-properties {
+    font-size: 0.85rem;
+
+    .note-properties-header {
+      padding: 0.5rem 0.7rem;
+    }
+
+    .note-properties-key {
+      width: 34%;
+      padding: 0.3rem 0.7rem;
+      font-size: 0.8rem;
+    }
+
+    .note-properties-value {
+      padding: 0.3rem 0.7rem;
+    }
+  }
+
+  .content-meta {
+    font-size: 0.85rem;
+  }
+}
+
+@media (hover: none) {
+  ul.tags > li > a.internal.tag-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.35rem;
+    padding: 0 0.6rem;
+  }
+}
+
+// ── Content ─────────────────────────────────────────────────────────────────
+
+@media all and ($mobile) {
+  // A five-column reference table has no chance of fitting a phone, so give it
+  // the whole screen to scroll in and stop spending 1rem of margin either side
+  // of it.
+  article .table-container {
+    margin-inline: -1rem;
+    padding-inline: 1rem;
+    overscroll-behavior-x: contain;
+
+    > table {
+      margin: 0.5rem 0;
+      padding: 0;
+    }
+
+    th,
+    td {
+      padding: 0.3rem 0.5rem;
+    }
+  }
+
+  article h1 {
+    font-size: 1.5rem;
+  }
+
+  article h2 {
+    font-size: 1.25rem;
+  }
+
+  // The verse is the reason for the page; it keeps its size while the chrome
+  // around it shrinks.
+  article h2#arabic + p[lang="ar"] {
+    font-size: 1.75rem;
+  }
+}
+
+@media (hover: none) {
+  // A surah index lists its ayaat as a run of numbers separated by "·" —
+  // 286 of them for al-Baqarah, each about 12px wide. It is the way into every
+  // ayah of the surah, so on touch it becomes a grid of chips. Zeroing the
+  // paragraph's font size collapses the separators and the whitespace around
+  // them; the links set their own size back.
+  article h2#ayaat + p {
+    font-size: 0;
+    line-height: 0;
+
+    a.internal {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: var(--tap-target);
+      min-height: var(--tap-target);
+      margin: 0.15rem;
+      padding: 0 0.35rem;
+      font-size: 0.95rem;
+      line-height: 1;
+    }
+  }
+
+  // Previous / next between ayaat, under Recitation and again at the foot of
+  // the note. This is how a reader moves through a surah.
+  article :is(h2#recitation, h2#connections) + :is(p, ul) a.internal {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.35rem;
+    padding: 0 0.4rem;
+  }
+}
+
+// ── Cards (Quran.base) ──────────────────────────────────────────────────────
+// One card per row turned 114 surahs into a 48,000px scroll.
+
+@media all and ($mobile) {
+  // `cardSize: 270` in the base file becomes an inline
+  // `repeat(auto-fit, minmax(270px, 1fr))` on the grid, which no stylesheet
+  // rule can outrank — same as `imageAspectRatio` above. A phone is narrower
+  // than one 270px card, so without this every surah gets a row to itself.
+  .bases-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 0.75rem;
+  }
+
+  .bases-card-body {
+    padding: 0.6rem;
+  }
+
+  .bases-card-title {
+    font-size: 0.85rem;
+    line-height: 1.3;
+  }
+}
+
+// Three across an iPad held upright, five across it held sideways — rather
+// than the one or two a 270px minimum gives.
+@media all and ($tablet) {
+  .bases-cards {
+    grid-template-columns: repeat(auto-fit, minmax(min(165px, 100%), 1fr)) !important;
+  }
+}
+
+@media (hover: none) {
+  .bases-view-tabs button {
+    min-height: 2.35rem;
+    padding: 0 0.9rem;
+  }
+}
+
+// ── Tag pages ───────────────────────────────────────────────────────────────
+
+@media all and ($mobile) {
+  // A busy tag lists 75 surahs to jump to. Wrapped, that is 20 rows of chips —
+  // a wall between the reader and the ayaat. One swipeable row instead.
+  .tt-tag-page .tt-jump {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+    margin-inline: -1rem;
+    padding: 0.4rem 1rem;
+    mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
+    // A busy tag page runs to 60,000px on a phone. One row is cheap enough to
+    // keep on screen, and it is the only way to move around the page.
+    position: sticky;
+    top: var(--mobile-bar-height);
+    z-index: 5;
+    background-color: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    a {
+      flex: 0 0 auto;
+      scroll-snap-align: start;
+    }
+  }
+
+  // Stacks on top of html's scroll-padding-top, which already clears the app
+  // bar; this is the jump row that sits under it.
+  .tt-tag-page .tt-group {
+    scroll-margin-top: 3rem;
+  }
+}
+
+@media (hover: none) {
+  .tt-tag-page .tt-jump a,
+  .tt-tag-page .tt-index a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+}
+
+// ── Lists and links outside the article ─────────────────────────────────────
+// Backlinks, the footer and the non-ayah entries on a tag page are all links a
+// finger has to land on, and all of them were around 24px tall.
+
+@media (hover: none) {
+  .backlinks > ul.overflow > li > a {
+    display: flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+
+  footer p a,
+  footer ul li a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+
+  footer a.footer-icon {
+    justify-content: center;
+    min-width: 2.5rem;
+  }
+
+  .tt-tag-page .tt-title {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+
+  // Going back up a level is a phone's main navigation move after the drawer.
+  .breadcrumb-element a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+
+  // These sit three to a row under every ayah on a tag page, so they get
+  // breathing room rather than the full target size — 289 ayaat of 44px chips
+  // would add several screens to the page.
+  .tt-tag-page .tt-tags a.tag-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0 0.5rem;
+  }
+}
+
+// ── Canvas ──────────────────────────────────────────────────────────────────
+
+@media (hover: none) {
+  .canvas-controls button,
+  .page[data-frame="canvas"] .canvas-sidebar-toggle {
+    width: var(--tap-target);
+    height: var(--tap-target);
+  }
+}
+
+// ── Reduced motion ──────────────────────────────────────────────────────────
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .explorer .explorer-content,
+  .page > #quartz-body > :not(.sidebar.left:has(.explorer)) {
+    transition: none;
+  }
+}
+
+// ── Tablets ─────────────────────────────────────────────────────────────────
+// Between 800 and 1200px the explorer is a permanent column beside the text.
+// At 320px wide it took 39% of an iPad held upright, and the 6rem of space
+// above both columns pushed the first line of every page off the screen.
+
+@media all and ($tablet) {
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 17rem) minmax(0, 1fr);
+  }
+
+  .page > #quartz-body .sidebar.left {
+    padding: 2.5rem 1.25rem 2rem 0;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 2.5rem;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    margin-top: 1.5rem;
   }
 }

@@ -11,7 +11,7 @@ quran_occurrences: 5
 tags: ["asma_ul_husna", "tawheed", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Hayy — ٱلْحَيّ
+# Al-Hayy — ٱلْحَيّ
 ### The Ever-Living
 #### زندہ
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "tawheed", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Hayy is the Ever-Living — His life has no beginning, no end, and no dependence on anything else. All other life depends on Him; He depends on nothing. Ayat al-Kursi begins with it. The greatest du'a: 'Ya Hayyu ya Qayyum, bi rahmatika astaghith.'
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الحی ہمیشہ زندہ ہے — بغیر ابتداء، بغیر انتہاء۔ آیت الکرسی اسی سے شروع ہوتی ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 In Tahajjud, when the world sleeps, Al-Hayy is awake and present. 'Ya Hayyu ya Qayyum' — the greatest dua — calls on the Ever-Living in dark hours.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_255: The Cow البقرة]]
-- [[3_2: Family of Imran آل عمران]]
-- [[20_111: Ta-Ha طه]]
-- [[25_58: The Criterion الفرقان]]
-- [[40_65: The Forgiver غافر]]
+- [[2_255]]
+- [[3_2]]
+- [[20_111]]
+- [[25_58]]
+- [[40_65]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[64 - Al-Qayyum ٱلْقَيُّوم]]
@@ -61,5 +61,5 @@ In Tahajjud, when the world sleeps, Al-Hayy is awake and present. 'Ya Hayyu ya Q
 - [[97 - Al-Baqi ٱلْبَاقِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

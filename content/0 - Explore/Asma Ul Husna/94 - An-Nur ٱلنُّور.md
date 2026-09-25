@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "hidayah", "iman", "revelation"]
 ---
 <!-- GENERATED:START -->
-# ✨ An-Nur — ٱلنُّور
+# An-Nur — ٱلنُّور
 ### The Light
 #### نور
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "hidayah", "iman", "revelation"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 An-Nur is the Light — source of all light, physical and spiritual. Ayat an-Nur (24:35) describes His light through an elaborate parable describing the light of iman in the heart of the believer. An-Nur will be the only light on the Day of Judgment when all other lights extinguish.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 النور نور کا سرچشمہ ہے — مادی اور روحانی دونوں۔ آیت النور (24:35) مومن کے دل میں ایمان کا نور بیان کرتی ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel spiritually lost or in darkness, An-Nur is the direct source of illumination. 'Allahu nurus samawati wal-ard.' Ask An-Nur for light.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[24_35: The Light النور]]
-- [[33_46: The Combined Forces الأحزاب]]
-- [[39_22: The Troops الزمر]]
-- [[57_28: The Iron الحديد]]
-- [[64_8: The Mutual Disillusion التغابن]]
+- [[24_35]]
+- [[33_46]]
+- [[39_22]]
+- [[57_28]]
+- [[64_8]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
 - [[27 - As-Sami' ٱلسَّمِيع]]
@@ -61,5 +61,5 @@ When you feel spiritually lost or in darkness, An-Nur is the direct source of il
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

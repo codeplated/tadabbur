@@ -11,7 +11,7 @@ quran_occurrences: 8
 tags: ["asma_ul_husna", "tawheed", "kibr", "salah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Ali — ٱلْعَلِيّ
+# Al-Ali — ٱلْعَلِيّ
 ### The Most High · The Sublime
 #### بلند و بالا
 
@@ -21,36 +21,36 @@ tags: ["asma_ul_husna", "tawheed", "kibr", "salah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Ali is absolutely transcendent — above all things in His essence, attributes, power, and authority. Nothing is above Him. This transcendence is not spatial but ontological — He is of a different order of reality than anything created.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 العلی ذات، صفات، قدرت اور اختیار میں سب سے بلند ہے — کوئی اس سے اوپر نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Prostrating to Al-Ali in Sujood — the most exalted being, and you with your forehead on the ground — is the most honest physical expression of the Creator-creation relationship.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_255: The Cow البقرة]]
-- [[4_34: The Women النساء]]
-- [[22_62: The Pilgrimage الحج]]
-- [[31_30: Luqman لقمان]]
-- [[42_4: The Consultation الشورى]]
-- [[42_51: The Consultation الشورى]]
+- [[2_255]]
+- [[4_34]]
+- [[22_62]]
+- [[31_30]]
+- [[42_4]]
+- [[42_51]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[24 - Ar-Rafi' ٱلرَّافِع]]
 - [[25 - Al-Mu'izz ٱلْمُعِزّ]]
@@ -62,5 +62,5 @@ Prostrating to Al-Ali in Sujood — the most exalted being, and you with your fo
 - [[49 - Al-Majid ٱلْمَجِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

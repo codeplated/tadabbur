@@ -11,7 +11,7 @@ quran_occurrences: 6
 tags: ["asma_ul_husna", "tawheed", "oppression", "akhirah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Qahhar — ٱلْقَهَّار
+# Al-Qahhar — ٱلْقَهَّار
 ### The Subduer · The Dominant
 #### زبردست غالب
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "tawheed", "oppression", "akhirah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Qahhar subdues and overpowers all things completely — nothing can resist His will. Every tyrant, every ego ultimately bows to Al-Qahhar. This name appears frequently in the context of the Day of Judgment when all false powers are finally and completely subdued (40:16).
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 القہار وہ ہے جو ہر چیز کو مکمل طور پر مغلوب کر دیتا ہے۔ قیامت کے دن تمام جھوٹی طاقتیں اس کے سامنے ڈھیر ہو جائیں گی۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you witness injustice going unpunished, Al-Qahhar will ultimately subdue every oppressor. No power permanently escapes His grip.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[6_18: The Cattle الأنعام]]
-- [[6_61: The Cattle الأنعام]]
-- [[12_39: Joseph يوسف]]
-- [[13_16: The Thunder الرعد]]
-- [[14_48: Abraham ابراهيم]]
-- [[38_65: The Letter "Saad" ص]]
-- [[39_4: The Troops الزمر]]
-- [[40_16: The Forgiver غافر]]
+- [[6_18]]
+- [[6_61]]
+- [[12_39]]
+- [[13_16]]
+- [[14_48]]
+- [[38_65]]
+- [[39_4]]
+- [[40_16]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
 - [[9 - Al-Aziz ٱلْعَزِيز]]
@@ -64,5 +64,5 @@ When you witness injustice going unpunished, Al-Qahhar will ultimately subdue ev
 - [[25 - Al-Mu'izz ٱلْمُعِزّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

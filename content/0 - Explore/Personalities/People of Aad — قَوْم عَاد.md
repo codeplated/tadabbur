@@ -7,32 +7,32 @@ era: "Ancient Arabia, pre-Ibrahim"
 tags: ["story_hud", "kibr", "kufr", "history_lessons"]
 ---
 <!-- GENERATED:START -->
-# 👥 People of Aad — قَوْم عَاد
+# People of Aad — قَوْم عَاد
 ### قوم عاد
 
 > **Also known as:** Aad
 
 ---
 
-## ❌ Path — Deviated Path | گمراہی
+## Path — Deviated Path | گمراہی
 
 **Reason:** Rejected prophet Hud; boasted of their power; destroyed by a violent wind lasting seven nights and eight days
 
 ---
 
-## 📖 Story — English
+## Story — English
 
 A powerful, arrogant civilization in ancient Arabia known for their towering pillars (89:7). They asked: 'Who is mightier than us?' They rejected their prophet Hud and were destroyed by a violent wind (reeh sarsar) that lasted seven nights and eight days continuously — it left them like hollow trunks of palm trees (69:7). Their ruins are referenced in the Quran. They are the archetypal example of arrogance destroyed.
 
 ---
 
-## 📖 کہانی — اردو
+## کہانی — اردو
 
 قدیم عرب کی طاقتور قوم — 'ہم سے قوی کون ہے؟' ہود کو جھٹلایا۔ سات رات آٹھ دن کی تیز آندھی — کھجور کے ٹھونٹھوں کی طرح گرے (69:7)۔
 
 ---
 
-## 💡 Lessons from the Quran
+## Lessons from the Quran
 
 1. Physical strength and civilization are temporary
 2. Arrogance about power is the most cited reason for divine punishment
@@ -40,48 +40,48 @@ A powerful, arrogant civilization in ancient Arabia known for their towering pil
 
 ---
 
-## 📍 Mentioned in Quran
+## Mentioned in Quran
 
-- [[7_65: The Heights الأعراف]]
-- [[7_69: The Heights الأعراف]]
-- [[7_72: The Heights الأعراف]]
-- [[9_70: The Repentance التوبة]]
-- [[11_50: Hud هود]]
-- [[11_58: Hud هود]]
-- [[11_60: Hud هود]]
-- [[14_9: Abraham ابراهيم]]
-- [[22_42: The Pilgrimage الحج]]
-- [[25_38: The Criterion الفرقان]]
-- [[26_123: The Poets الشعراء]]
-- [[29_38: The Spider العنكبوت]]
-- [[38_12: The Letter "Saad" ص]]
-- [[40_31: The Forgiver غافر]]
-- [[41_13: Explained in Detail فصلت]]
-- [[41_15: Explained in Detail فصلت]]
-- [[41_16: Explained in Detail فصلت]]
-- [[46_21: The Wind-Curved Sandhills الأحقاف]]
-- [[46_25: The Wind-Curved Sandhills الأحقاف]]
-- [[50_13: The Letter "Qaf" ق]]
-- [[51_41: The Winnowing Winds الذاريات]]
-- [[53_50: The Star النجم]]
-- [[54_18: The Moon القمر]]
-- [[54_19: The Moon القمر]]
-- [[54_20: The Moon القمر]]
-- [[54_21: The Moon القمر]]
-- [[69_4: The Reality الحاقة]]
-- [[69_6: The Reality الحاقة]]
-- [[69_7: The Reality الحاقة]]
-- [[69_8: The Reality الحاقة]]
-- [[89_6: The Dawn الفجر]]
-- [[89_7: The Dawn الفجر]]
-- [[89_8: The Dawn الفجر]]
+- [[7_65]]
+- [[7_69]]
+- [[7_72]]
+- [[9_70]]
+- [[11_50]]
+- [[11_58]]
+- [[11_60]]
+- [[14_9]]
+- [[22_42]]
+- [[25_38]]
+- [[26_123]]
+- [[29_38]]
+- [[38_12]]
+- [[40_31]]
+- [[41_13]]
+- [[41_15]]
+- [[41_16]]
+- [[46_21]]
+- [[46_25]]
+- [[50_13]]
+- [[51_41]]
+- [[53_50]]
+- [[54_18]]
+- [[54_19]]
+- [[54_20]]
+- [[54_21]]
+- [[69_4]]
+- [[69_6]]
+- [[69_7]]
+- [[69_8]]
+- [[89_6]]
+- [[89_7]]
+- [[89_8]]
 
 ---
 
-## 🔗 Connected Personalities
+## Connected Personalities
 
 - [[Hud — هُود]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

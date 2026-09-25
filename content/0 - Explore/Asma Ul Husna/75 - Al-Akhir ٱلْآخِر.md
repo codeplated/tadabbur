@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "time", "death_reminder"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Akhir — ٱلْآخِر
+# Al-Akhir — ٱلْآخِر
 ### The Last
 #### آخر
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "time", "death_reminder"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Akhir is the Last — after Whom there is nothing. After all of creation ends, Al-Akhir remains. Everything in creation will end; Al-Akhir endures after all endings. Paired with Al-Awwal: He was before everything and will be after everything.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الآخر وہ ہے جس کے بعد کچھ نہیں — تمام مخلوق کے بعد بھی وہی رہے گا۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Investing in Al-Akhir — through deeds that outlast your life — is the most rational investment. Only what endures with Him is the ultimate destination.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[57_3: The Iron الحديد]]
+- [[57_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -57,5 +57,5 @@ Investing in Al-Akhir — through deeds that outlast your life — is the most r
 - [[97 - Al-Baqi ٱلْبَاقِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

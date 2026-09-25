@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "ikhlas"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Ahad — ٱلْأَحَد
+# Al-Ahad — ٱلْأَحَد
 ### The Indivisible One
 #### اکیلا · اکلوتا
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "tawheed", "ikhlas"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Ahad means indivisibly, absolutely ONE — singularity of essence. He cannot be divided, split, or composed of parts. Surah Al-Ikhlas (equal to one-third of the Quran) says 'Qul huwallahu Ahad.' This directly negates Trinity, polytheism, and pantheism.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الاحد اپنی ذات میں تقسیم نہیں ہو سکتا۔ 'قل ھو اللہ احد' — قرآن کا ایک تہائی اس ایک نام کی شرح ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 The simplicity of Al-Ahad is the greatest gift: one God, one direction, one ultimate loyalty. When life fragments your attention in a hundred directions, Al-Ahad calls you back to one center.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[112_1: The Sincerity الإخلاص]]
+- [[112_1]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -57,5 +57,5 @@ The simplicity of Al-Ahad is the greatest gift: one God, one direction, one ulti
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

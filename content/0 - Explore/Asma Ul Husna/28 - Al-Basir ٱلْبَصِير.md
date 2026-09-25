@@ -11,7 +11,7 @@ quran_occurrences: 42
 tags: ["asma_ul_husna", "taqwa", "ihsan"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Basir — ٱلْبَصِير
+# Al-Basir — ٱلْبَصِير
 ### The All-Seeing
 #### دیکھنے والا
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "taqwa", "ihsan"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Basir sees all things simultaneously. His sight penetrates darkness, sealed rooms, and the interior of the heart. He saw the conversation between Musa and Pharaoh in real time (20:46): 'Do not fear — I am with you both, I hear and I see.'
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 البصیر سب کچھ دیکھتا ہے — ظاہر بھی باطن بھی۔ موسیٰ کو فرعون کے سامنے کہا: 'ڈرو نہیں، میں سنتا اور دیکھتا ہوں۔'
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Every good deed done in private, every sacrifice no one saw, every hurt endured alone — Al-Basir witnessed it all. Nothing done for His sake goes unobserved.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_96: The Cow البقرة]]
-- [[2_110: The Cow البقرة]]
-- [[2_233: The Cow البقرة]]
-- [[3_15: Family of Imran آل عمران]]
-- [[4_58: The Women النساء]]
-- [[17_1: The Night Journey الإسراء]]
-- [[20_46: Ta-Ha طه]]
-- [[40_44: The Forgiver غافر]]
+- [[2_96]]
+- [[2_110]]
+- [[2_233]]
+- [[3_15]]
+- [[4_58]]
+- [[17_1]]
+- [[20_46]]
+- [[40_44]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
 - [[27 - As-Sami' ٱلسَّمِيع]]
@@ -64,5 +64,5 @@ Every good deed done in private, every sacrifice no one saw, every hurt endured 
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

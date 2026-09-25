@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "tawakkul", "work_ethics"]
 ---
 <!-- GENERATED:START -->
-# ✨ Ar-Razzaq — ٱلرَّزَّاق
+# Ar-Razzaq — ٱلرَّزَّاق
 ### The Provider · The Sustainer
 #### روزی دینے والا
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "rizq", "tawakkul", "work_ethics"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Ar-Razzaq provides all sustenance — physical, spiritual, emotional, intellectual. Every form of provision comes from Ar-Razzaq. A key insight: rizq does not mean only money; it includes every good thing you receive — your health, your relationships, your ability to understand.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الرزاق ہر قسم کا رزق دیتا ہے — کھانا، پانی، علم، محبت، صحت۔ رزق صرف پیسہ نہیں — ہر نعمت رزق ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Anxiety about income is addressed directly by this name. Ar-Razzaq has never failed to provide for any of His creation since the beginning of time — and you are no exception.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[51_58: The Winnowing Winds الذاريات]]
-- [[11_6: Hud هود]]
-- [[29_60: The Spider العنكبوت]]
-- [[34_24: Sheba سبإ]]
-- [[35_3: Originator فاطر]]
+- [[51_58]]
+- [[11_6]]
+- [[29_60]]
+- [[34_24]]
+- [[35_3]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
 - [[19 - Al-Fattah ٱلْفَتَّاح]]
@@ -61,5 +61,5 @@ Anxiety about income is addressed directly by this name. Ar-Razzaq has never fai
 - [[93 - An-Nafi' ٱلنَّافِع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

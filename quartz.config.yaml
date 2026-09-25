@@ -51,6 +51,8 @@ plugins:
         - title # and fields this plugin adds itself (title from the file
         - modified # name, an empty modified date, socialImage copied from image)
         - socialImage
+        - image # and image, which is a path to a card thumbnail, not something
+                # a reader needs above the verse on every ayah page
       hidePropertiesView: false
       delimiters: ---
       language: yaml
@@ -186,13 +188,6 @@ plugins:
       priority: 30
       group: toolbar
 
-  - source: "@quartz-community/reader-mode"
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
-
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
@@ -230,12 +225,8 @@ layout:
         left: []
         right: []
     folder:
-      exclude:
-        - reader-mode
       positions:
         right: []
     tag:
-      exclude:
-        - reader-mode
       positions:
         right: []

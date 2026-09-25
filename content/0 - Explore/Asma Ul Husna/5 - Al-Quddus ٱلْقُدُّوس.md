@@ -11,7 +11,7 @@ quran_occurrences: 2
 tags: ["asma_ul_husna", "tawheed", "dhikr"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Quddus — ٱلْقُدُّوس
+# Al-Quddus — ٱلْقُدُّوس
 ### The Most Pure · The Holy
 #### پاک ذات
 
@@ -21,29 +21,29 @@ tags: ["asma_ul_husna", "tawheed", "dhikr"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Quddus is absolutely free from every imperfection, limitation, deficiency, and defect — in His essence, attributes, and actions. Everything in creation has some flaw; Al-Quddus is transcendent beyond all of them. The angels constantly declare His holiness.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 قدوس وہ ہے جو ہر عیب، کمزوری اور نقص سے پاک ہے۔ فرشتے اس کی تسبیح کرتے ہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you doubt whether Allah could be just given the suffering you see, Al-Quddus answers — His wisdom is pure of any injustice.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[59_23: The Exile الحشر]]
-- [[62_1: The Congregation, Friday الجمعة]]
+- [[59_23]]
+- [[62_1]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

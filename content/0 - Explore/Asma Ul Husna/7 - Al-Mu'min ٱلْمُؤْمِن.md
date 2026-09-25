@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "anxiety_fear", "iman"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mu'min — ٱلْمُؤْمِن
+# Al-Mu'min — ٱلْمُؤْمِن
 ### The Granter of Security
 #### امان دینے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "anxiety_fear", "iman"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mu'min gives security and safety to His creation. He is the source of iman itself. He testified to His own oneness (3:18), and He grants the believer the security of faith — that deep internal steadiness that cannot be shaken by external events.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المومن وہ ہے جو امن اور ایمان عطا کرتا ہے۔ مومن کو جو دل کا سکون ملتا ہے وہ اسی نام کا عطیہ ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel unsafe in the world, Al-Mu'min is the ultimate guarantor of security. The physical world may be unpredictable, but His protection of your soul is absolute.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[59_23: The Exile الحشر]]
+- [[59_23]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[6 - As-Salam ٱلسَّلَام]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 2
 tags: ["asma_ul_husna", "love_of_allah", "rahmah", "tawbah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Wadud — ٱلْوَدُود
+# Al-Wadud — ٱلْوَدُود
 ### The Loving · The Affectionate
 #### محبت کرنے والا
 
@@ -21,32 +21,32 @@ tags: ["asma_ul_husna", "love_of_allah", "rahmah", "tawbah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Wadud is the One whose love is the deepest, most tender, and most constant. This is not a distant God who manages creation from afar. He loves the repentant, the purified, the patient, the just. He placed love for Ibrahim in the hearts of people (19:50).
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الودود محبت کرنے والا ہے — گہری، نرم، قریبی محبت۔ وہ محبت کرتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel unloved or abandoned by people — the One whose love is most real, most stable, and most complete loves you.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[11_90: Hud هود]]
-- [[85_14: The Mansions of the Stars البروج]]
+- [[11_90]]
+- [[85_14]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[15 - Al-Ghaffar ٱلْغَفَّار]]
 - [[33 - Al-Halim ٱلْحَلِيم]]
@@ -58,5 +58,5 @@ When you feel unloved or abandoned by people — the One whose love is most real
 - [[83 - Al-Afuww ٱلْعَفُوّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "human_creation", "resurrection", "nature_signs"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mubdi' — ٱلْمُبْدِئ
+# Al-Mubdi' — ٱلْمُبْدِئ
 ### The Originator · The Initiator
 #### شروع کرنے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "human_creation", "resurrection", "nature_signs"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mubdi' originated creation — started it all from absolute nothing, without any prior template. 'He originates creation, then He repeats it' (10:4). The ease of repeating (resurrection) is made obvious by the first origination.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المبدئ نے تخلیق کا آغاز کیا — بالکل شروع سے، بغیر کسی نمونے کے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you need a fresh start — after failure, after sin, after loss — Al-Mubdi' creates new beginnings. He started the universe from nothing; He can start a new chapter in your life.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[10_4: Jonah يونس]]
-- [[27_64: The Ant النمل]]
-- [[29_19: The Spider العنكبوت]]
-- [[85_13: The Mansions of the Stars البروج]]
+- [[10_4]]
+- [[27_64]]
+- [[29_19]]
+- [[85_13]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[12 - Al-Khaliq ٱلْخَالِق]]
 - [[13 - Al-Bari' ٱلْبَارِئ]]
@@ -58,5 +58,5 @@ When you need a fresh start — after failure, after sin, after loss — Al-Mubd
 - [[96 - Al-Badi' ٱلْبَدِيع]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

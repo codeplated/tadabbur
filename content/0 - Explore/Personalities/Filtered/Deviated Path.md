@@ -1,4 +1,4 @@
-# ❌ Deviated Path — گمراہی
+# Deviated Path — گمراہی
 
 **Total: 21**
 
@@ -6,33 +6,33 @@
 
 | # | Name | Type | Era |
 |---|------|------|-----|
-| 1 | [[Iblis (Satan) — إِبْلِيس\|Iblis (Satan)]] | 🔥 Jinn | Pre-human creation; ongoing until … |
-| 2 | [[Wife of Nuh — امرأة نوح\|Wife of Nuh]] | 👤 Person | Time of Nuh |
-| 3 | [[Son of Nuh (Kan'an) — ابن نوح\|Son of Nuh (Kan'an)]] | 👤 Person | Time of Nuh, the flood |
-| 4 | [[Azar (Father of Ibrahim) — آزَر\|Azar (Father of Ibrahim)]] | 👤 Person | Time of Ibrahim |
-| 5 | [[Nimrod (Namrud) — النَّمْرُود\|Nimrod (Namrud)]] | 👤 Person | Time of Ibrahim, ancient Mesopotam… |
-| 6 | [[Wife of Lut — امرأة لوط\|Wife of Lut]] | 👤 Person | Time of Lut |
-| 7 | [[Fir'awn (Pharaoh) — فِرْعَوْن\|Fir'awn (Pharaoh)]] | 👤 Person | Egypt, time of Musa |
-| 8 | [[Haman — هَامَان\|Haman]] | 👤 Person | Time of Musa, Egypt |
-| 9 | [[Qarun (Korah) — قَارُون\|Qarun (Korah)]] | 👤 Person | Time of Musa, among Bani Israel |
-| 10 | [[Al-Samiri — السَّامِرِيّ\|Al-Samiri]] | 👤 Person | Time of Musa, Sinai |
-| 11 | [[Abu Lahab — أَبُو لَهَب\|Abu Lahab]] | 👤 Person | Before Islam, Makkah, died 624 CE |
-| 12 | [[Umm Jamil (Wife of Abu Lahab) — أُمّ جَمِيل\|Umm Jamil (Wife of Abu Lahab)]] | 👤 Person | Makkah, time of early Islam |
-| 13 | [[Abu Jahl — أَبُو جَهْل\|Abu Jahl]] | 👤 Person | Makkah, died 624 CE at Battle of B… |
-| 14 | [[Qabil (Cain) — قَابِيل\|Qabil (Cain)]] | 👤 Person | First generation of humanity |
-| 15 | [[Jalut (Goliath) — جَالُوت\|Jalut (Goliath)]] | 👤 Person | Ancient Palestine, time of Dawud |
-| 16 | [[People of Aad — قَوْم عَاد\|People of Aad]] | 👥 Group / Nation | Ancient Arabia, pre-Ibrahim |
-| 17 | [[People of Thamud — قَوْم ثَمُود\|People of Thamud]] | 👥 Group / Nation | Ancient Arabia, post-Hud era |
-| 18 | [[People of Lut — قَوْم لُوط\|People of Lut]] | 👥 Group / Nation | Time of Ibrahim and Lut |
-| 19 | [[People of Midian — أَهْل مَدْيَن\|People of Midian]] | 👥 Group / Nation | Ancient Midian (northwest Arabia) |
-| 20 | [[People of the Sabbath — أَصْحَاب السَّبْت\|People of the Sabbath]] | 👥 Group / Nation | Ancient Israelite history |
-| 21 | [[The Hypocrites — الْمُنَافِقُون\|The Hypocrites]] | 👥 Group / Nation | Madinah period of early Islam |
+| 1 | [[Iblis (Satan) — إِبْلِيس\|Iblis (Satan)]] | Jinn | Pre-human creation; ongoing until … |
+| 2 | [[Wife of Nuh — امرأة نوح\|Wife of Nuh]] | Person | Time of Nuh |
+| 3 | [[Son of Nuh (Kan'an) — ابن نوح\|Son of Nuh (Kan'an)]] | Person | Time of Nuh, the flood |
+| 4 | [[Azar (Father of Ibrahim) — آزَر\|Azar (Father of Ibrahim)]] | Person | Time of Ibrahim |
+| 5 | [[Nimrod (Namrud) — النَّمْرُود\|Nimrod (Namrud)]] | Person | Time of Ibrahim, ancient Mesopotam… |
+| 6 | [[Wife of Lut — امرأة لوط\|Wife of Lut]] | Person | Time of Lut |
+| 7 | [[Fir'awn (Pharaoh) — فِرْعَوْن\|Fir'awn (Pharaoh)]] | Person | Egypt, time of Musa |
+| 8 | [[Haman — هَامَان\|Haman]] | Person | Time of Musa, Egypt |
+| 9 | [[Qarun (Korah) — قَارُون\|Qarun (Korah)]] | Person | Time of Musa, among Bani Israel |
+| 10 | [[Al-Samiri — السَّامِرِيّ\|Al-Samiri]] | Person | Time of Musa, Sinai |
+| 11 | [[Abu Lahab — أَبُو لَهَب\|Abu Lahab]] | Person | Before Islam, Makkah, died 624 CE |
+| 12 | [[Umm Jamil (Wife of Abu Lahab) — أُمّ جَمِيل\|Umm Jamil (Wife of Abu Lahab)]] | Person | Makkah, time of early Islam |
+| 13 | [[Abu Jahl — أَبُو جَهْل\|Abu Jahl]] | Person | Makkah, died 624 CE at Battle of B… |
+| 14 | [[Qabil (Cain) — قَابِيل\|Qabil (Cain)]] | Person | First generation of humanity |
+| 15 | [[Jalut (Goliath) — جَالُوت\|Jalut (Goliath)]] | Person | Ancient Palestine, time of Dawud |
+| 16 | [[People of Aad — قَوْم عَاد\|People of Aad]] | Group / Nation | Ancient Arabia, pre-Ibrahim |
+| 17 | [[People of Thamud — قَوْم ثَمُود\|People of Thamud]] | Group / Nation | Ancient Arabia, post-Hud era |
+| 18 | [[People of Lut — قَوْم لُوط\|People of Lut]] | Group / Nation | Time of Ibrahim and Lut |
+| 19 | [[People of Midian — أَهْل مَدْيَن\|People of Midian]] | Group / Nation | Ancient Midian (northwest Arabia) |
+| 20 | [[People of the Sabbath — أَصْحَاب السَّبْت\|People of the Sabbath]] | Group / Nation | Ancient Israelite history |
+| 21 | [[The Hypocrites — الْمُنَافِقُون\|The Hypocrites]] | Group / Nation | Madinah period of early Islam |
 
 ---
 
 ## Details
 
-### 🔥 [[Iblis (Satan) — إِبْلِيس]] — ابلیس
+### [[Iblis (Satan) — إِبْلِيس]] — ابلیس
 
 **Era:** Pre-human creation; ongoing until Day of Judgment
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 👤 [[Wife of Nuh — امرأة نوح]] — نوح کی بیوی
+### [[Wife of Nuh — امرأة نوح]] — نوح کی بیوی
 
 **Era:** Time of Nuh
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 👤 [[Son of Nuh (Kan'an) — ابن نوح]] — نوح کا بیٹا
+### [[Son of Nuh (Kan'an) — ابن نوح]] — نوح کا بیٹا
 
 **Era:** Time of Nuh, the flood
 
@@ -62,7 +62,7 @@
 
 ---
 
-### 👤 [[Azar (Father of Ibrahim) — آزَر]] — آزر
+### [[Azar (Father of Ibrahim) — آزَر]] — آزر
 
 **Era:** Time of Ibrahim
 
@@ -72,7 +72,7 @@
 
 ---
 
-### 👤 [[Nimrod (Namrud) — النَّمْرُود]] — نمرود
+### [[Nimrod (Namrud) — النَّمْرُود]] — نمرود
 
 **Era:** Time of Ibrahim, ancient Mesopotamia
 
@@ -82,7 +82,7 @@
 
 ---
 
-### 👤 [[Wife of Lut — امرأة لوط]] — لوط کی بیوی
+### [[Wife of Lut — امرأة لوط]] — لوط کی بیوی
 
 **Era:** Time of Lut
 
@@ -92,7 +92,7 @@
 
 ---
 
-### 👤 [[Fir'awn (Pharaoh) — فِرْعَوْن]] — فرعون
+### [[Fir'awn (Pharaoh) — فِرْعَوْن]] — فرعون
 
 **Era:** Egypt, time of Musa
 
@@ -102,7 +102,7 @@
 
 ---
 
-### 👤 [[Haman — هَامَان]] — ہامان
+### [[Haman — هَامَان]] — ہامان
 
 **Era:** Time of Musa, Egypt
 
@@ -112,7 +112,7 @@
 
 ---
 
-### 👤 [[Qarun (Korah) — قَارُون]] — قارون
+### [[Qarun (Korah) — قَارُون]] — قارون
 
 **Era:** Time of Musa, among Bani Israel
 
@@ -122,7 +122,7 @@
 
 ---
 
-### 👤 [[Al-Samiri — السَّامِرِيّ]] — سامری
+### [[Al-Samiri — السَّامِرِيّ]] — سامری
 
 **Era:** Time of Musa, Sinai
 
@@ -132,7 +132,7 @@
 
 ---
 
-### 👤 [[Abu Lahab — أَبُو لَهَب]] — ابو لہب
+### [[Abu Lahab — أَبُو لَهَب]] — ابو لہب
 
 **Era:** Before Islam, Makkah, died 624 CE
 
@@ -142,7 +142,7 @@
 
 ---
 
-### 👤 [[Umm Jamil (Wife of Abu Lahab) — أُمّ جَمِيل]] — ام جمیل
+### [[Umm Jamil (Wife of Abu Lahab) — أُمّ جَمِيل]] — ام جمیل
 
 **Era:** Makkah, time of early Islam
 
@@ -152,7 +152,7 @@
 
 ---
 
-### 👤 [[Abu Jahl — أَبُو جَهْل]] — ابو جہل
+### [[Abu Jahl — أَبُو جَهْل]] — ابو جہل
 
 **Era:** Makkah, died 624 CE at Battle of Badr
 
@@ -162,7 +162,7 @@
 
 ---
 
-### 👤 [[Qabil (Cain) — قَابِيل]] — قابیل
+### [[Qabil (Cain) — قَابِيل]] — قابیل
 
 **Era:** First generation of humanity
 
@@ -172,7 +172,7 @@
 
 ---
 
-### 👤 [[Jalut (Goliath) — جَالُوت]] — جالوت
+### [[Jalut (Goliath) — جَالُوت]] — جالوت
 
 **Era:** Ancient Palestine, time of Dawud
 
@@ -182,7 +182,7 @@
 
 ---
 
-### 👥 [[People of Aad — قَوْم عَاد]] — قوم عاد
+### [[People of Aad — قَوْم عَاد]] — قوم عاد
 
 **Era:** Ancient Arabia, pre-Ibrahim
 
@@ -192,7 +192,7 @@
 
 ---
 
-### 👥 [[People of Thamud — قَوْم ثَمُود]] — قوم ثمود
+### [[People of Thamud — قَوْم ثَمُود]] — قوم ثمود
 
 **Era:** Ancient Arabia, post-Hud era
 
@@ -202,7 +202,7 @@
 
 ---
 
-### 👥 [[People of Lut — قَوْم لُوط]] — قوم لوط
+### [[People of Lut — قَوْم لُوط]] — قوم لوط
 
 **Era:** Time of Ibrahim and Lut
 
@@ -212,7 +212,7 @@
 
 ---
 
-### 👥 [[People of Midian — أَهْل مَدْيَن]] — اہل مدین
+### [[People of Midian — أَهْل مَدْيَن]] — اہل مدین
 
 **Era:** Ancient Midian (northwest Arabia)
 
@@ -222,7 +222,7 @@
 
 ---
 
-### 👥 [[People of the Sabbath — أَصْحَاب السَّبْت]] — اصحاب السبت
+### [[People of the Sabbath — أَصْحَاب السَّبْت]] — اصحاب السبت
 
 **Era:** Ancient Israelite history
 
@@ -232,7 +232,7 @@
 
 ---
 
-### 👥 [[The Hypocrites — الْمُنَافِقُون]] — منافقین
+### [[The Hypocrites — الْمُنَافِقُون]] — منافقین
 
 **Era:** Madinah period of early Islam
 

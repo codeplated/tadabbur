@@ -11,7 +11,7 @@ quran_occurrences: 22
 tags: ["asma_ul_husna", "tawheed", "shirk"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Wahid — ٱلْوَاحِد
+# Al-Wahid — ٱلْوَاحِد
 ### The One · The Unique
 #### یکتا
 
@@ -21,40 +21,40 @@ tags: ["asma_ul_husna", "tawheed", "shirk"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Wahid is absolutely One — nothing like Him, no partner, no equal, no division within Him. His attributes are all perfectly unified: His power does not contradict His mercy. Surah Al-Ikhlas is the Quranic commentary on this name.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الواحد مطلق ایک ہے — نہ کوئی شریک، نہ کوئی مثل۔ اس کی صفات میں کوئی تضاد نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Worshipping Al-Wahid simplifies life profoundly: one ultimate authority, one ultimate source, one ultimate destination. All complexity resolves around a single center.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_163: The Cow البقرة]]
-- [[4_171: The Women النساء]]
-- [[5_73: The Table Spread المائدة]]
-- [[6_19: The Cattle الأنعام]]
-- [[12_39: Joseph يوسف]]
-- [[13_16: The Thunder الرعد]]
-- [[14_48: Abraham ابراهيم]]
-- [[18_110: The Cave الكهف]]
-- [[38_65: The Letter "Saad" ص]]
-- [[39_4: The Troops الزمر]]
+- [[2_163]]
+- [[4_171]]
+- [[5_73]]
+- [[6_19]]
+- [[12_39]]
+- [[13_16]]
+- [[14_48]]
+- [[18_110]]
+- [[38_65]]
+- [[39_4]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[1 - Allah ٱللَّه]]
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -66,5 +66,5 @@ Worshipping Al-Wahid simplifies life profoundly: one ultimate authority, one ult
 - [[97 - Al-Baqi ٱلْبَاقِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

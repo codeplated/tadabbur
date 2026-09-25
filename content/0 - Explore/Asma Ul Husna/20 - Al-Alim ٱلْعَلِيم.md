@@ -11,7 +11,7 @@ quran_occurrences: 157
 tags: ["asma_ul_husna", "knowledge", "qadr", "taqwa"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Alim — ٱلْعَلِيم
+# Al-Alim — ٱلْعَلِيم
 ### The All-Knowing
 #### سب کچھ جاننے والا
 
@@ -21,37 +21,37 @@ tags: ["asma_ul_husna", "knowledge", "qadr", "taqwa"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Alim's knowledge is absolute, complete, and eternal — encompassing everything that was, is, and will be. It includes the seen and unseen, the spoken and the silent thought. A key implication: your du'a does not inform Allah of your need — He already knows it in full detail. The du'a is for you.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 العلیم کا علم مطلق ہے — ماضی، حال، مستقبل، ظاہر، باطن، کہا اور ان کہا — سب کچھ۔ آپ کی دعا اسے آپ کی ضرورت سے آگاہ نہیں کرتی — وہ پہلے سے جانتا ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you feel misunderstood by everyone — when no one knows the full story of your struggle — Al-Alim knows every detail, every context, every intention. You are fully known.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_29: The Cow البقرة]]
-- [[2_115: The Cow البقرة]]
-- [[2_255: The Cow البقرة]]
-- [[6_59: The Cattle الأنعام]]
-- [[31_34: Luqman لقمان]]
-- [[57_3: The Iron الحديد]]
-- [[58_7: The Pleading Woman المجادلة]]
+- [[2_29]]
+- [[2_115]]
+- [[2_255]]
+- [[6_59]]
+- [[31_34]]
+- [[57_3]]
+- [[58_7]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[27 - As-Sami' ٱلسَّمِيع]]
 - [[28 - Al-Basir ٱلْبَصِير]]
@@ -63,5 +63,5 @@ When you feel misunderstood by everyone — when no one knows the full story of 
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

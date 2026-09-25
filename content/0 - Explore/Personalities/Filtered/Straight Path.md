@@ -1,69 +1,69 @@
-# ✅ Straight Path — صراط مستقیم
+# Straight Path — صراط مستقیم
 
 **Total: 54**
 
 | # | Name | Type | Era |
 |---|------|------|-----|
-| 1 | [[Adam — آدَم\|Adam]] | 🌙 Prophet / Messenger | Beginning of humanity |
-| 2 | [[Hawwa (Eve) — حَوَّاء\|Hawwa (Eve)]] | 👤 Person | Beginning of humanity |
-| 3 | [[Nuh (Noah) — نُوح\|Nuh (Noah)]] | 🌙 Prophet / Messenger | Early human history, pre-Ibrahim |
-| 4 | [[Hud — هُود\|Hud]] | 🌙 Prophet / Messenger | Ancient Arabia — sent to the peopl… |
-| 5 | [[Salih — صَالِح\|Salih]] | 🌙 Prophet / Messenger | Ancient Arabia — sent to the peopl… |
-| 6 | [[Ibrahim (Abraham) — إِبْرَاهِيم\|Ibrahim (Abraham)]] | 🌙 Prophet / Messenger | Approximately 2000 BCE, Mesopotami… |
-| 7 | [[Ismail (Ishmael) — إِسْمَاعِيل\|Ismail (Ishmael)]] | 🌙 Prophet / Messenger | Time of Ibrahim, ancient Makkah |
-| 8 | [[Hajar (Hagar) — هَاجَر\|Hajar (Hagar)]] | 👤 Person | Time of Ibrahim, ancient Makkah |
-| 9 | [[Sarah — سَارَة\|Sarah]] | 👤 Person | Time of Ibrahim |
-| 10 | [[Lut (Lot) — لُوط\|Lut (Lot)]] | 🌙 Prophet / Messenger | Time of Ibrahim; the cities of Sod… |
-| 11 | [[Ishaq (Isaac) — إِسْحَاق\|Ishaq (Isaac)]] | 🌙 Prophet / Messenger | Time of Ibrahim and beyond |
-| 12 | [[Yaqub (Jacob) — يَعْقُوب\|Yaqub (Jacob)]] | 🌙 Prophet / Messenger | Patriarch era, Canaan |
-| 13 | [[Yusuf (Joseph) — يُوسُف\|Yusuf (Joseph)]] | 🌙 Prophet / Messenger | Patriarch era, Canaan and Egypt |
-| 14 | [[Shuayb (Jethro) — شُعَيْب\|Shuayb (Jethro)]] | 🌙 Prophet / Messenger | Midian and Aykah, time overlapping… |
-| 15 | [[Musa (Moses) — مُوسَى\|Musa (Moses)]] | 🌙 Prophet / Messenger | Egypt, Sinai, approximately 1300 B… |
-| 16 | [[Harun (Aaron) — هَارُون\|Harun (Aaron)]] | 🌙 Prophet / Messenger | Same as Musa, Egypt and Sinai |
-| 17 | [[Wife of Fir'awn (Asiya) — امرأة فرعون\|Wife of Fir'awn (Asiya)]] | 👤 Person | Time of Musa, Egypt |
-| 18 | [[Al-Khidr — الْخَضِر\|Al-Khidr]] | 👤 Person | Time of Musa (and possibly beyond … |
-| 19 | [[Dawud (David) — دَاوُود\|Dawud (David)]] | 🌙 Prophet / Messenger | Ancient Palestine, approximately 1… |
-| 20 | [[Sulayman (Solomon) — سُلَيْمَان\|Sulayman (Solomon)]] | 🌙 Prophet / Messenger | Ancient Palestine, approximately 9… |
-| 21 | [[Bilqis (Queen of Sheba) — بِلْقِيس\|Bilqis (Queen of Sheba)]] | 👤 Person | Time of Sulayman, ancient Yemen |
-| 22 | [[Ayyub (Job) — أَيُّوب\|Ayyub (Job)]] | 🌙 Prophet / Messenger | Ancient Levant region |
-| 23 | [[Yunus (Jonah) — يُونُس\|Yunus (Jonah)]] | 🌙 Prophet / Messenger | Ancient Nineveh (modern Iraq area) |
-| 24 | [[Ilyas (Elijah) — إِلْيَاس\|Ilyas (Elijah)]] | 🌙 Prophet / Messenger | Ancient Levant |
-| 25 | [[Al-Yasa' (Elisha) — الْيَسَع\|Al-Yasa' (Elisha)]] | 🌙 Prophet / Messenger | Ancient Levant, successor of Ilyas |
-| 26 | [[Dhul-Kifl — ذُو الْكِفْل\|Dhul-Kifl]] | 🌙 Prophet / Messenger | Ancient Levant |
-| 27 | [[Idris (Enoch) — إِدْرِيس\|Idris (Enoch)]] | 🌙 Prophet / Messenger | Very early human history, before N… |
-| 28 | [[Isa (Jesus) — عِيسَى\|Isa (Jesus)]] | 🌙 Prophet / Messenger | Roman-era Palestine, approximately… |
-| 29 | [[Maryam (Mary) — مَرْيَم\|Maryam (Mary)]] | 👤 Person | Roman-era Palestine |
-| 30 | [[Zakariyya (Zechariah) — زَكَرِيَّا\|Zakariyya (Zechariah)]] | 🌙 Prophet / Messenger | Roman-era Palestine, guardian of M… |
-| 31 | [[Yahya (John the Baptist) — يَحْيَى\|Yahya (John the Baptist)]] | 🌙 Prophet / Messenger | Roman-era Palestine, contemporary … |
-| 32 | [[Muhammad ﷺ — مُحَمَّد\|Muhammad ﷺ]] | 🌙 Prophet / Messenger | 570-632 CE, Makkah and Madinah |
-| 33 | [[Jibreel (Gabriel) — جِبْرِيل\|Jibreel (Gabriel)]] | 👼 Angel | From the beginning of creation to … |
-| 34 | [[Mikael (Michael) — مِيكَائِيل\|Mikael (Michael)]] | 👼 Angel | From creation to its end |
-| 35 | [[Israfil — إِسْرَافِيل\|Israfil]] | 👼 Angel | From creation, will act at the end… |
-| 36 | [[Izraeel (Angel of Death) — عِزْرَائِيل\|Izraeel (Angel of Death)]] | 👼 Angel | From creation to end |
-| 37 | [[Munkar and Nakeer — مُنكَر وَنَكِير\|Munkar and Nakeer]] | 👼 Angel | The realm of the grave (Barzakh) |
-| 38 | [[Malik (Keeper of Hell) — مَالِك\|Malik (Keeper of Hell)]] | 👼 Angel | The Hereafter |
-| 39 | [[Ridwan (Keeper of Paradise) — رِضْوَان\|Ridwan (Keeper of Paradise)]] | 👼 Angel | The Hereafter |
-| 40 | [[Harut and Marut — هَارُوت وَمَارُوت\|Harut and Marut]] | 👼 Angel | Ancient Babylon, time of Sulayman |
-| 41 | [[Abu Bakr As-Siddiq — أَبُو بَكْر\|Abu Bakr As-Siddiq]] | ⭐ Companion | 570-634 CE, Makkah and Madinah |
-| 42 | [[Ali ibn Abi Talib — عَلِيّ\|Ali ibn Abi Talib]] | ⭐ Companion | 600-661 CE, Makkah, Madinah, Kufa |
-| 43 | [[Aisha bint Abi Bakr — عَائِشَة\|Aisha bint Abi Bakr]] | ⭐ Companion | 613-678 CE, Makkah and Madinah |
-| 44 | [[Sumayyah bint Khayyat — سُمَيَّة\|Sumayyah bint Khayyat]] | ⭐ Companion | Early Islam, Makkah |
-| 45 | [[Ammar ibn Yasir — عَمَّار\|Ammar ibn Yasir]] | ⭐ Companion | Early Islam, Makkah and Madinah |
-| 46 | [[Zayd ibn Harithah — زَيْد\|Zayd ibn Harithah]] | ⭐ Companion | 610-629 CE, Arabia |
-| 47 | [[Luqman — لُقْمَان\|Luqman]] | 👤 Person | Ancient times — scholars debate hi… |
-| 48 | [[Dhul-Qarnayn — ذُو الْقَرْنَيْن\|Dhul-Qarnayn]] | 👤 Person | Ancient history — identity debated |
-| 49 | [[Imran — عِمْرَان\|Imran]] | 👤 Person | Roman-era Palestine |
-| 50 | [[Habil (Abel) — هَابِيل\|Habil (Abel)]] | 👤 Person | First generation of humanity |
-| 51 | [[Talut (Saul) — طَالُوت\|Talut (Saul)]] | 👤 Person | Ancient Palestine, before Dawud |
-| 52 | [[People of the Cave — أَصْحَاب الْكَهْف\|People of the Cave]] | 👥 Group / Nation | Roman era (Decius persecution, app… |
-| 53 | [[The Disciples of Isa — الْحَوَارِيُّون\|The Disciples of Isa]] | 👥 Group / Nation | Roman-era Palestine, time of Isa |
-| 54 | [[People of Yunus — قَوْم يُونُس\|People of Yunus]] | 👥 Group / Nation | Ancient Nineveh (modern Iraq) |
+| 1 | [[Adam — آدَم\|Adam]] | Prophet / Messenger | Beginning of humanity |
+| 2 | [[Hawwa (Eve) — حَوَّاء\|Hawwa (Eve)]] | Person | Beginning of humanity |
+| 3 | [[Nuh (Noah) — نُوح\|Nuh (Noah)]] | Prophet / Messenger | Early human history, pre-Ibrahim |
+| 4 | [[Hud — هُود\|Hud]] | Prophet / Messenger | Ancient Arabia — sent to the peopl… |
+| 5 | [[Salih — صَالِح\|Salih]] | Prophet / Messenger | Ancient Arabia — sent to the peopl… |
+| 6 | [[Ibrahim (Abraham) — إِبْرَاهِيم\|Ibrahim (Abraham)]] | Prophet / Messenger | Approximately 2000 BCE, Mesopotami… |
+| 7 | [[Ismail (Ishmael) — إِسْمَاعِيل\|Ismail (Ishmael)]] | Prophet / Messenger | Time of Ibrahim, ancient Makkah |
+| 8 | [[Hajar (Hagar) — هَاجَر\|Hajar (Hagar)]] | Person | Time of Ibrahim, ancient Makkah |
+| 9 | [[Sarah — سَارَة\|Sarah]] | Person | Time of Ibrahim |
+| 10 | [[Lut (Lot) — لُوط\|Lut (Lot)]] | Prophet / Messenger | Time of Ibrahim; the cities of Sod… |
+| 11 | [[Ishaq (Isaac) — إِسْحَاق\|Ishaq (Isaac)]] | Prophet / Messenger | Time of Ibrahim and beyond |
+| 12 | [[Yaqub (Jacob) — يَعْقُوب\|Yaqub (Jacob)]] | Prophet / Messenger | Patriarch era, Canaan |
+| 13 | [[Yusuf (Joseph) — يُوسُف\|Yusuf (Joseph)]] | Prophet / Messenger | Patriarch era, Canaan and Egypt |
+| 14 | [[Shuayb (Jethro) — شُعَيْب\|Shuayb (Jethro)]] | Prophet / Messenger | Midian and Aykah, time overlapping… |
+| 15 | [[Musa (Moses) — مُوسَى\|Musa (Moses)]] | Prophet / Messenger | Egypt, Sinai, approximately 1300 B… |
+| 16 | [[Harun (Aaron) — هَارُون\|Harun (Aaron)]] | Prophet / Messenger | Same as Musa, Egypt and Sinai |
+| 17 | [[Wife of Fir'awn (Asiya) — امرأة فرعون\|Wife of Fir'awn (Asiya)]] | Person | Time of Musa, Egypt |
+| 18 | [[Al-Khidr — الْخَضِر\|Al-Khidr]] | Person | Time of Musa (and possibly beyond … |
+| 19 | [[Dawud (David) — دَاوُود\|Dawud (David)]] | Prophet / Messenger | Ancient Palestine, approximately 1… |
+| 20 | [[Sulayman (Solomon) — سُلَيْمَان\|Sulayman (Solomon)]] | Prophet / Messenger | Ancient Palestine, approximately 9… |
+| 21 | [[Bilqis (Queen of Sheba) — بِلْقِيس\|Bilqis (Queen of Sheba)]] | Person | Time of Sulayman, ancient Yemen |
+| 22 | [[Ayyub (Job) — أَيُّوب\|Ayyub (Job)]] | Prophet / Messenger | Ancient Levant region |
+| 23 | [[Yunus (Jonah) — يُونُس\|Yunus (Jonah)]] | Prophet / Messenger | Ancient Nineveh (modern Iraq area) |
+| 24 | [[Ilyas (Elijah) — إِلْيَاس\|Ilyas (Elijah)]] | Prophet / Messenger | Ancient Levant |
+| 25 | [[Al-Yasa' (Elisha) — الْيَسَع\|Al-Yasa' (Elisha)]] | Prophet / Messenger | Ancient Levant, successor of Ilyas |
+| 26 | [[Dhul-Kifl — ذُو الْكِفْل\|Dhul-Kifl]] | Prophet / Messenger | Ancient Levant |
+| 27 | [[Idris (Enoch) — إِدْرِيس\|Idris (Enoch)]] | Prophet / Messenger | Very early human history, before N… |
+| 28 | [[Isa (Jesus) — عِيسَى\|Isa (Jesus)]] | Prophet / Messenger | Roman-era Palestine, approximately… |
+| 29 | [[Maryam (Mary) — مَرْيَم\|Maryam (Mary)]] | Person | Roman-era Palestine |
+| 30 | [[Zakariyya (Zechariah) — زَكَرِيَّا\|Zakariyya (Zechariah)]] | Prophet / Messenger | Roman-era Palestine, guardian of M… |
+| 31 | [[Yahya (John the Baptist) — يَحْيَى\|Yahya (John the Baptist)]] | Prophet / Messenger | Roman-era Palestine, contemporary … |
+| 32 | [[Muhammad ﷺ — مُحَمَّد\|Muhammad ﷺ]] | Prophet / Messenger | 570-632 CE, Makkah and Madinah |
+| 33 | [[Jibreel (Gabriel) — جِبْرِيل\|Jibreel (Gabriel)]] | Angel | From the beginning of creation to … |
+| 34 | [[Mikael (Michael) — مِيكَائِيل\|Mikael (Michael)]] | Angel | From creation to its end |
+| 35 | [[Israfil — إِسْرَافِيل\|Israfil]] | Angel | From creation, will act at the end… |
+| 36 | [[Izraeel (Angel of Death) — عِزْرَائِيل\|Izraeel (Angel of Death)]] | Angel | From creation to end |
+| 37 | [[Munkar and Nakeer — مُنكَر وَنَكِير\|Munkar and Nakeer]] | Angel | The realm of the grave (Barzakh) |
+| 38 | [[Malik (Keeper of Hell) — مَالِك\|Malik (Keeper of Hell)]] | Angel | The Hereafter |
+| 39 | [[Ridwan (Keeper of Paradise) — رِضْوَان\|Ridwan (Keeper of Paradise)]] | Angel | The Hereafter |
+| 40 | [[Harut and Marut — هَارُوت وَمَارُوت\|Harut and Marut]] | Angel | Ancient Babylon, time of Sulayman |
+| 41 | [[Abu Bakr As-Siddiq — أَبُو بَكْر\|Abu Bakr As-Siddiq]] | Companion | 570-634 CE, Makkah and Madinah |
+| 42 | [[Ali ibn Abi Talib — عَلِيّ\|Ali ibn Abi Talib]] | Companion | 600-661 CE, Makkah, Madinah, Kufa |
+| 43 | [[Aisha bint Abi Bakr — عَائِشَة\|Aisha bint Abi Bakr]] | Companion | 613-678 CE, Makkah and Madinah |
+| 44 | [[Sumayyah bint Khayyat — سُمَيَّة\|Sumayyah bint Khayyat]] | Companion | Early Islam, Makkah |
+| 45 | [[Ammar ibn Yasir — عَمَّار\|Ammar ibn Yasir]] | Companion | Early Islam, Makkah and Madinah |
+| 46 | [[Zayd ibn Harithah — زَيْد\|Zayd ibn Harithah]] | Companion | 610-629 CE, Arabia |
+| 47 | [[Luqman — لُقْمَان\|Luqman]] | Person | Ancient times — scholars debate hi… |
+| 48 | [[Dhul-Qarnayn — ذُو الْقَرْنَيْن\|Dhul-Qarnayn]] | Person | Ancient history — identity debated |
+| 49 | [[Imran — عِمْرَان\|Imran]] | Person | Roman-era Palestine |
+| 50 | [[Habil (Abel) — هَابِيل\|Habil (Abel)]] | Person | First generation of humanity |
+| 51 | [[Talut (Saul) — طَالُوت\|Talut (Saul)]] | Person | Ancient Palestine, before Dawud |
+| 52 | [[People of the Cave — أَصْحَاب الْكَهْف\|People of the Cave]] | Group / Nation | Roman era (Decius persecution, app… |
+| 53 | [[The Disciples of Isa — الْحَوَارِيُّون\|The Disciples of Isa]] | Group / Nation | Roman-era Palestine, time of Isa |
+| 54 | [[People of Yunus — قَوْم يُونُس\|People of Yunus]] | Group / Nation | Ancient Nineveh (modern Iraq) |
 
 ---
 
 ## Details
 
-### 🌙 [[Adam — آدَم]] — آدم علیہ السلام
+### [[Adam — آدَم]] — آدم علیہ السلام
 
 **Era:** Beginning of humanity
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 👤 [[Hawwa (Eve) — حَوَّاء]] — حوا علیہا السلام
+### [[Hawwa (Eve) — حَوَّاء]] — حوا علیہا السلام
 
 **Era:** Beginning of humanity
 
@@ -83,7 +83,7 @@
 
 ---
 
-### 🌙 [[Nuh (Noah) — نُوح]] — نوح علیہ السلام
+### [[Nuh (Noah) — نُوح]] — نوح علیہ السلام
 
 **Era:** Early human history, pre-Ibrahim
 
@@ -93,7 +93,7 @@
 
 ---
 
-### 🌙 [[Hud — هُود]] — ہود علیہ السلام
+### [[Hud — هُود]] — ہود علیہ السلام
 
 **Era:** Ancient Arabia — sent to the people of Aad
 
@@ -103,7 +103,7 @@
 
 ---
 
-### 🌙 [[Salih — صَالِح]] — صالح علیہ السلام
+### [[Salih — صَالِح]] — صالح علیہ السلام
 
 **Era:** Ancient Arabia — sent to the people of Thamud
 
@@ -113,7 +113,7 @@
 
 ---
 
-### 🌙 [[Ibrahim (Abraham) — إِبْرَاهِيم]] — ابراہیم علیہ السلام
+### [[Ibrahim (Abraham) — إِبْرَاهِيم]] — ابراہیم علیہ السلام
 
 **Era:** Approximately 2000 BCE, Mesopotamia and Arabia
 
@@ -123,7 +123,7 @@
 
 ---
 
-### 🌙 [[Ismail (Ishmael) — إِسْمَاعِيل]] — اسماعیل علیہ السلام
+### [[Ismail (Ishmael) — إِسْمَاعِيل]] — اسماعیل علیہ السلام
 
 **Era:** Time of Ibrahim, ancient Makkah
 
@@ -133,7 +133,7 @@
 
 ---
 
-### 👤 [[Hajar (Hagar) — هَاجَر]] — ہاجرہ علیہا السلام
+### [[Hajar (Hagar) — هَاجَر]] — ہاجرہ علیہا السلام
 
 **Era:** Time of Ibrahim, ancient Makkah
 
@@ -143,7 +143,7 @@
 
 ---
 
-### 👤 [[Sarah — سَارَة]] — سارہ علیہا السلام
+### [[Sarah — سَارَة]] — سارہ علیہا السلام
 
 **Era:** Time of Ibrahim
 
@@ -153,7 +153,7 @@
 
 ---
 
-### 🌙 [[Lut (Lot) — لُوط]] — لوط علیہ السلام
+### [[Lut (Lot) — لُوط]] — لوط علیہ السلام
 
 **Era:** Time of Ibrahim; the cities of Sodom and Gomorrah
 
@@ -163,7 +163,7 @@
 
 ---
 
-### 🌙 [[Ishaq (Isaac) — إِسْحَاق]] — اسحاق علیہ السلام
+### [[Ishaq (Isaac) — إِسْحَاق]] — اسحاق علیہ السلام
 
 **Era:** Time of Ibrahim and beyond
 
@@ -173,7 +173,7 @@
 
 ---
 
-### 🌙 [[Yaqub (Jacob) — يَعْقُوب]] — یعقوب علیہ السلام
+### [[Yaqub (Jacob) — يَعْقُوب]] — یعقوب علیہ السلام
 
 **Era:** Patriarch era, Canaan
 
@@ -183,7 +183,7 @@
 
 ---
 
-### 🌙 [[Yusuf (Joseph) — يُوسُف]] — یوسف علیہ السلام
+### [[Yusuf (Joseph) — يُوسُف]] — یوسف علیہ السلام
 
 **Era:** Patriarch era, Canaan and Egypt
 
@@ -193,7 +193,7 @@
 
 ---
 
-### 🌙 [[Shuayb (Jethro) — شُعَيْب]] — شعیب علیہ السلام
+### [[Shuayb (Jethro) — شُعَيْب]] — شعیب علیہ السلام
 
 **Era:** Midian and Aykah, time overlapping with Musa
 
@@ -203,7 +203,7 @@
 
 ---
 
-### 🌙 [[Musa (Moses) — مُوسَى]] — موسیٰ علیہ السلام
+### [[Musa (Moses) — مُوسَى]] — موسیٰ علیہ السلام
 
 **Era:** Egypt, Sinai, approximately 1300 BCE
 
@@ -213,7 +213,7 @@
 
 ---
 
-### 🌙 [[Harun (Aaron) — هَارُون]] — ہارون علیہ السلام
+### [[Harun (Aaron) — هَارُون]] — ہارون علیہ السلام
 
 **Era:** Same as Musa, Egypt and Sinai
 
@@ -223,7 +223,7 @@
 
 ---
 
-### 👤 [[Wife of Fir'awn (Asiya) — امرأة فرعون]] — آسیہ — فرعون کی بیوی
+### [[Wife of Fir'awn (Asiya) — امرأة فرعون]] — آسیہ — فرعون کی بیوی
 
 **Era:** Time of Musa, Egypt
 
@@ -233,7 +233,7 @@
 
 ---
 
-### 👤 [[Al-Khidr — الْخَضِر]] — خضر علیہ السلام
+### [[Al-Khidr — الْخَضِر]] — خضر علیہ السلام
 
 **Era:** Time of Musa (and possibly beyond — debates exist)
 
@@ -243,7 +243,7 @@
 
 ---
 
-### 🌙 [[Dawud (David) — دَاوُود]] — داؤد علیہ السلام
+### [[Dawud (David) — دَاوُود]] — داؤد علیہ السلام
 
 **Era:** Ancient Palestine, approximately 1000 BCE
 
@@ -253,7 +253,7 @@
 
 ---
 
-### 🌙 [[Sulayman (Solomon) — سُلَيْمَان]] — سلیمان علیہ السلام
+### [[Sulayman (Solomon) — سُلَيْمَان]] — سلیمان علیہ السلام
 
 **Era:** Ancient Palestine, approximately 950 BCE
 
@@ -263,7 +263,7 @@
 
 ---
 
-### 👤 [[Bilqis (Queen of Sheba) — بِلْقِيس]] — بلقیس — ملکہ سبا
+### [[Bilqis (Queen of Sheba) — بِلْقِيس]] — بلقیس — ملکہ سبا
 
 **Era:** Time of Sulayman, ancient Yemen
 
@@ -273,7 +273,7 @@
 
 ---
 
-### 🌙 [[Ayyub (Job) — أَيُّوب]] — ایوب علیہ السلام
+### [[Ayyub (Job) — أَيُّوب]] — ایوب علیہ السلام
 
 **Era:** Ancient Levant region
 
@@ -283,7 +283,7 @@
 
 ---
 
-### 🌙 [[Yunus (Jonah) — يُونُس]] — یونس علیہ السلام
+### [[Yunus (Jonah) — يُونُس]] — یونس علیہ السلام
 
 **Era:** Ancient Nineveh (modern Iraq area)
 
@@ -293,7 +293,7 @@
 
 ---
 
-### 🌙 [[Ilyas (Elijah) — إِلْيَاس]] — الیاس علیہ السلام
+### [[Ilyas (Elijah) — إِلْيَاس]] — الیاس علیہ السلام
 
 **Era:** Ancient Levant
 
@@ -303,7 +303,7 @@
 
 ---
 
-### 🌙 [[Al-Yasa' (Elisha) — الْيَسَع]] — یسع علیہ السلام
+### [[Al-Yasa' (Elisha) — الْيَسَع]] — یسع علیہ السلام
 
 **Era:** Ancient Levant, successor of Ilyas
 
@@ -313,7 +313,7 @@
 
 ---
 
-### 🌙 [[Dhul-Kifl — ذُو الْكِفْل]] — ذوالکفل علیہ السلام
+### [[Dhul-Kifl — ذُو الْكِفْل]] — ذوالکفل علیہ السلام
 
 **Era:** Ancient Levant
 
@@ -323,7 +323,7 @@
 
 ---
 
-### 🌙 [[Idris (Enoch) — إِدْرِيس]] — ادریس علیہ السلام
+### [[Idris (Enoch) — إِدْرِيس]] — ادریس علیہ السلام
 
 **Era:** Very early human history, before Nuh by some accounts
 
@@ -333,7 +333,7 @@
 
 ---
 
-### 🌙 [[Isa (Jesus) — عِيسَى]] — عیسیٰ علیہ السلام
+### [[Isa (Jesus) — عِيسَى]] — عیسیٰ علیہ السلام
 
 **Era:** Roman-era Palestine, approximately 1-33 CE
 
@@ -343,7 +343,7 @@
 
 ---
 
-### 👤 [[Maryam (Mary) — مَرْيَم]] — مریم علیہا السلام
+### [[Maryam (Mary) — مَرْيَم]] — مریم علیہا السلام
 
 **Era:** Roman-era Palestine
 
@@ -353,7 +353,7 @@
 
 ---
 
-### 🌙 [[Zakariyya (Zechariah) — زَكَرِيَّا]] — زکریا علیہ السلام
+### [[Zakariyya (Zechariah) — زَكَرِيَّا]] — زکریا علیہ السلام
 
 **Era:** Roman-era Palestine, guardian of Maryam
 
@@ -363,7 +363,7 @@
 
 ---
 
-### 🌙 [[Yahya (John the Baptist) — يَحْيَى]] — یحییٰ علیہ السلام
+### [[Yahya (John the Baptist) — يَحْيَى]] — یحییٰ علیہ السلام
 
 **Era:** Roman-era Palestine, contemporary with Isa
 
@@ -373,7 +373,7 @@
 
 ---
 
-### 🌙 [[Muhammad ﷺ — مُحَمَّد]] — محمد ﷺ
+### [[Muhammad ﷺ — مُحَمَّد]] — محمد ﷺ
 
 **Era:** 570-632 CE, Makkah and Madinah
 
@@ -383,7 +383,7 @@
 
 ---
 
-### 👼 [[Jibreel (Gabriel) — جِبْرِيل]] — جبریل علیہ السلام
+### [[Jibreel (Gabriel) — جِبْرِيل]] — جبریل علیہ السلام
 
 **Era:** From the beginning of creation to the end
 
@@ -393,7 +393,7 @@
 
 ---
 
-### 👼 [[Mikael (Michael) — مِيكَائِيل]] — میکائیل علیہ السلام
+### [[Mikael (Michael) — مِيكَائِيل]] — میکائیل علیہ السلام
 
 **Era:** From creation to its end
 
@@ -403,7 +403,7 @@
 
 ---
 
-### 👼 [[Israfil — إِسْرَافِيل]] — اسرافیل علیہ السلام
+### [[Israfil — إِسْرَافِيل]] — اسرافیل علیہ السلام
 
 **Era:** From creation, will act at the end of time
 
@@ -413,7 +413,7 @@
 
 ---
 
-### 👼 [[Izraeel (Angel of Death) — عِزْرَائِيل]] — عزرائیل علیہ السلام
+### [[Izraeel (Angel of Death) — عِزْرَائِيل]] — عزرائیل علیہ السلام
 
 **Era:** From creation to end
 
@@ -423,7 +423,7 @@
 
 ---
 
-### 👼 [[Munkar and Nakeer — مُنكَر وَنَكِير]] — منکر و نکیر
+### [[Munkar and Nakeer — مُنكَر وَنَكِير]] — منکر و نکیر
 
 **Era:** The realm of the grave (Barzakh)
 
@@ -433,7 +433,7 @@
 
 ---
 
-### 👼 [[Malik (Keeper of Hell) — مَالِك]] — مالک — جہنم کا داروغہ
+### [[Malik (Keeper of Hell) — مَالِك]] — مالک — جہنم کا داروغہ
 
 **Era:** The Hereafter
 
@@ -443,7 +443,7 @@
 
 ---
 
-### 👼 [[Ridwan (Keeper of Paradise) — رِضْوَان]] — رضوان — جنت کا داروغہ
+### [[Ridwan (Keeper of Paradise) — رِضْوَان]] — رضوان — جنت کا داروغہ
 
 **Era:** The Hereafter
 
@@ -453,7 +453,7 @@
 
 ---
 
-### 👼 [[Harut and Marut — هَارُوت وَمَارُوت]] — ہاروت و ماروت
+### [[Harut and Marut — هَارُوت وَمَارُوت]] — ہاروت و ماروت
 
 **Era:** Ancient Babylon, time of Sulayman
 
@@ -463,7 +463,7 @@
 
 ---
 
-### ⭐ [[Abu Bakr As-Siddiq — أَبُو بَكْر]] — ابو بکر صدیق رضی اللہ عنہ
+### [[Abu Bakr As-Siddiq — أَبُو بَكْر]] — ابو بکر صدیق رضی اللہ عنہ
 
 **Era:** 570-634 CE, Makkah and Madinah
 
@@ -473,7 +473,7 @@
 
 ---
 
-### ⭐ [[Ali ibn Abi Talib — عَلِيّ]] — علی ابن ابی طالب رضی اللہ عنہ
+### [[Ali ibn Abi Talib — عَلِيّ]] — علی ابن ابی طالب رضی اللہ عنہ
 
 **Era:** 600-661 CE, Makkah, Madinah, Kufa
 
@@ -483,7 +483,7 @@
 
 ---
 
-### ⭐ [[Aisha bint Abi Bakr — عَائِشَة]] — عائشہ رضی اللہ عنہا
+### [[Aisha bint Abi Bakr — عَائِشَة]] — عائشہ رضی اللہ عنہا
 
 **Era:** 613-678 CE, Makkah and Madinah
 
@@ -493,7 +493,7 @@
 
 ---
 
-### ⭐ [[Sumayyah bint Khayyat — سُمَيَّة]] — سمیہ رضی اللہ عنہا
+### [[Sumayyah bint Khayyat — سُمَيَّة]] — سمیہ رضی اللہ عنہا
 
 **Era:** Early Islam, Makkah
 
@@ -503,7 +503,7 @@
 
 ---
 
-### ⭐ [[Ammar ibn Yasir — عَمَّار]] — عمار ابن یاسر رضی اللہ عنہ
+### [[Ammar ibn Yasir — عَمَّار]] — عمار ابن یاسر رضی اللہ عنہ
 
 **Era:** Early Islam, Makkah and Madinah
 
@@ -513,7 +513,7 @@
 
 ---
 
-### ⭐ [[Zayd ibn Harithah — زَيْد]] — زید ابن حارثہ رضی اللہ عنہ
+### [[Zayd ibn Harithah — زَيْد]] — زید ابن حارثہ رضی اللہ عنہ
 
 **Era:** 610-629 CE, Arabia
 
@@ -523,7 +523,7 @@
 
 ---
 
-### 👤 [[Luqman — لُقْمَان]] — لقمان
+### [[Luqman — لُقْمَان]] — لقمان
 
 **Era:** Ancient times — scholars debate his identity and era
 
@@ -533,7 +533,7 @@
 
 ---
 
-### 👤 [[Dhul-Qarnayn — ذُو الْقَرْنَيْن]] — ذوالقرنین
+### [[Dhul-Qarnayn — ذُو الْقَرْنَيْن]] — ذوالقرنین
 
 **Era:** Ancient history — identity debated
 
@@ -543,7 +543,7 @@
 
 ---
 
-### 👤 [[Imran — عِمْرَان]] — عمران
+### [[Imran — عِمْرَان]] — عمران
 
 **Era:** Roman-era Palestine
 
@@ -553,7 +553,7 @@
 
 ---
 
-### 👤 [[Habil (Abel) — هَابِيل]] — ہابیل
+### [[Habil (Abel) — هَابِيل]] — ہابیل
 
 **Era:** First generation of humanity
 
@@ -563,7 +563,7 @@
 
 ---
 
-### 👤 [[Talut (Saul) — طَالُوت]] — طالوت
+### [[Talut (Saul) — طَالُوت]] — طالوت
 
 **Era:** Ancient Palestine, before Dawud
 
@@ -573,7 +573,7 @@
 
 ---
 
-### 👥 [[People of the Cave — أَصْحَاب الْكَهْف]] — اصحاب الکہف
+### [[People of the Cave — أَصْحَاب الْكَهْف]] — اصحاب الکہف
 
 **Era:** Roman era (Decius persecution, approximately 250 CE — scholarly debate)
 
@@ -583,7 +583,7 @@
 
 ---
 
-### 👥 [[The Disciples of Isa — الْحَوَارِيُّون]] — حواریون
+### [[The Disciples of Isa — الْحَوَارِيُّون]] — حواریون
 
 **Era:** Roman-era Palestine, time of Isa
 
@@ -593,7 +593,7 @@
 
 ---
 
-### 👥 [[People of Yunus — قَوْم يُونُس]] — قوم یونس
+### [[People of Yunus — قَوْم يُونُس]] — قوم یونس
 
 **Era:** Ancient Nineveh (modern Iraq)
 

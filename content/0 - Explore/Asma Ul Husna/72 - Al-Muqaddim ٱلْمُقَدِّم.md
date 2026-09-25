@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "time", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Muqaddim — ٱلْمُقَدِّم
+# Al-Muqaddim — ٱلْمُقَدِّم
 ### The Expediter · The Bringer Forward
 #### آگے کرنے والا
 
@@ -21,32 +21,32 @@ tags: ["asma_ul_husna", "qadr", "time", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Muqaddim brings forward what He wills — advancing it in time, priority, or position. Every early blessing, every opportunity that came at the perfect moment — that is Al-Muqaddim. Paired with Al-Mu'akhkhir in the famous du'a: 'You are Al-Muqaddim and Al-Mu'akhkhir.'
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المقدم جسے چاہے آگے کرتا ہے۔ وہ شخص جو بالکل صحیح وقت پر آپ کی زندگی میں آیا — المقدم نے بھیجا تھا۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 The timing of blessings is managed by Al-Muqaddim. What comes early in your life, what opportunity appears at the perfect moment — trust His timing of advancement.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[57_13: The Iron الحديد]]
-- [[71_4: Noah نوح]]
+- [[57_13]]
+- [[71_4]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[57 - Al-Hamid ٱلْحَمِيد]]
 - [[66 - Al-Majid ٱلْمَاجِد]]
@@ -58,5 +58,5 @@ The timing of blessings is managed by Al-Muqaddim. What comes early in your life
 - [[85 - Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

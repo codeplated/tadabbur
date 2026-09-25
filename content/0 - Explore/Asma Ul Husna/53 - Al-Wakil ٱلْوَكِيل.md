@@ -11,7 +11,7 @@ quran_occurrences: 14
 tags: ["asma_ul_husna", "tawakkul", "anxiety_fear"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Wakil — ٱلْوَكِيل
+# Al-Wakil — ٱلْوَكِيل
 ### The Trustee · The Disposer of Affairs
 #### کارساز
 
@@ -21,38 +21,38 @@ tags: ["asma_ul_husna", "tawakkul", "anxiety_fear"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Wakil manages all affairs on behalf of those who entrust themselves to Him. Ibrahim said 'Hasbunallah wa ni'mal Wakil' when thrown into fire; the Prophet ﷺ said it when told an army was coming. Al-Wakil manages what you cannot manage and knows what you do not know.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الوکیل وہ ہے جس پر معاملات چھوڑے جائیں۔ ابراہیم نے آگ میں کہا، نبی ﷺ نے فوج کے سامنے کہا۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Tawakkul is the active appointment of Al-Wakil to handle what is beyond your control. Do what you can; then formally hand the rest to Al-Wakil.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_173: Family of Imran آل عمران]]
-- [[4_81: The Women النساء]]
-- [[6_102: The Cattle الأنعام]]
-- [[12_66: Joseph يوسف]]
-- [[17_65: The Night Journey الإسراء]]
-- [[28_28: The Stories القصص]]
-- [[33_3: The Combined Forces الأحزاب]]
-- [[39_62: The Troops الزمر]]
+- [[3_173]]
+- [[4_81]]
+- [[6_102]]
+- [[12_66]]
+- [[17_65]]
+- [[28_28]]
+- [[33_3]]
+- [[39_62]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[39 - Al-Hafiz ٱلْحَفِيظ]]
 - [[42 - Al-Jalil ٱلْجَلِيل]]
@@ -64,5 +64,5 @@ Tawakkul is the active appointment of Al-Wakil to handle what is beyond your con
 - [[66 - Al-Majid ٱلْمَاجِد]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

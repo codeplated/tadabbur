@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "hidayah", "dua"]
 ---
 <!-- GENERATED:START -->
-# ✨ Ar-Rashid — ٱلرَّشِيد
+# Ar-Rashid — ٱلرَّشِيد
 ### The Guide to the Right Path
 #### راہنما
 
@@ -21,37 +21,37 @@ tags: ["asma_ul_husna", "hidayah", "dua"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Ar-Rashid directs all things to their right and appointed ends with perfect wisdom. His direction is always toward the best outcome — He guides matters to their rightful conclusion without deviance. Whatever He directs toward its goal will arrive there.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 الرشید ہر چیز کو اس کے صحیح انجام کی طرف بے خطا رہنمائی کرتا ہے۔ اس کی رہنمائی میں کوئی انحراف نہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you cannot see where your situation is heading, Ar-Rashid is directing it toward its right end. You may not see the destination, but He is guiding the journey. Trust the Director.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_256: The Cow البقرة]]
-- [[4_6: The Women النساء]]
-- [[11_87: Hud هود]]
-- [[18_10: The Cave الكهف]]
-- [[18_17: The Cave الكهف]]
-- [[72_2: The Jinn الجن]]
-- [[72_10: The Jinn الجن]]
+- [[2_256]]
+- [[4_6]]
+- [[11_87]]
+- [[18_10]]
+- [[18_17]]
+- [[72_2]]
+- [[72_10]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
 - [[27 - As-Sami' ٱلسَّمِيع]]
@@ -63,5 +63,5 @@ When you cannot see where your situation is heading, Ar-Rashid is directing it t
 - [[95 - Al-Hadi ٱلْهَادِي]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

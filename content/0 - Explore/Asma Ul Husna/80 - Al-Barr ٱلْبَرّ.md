@@ -11,7 +11,7 @@ quran_occurrences: 1
 tags: ["asma_ul_husna", "ihsan", "rahmah", "jannah"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Barr — ٱلْبَرّ
+# Al-Barr — ٱلْبَرّ
 ### The Source of All Goodness
 #### نیکی کا سرچشمہ
 
@@ -21,31 +21,31 @@ tags: ["asma_ul_husna", "ihsan", "rahmah", "jannah"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Barr is the source of all goodness and kindness — from Him flows every act of goodness in the universe. 'Surely He is Al-Barr, Al-Rahim' — said to the people of Jannah (52:28). Al-Barr does not merely permit goodness; He is its origin and source.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 البر تمام نیکی کا سرچشمہ ہے — کائنات میں جو بھی بھلائی ہے، اس کی اصل اللہ کی ذات ہے۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 Every act of genuine kindness you witness in people is a reflection of Al-Barr — they are channels of divine goodness. Seek goodness by returning to its source.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[52_28: The Mount الطور]]
+- [[52_28]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[2 - Ar-Rahman ٱلرَّحْمَـٰن]]
 - [[35 - Al-Ghafur ٱلْغَفُور]]
@@ -57,5 +57,5 @@ Every act of genuine kindness you witness in people is a reflection of Al-Barr �
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "adl", "akhirah", "oppression"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Adl — ٱلْعَدْل
+# Al-Adl — ٱلْعَدْل
 ### The Just · The Equitable
 #### عادل
 
@@ -21,35 +21,35 @@ tags: ["asma_ul_husna", "adl", "akhirah", "oppression"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Adl is perfectly, absolutely just. His justice is not approximate, not biased. He does not wrong anyone by even the weight of an atom (4:40). This name answers the deepest human question: 'Is the universe fair?' — yes, true justice exists and will be delivered.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 العدل مکمل عدل کرنے والا ہے — ایک ذرے کے برابر بھی ظلم نہیں کرتا (4:40)۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you witness injustice and feel despair, Al-Adl guarantees the books will be balanced. Every account is being kept. No injustice is the final word.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_18: Family of Imran آل عمران]]
-- [[4_40: The Women النساء]]
-- [[10_54: Jonah يونس]]
-- [[16_90: The Bee النحل]]
-- [[21_47: The Prophets الأنبياء]]
+- [[3_18]]
+- [[4_40]]
+- [[10_54]]
+- [[16_90]]
+- [[21_47]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[29 - Al-Hakam ٱلْحَكَم]]
 - [[41 - Al-Hasib ٱلْحَسِيب]]
@@ -57,5 +57,5 @@ When you witness injustice and feel despair, Al-Adl guarantees the books will be
 - [[87 - Al-Muqsit ٱلْمُقْسِط]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

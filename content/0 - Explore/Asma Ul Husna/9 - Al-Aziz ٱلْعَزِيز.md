@@ -11,7 +11,7 @@ quran_occurrences: 92
 tags: ["asma_ul_husna", "tawakkul", "oppression"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Aziz — ٱلْعَزِيز
+# Al-Aziz — ٱلْعَزِيز
 ### The Almighty · The Invincible
 #### غالب
 
@@ -21,36 +21,36 @@ tags: ["asma_ul_husna", "tawakkul", "oppression"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Aziz is the One whose might is absolute and unconquerable. He is never defeated, never overwhelmed, never overpowered. He is often paired with Al-Hakim (the Wise) — His power is always purposeful, never arbitrary.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 العزیز وہ ہے جو ہر چیز پر غالب ہے۔ یہ نام اکثر 'الحکیم' کے ساتھ آتا ہے — طاقت اور حکمت لازم و ملزوم ہیں۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 When you face opponents or injustice that seems impossible to resist, Al-Aziz is the One whose support makes you unconquerable. If He is with you, who can truly overpower you?
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[2_129: The Cow البقرة]]
-- [[2_209: The Cow البقرة]]
-- [[2_220: The Cow البقرة]]
-- [[3_6: Family of Imran آل عمران]]
-- [[4_158: The Women النساء]]
-- [[59_23: The Exile الحشر]]
+- [[2_129]]
+- [[2_209]]
+- [[2_220]]
+- [[3_6]]
+- [[4_158]]
+- [[59_23]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
@@ -62,5 +62,5 @@ When you face opponents or injustice that seems impossible to resist, Al-Aziz is
 - [[92 - Ad-Darr ٱلضَّارّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 

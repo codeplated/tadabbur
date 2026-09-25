@@ -11,7 +11,7 @@ quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "tawakkul"]
 ---
 <!-- GENERATED:START -->
-# ✨ Al-Mani' — ٱلْمَانِع
+# Al-Mani' — ٱلْمَانِع
 ### The Withholder · The Shielder
 #### روکنے والا
 
@@ -21,34 +21,34 @@ tags: ["asma_ul_husna", "qadr", "tawakkul"]
 
 ---
 
-## 📖 Meaning — English
+## Meaning — English
 
 Al-Mani' withholds what He wills and prevents what He wills. The Hadith: 'What You give, no one can withhold; and what You withhold, no one can give.' Nothing reaches you except what Al-Mani' has permitted; nothing is kept from you except what Al-Mani' has withheld.
 
 ---
 
-## 📖 معنی — اردو
+## معنی — اردو
 
 المانع جو چاہے روکتا ہے۔ حدیث: 'جو تو دے کوئی روک نہیں سکتا، جو تو روک لے کوئی دے نہیں سکتا'۔
 
 ---
 
-## 💡 In Daily Life
+## In Daily Life
 
 What did not come to you — the job, the relationship, the thing you wanted — Al-Mani' withheld it. This may be the greatest mercy. Trust the withholding as much as the giving.
 
 ---
 
-## 📍 Key Ayaat
+## Key Ayaat
 
-- [[3_160: Family of Imran آل عمران]]
-- [[4_45: The Women النساء]]
-- [[11_57: Hud هود]]
-- [[17_65: The Night Journey الإسراء]]
+- [[3_160]]
+- [[4_45]]
+- [[11_57]]
+- [[17_65]]
 
 ---
 
-## 🔗 Related Names
+## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
 - [[8 - Al-Muhaymin ٱلْمُهَيْمِن]]
@@ -60,5 +60,5 @@ What did not come to you — the job, the relationship, the thing you wanted —
 - [[92 - Ad-Darr ٱلضَّارّ]]
 
 <!-- GENERATED:END -->
-## 📝 Study Notes
+## Study Notes
 
