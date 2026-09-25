@@ -11,15 +11,16 @@ Asma ul Husna and the personalities mentioned in the Quran.
 The content is produced by a separate Tadabbur generator repo and synced into
 this repo's `content/` folder, which this site then builds and publishes.
 
-Site: [tadabbur.belambo.com](https://tadabbur.belambo.com) (deployment to
-Cloudflare Pages coming soon)
+Site: [tadabbur.belambo.com](https://tadabbur.belambo.com)
 
 ## Stack
 
 - [Quartz 5](https://quartz.jzhao.xyz/) static site generator, with community
   plugins from npm (a few carry small patches in `patches/`)
 - Audio recitation served from `cdn.islamic.app`, not hosted in this repo
-- Planned hosting: Cloudflare Pages
+- Hosted on Cloudflare Pages; every push to `main` deploys
+- Feedback form messages are forwarded to Telegram by a small Cloudflare
+  Worker in `feedback-worker/`
 
 ## Getting started
 
