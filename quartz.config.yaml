@@ -27,7 +27,7 @@ configuration:
         darkgray: "#3b3833"
         dark: "#24221e"
         secondary: "#2c6461"
-        tertiary: "#7a6535"
+        tertiary: "#607300" # every hover / focus / selected state — see custom.scss
         highlight: rgba(44, 100, 97, 0.08)
         textHighlight: "#f0d58a99"
       darkMode:
@@ -37,7 +37,7 @@ configuration:
         darkgray: "#cfc8bb"
         dark: "#e8e2d6"
         secondary: "#8fbfb5"
-        tertiary: "#c9b27a"
+        tertiary: "#607300" # same as light, by choice
         highlight: rgba(143, 191, 181, 0.1)
         textHighlight: "#a8862f66"
 plugins:
@@ -52,7 +52,7 @@ plugins:
         - modified # name, an empty modified date, socialImage copied from image)
         - socialImage
         - image # and image, which is a path to a card thumbnail, not something
-                # a reader needs above the verse on every ayah page
+          # a reader needs above the verse on every ayah page
       hidePropertiesView: false
       delimiters: ---
       language: yaml

@@ -23,6 +23,115 @@ a.internal:has(> img) {
   border-radius: var(--radius);
 }
 
+// ── Interaction colour ──────────────────────────────────────────────────────
+// One colour for every hover, focus, pressed and selected/current state, on
+// every page: --tertiary (quartz.config.yaml, the same in both themes). Links
+// at rest stay --secondary. Stock Quartz already uses --tertiary for link
+// hover and the explorer's current page; the rules below bring everything that
+// used --secondary, a grey, or nothing at all into line. Plugin CSS is
+// unlayered, hence the !important on plugin selectors.
+//
+// Not covered: the graph's current-page node stays --secondary, because the
+// graph already draws visited pages in --tertiary and the two need to differ.
+
+// Base mixes --tertiary in at 60%, which buries the selected text.
+::selection {
+  background: color-mix(in srgb, var(--tertiary) 35%, transparent);
+}
+
+// Every link, hovered or pressed (a tap on a phone never hovers). !important
+// because plugins give their links a resting colour of their own — the
+// explorer and table of contents use --dark — and an unlayered plugin rule
+// beats base's a:hover, so those links didn't change colour at all.
+a:hover,
+a:active {
+  color: var(--tertiary) !important;
+}
+
+// Tags: the properties box fills its chip on hover; keep the fill, in the
+// interaction colour, with light text on it.
+.note-properties .note-properties-tags .tag-link:hover {
+  background: var(--tertiary) !important;
+  color: var(--light) !important;
+}
+
+// Tag pages (tag-page patch): surah jump bar, the /tags A–Z grid, and the
+// ayah translation text, which is itself a link to the ayah.
+.tt-tag-page .tt-jump a:hover,
+.tt-tag-page .tt-index a:hover {
+  border-color: var(--tertiary) !important;
+  color: var(--tertiary) !important;
+}
+
+.tt-tag-page .tt-text:hover {
+  color: var(--tertiary) !important;
+}
+
+// Search: the highlighted result (mouse or arrow keys) and tag suggestions.
+.search .result-card:hover,
+.search .result-card:focus,
+.search .result-card.focus {
+  & h3,
+  & .card-title {
+    color: var(--tertiary) !important;
+  }
+}
+
+.search .tag-suggestion-item:hover,
+.search .tag-suggestion-item.active {
+  color: var(--tertiary) !important;
+}
+
+// Table of contents: the sections on screen are the "you are here" marker.
+ul.toc-content > li > a.in-view {
+  color: var(--tertiary) !important;
+}
+
+// Icon and text buttons in the chrome, which had no hover colour at all.
+.search-button:hover {
+  color: var(--tertiary);
+
+  & .search-path {
+    stroke: var(--tertiary) !important;
+  }
+}
+
+.darkmode:hover svg {
+  fill: var(--tertiary) !important;
+}
+
+.explorer-toggle:hover,
+.toc-header:hover {
+  color: var(--tertiary) !important;
+
+  & h2,
+  & h3 {
+    color: var(--tertiary) !important;
+  }
+}
+
+.mobile-explorer:hover .lucide-menu {
+  stroke: var(--tertiary) !important;
+}
+
+.graph .global-graph-icon:hover,
+.canvas-controls button:hover,
+.page[data-frame="canvas"] .canvas-sidebar-toggle:hover,
+.mermaid-control-button:hover {
+  color: var(--tertiary) !important;
+}
+
+.expand-button:hover {
+  border-color: var(--tertiary) !important;
+  color: var(--tertiary) !important;
+}
+
+// Checked boxes are a selected state too.
+input[type="checkbox"]:checked {
+  background-color: var(--tertiary);
+  border-color: var(--tertiary);
+}
+
 pre,
 figure[data-rehype-pretty-code-figure] > [data-rehype-pretty-code-title],
 img,
@@ -345,32 +454,40 @@ $logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewB
 }
 
 // ── Front page hero ──────────────────────────────────────────────────────
-// content/index.md opens straight into a paragraph, so the site gives no
-// visual sense of what it is before the reader starts reading. This puts
-// quartz/static/hero.jpg — the repo-root hero.jpg rotated 90°, cropped to
-// 7:1 and given its "A structured Quran Knowledge Base" tagline (own
-// contrast band and gold flourishes baked in) — above the first
-// paragraph. The tagline lives in the image, not a pseudo-element, so
-// there's nothing to keep in sync here.
-// Keyed to slug="index" so no other page and nothing in content/index.md
-// has to change. The box is always wider than it is 7:1-tall at every
-// breakpoint below, so `cover` only ever crops the image's sides, never
-// the vertically-centered text.
-body[data-slug="index"] .center > article::before {
-  content: "";
-  display: block;
-  height: 280px;
+// Rendered by quartz/components/HomeHero.tsx, on the index page only: the
+// tagline, then a band of keffiyeh pattern.
+//
+// quartz/static/keffiyeh.svg is the repo-root Keffiyeh.svg run through svgo
+// (--precision 2). It's one colour and tiles edge to edge, so it's used as a
+// mask rather than an image: the band is painted in --darkgray and the SVG
+// only decides where. --darkgray flips with the theme, so the pattern does
+// too.
+.home-hero {
   margin: 0 0 2rem;
-  border-radius: var(--radius-lg);
-  background: url("/static/hero.jpg") center / cover no-repeat;
+}
 
-  @media all and ($tablet) {
-    height: 220px;
-  }
+.home-hero-title {
+  margin: 0 0 1.25rem;
+  font-size: 2.6rem;
+  line-height: 1.2;
+  text-align: center;
+  text-wrap: balance; // two even lines, never "Base" alone on the second
+  color: var(--dark);
 
   @media all and ($mobile) {
-    height: 170px;
+    font-size: 1.9rem;
   }
+}
+
+.home-hero-pattern {
+  // Always seven tiles across. Each is a seventh of the column wide, and the
+  // band takes seven tiles' aspect (the SVG is 313 × 525), so its height
+  // follows the column width and the tiles fit exactly, with nothing cut off.
+  aspect-ratio: calc(7 * 313 / 525);
+  // Clips the masked band like a picture frame, matching the site's cards.
+  border-radius: var(--radius-lg);
+  background-color: var(--darkgray);
+  mask: url("/static/keffiyeh.svg") left top / calc(100% / 7) 100% repeat-x;
 }
 
 // ============================================================================
@@ -413,14 +530,14 @@ body[data-slug="index"] .center > article::before {
   .bases-view-tabs button,
   .breadcrumb-element a {
     touch-action: manipulation;
-    -webkit-tap-highlight-color: color-mix(in srgb, var(--secondary) 20%, transparent);
+    -webkit-tap-highlight-color: color-mix(in srgb, var(--tertiary) 20%, transparent);
   }
 }
 
 // The search input clears its outline, and nothing else defines a focus ring.
 // Keyboard and switch-control users need to see where they are.
 :focus-visible {
-  outline: 2px solid var(--secondary);
+  outline: 2px solid var(--tertiary);
   outline-offset: 2px;
 }
 
@@ -543,13 +660,12 @@ body[data-slug="index"] .center > article::before {
     border-radius: var(--radius);
   }
 
-  // The tablet sidebar keeps the full-width search button and the Explorer
-  // fold header; both were around 20–32px tall.
+  // The tablet sidebar keeps the full-width search button and the table of
+  // contents fold header; both were around 20–32px tall.
   .search > .search-button {
     min-height: var(--tap-target);
   }
 
-  .explorer button.desktop-explorer,
   .toc button.toc-header {
     min-height: var(--tap-target);
   }
@@ -558,6 +674,20 @@ body[data-slug="index"] .center > article::before {
     box-sizing: border-box;
     min-height: var(--tap-target);
   }
+}
+
+// ── The explorer heading ────────────────────────────────────────────────────
+// The plugin puts an "Explorer" button above the tree on tablet and desktop.
+// All it does is fold the whole tree away, which nobody needs: the tree is the
+// sidebar. It has no option to turn it off. The phone's menu button is a
+// separate element (.mobile-explorer) and is untouched.
+
+.explorer button.desktop-explorer {
+  display: none !important;
+}
+
+.explorer .explorer-content {
+  margin-top: 0 !important;
 }
 
 // ── The explorer drawer ─────────────────────────────────────────────────────
@@ -601,7 +731,7 @@ body[data-slug="index"] .center > article::before {
     background-color: var(--highlight);
 
     .lucide-menu {
-      stroke: var(--secondary);
+      stroke: var(--tertiary);
     }
   }
 }

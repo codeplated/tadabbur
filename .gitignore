@@ -6,3 +6,4 @@ tsconfig.tsbuildinfo
 .quartz-cache
 .quartz/
 *.log
+.wrangler/

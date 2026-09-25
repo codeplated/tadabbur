@@ -696,6 +696,20 @@ export async function loadQuartzLayout(layoutOverrides?: {
   const HeadModule = await import("../../components/Head")
   const head = HeadModule.default()
 
+  // Feedback widget on every page type except 404. It's a core component, not
+  // a plugin, so quartz.config.yaml can't place it.
+  const FeedbackModule = await import("../../components/Feedback")
+  const feedback = FeedbackModule.default()
+  defaultLayout.afterBody = [...(defaultLayout.afterBody ?? []), feedback]
+  for (const [pageType, pt] of Object.entries(byPageType)) {
+    if (pageType !== "404") pt.afterBody = [...(pt.afterBody ?? []), feedback]
+  }
+
+  // Front page hero. Renders only on slug "index" (a content page, so the
+  // defaults cover it); first in beforeBody, above everything else there.
+  const HomeHeroModule = await import("../../components/HomeHero")
+  defaultLayout.beforeBody = [HomeHeroModule.default(), ...(defaultLayout.beforeBody ?? [])]
+
   // Apply structural defaults
   defaultLayout.head = head
   defaultLayout.header = defaultLayout.header ?? []
