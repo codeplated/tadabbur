@@ -1,13 +1,12 @@
 formulas:
-  surah_number: number(file.name.split("_")[0])
+  surah_number: number(note.surah.split(" ")[0])
 views:
   - type: cards
     name: Surahs
     filters:
       and:
-        - file.name.contains("_1:")
-    order:
-      - file.name
+        - file.name == "index"
+        - file.hasProperty("surah_name")
     sort:
       - property: formula.surah_number
         direction: ASC
