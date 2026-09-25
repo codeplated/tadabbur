@@ -1,0 +1,16 @@
+# Tadabbur feedback Worker — see README.md.
+# Deployed to https://tadabbur-feedback.<your-account>.workers.dev
+name = "tadabbur-feedback"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+
+# No custom-domain route: belambo.com's DNS is at IONOS, not Cloudflare.
+workers_dev = true
+
+[vars]
+# Pages that may post to this Worker. localhost is the Quartz dev server.
+ALLOWED_ORIGINS = "https://tadabbur.belambo.com,http://localhost:8080"
+
+# TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID are secrets, set with
+# `npx wrangler secret put`. They must never be written in this file:
+# the repo is public.
