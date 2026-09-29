@@ -1,4 +1,5 @@
 ---
+title: "66 - The Prohibition التحريم"
 surah: 66 / 114
 surah_name: "The Prohibition / التحريم / حرمت"
 transliteration: "At-Tahrim"

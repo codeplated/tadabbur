@@ -1,4 +1,5 @@
 ---
+title: "15 - The Rocky Tract الحجر"
 surah: 15 / 114
 surah_name: "The Rocky Tract / الحجر / پتھر"
 transliteration: "Al-Hijr"

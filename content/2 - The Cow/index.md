@@ -1,4 +1,5 @@
 ---
+title: "2 - The Cow البقرة"
 surah: 2 / 114
 surah_name: "The Cow / البقرة / گائے"
 transliteration: "Al-Baqarah"

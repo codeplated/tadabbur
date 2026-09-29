@@ -1,4 +1,5 @@
 ---
+title: "111 - The Palm Fiber المسد"
 surah: 111 / 114
 surah_name: "The Palm Fiber / المسد / خوب بٹی ہوئی"
 transliteration: "Al-Masad"

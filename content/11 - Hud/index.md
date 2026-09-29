@@ -1,4 +1,5 @@
 ---
+title: "11 - Hud هود"
 surah: 11 / 114
 surah_name: "Hud / هود / حود"
 transliteration: "Hud"

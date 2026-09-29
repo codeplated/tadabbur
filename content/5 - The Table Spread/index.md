@@ -1,4 +1,5 @@
 ---
+title: "5 - The Table Spread المائدة"
 surah: 5 / 114
 surah_name: "The Table Spread / المائدة / دسترخوان"
 transliteration: "Al-Ma'idah"

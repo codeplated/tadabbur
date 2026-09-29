@@ -1,4 +1,5 @@
 ---
+title: "48 - The Victory الفتح"
 surah: 48 / 114
 surah_name: "The Victory / الفتح / فتح"
 transliteration: "Al-Fath"

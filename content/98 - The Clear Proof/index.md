@@ -1,4 +1,5 @@
 ---
+title: "98 - The Clear Proof البينة"
 surah: 98 / 114
 surah_name: "The Clear Proof / البينة / ثبوت"
 transliteration: "Al-Bayyinah"

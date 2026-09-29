@@ -1,4 +1,5 @@
 ---
+title: "46 - The Wind-Curved Sandhills الأحقاف"
 surah: 46 / 114
 surah_name: "The Wind-Curved Sandhills / الأحقاف / ریگستان"
 transliteration: "Al-Ahqaf"

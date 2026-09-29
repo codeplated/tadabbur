@@ -1,4 +1,5 @@
 ---
+title: "80 - He Frowned عبس"
 surah: 80 / 114
 surah_name: "He Frowned / عبس / تیوری چڑہائی"
 transliteration: "'Abasa"

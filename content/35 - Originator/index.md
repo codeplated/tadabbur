@@ -1,4 +1,5 @@
 ---
+title: "35 - Originator فاطر"
 surah: 35 / 114
 surah_name: "Originator / فاطر / پیدا کرنے والا"
 transliteration: "Fatir"

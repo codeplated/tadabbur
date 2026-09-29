@@ -1,4 +1,5 @@
 ---
+title: "33 - The Combined Forces الأحزاب"
 surah: 33 / 114
 surah_name: "The Combined Forces / الأحزاب / متحد گروہ"
 transliteration: "Al-Ahzab"

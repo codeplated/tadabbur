@@ -1,4 +1,5 @@
 ---
+title: "52 - The Mount الطور"
 surah: 52 / 114
 surah_name: "The Mount / الطور / طور پہاڑ"
 transliteration: "At-Tur"

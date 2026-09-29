@@ -1,4 +1,5 @@
 ---
+title: "39 - The Troops الزمر"
 surah: 39 / 114
 surah_name: "The Troops / الزمر / گروہ"
 transliteration: "Az-Zumar"

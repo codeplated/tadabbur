@@ -1,4 +1,5 @@
 ---
+title: "23 - The Believers المؤمنون"
 surah: 23 / 114
 surah_name: "The Believers / المؤمنون / مومنین"
 transliteration: "Al-Mu'minun"

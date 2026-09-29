@@ -1,4 +1,5 @@
 ---
+title: "57 - The Iron الحديد"
 surah: 57 / 114
 surah_name: "The Iron / الحديد / فولاد"
 transliteration: "Al-Hadid"

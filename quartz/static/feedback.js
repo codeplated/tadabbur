@@ -10,8 +10,8 @@ const WORKER_URL = "https://tadabbur-feedback.tadabbur-feedback.workers.dev"
  * so nothing here may hold on to an element between events.
  */
 ;(function () {
-  const THANKS = "JazakAllah khair — your feedback has been received"
-  const FAILED = "Something went wrong — please try again"
+  const THANKS = "JazakAllah khair. Your feedback has been received."
+  const FAILED = "Something went wrong. Please try again."
   const THANKS_MS = 2500
 
   const $ = (id) => document.getElementById(id)

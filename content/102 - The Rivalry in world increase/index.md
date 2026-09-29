@@ -1,4 +1,5 @@
 ---
+title: "102 - The Rivalry in world increase التكاثر"
 surah: 102 / 114
 surah_name: "The Rivalry in world increase / التكاثر / کثرت"
 transliteration: "At-Takathur"

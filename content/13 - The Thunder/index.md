@@ -1,4 +1,5 @@
 ---
+title: "13 - The Thunder الرعد"
 surah: 13 / 114
 surah_name: "The Thunder / الرعد / گرج"
 transliteration: "Ar-Ra'd"

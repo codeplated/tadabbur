@@ -1,4 +1,5 @@
 ---
+title: "103 - The Declining Day العصر"
 surah: 103 / 114
 surah_name: "The Declining Day / العصر / زمانہ"
 transliteration: "Al-'Asr"

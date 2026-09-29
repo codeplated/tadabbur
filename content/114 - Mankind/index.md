@@ -1,4 +1,5 @@
 ---
+title: "114 - Mankind الناس"
 surah: 114 / 114
 surah_name: "Mankind / الناس / انسان"
 transliteration: "An-Nas"

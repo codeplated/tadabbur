@@ -1,4 +1,5 @@
 ---
+title: "107 - The Small kindnesses الماعون"
 surah: 107 / 114
 surah_name: "The Small kindnesses / الماعون / تھوڑی سی چیز"
 transliteration: "Al-Ma'un"

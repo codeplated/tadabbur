@@ -1,4 +1,5 @@
 ---
+title: "3 - Family of Imran آل عمران"
 surah: 3 / 114
 surah_name: "Family of Imran / آل عمران / عمران کا خاندان"
 transliteration: "Ali 'Imran"

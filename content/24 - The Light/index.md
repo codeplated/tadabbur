@@ -1,4 +1,5 @@
 ---
+title: "24 - The Light النور"
 surah: 24 / 114
 surah_name: "The Light / النور / نور"
 transliteration: "An-Nur"

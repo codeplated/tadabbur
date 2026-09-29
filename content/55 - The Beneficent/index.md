@@ -1,4 +1,5 @@
 ---
+title: "55 - The Beneficent الرحمن"
 surah: 55 / 114
 surah_name: "The Beneficent / الرحمن / مہربان"
 transliteration: "Ar-Rahman"

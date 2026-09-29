@@ -1,4 +1,5 @@
 ---
+title: "74 - The Cloaked One المدثر"
 surah: 74 / 114
 surah_name: "The Cloaked One / المدثر / کپڑا اوڑھنے والا"
 transliteration: "Al-Muddaththir"

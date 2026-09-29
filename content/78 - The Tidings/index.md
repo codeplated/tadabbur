@@ -1,4 +1,5 @@
 ---
+title: "78 - The Tidings النبإ"
 surah: 78 / 114
 surah_name: "The Tidings / النبإ / خبر"
 transliteration: "An-Naba"

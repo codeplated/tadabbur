@@ -1,4 +1,5 @@
 ---
+title: "79 - Those who drag forth النازعات"
 surah: 79 / 114
 surah_name: "Those who drag forth / النازعات / زور سے کھینچنے والے"
 transliteration: "An-Nazi'at"

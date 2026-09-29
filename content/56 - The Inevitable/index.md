@@ -1,4 +1,5 @@
 ---
+title: "56 - The Inevitable الواقعة"
 surah: 56 / 114
 surah_name: "The Inevitable / الواقعة / واقعہ ہونے والی قیامت"
 transliteration: "Al-Waqi'ah"

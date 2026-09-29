@@ -1,4 +1,5 @@
 ---
+title: "21 - The Prophets الأنبياء"
 surah: 21 / 114
 surah_name: "The Prophets / الأنبياء / پیغمبر"
 transliteration: "Al-Anbya"

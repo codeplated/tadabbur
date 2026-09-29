@@ -1,4 +1,5 @@
 ---
+title: "105 - The Elephant الفيل"
 surah: 105 / 114
 surah_name: "The Elephant / الفيل / ہاتھی"
 transliteration: "Al-Fil"

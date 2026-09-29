@@ -1,4 +1,5 @@
 ---
+title: "54 - The Moon القمر"
 surah: 54 / 114
 surah_name: "The Moon / القمر / چاند"
 transliteration: "Al-Qamar"

@@ -1,4 +1,5 @@
 ---
+title: "94 - The Relief الشرح"
 surah: 94 / 114
 surah_name: "The Relief / الشرح / تسکین"
 transliteration: "Ash-Sharh"

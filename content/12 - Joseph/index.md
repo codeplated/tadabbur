@@ -1,4 +1,5 @@
 ---
+title: "12 - Joseph يوسف"
 surah: 12 / 114
 surah_name: "Joseph / يوسف / یوسف"
 transliteration: "Yusuf"

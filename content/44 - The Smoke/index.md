@@ -1,4 +1,5 @@
 ---
+title: "44 - The Smoke الدخان"
 surah: 44 / 114
 surah_name: "The Smoke / الدخان / دھواں"
 transliteration: "Ad-Dukhan"

@@ -1,4 +1,5 @@
 ---
+title: "4 - The Women النساء"
 surah: 4 / 114
 surah_name: "The Women / النساء / عورت"
 transliteration: "An-Nisa"

@@ -1,4 +1,5 @@
 ---
+title: "81 - The Overthrowing التكوير"
 surah: 81 / 114
 surah_name: "The Overthrowing / التكوير / لپیٹنا"
 transliteration: "At-Takwir"

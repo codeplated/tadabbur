@@ -1,4 +1,5 @@
 ---
+title: "85 - The Mansions of the Stars البروج"
 surah: 85 / 114
 surah_name: "The Mansions of the Stars / البروج / برج"
 transliteration: "Al-Buruj"

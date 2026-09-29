@@ -13,7 +13,7 @@ export default (() => {
     if (fileData.slug !== "index") return null
     return (
       <div class="home-hero">
-        <h1 class="home-hero-title">A structured Quran Knowledge Base</h1>
+        <h1 class="home-hero-title">A Structured Quran Knowledge Base</h1>
         <div class="home-hero-pattern" aria-hidden="true"></div>
       </div>
     )

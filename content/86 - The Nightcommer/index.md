@@ -1,4 +1,5 @@
 ---
+title: "86 - The Nightcommer الطارق"
 surah: 86 / 114
 surah_name: "The Nightcommer / الطارق / رات کو آنے والا"
 transliteration: "At-Tariq"

@@ -1,4 +1,5 @@
 ---
+title: "22 - The Pilgrimage الحج"
 surah: 22 / 114
 surah_name: "The Pilgrimage / الحج / حج"
 transliteration: "Al-Hajj"

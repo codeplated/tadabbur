@@ -1,4 +1,5 @@
 ---
+title: "93 - The Morning Hours الضحى"
 surah: 93 / 114
 surah_name: "The Morning Hours / الضحى / دن کا چڑھنا"
 transliteration: "Ad-Duhaa"

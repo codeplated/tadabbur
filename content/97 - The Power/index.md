@@ -1,4 +1,5 @@
 ---
+title: "97 - The Power القدر"
 surah: 97 / 114
 surah_name: "The Power / القدر / شب قدر"
 transliteration: "Al-Qadr"

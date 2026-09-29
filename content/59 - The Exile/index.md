@@ -1,4 +1,5 @@
 ---
+title: "59 - The Exile الحشر"
 surah: 59 / 114
 surah_name: "The Exile / الحشر / حشر"
 transliteration: "Al-Hashr"

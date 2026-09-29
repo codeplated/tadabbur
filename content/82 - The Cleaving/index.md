@@ -1,4 +1,5 @@
 ---
+title: "82 - The Cleaving الإنفطار"
 surah: 82 / 114
 surah_name: "The Cleaving / الإنفطار / ٹکڑے ہونا"
 transliteration: "Al-Infitar"

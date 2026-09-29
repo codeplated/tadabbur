@@ -1,4 +1,5 @@
 ---
+title: "10 - Jonah يونس"
 surah: 10 / 114
 surah_name: "Jonah / يونس / یونس"
 transliteration: "Yunus"

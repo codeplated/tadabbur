@@ -1,4 +1,5 @@
 ---
+title: "38 - The Letter \"Saad\" ص"
 surah: 38 / 114
 surah_name: "The Letter \"Saad\" / ص / صٓ"
 transliteration: "Sad"

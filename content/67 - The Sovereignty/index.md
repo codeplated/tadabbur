@@ -1,4 +1,5 @@
 ---
+title: "67 - The Sovereignty الملك"
 surah: 67 / 114
 surah_name: "The Sovereignty / الملك / ملک"
 transliteration: "Al-Mulk"

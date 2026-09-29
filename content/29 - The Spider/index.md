@@ -1,4 +1,5 @@
 ---
+title: "29 - The Spider العنكبوت"
 surah: 29 / 114
 surah_name: "The Spider / العنكبوت / مکڑی"
 transliteration: "Al-'Ankabut"

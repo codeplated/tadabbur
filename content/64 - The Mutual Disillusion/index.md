@@ -1,4 +1,5 @@
 ---
+title: "64 - The Mutual Disillusion التغابن"
 surah: 64 / 114
 surah_name: "The Mutual Disillusion / التغابن / ہار جیت"
 transliteration: "At-Taghabun"

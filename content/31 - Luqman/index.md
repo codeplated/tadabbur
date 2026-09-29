@@ -1,4 +1,5 @@
 ---
+title: "31 - Luqman لقمان"
 surah: 31 / 114
 surah_name: "Luqman / لقمان / لقمان"
 transliteration: "Luqman"

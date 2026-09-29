@@ -377,6 +377,82 @@ article {
   }
 }
 
+// ── Ayah Next / Prev buttons ────────────────────────────────────────────────
+// Under the recitation the generator writes the player, then a Next link, then
+// a Prev link, all in one paragraph, with an empty <span> standing in for
+// whichever neighbour an ayah lacks. So the paragraph's children are always
+// player, Next slot, Prev slot, and the buttons can be told apart by position.
+// Next sits on the left with its arrow after it, Prev on the right with its
+// arrow before it: "Next 11:8 >   < Prev 11:6".
+$chevron-left: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M15 18l-6-6 6-6'/%3E%3C/svg%3E";
+$chevron-right: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9 18l6-6-6-6'/%3E%3C/svg%3E";
+
+article h2[id^="recitation"] + p {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 0.3rem 0.5rem;
+
+  // Full width, as base.scss has it; a replaced element in a grid otherwise
+  // shrinks to its intrinsic 300px. The fixed height is for Firefox, which
+  // scales the player's height with its width and pads the controls with
+  // empty space above and below.
+  > audio {
+    grid-column: 1 / -1;
+    display: block;
+    width: 100%;
+    height: var(--tap-target);
+    margin: 0;
+  }
+
+  > :nth-child(2) {
+    justify-self: start;
+  }
+
+  > :nth-child(3) {
+    justify-self: end;
+  }
+
+  > a.internal {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    min-height: var(--tap-target);
+    padding: 0 0.85rem;
+    border: 1px solid var(--lightgray);
+    border-radius: var(--radius);
+    background: none;
+    font-weight: 600;
+    white-space: nowrap;
+
+    &:hover,
+    &:active {
+      border-color: var(--tertiary);
+    }
+  }
+
+  > a.internal:nth-child(2)::after,
+  > a.internal:nth-child(3)::before {
+    content: "";
+    width: 1.1em;
+    height: 1.1em;
+    background: currentColor;
+    mask: url($chevron-right) center / contain no-repeat;
+  }
+
+  > a.internal:nth-child(3)::before {
+    mask-image: url($chevron-left);
+  }
+
+  > a.internal:nth-child(2) {
+    padding-right: 0.55rem;
+  }
+
+  > a.internal:nth-child(3) {
+    padding-left: 0.55rem;
+  }
+}
+
 // Logo above the site title, drawn with masks so it takes the theme colors.
 // The shapes mirror quartz/static/logo.svg: the book on its rahl stand is
 // one layer, the crescent and star another, so each can move on hover.
@@ -950,9 +1026,9 @@ $logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewB
     }
   }
 
-  // Previous / next between ayaat, under Recitation and again at the foot of
-  // the note. This is how a reader moves through a surah.
-  article :is(h2#recitation, h2#connections) + :is(p, ul) a.internal {
+  // Previous / next between ayaat at the foot of the note. The ones under the
+  // recitation are full buttons already (see "Ayah Next / Prev buttons").
+  article h2#connections + ul a.internal {
     display: inline-flex;
     align-items: center;
     min-height: 2.35rem;

@@ -1,4 +1,5 @@
 ---
+title: "104 - The Traducer الهمزة"
 surah: 104 / 114
 surah_name: "The Traducer / الهمزة / عیب لگانے والا"
 transliteration: "Al-Humazah"

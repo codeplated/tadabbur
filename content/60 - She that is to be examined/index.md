@@ -1,4 +1,5 @@
 ---
+title: "60 - She that is to be examined الممتحنة"
 surah: 60 / 114
 surah_name: "She that is to be examined / الممتحنة / امتحان لی جانے والی"
 transliteration: "Al-Mumtahanah"

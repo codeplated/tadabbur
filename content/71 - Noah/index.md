@@ -1,4 +1,5 @@
 ---
+title: "71 - Noah نوح"
 surah: 71 / 114
 surah_name: "Noah / نوح / نوح"
 transliteration: "Nuh"

@@ -1,4 +1,5 @@
 ---
+title: "40 - The Forgiver غافر"
 surah: 40 / 114
 surah_name: "The Forgiver / غافر / بخشنے والا"
 transliteration: "Ghafir"

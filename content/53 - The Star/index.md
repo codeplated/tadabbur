@@ -1,4 +1,5 @@
 ---
+title: "53 - The Star النجم"
 surah: 53 / 114
 surah_name: "The Star / النجم / ستارہ"
 transliteration: "An-Najm"

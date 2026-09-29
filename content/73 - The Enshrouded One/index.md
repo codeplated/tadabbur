@@ -1,4 +1,5 @@
 ---
+title: "73 - The Enshrouded One المزمل"
 surah: 73 / 114
 surah_name: "The Enshrouded One / المزمل / کپڑا لپیٹنے والا"
 transliteration: "Al-Muzzammil"

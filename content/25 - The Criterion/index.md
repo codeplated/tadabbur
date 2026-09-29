@@ -1,4 +1,5 @@
 ---
+title: "25 - The Criterion الفرقان"
 surah: 25 / 114
 surah_name: "The Criterion / الفرقان / صحیح اور غلط میں فرق کرنے والی کتاب"
 transliteration: "Al-Furqan"

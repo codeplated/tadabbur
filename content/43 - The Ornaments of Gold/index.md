@@ -1,4 +1,5 @@
 ---
+title: "43 - The Ornaments of Gold الزخرف"
 surah: 43 / 114
 surah_name: "The Ornaments of Gold / الزخرف / سونے کی چمک"
 transliteration: "Az-Zukhruf"

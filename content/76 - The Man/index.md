@@ -1,4 +1,5 @@
 ---
+title: "76 - The Man الانسان"
 surah: 76 / 114
 surah_name: "The Man / الانسان / انسان"
 transliteration: "Al-Insan"

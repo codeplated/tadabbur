@@ -1,4 +1,5 @@
 ---
+title: "70 - The Ascending Stairways المعارج"
 surah: 70 / 114
 surah_name: "The Ascending Stairways / المعارج / عروج"
 transliteration: "Al-Ma'arij"

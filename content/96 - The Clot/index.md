@@ -1,4 +1,5 @@
 ---
+title: "96 - The Clot العلق"
 surah: 96 / 114
 surah_name: "The Clot / العلق / جما ہوا خون"
 transliteration: "Al-'Alaq"

@@ -1,4 +1,5 @@
 ---
+title: "112 - The Sincerity الإخلاص"
 surah: 112 / 114
 surah_name: "The Sincerity / الإخلاص / اخلاص"
 transliteration: "Al-Ikhlas"

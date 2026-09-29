@@ -1,4 +1,5 @@
 ---
+title: "92 - The Night الليل"
 surah: 92 / 114
 surah_name: "The Night / الليل / رات"
 transliteration: "Al-Layl"

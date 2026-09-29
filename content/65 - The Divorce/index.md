@@ -1,4 +1,5 @@
 ---
+title: "65 - The Divorce الطلاق"
 surah: 65 / 114
 surah_name: "The Divorce / الطلاق / طلاق"
 transliteration: "At-Talaq"

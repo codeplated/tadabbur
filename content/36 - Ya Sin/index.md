@@ -1,4 +1,5 @@
 ---
+title: "36 - Ya Sin يس"
 surah: 36 / 114
 surah_name: "Ya Sin / يس / یٰسٓ"
 transliteration: "Ya-Sin"

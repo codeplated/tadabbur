@@ -1,4 +1,5 @@
 ---
+title: "69 - The Reality الحاقة"
 surah: 69 / 114
 surah_name: "The Reality / الحاقة / حق ہونے والی"
 transliteration: "Al-Haqqah"

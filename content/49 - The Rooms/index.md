@@ -1,4 +1,5 @@
 ---
+title: "49 - The Rooms الحجرات"
 surah: 49 / 114
 surah_name: "The Rooms / الحجرات / حجرے"
 transliteration: "Al-Hujurat"

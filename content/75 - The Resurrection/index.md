@@ -1,4 +1,5 @@
 ---
+title: "75 - The Resurrection القيامة"
 surah: 75 / 114
 surah_name: "The Resurrection / القيامة / قیامۃ"
 transliteration: "Al-Qiyamah"

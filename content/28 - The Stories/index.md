@@ -1,4 +1,5 @@
 ---
+title: "28 - The Stories القصص"
 surah: 28 / 114
 surah_name: "The Stories / القصص / قصے"
 transliteration: "Al-Qasas"

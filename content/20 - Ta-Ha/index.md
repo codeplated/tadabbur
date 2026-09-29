@@ -1,4 +1,5 @@
 ---
+title: "20 - Ta-Ha طه"
 surah: 20 / 114
 surah_name: "Ta-Ha / طه / طٰہٰ"
 transliteration: "Taha"

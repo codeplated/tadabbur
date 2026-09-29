@@ -1,4 +1,5 @@
 ---
+title: "95 - The Fig التين"
 surah: 95 / 114
 surah_name: "The Fig / التين / انجیر"
 transliteration: "At-Tin"

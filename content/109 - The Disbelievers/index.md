@@ -1,4 +1,5 @@
 ---
+title: "109 - The Disbelievers الكافرون"
 surah: 109 / 114
 surah_name: "The Disbelievers / الكافرون / کافرین"
 transliteration: "Al-Kafirun"

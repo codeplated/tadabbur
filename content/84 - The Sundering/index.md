@@ -1,4 +1,5 @@
 ---
+title: "84 - The Sundering الإنشقاق"
 surah: 84 / 114
 surah_name: "The Sundering / الإنشقاق / پھٹنا"
 transliteration: "Al-Inshiqaq"

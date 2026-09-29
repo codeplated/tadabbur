@@ -1,4 +1,5 @@
 ---
+title: "45 - The Crouching الجاثية"
 surah: 45 / 114
 surah_name: "The Crouching / الجاثية / زانوٗوں کے بل گری ہوئی"
 transliteration: "Al-Jathiyah"

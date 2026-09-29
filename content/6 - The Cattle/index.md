@@ -1,4 +1,5 @@
 ---
+title: "6 - The Cattle الأنعام"
 surah: 6 / 114
 surah_name: "The Cattle / الأنعام / مویشی"
 transliteration: "Al-An'am"

@@ -1,4 +1,5 @@
 ---
+title: "19 - Mary مريم"
 surah: 19 / 114
 surah_name: "Mary / مريم / مریم"
 transliteration: "Maryam"

@@ -1,4 +1,5 @@
 ---
+title: "42 - The Consultation الشورى"
 surah: 42 / 114
 surah_name: "The Consultation / الشورى / شورٰی"
 transliteration: "Ash-Shuraa"

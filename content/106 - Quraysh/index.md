@@ -1,4 +1,5 @@
 ---
+title: "106 - Quraysh قريش"
 surah: 106 / 114
 surah_name: "Quraysh / قريش / قریش"
 transliteration: "Quraysh"

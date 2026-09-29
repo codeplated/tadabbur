@@ -1,4 +1,5 @@
 ---
+title: "100 - The Courser العاديات"
 surah: 100 / 114
 surah_name: "The Courser / العاديات / دوڑنے والے گھوڑے"
 transliteration: "Al-'Adiyat"

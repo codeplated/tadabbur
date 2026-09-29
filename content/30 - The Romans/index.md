@@ -1,4 +1,5 @@
 ---
+title: "30 - The Romans الروم"
 surah: 30 / 114
 surah_name: "The Romans / الروم / روم"
 transliteration: "Ar-Rum"

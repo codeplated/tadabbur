@@ -1,4 +1,5 @@
 ---
+title: "7 - The Heights الأعراف"
 surah: 7 / 114
 surah_name: "The Heights / الأعراف / اونچی جگہ"
 transliteration: "Al-A'raf"

@@ -1,4 +1,5 @@
 ---
+title: "91 - The Sun الشمس"
 surah: 91 / 114
 surah_name: "The Sun / الشمس / آفتاب"
 transliteration: "Ash-Shams"

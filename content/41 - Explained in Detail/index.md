@@ -1,4 +1,5 @@
 ---
+title: "41 - Explained in Detail فصلت"
 surah: 41 / 114
 surah_name: "Explained in Detail / فصلت / مفصل"
 transliteration: "Fussilat"

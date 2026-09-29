@@ -1,4 +1,5 @@
 ---
+title: "89 - The Dawn الفجر"
 surah: 89 / 114
 surah_name: "The Dawn / الفجر / فجر"
 transliteration: "Al-Fajr"

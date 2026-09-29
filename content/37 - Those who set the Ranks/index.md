@@ -1,4 +1,5 @@
 ---
+title: "37 - Those who set the Ranks الصافات"
 surah: 37 / 114
 surah_name: "Those who set the Ranks / الصافات / صف باندھنے والے"
 transliteration: "As-Saffat"

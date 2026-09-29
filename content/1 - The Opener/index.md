@@ -1,4 +1,5 @@
 ---
+title: "1 - The Opener الفاتحة"
 surah: 1 / 114
 surah_name: "The Opener / الفاتحة / کھولنے والی"
 transliteration: "Al-Fatihah"

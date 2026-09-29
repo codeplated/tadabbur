@@ -1,4 +1,5 @@
 ---
+title: "77 - The Emissaries المرسلات"
 surah: 77 / 114
 surah_name: "The Emissaries / المرسلات / بھیجی جانے والی ہوائیں"
 transliteration: "Al-Mursalat"

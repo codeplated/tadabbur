@@ -1,4 +1,5 @@
 ---
+title: "110 - The Divine Support النصر"
 surah: 110 / 114
 surah_name: "The Divine Support / النصر / نصرت"
 transliteration: "An-Nasr"

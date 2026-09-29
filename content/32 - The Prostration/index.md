@@ -1,4 +1,5 @@
 ---
+title: "32 - The Prostration السجدة"
 surah: 32 / 114
 surah_name: "The Prostration / السجدة / سجدہ"
 transliteration: "As-Sajdah"

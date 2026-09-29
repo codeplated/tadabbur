@@ -1,4 +1,5 @@
 ---
+title: "50 - The Letter \"Qaf\" ق"
 surah: 50 / 114
 surah_name: "The Letter \"Qaf\" / ق / قٓ"
 transliteration: "Qaf"

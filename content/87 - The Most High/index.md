@@ -1,4 +1,5 @@
 ---
+title: "87 - The Most High الأعلى"
 surah: 87 / 114
 surah_name: "The Most High / الأعلى / اعلی"
 transliteration: "Al-A'la"

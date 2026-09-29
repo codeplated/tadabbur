@@ -1,39 +1,39 @@
-**Tadabbur** (تدبّر) means to reflect deeply, to ponder — the kind of unhurried reading the Quran itself calls its readers to:
+**Tadabbur** (تدبّر) means reflecting deeply on the Quran: reading it slowly, pondering its meaning and taking its lessons to heart. It is the kind of reading the Quran itself asks of us:
 
-> “Then do they not reflect upon (yatadabbaroon) the Quran, or are there locks upon [their] hearts?” — [[47_24|Quran 47:24]]
+> “Then do they not reflect upon (yatadabbaroon) the Quran, or are there locks upon [their] hearts?” ([[47_24|Quran 47:24]])
 
-This site is a structured companion for that reflection: every ayah of all 114 surahs, laid out with recitation audio, Arabic text, Urdu and English translation, and cross-linked by theme — so you can move from a single verse to everywhere else in the Quran that verse’s ideas appear.
+This site is a structured companion for that reflection. It covers all 114 surahs and gives every ayah its Arabic text, English and Urdu translations, Urdu tafsir by Dr. Israr Ahmad and Maulana Wahiduddin Khan, and recitation audio. Each ayah is also tagged by theme, so from any single verse you can follow its ideas to every other place they appear in the Quran.
 
 # The General Topics of the Quran
 
-*Notes* counts how many notes carry each tag — ayaat plus the personality and Name of Allah notes that share it.
+*Notes* is the number of notes that carry each tag: the ayaat, plus any personality or Name of Allah notes that share it.
 
 ### Belief
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 1 | **Tawheed** توحید | [#tawheed](tags/tawheed) | 407 | Oneness of Allah — His lordship, sole right to worship & uniqueness |
+| 1 | **Tawheed** توحید | [#tawheed](tags/tawheed) | 407 | Oneness of Allah: His lordship, His uniqueness & His sole right to worship |
 | 2 | **Asma ul Husna** اسماء الحسنیٰ | [#asma_ul_husna](tags/asma_ul_husna) | 241 | Names & attributes of Allah |
 | 3 | **Mercy & Forgiveness** رحمت و مغفرت | [#rahmah](tags/rahmah) | 306 | Allah's vast mercy, forgiveness & kindness to His servants |
 | 4 | **Iman** ایمان | [#iman](tags/iman) | 364 | Faith, its pillars & the qualities of true believers |
-| 5 | **Shirk** شرک | [#shirk](tags/shirk) | 369 | Associating partners with Allah — idols, false gods & their refutation |
+| 5 | **Shirk** شرک | [#shirk](tags/shirk) | 369 | Associating partners with Allah: idols, false gods & their refutation |
 | 6 | **Kufr** کفر | [#kufr](tags/kufr) | 744 | Disbelief, denial of the truth & the attitudes of the disbelievers |
-| 7 | **Nifaq** نفاق | [#nifaq](tags/nifaq) | 160 | Hypocrisy — the hypocrites' traits, schemes & exposure |
-| 8 | **Guidance** ہدایت و ضلالت | [#hidayah](tags/hidayah) | 342 | Guidance & misguidance — how and why hearts are guided or led astray |
+| 7 | **Nifaq** نفاق | [#nifaq](tags/nifaq) | 160 | Hypocrisy: the hypocrites' traits, schemes & exposure |
+| 8 | **Guidance** ہدایت و ضلالت | [#hidayah](tags/hidayah) | 342 | Guidance & misguidance: how and why hearts are guided or led astray |
 | 9 | **Qadr** تقدیر | [#qadr](tags/qadr) | 300 | Divine decree, Allah's will & destiny |
-| 10 | **Prophethood** نبوت و رسالت | [#prophethood](tags/prophethood) | 259 | The messengers — their mission, humanity & belief in all of them |
-| 11 | **Revelation** وحی و کتب | [#revelation](tags/revelation) | 446 | Wahy — the Quran's divine origin, earlier scriptures & the challenge to imitate it |
-| 12 | **Angels** ملائکہ | [#angels](tags/angels) | 188 | Angels — their nature, duties & the unseen world |
-| 13 | **Jinn** جنات | [#jinn](tags/jinn) | 53 | The jinn — their creation, believers & disbelievers among them |
-| 14 | **Shaytan** شیطان | [#shaytan](tags/shaytan) | 156 | Iblis & the devils — enmity, whispers, deception & magic |
+| 10 | **Prophethood** نبوت و رسالت | [#prophethood](tags/prophethood) | 259 | The messengers: their mission, their humanity & belief in all of them |
+| 11 | **Revelation** وحی و کتب | [#revelation](tags/revelation) | 446 | Wahy: the Quran's divine origin, earlier scriptures & the challenge to imitate it |
+| 12 | **Angels** ملائکہ | [#angels](tags/angels) | 188 | Angels: their nature, duties & the unseen world |
+| 13 | **Jinn** جنات | [#jinn](tags/jinn) | 53 | The jinn: their creation, and the believers & disbelievers among them |
+| 14 | **Shaytan** شیطان | [#shaytan](tags/shaytan) | 156 | Iblis & the devils: enmity, whispers, deception & magic |
 
 ### Hereafter
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
 | 15 | **Death & the Grave** موت و برزخ | [#death_reminder](tags/death_reminder) | 145 | Death, the barzakh & preparing to meet Allah |
-| 16 | **Resurrection** بعث بعد الموت | [#resurrection](tags/resurrection) | 183 | Life after death — its proofs & answers to those who deny it |
+| 16 | **Resurrection** بعث بعد الموت | [#resurrection](tags/resurrection) | 183 | Life after death: its proofs & the answers to those who deny it |
 | 17 | **Akhirah & Judgment Day** آخرت و یوم الحساب | [#akhirah](tags/akhirah) | 811 | The Hour, the Day of Judgment, reckoning, scales & intercession |
-| 18 | **Jannah** جنت | [#jannah](tags/jannah) | 313 | Paradise — its gardens, delights & people |
-| 19 | **Jahannam** جہنم | [#jahannam](tags/jahannam) | 391 | Hell — its punishment & its people |
+| 18 | **Jannah** جنت | [#jannah](tags/jannah) | 313 | Paradise: its gardens, delights & people |
+| 19 | **Jahannam** جہنم | [#jahannam](tags/jahannam) | 391 | Hell: its punishment & its people |
 
 ### Prophets
 | # | Topic | Tag | Notes | Description |
@@ -43,14 +43,14 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 | 22 | **Prophet Nuh** نوح علیہ السلام | [#story_nuh](tags/story_nuh) | 115 | Centuries of da'wah, the ark & the flood |
 | 23 | **Prophet Hud** ہود علیہ السلام | [#story_hud](tags/story_hud) | 59 | The people of 'Ad, their might & the destroying wind |
 | 24 | **Prophet Salih** صالح علیہ السلام | [#story_salih](tags/story_salih) | 72 | Thamud, the she-camel & the mighty blast |
-| 25 | **Prophet Ibrahim** ابراہیم علیہ السلام | [#story_ibrahim](tags/story_ibrahim) | 173 | Khalilullah — breaking the idols, the fire, the sacrifice & the Kaaba |
+| 25 | **Prophet Ibrahim** ابراہیم علیہ السلام | [#story_ibrahim](tags/story_ibrahim) | 173 | Khalilullah: breaking the idols, the fire, the sacrifice & the Kaaba |
 | 26 | **Prophet Lut** لوط علیہ السلام | [#story_lut](tags/story_lut) | 87 | The people of Lut, their indecency & the overturned cities |
 | 27 | **Prophet Ismail** اسماعیل علیہ السلام | [#story_ismail](tags/story_ismail) | 16 | The sacrifice, raising the Kaaba & true to his promise |
 | 28 | **Prophet Ishaq** اسحاق علیہ السلام | [#story_ishaq](tags/story_ishaq) | 16 | Glad tidings of a son to Ibrahim & Sarah in old age |
 | 29 | **Prophet Yaqub** یعقوب علیہ السلام | [#story_yaqub](tags/story_yaqub) | 29 | Beautiful patience in grief & his final counsel to his sons |
 | 30 | **Prophet Yusuf** یوسف علیہ السلام | [#story_yusuf](tags/story_yusuf) | 103 | The dream, the well, the prison, the palace & forgiveness |
 | 31 | **Prophet Ayyub** ایوب علیہ السلام | [#story_ayyub](tags/story_ayyub) | 7 | Illness, loss & patience rewarded |
-| 32 | **Prophet Shuayb** شعیب علیہ السلام | [#story_shuayb](tags/story_shuayb) | 41 | Madyan & Aykah — full measure & honest trade |
+| 32 | **Prophet Shuayb** شعیب علیہ السلام | [#story_shuayb](tags/story_shuayb) | 41 | Madyan & Aykah: full measure & honest trade |
 | 33 | **Prophet Musa** موسیٰ علیہ السلام | [#story_musa](tags/story_musa) | 413 | Pharaoh, the exodus, the Torah & the journey with Khidr |
 | 34 | **Prophet Harun** ہارون علیہ السلام | [#story_harun](tags/story_harun) | 42 | Musa's brother, minister & fellow messenger |
 | 35 | **Prophet Dhul-Kifl** ذوالکفل علیہ السلام | [#story_dhulkifl](tags/story_dhulkifl) | 3 | Among the patient & the best |
@@ -59,8 +59,8 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 | 38 | **Prophet Ilyas** الیاس علیہ السلام | [#story_ilyas](tags/story_ilyas) | 11 | Calling his people away from the idol Ba'l |
 | 39 | **Prophet Al-Yasa** الیسع علیہ السلام | [#story_alyasa](tags/story_alyasa) | 2 | Among the chosen & the best |
 | 40 | **Prophet Yunus** یونس علیہ السلام | [#story_yunus](tags/story_yunus) | 18 | Leaving his people, the whale, the dua in the darkness & mercy |
-| 41 | **Prophet Zakariya** زکریا علیہ السلام | [#story_zakariya](tags/story_zakariya) | 19 | Guardian of Maryam — a quiet dua answered with Yahya |
-| 42 | **Prophet Yahya** یحییٰ علیہ السلام | [#story_yahya](tags/story_yahya) | 8 | Given wisdom as a child — chaste, dutiful & at peace |
+| 41 | **Prophet Zakariya** زکریا علیہ السلام | [#story_zakariya](tags/story_zakariya) | 19 | Guardian of Maryam, whose quiet dua was answered with Yahya |
+| 42 | **Prophet Yahya** یحییٰ علیہ السلام | [#story_yahya](tags/story_yahya) | 8 | Given wisdom as a child: chaste, dutiful & at peace |
 | 43 | **Prophet Isa** عیسیٰ علیہ السلام | [#story_isa](tags/story_isa) | 61 | Miraculous birth, miracles, the disciples & being raised |
 | 44 | **Prophet Muhammad ﷺ** محمد ﷺ | [#story_muhammad](tags/story_muhammad) | 288 | His life, mission, character & rights over the believers |
 
@@ -71,28 +71,28 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 | 46 | **Luqman** لقمان | [#story_luqman](tags/story_luqman) | 7 | Luqman's wise counsel to his son |
 | 47 | **Dhul-Qarnayn** ذوالقرنین | [#story_dhulqarnayn](tags/story_dhulqarnayn) | 19 | A just ruler's journeys, the barrier & Ya'juj and Ma'juj |
 | 48 | **People of the Cave** اصحاب کہف | [#story_ashab_al_kahf](tags/story_ashab_al_kahf) | 17 | Youths who fled with their faith & slept for centuries |
-| 49 | **Bani Israil** بنی اسرائیل | [#story_bani_israil](tags/story_bani_israil) | 134 | Children of Israel — favours, covenants, the calf, the cow & the Sabbath |
+| 49 | **Bani Israil** بنی اسرائیل | [#story_bani_israil](tags/story_bani_israil) | 134 | Children of Israel: favours, covenants, the calf, the cow & the Sabbath |
 
 ### Seerah
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 50 | **Sahabah** صحابہ کرام | [#sahabah](tags/sahabah) | 24 | The Companions — Muhajirun, Ansar & their virtues |
-| 51 | **Prophet's Household** اہل بیت و ازواج مطہرات | [#prophets_household](tags/prophets_household) | 22 | The Prophet's ﷺ wives & family — the Mothers of the Believers |
-| 52 | **Hijrah** ہجرت | [#hijrah](tags/hijrah) | 32 | Migrating for Allah's sake — Makkah to Madinah & its reward |
+| 50 | **Sahabah** صحابہ کرام | [#sahabah](tags/sahabah) | 24 | The Companions: Muhajirun, Ansar & their virtues |
+| 51 | **Prophet's Household** اہل بیت و ازواج مطہرات | [#prophets_household](tags/prophets_household) | 22 | The Prophet's ﷺ wives & family, the Mothers of the Believers |
+| 52 | **Hijrah** ہجرت | [#hijrah](tags/hijrah) | 32 | Migrating for Allah's sake, from Makkah to Madinah, and its reward |
 | 53 | **Isra & Mi'raj** اسراء و معراج | [#isra_miraj](tags/isra_miraj) | 17 | The Night Journey & the Ascension |
-| 54 | **Battle of Badr** غزوۂ بدر | [#battle_badr](tags/battle_badr) | 32 | The Day of Criterion — 2 AH |
-| 55 | **Battle of Uhud** غزوۂ احد | [#battle_uhud](tags/battle_uhud) | 22 | Victory, disobedience & lessons in setback — 3 AH |
-| 56 | **Battle of the Trench** غزوۂ احزاب | [#battle_ahzab](tags/battle_ahzab) | 18 | The Confederates' siege of Madinah — 5 AH |
-| 57 | **Treaty of Hudaybiyah** صلح حدیبیہ | [#treaty_hudaybiyah](tags/treaty_hudaybiyah) | 14 | The pledge under the tree & the clear victory — 6 AH |
-| 58 | **Battle of Hunayn** غزوۂ حنین | [#battle_hunayn](tags/battle_hunayn) | 3 | When great numbers impressed them — 8 AH |
-| 59 | **Expedition of Tabuk** غزوۂ تبوک | [#expedition_tabuk](tags/expedition_tabuk) | 19 | Hardship, excuses & the three who stayed behind — 9 AH |
+| 54 | **Battle of Badr** غزوۂ بدر | [#battle_badr](tags/battle_badr) | 32 | The Day of Criterion (2 AH) |
+| 55 | **Battle of Uhud** غزوۂ احد | [#battle_uhud](tags/battle_uhud) | 22 | Victory, disobedience & lessons in setback (3 AH) |
+| 56 | **Battle of the Trench** غزوۂ احزاب | [#battle_ahzab](tags/battle_ahzab) | 18 | The Confederates' siege of Madinah (5 AH) |
+| 57 | **Treaty of Hudaybiyah** صلح حدیبیہ | [#treaty_hudaybiyah](tags/treaty_hudaybiyah) | 14 | The pledge under the tree & the clear victory (6 AH) |
+| 58 | **Battle of Hunayn** غزوۂ حنین | [#battle_hunayn](tags/battle_hunayn) | 3 | When great numbers impressed them (8 AH) |
+| 59 | **Expedition of Tabuk** غزوۂ تبوک | [#expedition_tabuk](tags/expedition_tabuk) | 19 | Hardship, excuses & the three who stayed behind (9 AH) |
 | 60 | **The Slander (Ifk)** واقعۂ افک | [#incident_ifk](tags/incident_ifk) | 12 | The slander against Aisha & its lessons |
 
 ### Worship
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 61 | **Salah** نماز | [#salah](tags/salah) | 127 | Prayer — its importance, times & manner |
-| 62 | **Taharah** طہارت | [#taharah](tags/taharah) | 13 | Purification — wudu, ghusl & tayammum |
+| 61 | **Salah** نماز | [#salah](tags/salah) | 127 | Prayer: its importance, times & manner |
+| 62 | **Taharah** طہارت | [#taharah](tags/taharah) | 13 | Purification: wudu, ghusl & tayammum |
 | 63 | **Zakat & Sadaqah** زکوٰۃ و صدقہ | [#zakat](tags/zakat) | 122 | Obligatory charity, voluntary giving & spending in Allah's way |
 | 64 | **Sawm** روزہ | [#sawm](tags/sawm) | 9 | Fasting & Ramadan |
 | 65 | **Hajj & Umrah** حج و عمرہ | [#hajj](tags/hajj) | 37 | Pilgrimage, its rites & sacrifice |
@@ -105,43 +105,43 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 ### Character
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 71 | **Sabr** صبر | [#sabr](tags/sabr) | 128 | Patience & steadfastness — in hardship, in obedience & against sin |
-| 72 | **Jihad & Striving** جہاد و جدوجہد | [#jihad](tags/jihad) | 28 | Exertion in Allah's way — with the self, wealth, tongue & the Quran |
-| 73 | **Shukr** شکر | [#shukr](tags/shukr) | 196 | Gratitude for Allah's blessings — and the ingratitude of man |
+| 71 | **Sabr** صبر | [#sabr](tags/sabr) | 128 | Patience & steadfastness in hardship, in obedience & against sin |
+| 72 | **Jihad & Striving** جہاد و جدوجہد | [#jihad](tags/jihad) | 28 | Exertion in Allah's way with the self, wealth, tongue & the Quran |
+| 73 | **Shukr** شکر | [#shukr](tags/shukr) | 196 | Gratitude for Allah's blessings, and the ingratitude of man |
 | 74 | **Tawakkul** توکل | [#tawakkul](tags/tawakkul) | 144 | Reliance & trust in Allah |
 | 75 | **Ikhlas** اخلاص | [#ikhlas](tags/ikhlas) | 89 | Sincerity of intention & avoiding showing off |
 | 76 | **Taqwa** تقویٰ | [#taqwa](tags/taqwa) | 299 | God-consciousness, piety & awe of Allah |
 | 77 | **Ihsan** احسان | [#ihsan](tags/ihsan) | 115 | Excellence, goodness & kindness in action |
-| 78 | **Sidq** صدق | [#sidq](tags/sidq) | 144 | Truthfulness in word & deed — and the evil of lying |
+| 78 | **Sidq** صدق | [#sidq](tags/sidq) | 144 | Truthfulness in word & deed, and the evil of lying |
 | 79 | **Amanah & Promises** امانت و عہد | [#amanah](tags/amanah) | 121 | Trusts, promises, oaths & covenants |
-| 80 | **Adl** عدل | [#adl](tags/adl) | 176 | Justice & fairness — in judgment, testimony & dealings |
+| 80 | **Adl** عدل | [#adl](tags/adl) | 176 | Justice & fairness in judgment, testimony & dealings |
 | 81 | **Hilm & Afw** حلم و عفو | [#hilm](tags/hilm) | 39 | Forbearance, restraining anger & forgiving others |
 | 82 | **Arrogance & Humility** تکبر و عاجزی | [#kibr](tags/kibr) | 206 | Pride as a disease of the heart & the humility Allah loves |
 | 83 | **Hasad** حسد | [#hasad](tags/hasad) | 24 | Envy & jealousy |
 | 84 | **Haya** حیا و عفت | [#haya](tags/haya) | 80 | Modesty, chastity & hijab |
-| 85 | **Ethics of Speech** زبان کے آداب | [#speech_ethics](tags/speech_ethics) | 133 | Good words — and backbiting, mockery, slander & idle talk |
-| 86 | **Adab** آداب | [#adab](tags/adab) | 56 | Manners — greetings, seeking permission, gatherings & conduct |
+| 85 | **Ethics of Speech** زبان کے آداب | [#speech_ethics](tags/speech_ethics) | 133 | Good words, and the evils of backbiting, mockery, slander & idle talk |
+| 86 | **Adab** آداب | [#adab](tags/adab) | 56 | Manners: greetings, seeking permission, gatherings & conduct |
 
 ### Spirit
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 87 | **Tazkiyah** تزکیۂ نفس | [#tazkiyah](tags/tazkiyah) | 128 | Purifying the soul — the nafs, desires & hearts sealed or softened |
-| 88 | **Dunya** دنیا | [#dunya](tags/dunya) | 187 | The worldly life — its reality, allure & heedlessness |
-| 89 | **Purpose of Life** مقصدِ حیات | [#purpose_of_life](tags/purpose_of_life) | 27 | Why we exist — worship, vicegerency & the test |
+| 87 | **Tazkiyah** تزکیۂ نفس | [#tazkiyah](tags/tazkiyah) | 128 | Purifying the soul: the nafs, desires & hearts sealed or softened |
+| 88 | **Dunya** دنیا | [#dunya](tags/dunya) | 187 | The worldly life: its reality, allure & heedlessness |
+| 89 | **Purpose of Life** مقصدِ حیات | [#purpose_of_life](tags/purpose_of_life) | 27 | Why we exist: worship, vicegerency & the test |
 | 90 | **Love of Allah** محبتِ الٰہی | [#love_of_allah](tags/love_of_allah) | 52 | Whom Allah loves, whom He does not & loving Him |
 | 91 | **Hope & Raja** امید | [#hope_raja](tags/hope_raja) | 62 | Hope in Allah & never despairing of His mercy |
 | 92 | **Anxiety, Fear & Sakinah** خوف و سکینت | [#anxiety_fear](tags/anxiety_fear) | 96 | Worry, fear & finding tranquility of heart |
 | 93 | **Grief & Loss** غم | [#grief_loss](tags/grief_loss) | 34 | Sorrow, loss & consolation |
-| 94 | **Trials & Tests** آزمائش | [#trial_test](tags/trial_test) | 118 | Why hardship & ease come — the tests of this life |
+| 94 | **Trials & Tests** آزمائش | [#trial_test](tags/trial_test) | 118 | Why hardship & ease come: the tests of this life |
 
 ### Life
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
-| 95 | **Rizq** رزق | [#rizq](tags/rizq) | 183 | Sustenance & provision — Allah as the Provider |
-| 96 | **Wealth & Spending** مال و خرچ | [#wealth](tags/wealth) | 114 | Earning & spending — hoarding, stinginess & extravagance |
+| 95 | **Rizq** رزق | [#rizq](tags/rizq) | 183 | Sustenance & provision, with Allah as the Provider |
+| 96 | **Wealth & Spending** مال و خرچ | [#wealth](tags/wealth) | 114 | Earning & spending: hoarding, stinginess & extravagance |
 | 97 | **Trade & Business** تجارت | [#trade](tags/trade) | 27 | Business ethics, contracts & fair measure |
 | 98 | **Debt & Loans** قرض | [#debt](tags/debt) | 6 | Lending, recording debts & easing the debtor |
-| 99 | **Riba** سود | [#riba](tags/riba) | 7 | Usury & interest — its prohibition & consequences |
+| 99 | **Riba** سود | [#riba](tags/riba) | 7 | Usury & interest: its prohibition & consequences |
 | 100 | **Time** وقت | [#time](tags/time) | 94 | Time, its value & the shortness of life |
 | 101 | **Knowledge & Wisdom** علم و حکمت | [#knowledge](tags/knowledge) | 315 | Seeking knowledge, wisdom, scholars & using reason |
 | 102 | **Health & Healing** صحت و شفا | [#health](tags/health) | 18 | The body, illness & healing |
@@ -165,12 +165,12 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 |---|-------|-----|-------|-------------|
 | 113 | **Ummah & Brotherhood** امت و اخوت | [#community](tags/community) | 70 | Unity, brotherhood & avoiding division |
 | 114 | **Alliances & Loyalty** ولاء و براء | [#wala_bara](tags/wala_bara) | 94 | Whom believers take as allies & protectors |
-| 115 | **People of the Book** اہلِ کتاب | [#ahl_al_kitab](tags/ahl_al_kitab) | 156 | Jews & Christians — dialogue, their claims & critique |
-| 116 | **Da'wah** دعوت و تبلیغ | [#dawah](tags/dawah) | 203 | Calling to Allah — enjoining good & forbidding evil |
+| 115 | **People of the Book** اہلِ کتاب | [#ahl_al_kitab](tags/ahl_al_kitab) | 156 | Jews & Christians: dialogue, their claims & critique |
+| 116 | **Da'wah** دعوت و تبلیغ | [#dawah](tags/dawah) | 203 | Calling to Allah: enjoining good & forbidding evil |
 | 117 | **Leadership & Authority** قیادت | [#leadership](tags/leadership) | 79 | Rulers, authority, obedience & responsibility |
 | 118 | **Shura** شوریٰ | [#shura](tags/shura) | 8 | Consultation & collective decision-making |
 | 119 | **Crime & Punishment** حدود و قصاص | [#criminal_law](tags/criminal_law) | 30 | Qisas, hudud & blood money |
-| 120 | **Oppression** ظلم | [#oppression](tags/oppression) | 167 | Dhulm — oppressors, the oppressed & standing against injustice |
+| 120 | **Oppression** ظلم | [#oppression](tags/oppression) | 167 | Dhulm: oppressors, the oppressed & standing against injustice |
 | 121 | **War, Ethics & Peace** جنگ و صلح | [#conflict](tags/conflict) | 143 | Fighting in Allah's way, its ethics, treaties & peacemaking |
 | 122 | **Social Justice** سماجی انصاف | [#social_justice](tags/social_justice) | 43 | Rights of the poor & needy, fair distribution & freeing slaves |
 | 123 | **Earth & Corruption** زمین و فساد | [#environment](tags/environment) | 29 | Stewardship of the earth & spreading corruption (fasad) in it |
@@ -179,10 +179,10 @@ This site is a structured companion for that reflection: every ayah of all 114 s
 | # | Topic | Tag | Notes | Description |
 |---|-------|-----|-------|-------------|
 | 124 | **Signs in Creation** قدرت کی نشانیاں | [#nature_signs](tags/nature_signs) | 408 | The heavens & earth, rain, plants, seas, night & day as signs of Allah |
-| 125 | **Creation of Mankind** تخلیقِ انسان | [#human_creation](tags/human_creation) | 153 | From clay & a drop — stages of creation & human nature |
+| 125 | **Creation of Mankind** تخلیقِ انسان | [#human_creation](tags/human_creation) | 153 | From clay & a drop: stages of creation & human nature |
 | 126 | **Animals** جانور | [#animals](tags/animals) | 82 | Cattle, bees, birds & other creatures & their lessons |
 | 127 | **Miracles** معجزات | [#miracles](tags/miracles) | 135 | Signs & miracles granted to the prophets |
-| 128 | **Lessons from History** تاریخ کے سبق | [#history_lessons](tags/history_lessons) | 350 | Past nations — their rise, destruction & what to learn |
+| 128 | **Lessons from History** تاریخ کے سبق | [#history_lessons](tags/history_lessons) | 350 | Past nations: their rise, destruction & what to learn |
 
 ### Meta
 | # | Topic | Tag | Notes | Description |

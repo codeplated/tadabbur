@@ -1,4 +1,5 @@
 ---
+title: "58 - The Pleading Woman المجادلة"
 surah: 58 / 114
 surah_name: "The Pleading Woman / المجادلة / جھگڑنے والی"
 transliteration: "Al-Mujadila"

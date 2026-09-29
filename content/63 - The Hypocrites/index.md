@@ -1,4 +1,5 @@
 ---
+title: "63 - The Hypocrites المنافقون"
 surah: 63 / 114
 surah_name: "The Hypocrites / المنافقون / منافقین"
 transliteration: "Al-Munafiqun"

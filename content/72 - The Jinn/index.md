@@ -1,4 +1,5 @@
 ---
+title: "72 - The Jinn الجن"
 surah: 72 / 114
 surah_name: "The Jinn / الجن / جن"
 transliteration: "Al-Jinn"

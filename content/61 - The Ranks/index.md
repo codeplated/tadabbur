@@ -1,4 +1,5 @@
 ---
+title: "61 - The Ranks الصف"
 surah: 61 / 114
 surah_name: "The Ranks / الصف / صف"
 transliteration: "As-Saf"

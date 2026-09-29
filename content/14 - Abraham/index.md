@@ -1,4 +1,5 @@
 ---
+title: "14 - Abraham ابراهيم"
 surah: 14 / 114
 surah_name: "Abraham / ابراهيم / ابراہیم"
 transliteration: "Ibrahim"

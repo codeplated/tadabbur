@@ -1,4 +1,5 @@
 ---
+title: "108 - The Abundance الكوثر"
 surah: 108 / 114
 surah_name: "The Abundance / الكوثر / جنت کی نہر"
 transliteration: "Al-Kawthar"

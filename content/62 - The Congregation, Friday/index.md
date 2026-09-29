@@ -1,4 +1,5 @@
 ---
+title: "62 - The Congregation, Friday الجمعة"
 surah: 62 / 114
 surah_name: "The Congregation, Friday / الجمعة / جمعہ"
 transliteration: "Al-Jumu'ah"

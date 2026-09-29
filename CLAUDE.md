@@ -67,15 +67,16 @@ and synced here. **Do not manually edit any file inside `/content`.**
 
 What this site expects from the generator:
 
-| Field / file                                                                                             | Used by                                          |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                          | tag-page patch (grouping, ordering, labels)      |
-| `index.md` in a folder — surah folders, `0 - Explore`, and its two subfolders                            | folder-page (it replaces the stock file listing) |
-| An `English` heading followed by the translation line                                                    | tag-page patch (ayah text on tag pages)          |
-| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                          | `Quran.base` card images                         |
-| `tags`                                                                                                   | tag-list, tag pages                              |
-| `0 - Explore/Quran.base` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number` | bases-page                                       |
-| `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                       | canvas-page                                      |
+| Field / file                                                                                                                | Used by                                                 |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                                             | tag-page patch (grouping, ordering, labels)             |
+| `index.md` in a folder — surah folders, `0 - Explore`, and its two subfolders                                               | folder-page (it replaces the stock file listing)        |
+| A heading containing the word `English` (e.g. `## English (Sahih International)`), then the translation                     | tag-page patch (ayah text on tag pages)                 |
+| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                             | `Quran.base` card images                                |
+| `tags`                                                                                                                      | tag-list, tag pages                                     |
+| `0 - Explore/Quran.base` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`                    | bases-page                                              |
+| `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                                          | canvas-page                                             |
+| Under `## Recitation (…)`: the player, then a Next link and a Prev link in one paragraph, `<span></span>` for a missing one | Next/Prev buttons in `custom.scss` (styled by position) |
 
 All other frontmatter fields are shown as-is in the properties box.
 
@@ -147,7 +148,7 @@ Existing patches:
   non-ayah pages (personalities, names) under "Related pages", after the
   ayaat — they used to come first, which on a phone put a couple of thousand
   pixels of secondary content ahead of the verses the tag is about. The
-  translation is the first line after the `English` heading, or frontmatter
+  translation is the first line after the heading containing the word `English`, or frontmatter
   `description` if the generator sets one. `/tags` becomes an A–Z grid of
   tags with page counts. An intro for a tag comes from
   `content/tags/<tag>.md` if the generator writes one.
@@ -172,7 +173,7 @@ Quartz update:
 | `quartz/components/scripts/popover.inline.ts`                       | `setupPopovers` returns early when `(hover: none)` matches. A tap fires `mouseenter`, so on a phone every link touched fetched and parsed the whole target page for a card that flashed up and was navigated away from                                                                                           |
 | `quartz/styles/custom.scss`                                         | All site styling, including the CSS-mask logo and the phone/tablet layout. Its "Interaction colour" section makes every hover, focus, pressed and selected state use `--tertiary` (`#607300`, the same in both themes, by choice) — plugins' own hover colours included, so new plugin UI needs a rule there too |
 | `quartz/components/Feedback.tsx`, `quartz/static/feedback.{css,js}` | Floating feedback form. POSTs `{ message, email, page, website }` to `WORKER_URL` at the top of `feedback.js` — the Worker in `feedback-worker/`, which forwards it to Telegram (see its README). `website` is a hidden honeypot field; only bots fill it                                                        |
-| `quartz/components/HomeHero.tsx`, `quartz/static/keffiyeh.svg`      | Front page hero: the "A structured Quran Knowledge Base" heading over a band of keffiyeh pattern. Renders on slug `index` only. The SVG is `assets-src/Keffiyeh.svg` through `svgo --precision 2`, used as a CSS mask so the theme colours it                                                                    |
+| `quartz/components/HomeHero.tsx`, `quartz/static/keffiyeh.svg`      | Front page hero: the "A Structured Quran Knowledge Base" heading over a band of keffiyeh pattern. Renders on slug `index` only. The SVG is `assets-src/Keffiyeh.svg` through `svgo --precision 2`, used as a CSS mask so the theme colours it                                                                    |
 | `quartz/components/index.ts`                                        | Exports `Feedback` and `HomeHero`                                                                                                                                                                                                                                                                                |
 | `quartz/plugins/loader/config-loader.ts`                            | `loadQuartzLayout` puts `HomeHero` first in `beforeBody` and appends `Feedback` to `afterBody` on every page type except `404`. They're core components, not plugins, so the yaml layout can't place them                                                                                                        |
 | `quartz/static/icon.png`, `logo.svg`, `og-image.png`                | Tadabbur branding (og-image is the default social preview card)                                                                                                                                                                                                                                                  |
@@ -357,8 +358,10 @@ What the section does, and why, so it doesn't get undone by accident:
   of tap target each, and it is the way into every ayah of the surah.
 
 Two of these key off headings the generator writes (`## Ayaat`,
-`## Connections`, `## Recitation`), in the same way the Arabic verse styling
-already keys off `## Arabic`. If those headings change, the styling stops
+`## Connections`, `## Recitation (<reciter>)`), in the same way the Arabic
+verse styling already keys off `## Arabic`. Recitation is matched by the start
+of its id, since the heading names the reciter. If those headings change, the
+styling stops
 applying and the page degrades to plain prose — it doesn't break.
 
 Check any layout change at 390px (phone), 768px and 820px (tablet, portrait —

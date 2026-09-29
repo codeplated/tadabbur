@@ -1,4 +1,5 @@
 ---
+title: "83 - The Defrauding المطففين"
 surah: 83 / 114
 surah_name: "The Defrauding / المطففين / ناپ تول میں کمی کرنے والے"
 transliteration: "Al-Mutaffifin"

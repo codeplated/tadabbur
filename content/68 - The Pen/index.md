@@ -1,4 +1,5 @@
 ---
+title: "68 - The Pen القلم"
 surah: 68 / 114
 surah_name: "The Pen / القلم / قلم"
 transliteration: "Al-Qalam"

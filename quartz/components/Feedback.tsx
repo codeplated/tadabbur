@@ -32,7 +32,7 @@ export default (() => {
           <div id="fb-header">
             <div>
               <h2 id="fb-title">Noticed something?</h2>
-              <p id="fb-subtitle">A correction, a connection, an idea — every note helps.</p>
+              <p id="fb-subtitle">A correction, a connection or an idea: every note helps.</p>
             </div>
             <button id="fb-close" type="button" aria-label="Close">
               <svg viewBox="0 0 24 24" aria-hidden="true">

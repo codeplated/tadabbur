@@ -1,4 +1,5 @@
 ---
+title: "27 - The Ant النمل"
 surah: 27 / 114
 surah_name: "The Ant / النمل / چیونٹی"
 transliteration: "An-Naml"

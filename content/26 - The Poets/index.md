@@ -1,4 +1,5 @@
 ---
+title: "26 - The Poets الشعراء"
 surah: 26 / 114
 surah_name: "The Poets / الشعراء / شعراٗ"
 transliteration: "Ash-Shu'ara"

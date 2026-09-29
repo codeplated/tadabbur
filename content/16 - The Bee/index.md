@@ -1,4 +1,5 @@
 ---
+title: "16 - The Bee النحل"
 surah: 16 / 114
 surah_name: "The Bee / النحل / شہد کی مکھی"
 transliteration: "An-Nahl"

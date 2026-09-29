@@ -1,4 +1,5 @@
 ---
+title: "99 - The Earthquake الزلزلة"
 surah: 99 / 114
 surah_name: "The Earthquake / الزلزلة / زلزلہ"
 transliteration: "Az-Zalzalah"

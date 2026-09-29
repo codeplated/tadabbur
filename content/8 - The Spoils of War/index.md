@@ -1,4 +1,5 @@
 ---
+title: "8 - The Spoils of War الأنفال"
 surah: 8 / 114
 surah_name: "The Spoils of War / الأنفال / مال غنیمت"
 transliteration: "Al-Anfal"

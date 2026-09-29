@@ -1,4 +1,5 @@
 ---
+title: "88 - The Overwhelming الغاشية"
 surah: 88 / 114
 surah_name: "The Overwhelming / الغاشية / چھا جانے والی"
 transliteration: "Al-Ghashiyah"

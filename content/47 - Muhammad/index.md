@@ -1,4 +1,5 @@
 ---
+title: "47 - Muhammad محمد"
 surah: 47 / 114
 surah_name: "Muhammad / محمد / محمدﷺ"
 transliteration: "Muhammad"

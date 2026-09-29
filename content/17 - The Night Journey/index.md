@@ -1,4 +1,5 @@
 ---
+title: "17 - The Night Journey الإسراء"
 surah: 17 / 114
 surah_name: "The Night Journey / الإسراء / رات کا صفر"
 transliteration: "Al-Isra"

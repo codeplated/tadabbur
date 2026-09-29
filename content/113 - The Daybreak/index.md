@@ -1,4 +1,5 @@
 ---
+title: "113 - The Daybreak الفلق"
 surah: 113 / 114
 surah_name: "The Daybreak / الفلق / صبح"
 transliteration: "Al-Falaq"

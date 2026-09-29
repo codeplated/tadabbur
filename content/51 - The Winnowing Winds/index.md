@@ -1,4 +1,5 @@
 ---
+title: "51 - The Winnowing Winds الذاريات"
 surah: 51 / 114
 surah_name: "The Winnowing Winds / الذاريات / بکھیرنے والیاں"
 transliteration: "Adh-Dhariyat"

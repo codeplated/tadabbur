@@ -1,4 +1,5 @@
 ---
+title: "9 - The Repentance التوبة"
 surah: 9 / 114
 surah_name: "The Repentance / التوبة / توبہ"
 transliteration: "At-Tawbah"

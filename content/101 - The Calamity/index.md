@@ -1,4 +1,5 @@
 ---
+title: "101 - The Calamity القارعة"
 surah: 101 / 114
 surah_name: "The Calamity / القارعة / کھڑکھڑاہٹ"
 transliteration: "Al-Qari'ah"
