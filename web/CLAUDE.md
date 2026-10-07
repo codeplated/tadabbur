@@ -1,0 +1,78 @@
+# Tadabbur: Astro site
+
+> Bismillah. This app publishes the Tadabbur Quran knowledge base as a static site.
+
+Read `README.md` first: it covers the layout, routes, scripts and deployment. This file
+is the rules. Until cutover (`CUTOVER.md`) this app lives in `web/` beside the Quartz
+site, and the root `CLAUDE.md` still governs everything outside `web/`.
+
+## Content is data, not ours to edit
+
+- `data/` is generated: by `scripts/import-vault.ts` from the Obsidian vault today, by
+  the generator repo after cutover. Never hand-edit it. Wrong content is fixed at the
+  source, then re-imported or re-synced in one commit (every push to `main` is a
+  Cloudflare build, 500 a month on the free plan).
+- Don't work around bad data in page code. If the data is wrong, the importer or the
+  generator changes, and `tests/unit/data.test.ts` gets a check for it.
+- `src/data/schema.ts` is the contract with the generator. Change it, then run
+  `npm run schemas` and commit `schemas/` with it, and tell the user the generator
+  needs the same change.
+- Never edit `../content/`.
+
+## Build and output
+
+- Fully static: no server routes, no adapter, no SSR.
+- Do not add a `prebuild` hook or any per-build step that isn't fast. A build is about
+  10 seconds for 6,678 pages; keep it that way.
+- No per-page image generation (the old `og-image` plugin made builds take 10+
+  minutes). `public/og-image.png` is the social card for every page.
+- Shared CSS and JS are external files (`inlineStylesheets: "never"`,
+  `assetsInlineLimit: 0`), since 6,700 pages would each repeat them otherwise.
+- Audio is streamed from `https://cdn.islamic.app/quran/audio/ar.alafasy/{n}.mp3`, `n`
+  being the global ayah number 1 to 6236. Never add audio files to the repo.
+
+## In the browser
+
+- No UI framework. Interactivity is small custom elements in `<script>` blocks.
+  Anything heavy (graph layout, canvas markdown, Arabic normalising) is done at
+  build time.
+- Phones come first: most readers are on one. Check layout changes at 390, 768, 820
+  and 1280 px (`scripts/screenshots.ts`), and keep the e2e tests green on both
+  projects.
+- `dvh`, never `vh`, for full-screen UI. Tap targets at least `var(--tap)`.
+- Hover is never the only way to reach something.
+- Don't add chrome above the verse on the ayah page without measuring what it costs
+  above the fold on a 390x844 screen.
+
+## Design
+
+- Teal and gold from the logo; gold is ornament only, never text that must be read
+  (axe will fail it at small sizes).
+- Fonts are self-hosted through Fontsource; don't add Google Fonts links.
+- Arabic text carries `lang="ar" dir="rtl"`, Urdu `lang="ur" dir="rtl"`; CSS picks the
+  face from `lang`.
+
+## Accessibility and search
+
+- `npm run test:e2e` runs axe on the main page types; a serious or critical finding
+  fails it.
+- Search covers only pages with `searchKind` on the layout. Mark long incidental lists
+  `data-pagefind-ignore` so results lead to the page about a thing.
+
+## Feedback Worker
+
+`../feedback-worker/` (root after cutover) is deployed separately with wrangler. Its
+bot token and chat ID are wrangler secrets and must never be committed: the repo is
+public. It accepts requests only from the live site and `http://localhost:8080`,
+which is why the dev and preview servers use port 8080. Everything stays on free
+plans: no paid Workers, no D1, KV or R2 without discussion.
+
+## Commands
+
+```bash
+npm run dev          # localhost:8080
+npm run build        # dist/ + Pagefind
+npm run check        # astro check, ESLint, Prettier
+npm test             # data integrity
+npm run test:e2e     # after a build
+```

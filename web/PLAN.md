@@ -209,10 +209,38 @@ Each phase ends with something you review. Nothing proceeds without your OK.
   Until then, `import-vault.ts` stays runnable on fresh vault output.
 - **Cloudflare Pages**: change the build settings at cutover.
 
-## Open questions
+## Open questions (resolved)
 
-1. Personality slugs: derive from the frontmatter `id` (`abu_bakr` becomes `abu-bakr`)?
-   Proposed: yes.
-2. Name slugs: `al-rahman` from the transliteration? Proposed: yes.
-3. Is UI copy English only, or should the interface (not the content) also exist in
-   Urdu? Proposed: English only for v1.
+1. Personality slugs come from the frontmatter `id` in kebab case (`abu_bakr` becomes
+   `abu-bakr`).
+2. Name slugs come from the transliteration (`al-rahman`). Two pairs of Names share a
+   transliteration, so those four take their number as a suffix: `al-majid-49`,
+   `al-majid-66`, `al-wali-56`, `al-wali-78`.
+3. The interface is English only for v1. The content stays trilingual.
+
+## Status
+
+Phases 1 to 7 are done in `web/` on the `astro` branch. Phase 8 is prepared but not
+run: see `CUTOVER.md`.
+
+- **Data**: `npm run import:vault` converts the vault in about a second and refuses to
+  write if any count, reference or numbering check fails. 114 surahs, 6,236 ayaat, 99
+  Names, 79 themes, 139 people, 1 canvas. JSON Schemas for the generator are in
+  `schemas/` (`npm run schemas`).
+- **Build**: 6,678 pages in about 10 seconds, then Pagefind indexes 6,667 of them.
+  An ayah page is about 28 KB of HTML; the largest pages are the long theme pages
+  (`/themes/kufr/`, about 580 KB raw, 120 KB compressed).
+- **Checks**: `npm run check` (astro check, ESLint, Prettier), `npm test` (11 data
+  integrity tests), `npm run test:e2e` (Playwright on a phone and a desktop: 20 flow
+  tests and axe on 12 pages, no serious or critical findings). CI runs all of them.
+- **Reviewed by screenshot** at 390, 820 and 1280 px. Fixes from that pass: the
+  feedback button no longer floats over the verse (it is in the menu and the footer),
+  the verse is a step smaller on phones, the canvas opens at a readable zoom, and
+  search excerpts no longer run page facts together.
+
+Not done, and needs you:
+
+- A check on a real phone, and a Lighthouse run against a Cloudflare preview deploy.
+- `npm approve-scripts` for esbuild and fsevents (npm 11 asks once; the build works
+  without it).
+- The generator change to emit `data/*.json` directly.
