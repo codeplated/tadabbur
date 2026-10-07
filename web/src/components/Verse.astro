@@ -1,0 +1,78 @@
+---
+/**
+ * One ayah in a list: its reference, the Arabic with its ornate number, and the
+ * translations the reader has chosen to show. Used on surah, theme, Name and
+ * personality pages; the ayah page lays itself out.
+ */
+import { href, toArabicDigits } from "../lib/format"
+import type { Ayah, Surah } from "../lib/site"
+
+interface Props {
+  ayah: Ayah
+  /** Shown in the reference when the list mixes surahs. */
+  surah?: Surah
+  /** Leave the Arabic out, for long lists that are about the translations. */
+  arabic?: boolean
+  /** Element id, so a surah page can link to and highlight the ayah. */
+  id?: string
+}
+
+const { ayah, surah, arabic = true, id } = Astro.props
+const ref = surah ? `${surah.transliteration} ${ayah.id}` : ayah.id
+---
+
+<article class="verse-item" id={id} data-audio-index={ayah.globalNumber}>
+  <a
+    class="ref"
+    href={href.ayah(ayah)}
+    aria-label={`${surah?.transliteration ?? "Ayah"} ${ayah.id}: tafsir and details`}
+  >
+    {ref}
+  </a>
+  {arabic && (
+    <p class="verse" lang="ar" dir="rtl">
+      {ayah.arabic} <span class="ayah-mark">﴿{toArabicDigits(ayah.number)}﴾</span>
+    </p>
+  )}
+  <p class="t-urdu translation-ur" lang="ur" dir="rtl">
+    {ayah.urdu}
+  </p>
+  <p class="t-english translation-en">{ayah.english}</p>
+</article>
+
+<style>
+  .verse-item {
+    display: grid;
+    gap: 0.5rem;
+    padding-block: 1.25rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .ref {
+    justify-self: start;
+    font-size: var(--step--1);
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: var(--teal);
+    text-decoration: none;
+    min-height: 1.75rem;
+  }
+
+  .ref:hover {
+    text-decoration: underline;
+  }
+
+  @media (hover: none) {
+    .ref {
+      min-height: var(--tap);
+      display: inline-flex;
+      align-items: center;
+    }
+  }
+
+  .verse-item.playing {
+    background: linear-gradient(to right, var(--teal-wash), transparent 80%);
+    margin-inline: calc(-1 * var(--gutter));
+    padding-inline: var(--gutter);
+  }
+</style>

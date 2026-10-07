@@ -1,0 +1,156 @@
+---
+/**
+ * A page's local graph, laid out at build time (see `lib/graph.ts`) and drawn as plain
+ * SVG: it costs no script, works on a phone, and every node is an ordinary link.
+ */
+import type { Graph, NodeKind } from "../lib/graph"
+
+interface Props {
+  graph: Graph
+  title: string
+}
+
+const { graph, title } = Astro.props
+const radius: Record<NodeKind, number> = { ayah: 5, theme: 7, name: 7, person: 7 }
+const legend: { kind: NodeKind; label: string }[] = [
+  { kind: "ayah", label: "Ayah" },
+  { kind: "theme", label: "Theme" },
+  { kind: "name", label: "Name of Allah" },
+  { kind: "person", label: "Person" },
+]
+const kinds = new Set(graph.nodes.map((n) => n.kind))
+---
+
+<figure class="graph">
+  <svg
+    viewBox={`0 0 ${graph.width} ${graph.height}`}
+    role="group"
+    aria-label={`Connections of ${title}`}
+  >
+    <g class="edges" aria-hidden="true">
+      {graph.edges.map((e) => (
+        <line
+          x1={e.from.x}
+          y1={e.from.y}
+          x2={e.to.x}
+          y2={e.to.y}
+          class={e.from.center || e.to.center ? "spoke" : "cross"}
+        />
+      ))}
+    </g>
+    {graph.nodes.map((n) => (
+      <a href={n.href} class:list={["node", n.kind, { center: n.center }]} aria-label={n.label}>
+        <circle cx={n.x} cy={n.y} r={n.center ? 11 : radius[n.kind]} />
+        <text x={n.x} y={n.y + (n.center ? 26 : 20)} text-anchor="middle">
+          {n.label}
+        </text>
+      </a>
+    ))}
+  </svg>
+  <figcaption>
+    <ul class="legend plain-list">
+      {legend
+        .filter((l) => kinds.has(l.kind))
+        .map((l) => (
+          <li>
+            <span class:list={["swatch", l.kind]} />
+            {l.label}
+          </li>
+        ))}
+    </ul>
+  </figcaption>
+</figure>
+
+<style>
+  .graph {
+    margin: 0;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+    background: var(--surface);
+    overflow: hidden;
+  }
+
+  svg {
+    width: 100%;
+    font-family: var(--font-latin);
+  }
+
+  line {
+    stroke: var(--line);
+    stroke-width: 1;
+  }
+
+  line.cross {
+    stroke-dasharray: 3 3;
+  }
+
+  .node text {
+    font-size: 11px;
+    fill: var(--muted);
+    paint-order: stroke;
+    stroke: var(--surface);
+    stroke-width: 3px;
+  }
+
+  .node:hover text,
+  .node:focus-visible text,
+  .node.center text {
+    fill: var(--ink);
+    font-weight: 600;
+  }
+
+  .node:focus-visible {
+    outline: none;
+  }
+
+  .node:focus-visible circle {
+    stroke: var(--ink);
+    stroke-width: 2;
+  }
+
+  .ayah circle,
+  .swatch.ayah {
+    fill: var(--teal);
+    background: var(--teal);
+  }
+  .theme circle,
+  .swatch.theme {
+    fill: var(--gold);
+    background: var(--gold);
+  }
+  .name circle,
+  .swatch.name {
+    fill: var(--teal-strong);
+    background: var(--teal-strong);
+  }
+  .person circle,
+  .swatch.person {
+    fill: var(--muted);
+    background: var(--muted);
+  }
+  .node.center circle {
+    fill: var(--ink);
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+    padding: 0.6rem 1rem;
+    border-block-start: 1px solid var(--line);
+    font-size: var(--step--1);
+    color: var(--muted);
+  }
+
+  .legend li {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .swatch {
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 999px;
+  }
+</style>

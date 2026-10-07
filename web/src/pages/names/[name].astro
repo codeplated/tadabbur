@@ -1,0 +1,209 @@
+---
+import LocalGraph from "../../components/LocalGraph.astro"
+import ThemeChips from "../../components/ThemeChips.astro"
+import Verse from "../../components/Verse.astro"
+import Base from "../../layouts/Base.astro"
+import { href, normalizeArabic, plural } from "../../lib/format"
+import { localGraph } from "../../lib/graph"
+import { site } from "../../lib/site"
+
+export async function getStaticPaths() {
+  const { names } = await site()
+  return names.map((n) => ({ params: { name: n.id }, props: { id: n.id } }))
+}
+
+const s = await site()
+const name = s.name(Astro.props.id)
+const category = s.nameCategories.find((c) => c.id === name.category.id)
+const keyAyaat = name.keyAyaat.map((a) => s.ayah(a.id))
+const related = name.related.map((n) => s.name(n.id))
+const themes = name.themes.map((t) => s.theme(t.id))
+const previous = s.names[name.number - 2]
+const next = s.names[name.number]
+const graph = localGraph(s, { kind: "name", item: name })
+---
+
+<Base
+  title={`${name.transliteration} (${name.english})`}
+  description={`${name.transliteration}, ${name.arabic}: ${name.english}. ${name.meaning.en}`}
+  searchKind="Name"
+>
+  <article class="column">
+    <header class="page-head head">
+      <p class="muted small">
+        <a href={href.names}>Names of Allah</a>, {name.number} of 99, {category?.label}
+      </p>
+      <p class="arabic" lang="ar" dir="rtl">
+        {name.arabic}
+      </p>
+      <p hidden lang="ar">
+        {normalizeArabic(name.arabic)}
+      </p>
+      <h1 data-pagefind-meta="title">{name.transliteration}</h1>
+      <p class="english">{name.english}</p>
+      <p class="t-urdu urdu" lang="ur" dir="rtl">
+        {name.urdu}
+      </p>
+    </header>
+
+    <dl class="facts-list" data-pagefind-ignore>
+      <div>
+        <dt>Root</dt>
+        <dd>
+          <span lang="ar" dir="rtl">
+            {name.root}
+          </span>
+          , {name.rootMeaning}
+        </dd>
+      </div>
+      <div>
+        <dt>In the Quran</dt>
+        <dd>{plural(name.occurrences, "time")}</dd>
+      </div>
+    </dl>
+
+    <section class="section stack" aria-labelledby="meaning">
+      <h2 id="meaning">Meaning</h2>
+      <p class="t-english">{name.meaning.en}</p>
+      <p class="t-urdu" lang="ur" dir="rtl">
+        {name.meaning.ur}
+      </p>
+    </section>
+
+    <section class="section" aria-labelledby="daily">
+      <h2 id="daily">In daily life</h2>
+      <p>{name.inDailyLife}</p>
+    </section>
+
+    {name.notes && (
+      <section class="section" aria-labelledby="notes">
+        <h2 id="notes">Study notes</h2>
+        <p>{name.notes}</p>
+      </section>
+    )}
+
+    {keyAyaat.length > 0 && (
+      <section class="section" aria-labelledby="ayaat" data-pagefind-ignore>
+        <h2 id="ayaat">Key ayaat</h2>
+        {keyAyaat.map((a) => (
+          <Verse ayah={a} surah={s.surah(a.surah.id)} />
+        ))}
+      </section>
+    )}
+
+    {related.length > 0 && (
+      <section class="section" aria-labelledby="related" data-pagefind-ignore>
+        <h2 id="related">Related Names</h2>
+        <ul class="chips">
+          {related.map((n) => (
+            <li>
+              <a class="chip" href={href.name(n.id)}>
+                {n.transliteration} <span lang="ar">{n.arabic}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {themes.length > 0 && (
+      <section class="section" aria-labelledby="themes" data-pagefind-ignore>
+        <h2 id="themes">Themes</h2>
+        <ThemeChips themes={themes} />
+      </section>
+    )}
+
+    {graph && (
+      <section class="section" aria-labelledby="connections" data-pagefind-ignore>
+        <h2 id="connections">Connections</h2>
+        <LocalGraph graph={graph} title={name.transliteration} />
+      </section>
+    )}
+
+    <nav class="steps" aria-label="Other Names">
+      {previous ? (
+        <a href={href.name(previous.id)} rel="prev">
+          {previous.number}. {previous.transliteration}
+        </a>
+      ) : (
+        <span />
+      )}
+      {next && (
+        <a href={href.name(next.id)} rel="next" class="next">
+          {next.number}. {next.transliteration}
+        </a>
+      )}
+    </nav>
+  </article>
+</Base>
+
+<style>
+  .head {
+    display: grid;
+    gap: 0.25rem;
+    text-align: center;
+  }
+
+  .head .small a {
+    color: var(--muted);
+  }
+
+  .arabic {
+    font-size: clamp(3.5rem, 16vw, 5.5rem);
+    line-height: 1.7;
+    color: var(--teal-strong);
+  }
+
+  h1 {
+    font-size: var(--step-3);
+  }
+
+  .english {
+    font-size: var(--step-1);
+  }
+
+  .urdu {
+    font-size: var(--step-1);
+    color: var(--muted);
+  }
+
+  .facts-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 0;
+    padding-block: 1rem;
+    border-block: 1px solid var(--line);
+  }
+
+  dt {
+    font-size: var(--step--1);
+    color: var(--muted);
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  dd [lang="ar"] {
+    font-size: 1.3rem;
+  }
+
+  .steps {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-block: 2rem;
+  }
+
+  .steps a {
+    min-height: var(--tap);
+    display: inline-flex;
+    align-items: center;
+  }
+
+  /* The root's Arabic letters would otherwise set the line to the verse leading. */
+  .facts-list [lang="ar"] {
+    line-height: 1.4;
+  }
+</style>

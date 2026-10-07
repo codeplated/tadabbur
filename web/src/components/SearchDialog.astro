@@ -1,0 +1,44 @@
+---
+import Icon from "./Icon.astro"
+import SiteSearch from "./SiteSearch.astro"
+---
+
+<dialog id="search-dialog" class="sheet top search-dialog" aria-label="Search">
+  <div class="inner">
+    <div class="head">
+      <button class="icon-button" type="button" data-close aria-label="Close search">
+        <Icon name="close" />
+      </button>
+    </div>
+    <SiteSearch />
+  </div>
+</dialog>
+
+<style>
+  .search-dialog {
+    margin-block-start: 8vh;
+  }
+
+  .inner {
+    padding: 0 var(--gutter) 1rem;
+    max-height: 84dvh;
+    overflow-y: auto;
+  }
+
+  .head {
+    display: flex;
+    justify-content: flex-end;
+    padding-block: 0.25rem;
+  }
+
+  /* On a phone the field sits at the top, clear of the keyboard. */
+  @media (max-width: 47.99rem) {
+    .search-dialog {
+      margin-block-start: 0;
+    }
+    .inner {
+      max-height: 100dvh;
+      min-height: 60dvh;
+    }
+  }
+</style>

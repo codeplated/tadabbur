@@ -1,0 +1,23 @@
+---
+import { href } from "../lib/format"
+import type { Theme } from "../lib/site"
+
+interface Props {
+  themes: Theme[]
+  /** How many items carry each theme here, shown beside its name. */
+  counts?: Map<string, number>
+}
+
+const { themes, counts } = Astro.props
+---
+
+<ul class="chips">
+  {themes.map((theme) => (
+    <li>
+      <a class="chip" href={href.theme(theme.id)}>
+        {theme.label.en}
+        {counts?.has(theme.id) && <span class="count">{counts.get(theme.id)}</span>}
+      </a>
+    </li>
+  ))}
+</ul>

@@ -1,0 +1,120 @@
+---
+import Base from "../../layouts/Base.astro"
+import { href, plural } from "../../lib/format"
+import { site } from "../../lib/site"
+
+const s = await site()
+const groups = s.themeCategories.map((category) => ({ category, themes: s.themesIn(category.id) }))
+---
+
+<Base
+  title="Themes"
+  description={`The ${s.themes.length} themes of the Quran, from Tawheed to the Divine Oaths, with every ayah that carries each one.`}
+>
+  <div class="wrap">
+    <header class="page-head">
+      <h1>Themes</h1>
+      <p class="facts">
+        {s.themes.length} themes in {s.themeCategories.length} groups. Each lists every ayah that
+        carries it.
+      </p>
+      <nav class="jump" aria-label="Theme groups">
+        <ul class="chips">
+          {groups.map(({ category }) => (
+            <li>
+              <a class="chip" href={`#${category.id}`}>
+                {category.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </header>
+
+    {groups.map(({ category, themes }) => (
+      <section class="section group" id={category.id} aria-labelledby={`h-${category.id}`}>
+        <h2 id={`h-${category.id}`}>{category.label}</h2>
+        <ul class="themes plain-list">
+          {themes.map((theme) => {
+            const use = s.themeUse(theme.id)
+            return (
+              <li>
+                <a href={href.theme(theme.id)}>
+                  <span class="name">
+                    {theme.label.en}
+                    <span lang="ur" dir="rtl">
+                      {theme.label.ur}
+                    </span>
+                  </span>
+                  <span class="description">{theme.description}</span>
+                  <span class="count">{plural(use.ayaat.length, "ayah", "ayaat")}</span>
+                </a>
+              </li>
+            )
+          })}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .jump {
+    margin-block-start: 1.25rem;
+  }
+
+  .themes {
+    display: grid;
+    gap: 0 2rem;
+  }
+
+  @media (min-width: 56rem) {
+    .themes {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .themes a {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0.1rem 1rem;
+    padding-block: 0.85rem;
+    border-block-end: 1px solid var(--line);
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .themes a:hover .name {
+    color: var(--teal);
+    text-decoration: underline;
+  }
+
+  .name {
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.75rem;
+  }
+
+  .name [lang="ur"] {
+    font-weight: 400;
+    color: var(--muted);
+    line-height: 1.8;
+  }
+
+  .description {
+    grid-column: 1;
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+
+  .count {
+    grid-column: 2;
+    grid-row: 1;
+    color: var(--muted);
+    font-size: var(--step--1);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+</style>

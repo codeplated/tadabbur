@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Tadabbur — تدبّر</title>
+  <style>
+    svg { --ink: #2c6461; --glow: #b8963e; }
+    @media (prefers-color-scheme: dark) {
+      svg { --ink: #8fbfb5; --glow: #c9b27a; }
+    }
+    .book, .moon, .star {
+      transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    .book {
+      fill: none;
+      stroke: var(--ink);
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transform-origin: 32px 54px;
+    }
+    .book .line { stroke-width: 2; }
+    .moon { fill: var(--glow); transform-origin: 32px 12px; }
+    .star {
+      fill: var(--glow);
+      transform-origin: 43px 7px;
+      animation: twinkle 4s ease-in-out infinite;
+    }
+    svg:hover .book { transform: rotate(-6deg) scale(1.04); }
+    svg:hover .moon { transform: translateY(-2px) rotate(-14deg); }
+    svg:hover .star { transform: rotate(90deg) scale(1.25); animation: none; }
+    @keyframes twinkle {
+      0%, 70%, 100% { transform: scale(1); opacity: 1; }
+      85% { transform: scale(0.6); opacity: 0.55; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .book, .moon, .star { animation: none; transition: none; }
+    }
+  </style>
+  <g class="book">
+    <path d="M32 27 C26 23 17 23 9 26 V46 C17 43 26 43 32 47 C38 43 47 43 55 46 V26 C47 23 38 23 32 27 Z"/>
+    <path d="M32 27 V47"/>
+    <path class="line" d="M14.5 32 C18.5 31 22.5 31 26.5 32.5 M14.5 37.5 C18.5 36.5 22.5 36.5 26.5 38"/>
+    <path class="line" d="M37.5 32.5 C41.5 31 45.5 31 49.5 32 M37.5 38 C41.5 36.5 45.5 36.5 49.5 37.5"/>
+    <path d="M21 47 L43 60 M43 47 L21 60"/>
+  </g>
+  <path class="moon" d="M30.94 5.08 A7 7 0 1 0 38.62 14.29 A6 6 0 0 1 30.94 5.08 Z"/>
+  <path class="star" d="M43 3 Q43.7 6.3 47 7 Q43.7 7.7 43 11 Q42.3 7.7 39 7 Q42.3 6.3 43 3 Z"/>
+</svg>

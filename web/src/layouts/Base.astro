@@ -1,0 +1,104 @@
+---
+import "@fontsource-variable/literata"
+import "@fontsource/scheherazade-new/arabic-400.css"
+import "@fontsource/scheherazade-new/arabic-700.css"
+import "@fontsource-variable/noto-nastaliq-urdu"
+import "../styles/global.css"
+import Feedback from "../components/Feedback.astro"
+import Footer from "../components/Footer.astro"
+import Header from "../components/Header.astro"
+import SearchDialog from "../components/SearchDialog.astro"
+import SettingsDialog from "../components/SettingsDialog.astro"
+
+interface Props {
+  title: string
+  description?: string
+  /** Add the page to the search index, under this kind. */
+  searchKind?: "Surah" | "Ayah" | "Theme" | "Name" | "Personality"
+  /** Kept out of search engines (the 404). */
+  noindex?: boolean
+}
+
+const SITE_NAME = "Tadabbur"
+const DEFAULT_DESCRIPTION =
+  "Every ayah of the Quran with recitation, Arabic, Urdu and English, and Urdu tafsir, cross-linked by theme, the Names of Allah and the people of the Quran."
+
+const { title, description = DEFAULT_DESCRIPTION, searchKind, noindex = false } = Astro.props
+const fullTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`
+const canonical = new URL(Astro.url.pathname, Astro.site)
+const ogImage = new URL("/og-image.png", Astro.site)
+---
+
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="icon" href="/icon.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta name="theme-color" content="#f5f7f5" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0f1615" media="(prefers-color-scheme: dark)" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script is:inline>
+      // Applied before first paint so a saved theme or hidden translation never flashes.
+      ;(function () {
+        const root = document.documentElement
+        let prefs = {}
+        try {
+          prefs = JSON.parse(localStorage.getItem("tadabbur:prefs") || "{}")
+        } catch {
+          // Unreadable or blocked storage: keep the defaults.
+        }
+        const dark =
+          prefs.theme === "dark" ||
+          (prefs.theme !== "light" && matchMedia("(prefers-color-scheme: dark)").matches)
+        root.dataset.theme = dark ? "dark" : "light"
+        if (prefs.arabicSize) root.dataset.arabicSize = prefs.arabicSize
+        if (prefs.urdu === false) root.dataset.hideUrdu = ""
+        if (prefs.english === false) root.dataset.hideEnglish = ""
+        if (prefs.tafsir === false) root.dataset.hideTafsir = ""
+      })()
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#main">
+      Skip to content
+    </a>
+    <Header />
+    <main id="main" data-pagefind-body={searchKind ? "" : undefined}>
+      {searchKind && <span hidden data-pagefind-filter={`kind:${searchKind}`}></span>}
+      <slot />
+    </main>
+    <Footer />
+    <SearchDialog />
+    <SettingsDialog />
+    <Feedback />
+  </body>
+</html>
+
+<style>
+  .skip {
+    position: absolute;
+    inset-inline-start: 1rem;
+    inset-block-start: -4rem;
+    z-index: 100;
+    padding: 0.75rem 1rem;
+    background: var(--teal);
+    color: var(--on-teal);
+    border-radius: var(--radius-s);
+  }
+  .skip:focus {
+    inset-block-start: 0.5rem;
+  }
+</style>

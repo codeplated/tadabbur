@@ -1,0 +1,327 @@
+---
+import { Image } from "astro:assets"
+import Icon from "../../components/Icon.astro"
+import ThemeChips from "../../components/ThemeChips.astro"
+import Verse from "../../components/Verse.astro"
+import Base from "../../layouts/Base.astro"
+import { audioUrl, href, plural, revelationLabel } from "../../lib/format"
+import { surahImage } from "../../lib/images"
+import { site } from "../../lib/site"
+
+export async function getStaticPaths() {
+  const { surahs } = await site()
+  return surahs.map((surah) => ({ params: { surah: surah.id }, props: { id: surah.id } }))
+}
+
+const s = await site()
+const surah = s.surah(Astro.props.id)
+const ayaat = s.ayaatOf(surah.id)
+const themes = s.surahThemes(surah.id)
+const canvases = s.canvasesOf(surah.id)
+const previous = surah.number > 1 ? s.surah(String(surah.number - 1)) : undefined
+const next = surah.number < 114 ? s.surah(String(surah.number + 1)) : undefined
+const playlist = ayaat.map((a) => ({ id: `a${a.number}`, src: audioUrl(a) }))
+---
+
+<Base
+  title={`${surah.number}. ${surah.transliteration} (${surah.name.en})`}
+  description={`Surah ${surah.transliteration}, ${surah.name.en}: ${plural(surah.ayahCount, "ayah", "ayaat")} with recitation, Arabic, Urdu and English.`}
+  searchKind="Surah"
+>
+  <div class="column">
+    <header class="page-head head">
+      <Image
+        src={surahImage(surah.image)}
+        alt=""
+        widths={[480, 720, 960]}
+        sizes="(min-width: 44rem) 40rem, 100vw"
+        loading="eager"
+        format="webp"
+        quality={72}
+        class="art"
+      />
+      <h1 data-pagefind-meta={`title:${surah.number}. ${surah.transliteration}`}>
+        <span class="number">{surah.number}</span> {surah.transliteration}
+      </h1>
+      <p class="names">
+        <span>{surah.name.en}</span>
+        <span lang="ar" dir="rtl">
+          {surah.name.ar}
+        </span>
+        <span class="t-urdu" lang="ur" dir="rtl">
+          {surah.name.ur}
+        </span>
+      </p>
+      <p class="facts" data-pagefind-ignore>
+        <span>{revelationLabel(surah.revelation)}</span>
+        <span>{plural(surah.ayahCount, "ayah", "ayaat")}</span>
+        <span>Surah {surah.number} of 114</span>
+      </p>
+      <div class="actions">
+        <surah-player hidden data-playlist={JSON.stringify(playlist)}>
+          <button type="button" class="button">
+            <span class="when-stopped">
+              <Icon name="play" /> Play surah
+            </span>
+            <span class="when-playing">
+              <Icon name="pause" /> Pause
+            </span>
+          </button>
+          <span class="now muted small" aria-live="polite"></span>
+        </surah-player>
+        {canvases.map((c) => (
+          <a class="button quiet" href={href.canvas(c.id)}>
+            Reflection canvas
+          </a>
+        ))}
+      </div>
+    </header>
+
+    {surah.notes && (
+      <section class="section">
+        <h2>Surah notes</h2>
+        <p>{surah.notes}</p>
+      </section>
+    )}
+
+    <section class="section" aria-labelledby="themes" data-pagefind-ignore>
+      <h2 id="themes">Themes in this surah</h2>
+      <ThemeChips
+        themes={themes.map((t) => t.theme)}
+        counts={new Map(themes.map((t) => [t.theme.id, t.count]))}
+      />
+    </section>
+
+    <section class="section" aria-labelledby="index" data-pagefind-ignore>
+      <h2 id="index">Go to ayah</h2>
+      <ol class="ayah-index plain-list">
+        {ayaat.map((a) => (
+          <li>
+            <a href={href.ayah(a)}>{a.number}</a>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section class="section" aria-labelledby="read" data-pagefind-ignore>
+      <h2 id="read">Read</h2>
+      {ayaat[0]?.bismillah && (
+        <p class="bismillah" lang="ar" dir="rtl">
+          بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
+        </p>
+      )}
+      {ayaat.map((a) => (
+        <Verse ayah={a} id={`a${a.number}`} />
+      ))}
+    </section>
+
+    <nav class="surah-steps" aria-label="Other surahs">
+      {previous ? (
+        <a href={href.surah(previous)} rel="prev">
+          <span class="muted small">Previous surah</span>
+          <span>
+            {previous.number}. {previous.transliteration}
+          </span>
+        </a>
+      ) : (
+        <span />
+      )}
+      {next && (
+        <a href={href.surah(next)} rel="next" class="next">
+          <span class="muted small">Next surah</span>
+          <span>
+            {next.number}. {next.transliteration}
+          </span>
+        </a>
+      )}
+    </nav>
+  </div>
+</Base>
+
+<script>
+  /**
+   * Plays the surah ayah by ayah, highlighting and scrolling to each as it starts. The
+   * playlist is the page's own ayaat, so nothing is fetched until the reader presses play.
+   */
+  class SurahPlayer extends HTMLElement {
+    audio = new Audio()
+    index = 0
+    playlist: { id: string; src: string }[] = []
+
+    connectedCallback() {
+      this.playlist = JSON.parse(this.dataset.playlist ?? "[]")
+      const button = this.querySelector("button")!
+      button.addEventListener("click", () => {
+        if (this.audio.paused) this.play(this.audio.src ? this.index : 0)
+        else this.audio.pause()
+      })
+      this.audio.addEventListener("ended", () => {
+        if (this.index + 1 < this.playlist.length) this.play(this.index + 1)
+        else this.stop()
+      })
+      this.audio.addEventListener("play", () => this.sync())
+      this.audio.addEventListener("pause", () => this.sync())
+      this.hidden = false
+    }
+
+    play(index: number) {
+      const item = this.playlist[index]
+      if (!item) return
+      if (index !== this.index || !this.audio.src) {
+        this.index = index
+        this.audio.src = item.src
+      }
+      void this.audio.play()
+      document.querySelector(".verse-item.playing")?.classList.remove("playing")
+      const row = document.getElementById(item.id)
+      row?.classList.add("playing")
+      row?.scrollIntoView({ behavior: "smooth", block: "center" })
+      this.querySelector(".now")!.textContent = `Ayah ${index + 1} of ${this.playlist.length}`
+    }
+
+    stop() {
+      document.querySelector(".verse-item.playing")?.classList.remove("playing")
+      this.querySelector(".now")!.textContent = ""
+      this.audio.removeAttribute("src")
+      this.index = 0
+      this.sync()
+    }
+
+    sync() {
+      this.toggleAttribute("playing", !this.audio.paused)
+    }
+  }
+  customElements.define("surah-player", SurahPlayer)
+</script>
+
+<style>
+  .head {
+    display: grid;
+    gap: 0.6rem;
+  }
+
+  .head :global(.art) {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: var(--radius-m);
+    margin-block-end: 0.75rem;
+  }
+
+  h1 {
+    font-size: var(--step-4);
+  }
+
+  h1 .number {
+    color: var(--gold);
+    font-weight: 500;
+    margin-inline-end: 0.2rem;
+  }
+
+  .names {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 1rem;
+    font-size: var(--step-1);
+  }
+
+  .names [lang="ar"] {
+    font-size: 1.6rem;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+    margin-block-start: 0.75rem;
+  }
+
+  surah-player {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  surah-player[hidden] {
+    display: none;
+  }
+
+  .button :global(svg) {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+
+  .when-stopped,
+  .when-playing {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .when-playing,
+  surah-player[playing] .when-stopped {
+    display: none;
+  }
+
+  surah-player[playing] .when-playing {
+    display: inline-flex;
+  }
+
+  .ayah-index {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(2.75rem, 1fr));
+    gap: 0.4rem;
+  }
+
+  .ayah-index a {
+    display: grid;
+    place-items: center;
+    height: var(--tap);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-s);
+    background: var(--surface);
+    color: var(--ink);
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    font-size: var(--step--1);
+  }
+
+  .ayah-index a:hover {
+    border-color: var(--teal);
+    color: var(--teal);
+  }
+
+  .bismillah {
+    text-align: center;
+    font-size: var(--arabic-verse);
+    color: var(--muted);
+    padding-block: 0.5rem;
+  }
+
+  .surah-steps {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    padding-block: 2rem;
+  }
+
+  .surah-steps a {
+    display: grid;
+    gap: 0.1rem;
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+    text-decoration: none;
+    color: var(--ink);
+  }
+
+  .surah-steps a:hover {
+    border-color: var(--teal);
+  }
+
+  .surah-steps .next {
+    text-align: end;
+  }
+</style>

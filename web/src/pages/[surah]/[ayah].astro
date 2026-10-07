@@ -1,0 +1,264 @@
+---
+import LocalGraph from "../../components/LocalGraph.astro"
+import ReadingBar from "../../components/ReadingBar.astro"
+import ThemeChips from "../../components/ThemeChips.astro"
+import Base from "../../layouts/Base.astro"
+import { audioUrl, href, normalizeArabic, toArabicDigits } from "../../lib/format"
+import { localGraph } from "../../lib/graph"
+import { site } from "../../lib/site"
+
+export async function getStaticPaths() {
+  const { ayaat } = await site()
+  return ayaat.map((ayah, i) => ({
+    params: { surah: ayah.surah.id, ayah: String(ayah.number) },
+    props: { id: ayah.id, previous: ayaat[i - 1]?.id, next: ayaat[i + 1]?.id },
+  }))
+}
+
+interface Props {
+  id: string
+  previous?: string
+  next?: string
+}
+
+const s = await site()
+const ayah = s.ayah(Astro.props.id)
+const surah = s.surah(ayah.surah.id)
+const previous = Astro.props.previous ? s.ayah(Astro.props.previous) : undefined
+const next = Astro.props.next ? s.ayah(Astro.props.next) : undefined
+const themes = ayah.themes.map((t) => s.theme(t.id))
+const { names, personalities } = s.mentions(ayah.id)
+const related = ayah.related.map((a) => s.ayah(a.id))
+const graph = localGraph(s, { kind: "ayah", item: ayah })
+const title = `${surah.transliteration} ${ayah.id}`
+---
+
+<Base title={title} description={ayah.english} searchKind="Ayah">
+  <article class="column ayah-page">
+    <header class="head">
+      <a class="surah-link" href={href.surah(surah)}>
+        <span>
+          {surah.number}. {surah.transliteration}
+        </span>
+        <span class="muted">{surah.name.en}</span>
+        <span lang="ar" dir="rtl">
+          {surah.name.ar}
+        </span>
+      </a>
+      <h1 data-pagefind-meta={`title:${surah.transliteration} ${ayah.id}`}>
+        <span class="visually-hidden">{surah.transliteration}</span>
+        Ayah {ayah.number} <span class="of muted">of {surah.ayahCount}</span>
+      </h1>
+    </header>
+
+    {ayah.bismillah && (
+      <p class="bismillah" lang="ar" dir="rtl">
+        بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ
+      </p>
+    )}
+
+    <p class="verse main-verse" lang="ar" dir="rtl">
+      {ayah.arabic} <span class="ayah-mark">﴿{toArabicDigits(ayah.number)}﴾</span>
+    </p>
+    <p hidden lang="ar">
+      {normalizeArabic(ayah.arabic)}
+    </p>
+
+    <audio id="recitation" controls preload="none" src={audioUrl(ayah)}>
+      <a href={audioUrl(ayah)}>Listen to the recitation</a>
+    </audio>
+
+    <section class="t-urdu translation" aria-labelledby="urdu">
+      <h2 id="urdu" class="label">
+        Urdu
+      </h2>
+      <p class="translation-ur" lang="ur" dir="rtl">
+        {ayah.urdu}
+      </p>
+    </section>
+
+    <section class="t-english translation" aria-labelledby="english">
+      <h2 id="english" class="label">
+        English
+      </h2>
+      <p class="translation-en">{ayah.english}</p>
+    </section>
+
+    <section class="t-tafsir tafsir" aria-labelledby="tafsir">
+      <h2 id="tafsir" class="label">
+        Tafsir <span class="muted">{ayah.tafsir.source}</span>
+      </h2>
+      <div lang="ur" dir="rtl" class="stack">
+        {ayah.tafsir.paragraphs.map((p) => (
+          <p>{p}</p>
+        ))}
+      </div>
+    </section>
+
+    {ayah.notes && (
+      <section class="notes" aria-labelledby="notes">
+        <h2 id="notes" class="label">
+          Study notes
+        </h2>
+        <p>{ayah.notes}</p>
+      </section>
+    )}
+
+    {themes.length > 0 && (
+      <section aria-labelledby="themes">
+        <h2 id="themes" class="label">
+          Themes
+        </h2>
+        <ThemeChips themes={themes} />
+      </section>
+    )}
+
+    {(personalities.length > 0 || names.length > 0 || related.length > 0) && (
+      <section aria-labelledby="mentioned" data-pagefind-ignore>
+        <h2 id="mentioned" class="label">
+          Linked from
+        </h2>
+        <ul class="chips">
+          {personalities.map((p) => (
+            <li>
+              <a class="chip" href={href.person(p.id)}>
+                {p.name.en}
+              </a>
+            </li>
+          ))}
+          {names.map((n) => (
+            <li>
+              <a class="chip" href={href.name(n.id)}>
+                {n.transliteration} <span lang="ar">{n.arabic}</span>
+              </a>
+            </li>
+          ))}
+          {related.map((a) => (
+            <li>
+              <a class="chip" href={href.ayah(a)}>
+                {a.id}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {graph && (
+      <section aria-labelledby="connections" class="graph-section" data-pagefind-ignore>
+        <h2 id="connections" class="label">
+          Connections
+        </h2>
+        <LocalGraph graph={graph} title={title} />
+      </section>
+    )}
+  </article>
+
+  <ReadingBar
+    label={ayah.id}
+    previous={previous && { href: href.ayah(previous), label: previous.id }}
+    next={next && { href: href.ayah(next), label: next.id }}
+  />
+</Base>
+
+<style>
+  .ayah-page {
+    display: grid;
+    gap: 1.75rem;
+    padding-block: 1.5rem 3rem;
+  }
+
+  .head {
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  .surah-link {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.75rem;
+    color: var(--ink);
+    text-decoration: none;
+    font-size: var(--step--1);
+    font-weight: 600;
+  }
+
+  .surah-link:hover span:first-child {
+    color: var(--teal);
+    text-decoration: underline;
+  }
+
+  .surah-link [lang="ar"] {
+    font-size: 1.15rem;
+    line-height: 1;
+    font-weight: 400;
+  }
+
+  h1 {
+    font-size: var(--step-2);
+  }
+
+  .of {
+    font-size: var(--step-0);
+    font-weight: 400;
+  }
+
+  .bismillah {
+    text-align: center;
+    font-size: calc(var(--arabic-verse) * 0.8);
+    color: var(--muted);
+  }
+
+  /* The page's one bold moment: the verse itself, large, with its gold number. */
+  .main-verse {
+    font-size: calc(var(--arabic-verse) * 1.15);
+    line-height: 2.2;
+    padding-block: 0.5rem 1rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  audio {
+    width: 100%;
+    height: 2.75rem;
+  }
+
+  .label {
+    font-size: var(--step--1);
+    font-weight: 600;
+    color: var(--muted);
+    margin-block-end: 0.5rem;
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .label .muted {
+    font-weight: 400;
+  }
+
+  .translation-ur {
+    font-size: calc(var(--step-0) * 1.15);
+  }
+
+  .translation-en {
+    font-size: var(--step-1);
+    line-height: 1.55;
+  }
+
+  .tafsir {
+    padding: 1.25rem;
+    margin-inline: calc(-1 * min(var(--gutter), 1.25rem));
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+  }
+
+  .tafsir [lang="ur"] {
+    --space: 0.75rem;
+    font-size: var(--step-0);
+  }
+
+  .graph-section {
+    padding-block-end: 2rem;
+  }
+</style>

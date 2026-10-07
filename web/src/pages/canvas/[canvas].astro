@@ -1,0 +1,406 @@
+---
+/**
+ * A JSON Canvas reflection board, laid out at build time as positioned cards with an SVG
+ * layer for the arrows. It scrolls natively in both directions; a small script adds
+ * zoom. Below it, the same cards as a plain list, for screen readers and small screens.
+ */
+import { Image } from "astro:assets"
+import { marked } from "marked"
+import Icon from "../../components/Icon.astro"
+import Base from "../../layouts/Base.astro"
+import { href, pathLabel, toArabicDigits } from "../../lib/format"
+import { surahImage } from "../../lib/images"
+import { site, type Canvas } from "../../lib/site"
+
+export async function getStaticPaths() {
+  const { canvases } = await site()
+  return canvases.map((c) => ({ params: { canvas: c.id }, props: { id: c.id } }))
+}
+
+const s = await site()
+const canvas = s.canvases.find((c) => c.id === Astro.props.id)!
+const surah = canvas.surah ? s.surah(canvas.surah) : undefined
+
+type Node = Canvas["nodes"][number]
+type Side = "top" | "right" | "bottom" | "left"
+
+const PAD = 40
+const minX = Math.min(...canvas.nodes.map((n) => n.x)) - PAD
+const minY = Math.min(...canvas.nodes.map((n) => n.y)) - PAD
+const width = Math.max(...canvas.nodes.map((n) => n.x + n.width)) - minX + PAD
+const height = Math.max(...canvas.nodes.map((n) => n.y + n.height)) - minY + PAD
+const byId = new Map(canvas.nodes.map((n) => [n.id, n]))
+
+function anchor(n: Node, side: Side): [number, number] {
+  const x = n.x - minX
+  const y = n.y - minY
+  switch (side) {
+    case "top":
+      return [x + n.width / 2, y]
+    case "bottom":
+      return [x + n.width / 2, y + n.height]
+    case "left":
+      return [x, y + n.height / 2]
+    case "right":
+      return [x + n.width, y + n.height / 2]
+  }
+}
+
+const pull: Record<Side, [number, number]> = {
+  top: [0, -1],
+  bottom: [0, 1],
+  left: [-1, 0],
+  right: [1, 0],
+}
+
+const edges = canvas.edges.flatMap((e) => {
+  const from = byId.get(e.fromNode)
+  const to = byId.get(e.toNode)
+  if (!from || !to) return []
+  const fromSide = e.fromSide ?? "right"
+  const toSide = e.toSide ?? "left"
+  const [x1, y1] = anchor(from, fromSide)
+  const [x2, y2] = anchor(to, toSide)
+  const reach = Math.max(40, Math.hypot(x2 - x1, y2 - y1) / 3)
+  const c1 = [x1 + pull[fromSide][0] * reach, y1 + pull[fromSide][1] * reach]
+  const c2 = [x2 + pull[toSide][0] * reach, y2 + pull[toSide][1] * reach]
+  return [
+    {
+      id: e.id,
+      d: `M${x1},${y1} C${c1[0]},${c1[1]} ${c2[0]},${c2[1]} ${x2},${y2}`,
+      arrow: e.toEnd !== "none",
+      label: e.label,
+    },
+  ]
+})
+
+const html = (markdown: string) => marked.parse(markdown, { async: false, gfm: true, breaks: true })
+const style = (n: Node) =>
+  `left:${n.x - minX}px;top:${n.y - minY}px;width:${n.width}px;height:${n.height}px`
+// Reading order for the list view: top to bottom, then left to right.
+const ordered = [...canvas.nodes]
+  .filter((n) => n.type !== "group" && !(n.type === "text" && !n.text.trim()))
+  .sort((a, b) => a.y - b.y || a.x - b.x)
+---
+
+<Base
+  title={`${canvas.title}: reflection canvas`}
+  description={`A reflection canvas on ${surah ? `Surah ${surah.transliteration}` : canvas.title}.`}
+>
+  <div class="wrap">
+    <header class="page-head">
+      {surah && (
+        <p class="muted small">
+          <a href={href.surah(surah)}>
+            {surah.number}. {surah.transliteration}
+          </a>
+        </p>
+      )}
+      <h1>{canvas.title}</h1>
+      <p class="facts">A reflection canvas: the ayaat, and the notes written around them.</p>
+    </header>
+  </div>
+
+  <canvas-view class="viewport" style={`--w:${width}px;--h:${height}px`}>
+    <div class="zoom" role="group" aria-label="Zoom">
+      <button type="button" class="icon-button" data-zoom="out" aria-label="Zoom out">
+        <Icon name="minus" />
+      </button>
+      <button type="button" class="icon-button" data-zoom="fit" aria-label="Fit to screen">
+        <Icon name="fit" />
+      </button>
+      <button type="button" class="icon-button" data-zoom="in" aria-label="Zoom in">
+        <Icon name="plus" />
+      </button>
+    </div>
+    <div class="scroller" tabindex="0" role="region" aria-label="Canvas, scrollable">
+      <div class="board" aria-hidden="true">
+        <div class="plane">
+          <svg class="edges" width={width} height={height} viewBox={`0 0 ${width} ${height}`}>
+            <defs>
+              <marker
+                id="arrow"
+                viewBox="0 0 10 10"
+                refX="9"
+                refY="5"
+                markerWidth="8"
+                markerHeight="8"
+                orient="auto-start-reverse"
+              >
+                <path d="M0,0 L10,5 L0,10 z"></path>
+              </marker>
+            </defs>
+            {edges.map((e) => (
+              <path d={e.d} marker-end={e.arrow ? "url(#arrow)" : undefined} />
+            ))}
+          </svg>
+          {canvas.nodes.map((n) => {
+            if (n.type === "group")
+              return (
+                <div class="node group" style={style(n)}>
+                  {n.label}
+                </div>
+              )
+            if (n.type === "text")
+              // An empty card still carries arrows, so it is drawn, as in Obsidian.
+              return <div class="node text" style={style(n)} set:html={html(n.text)} />
+            if (n.type === "image")
+              return (
+                <div class="node image" style={style(n)}>
+                  <Image
+                    src={surahImage(n.image)}
+                    alt=""
+                    widths={[480]}
+                    format="webp"
+                    quality={70}
+                  />
+                </div>
+              )
+            if (n.type === "path")
+              return (
+                <a class="node link" style={style(n)} href={href.path(n.path)} tabindex="-1">
+                  {pathLabel[n.path]}
+                </a>
+              )
+            const a = s.ayah(n.ayah)
+            return (
+              <a class="node ayah" style={style(n)} href={href.ayah(a)} tabindex="-1">
+                <span class="ref">{a.id}</span>
+                <span class="verse-sm" lang="ar" dir="rtl">
+                  {a.arabic} <span class="ayah-mark">﴿{toArabicDigits(a.number)}﴾</span>
+                </span>
+                <span class="en">{a.english}</span>
+              </a>
+            )
+          })}
+        </div>
+      </div>
+    </div>
+  </canvas-view>
+
+  <div class="column">
+    <section class="section" aria-labelledby="as-list">
+      <h2 id="as-list">The canvas as a list</h2>
+      <ol class="as-list plain-list">
+        {ordered.map((n) => (
+          <li>
+            {n.type === "text" && <div class="note" set:html={html(n.text)} />}
+            {n.type === "path" && <a href={href.path(n.path)}>{pathLabel[n.path]}</a>}
+            {n.type === "image" && surah && (
+              <p class="muted">Artwork for {surah.transliteration}</p>
+            )}
+            {n.type === "ayah" &&
+              (() => {
+                const a = s.ayah(n.ayah)
+                return (
+                  <p>
+                    <a href={href.ayah(a)}>{a.id}</a> {a.english}
+                  </p>
+                )
+              })()}
+          </li>
+        ))}
+      </ol>
+    </section>
+  </div>
+</Base>
+
+<script>
+  class CanvasView extends HTMLElement {
+    scale = 1
+    connectedCallback() {
+      const scroller = this.querySelector<HTMLElement>(".scroller")!
+      const set = (scale: number) => {
+        this.scale = Math.min(2, Math.max(0.25, scale))
+        this.style.setProperty("--scale", String(this.scale))
+      }
+      const fitScale = () => {
+        const w = parseFloat(getComputedStyle(this).getPropertyValue("--w"))
+        return Math.min(1, (scroller.clientWidth - 16) / w)
+      }
+      const fit = () => set(fitScale())
+      this.querySelector(".zoom")!.addEventListener("click", (event) => {
+        const button = (event.target as Element).closest<HTMLButtonElement>("[data-zoom]")
+        if (!button) return
+        if (button.dataset.zoom === "fit") fit()
+        else set(this.scale * (button.dataset.zoom === "in" ? 1.25 : 0.8))
+      })
+      scroller.addEventListener(
+        "wheel",
+        (event) => {
+          if (!event.ctrlKey && !event.metaKey) return
+          event.preventDefault()
+          set(this.scale * (event.deltaY < 0 ? 1.1 : 0.9))
+        },
+        { passive: false },
+      )
+      // On a phone the whole board would shrink past reading; start legible and pan instead.
+      set(Math.max(fitScale(), 0.6))
+      scroller.scrollLeft = (scroller.scrollWidth - scroller.clientWidth) / 2
+      scroller.scrollTop = (scroller.scrollHeight - scroller.clientHeight) / 2
+    }
+  }
+  customElements.define("canvas-view", CanvasView)
+</script>
+
+<style>
+  .page-head .small a {
+    color: var(--muted);
+  }
+
+  .viewport {
+    --scale: 0.6;
+    position: relative;
+    display: block;
+    margin-inline: auto;
+    max-width: calc(var(--page) + 2 * var(--gutter));
+    padding-inline: var(--gutter);
+  }
+
+  .scroller {
+    height: min(75dvh, 48rem, calc(var(--h) * var(--scale) + 2px));
+    overflow: auto;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+    background:
+      radial-gradient(circle, var(--line) 1px, transparent 1px) 0 0 / 24px 24px,
+      var(--paper);
+    overscroll-behavior: contain;
+  }
+
+  .board {
+    position: relative;
+    width: calc(var(--w) * var(--scale));
+    height: calc(var(--h) * var(--scale));
+  }
+
+  /* Everything inside is in canvas units; the plane scales as one. */
+  .plane {
+    position: absolute;
+    inset-block-start: 0;
+    left: 0;
+    width: var(--w);
+    height: var(--h);
+    transform: scale(var(--scale));
+    transform-origin: 0 0;
+  }
+
+  .edges {
+    position: absolute;
+    inset: 0;
+    overflow: visible;
+  }
+
+  .edges path {
+    fill: none;
+    stroke: var(--muted);
+    stroke-width: 2;
+  }
+
+  .edges marker path {
+    fill: var(--muted);
+    stroke: none;
+  }
+
+  .node {
+    position: absolute;
+    overflow: hidden;
+    padding: 0.75rem 1rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+    color: var(--ink);
+    font-size: 15px;
+    line-height: 1.45;
+  }
+
+  .node.ayah {
+    display: grid;
+    align-content: start;
+    gap: 0.25rem;
+    text-decoration: none;
+    border-color: var(--teal);
+  }
+
+  .node .ref {
+    font-weight: 600;
+    color: var(--teal);
+    font-size: 13px;
+  }
+
+  .verse-sm {
+    font-size: 22px;
+    line-height: 1.8;
+  }
+
+  /* Gold is too faint at card size; the marker takes the card's ink instead. */
+  .node .ayah-mark {
+    color: var(--teal);
+  }
+
+  .node .en {
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  .node.text :global(p),
+  .node.text :global(ul),
+  .node.text :global(ol) {
+    margin: 0 0 0.4rem;
+  }
+
+  .node.text :global(ul),
+  .node.text :global(ol) {
+    padding-inline-start: 1.1rem;
+  }
+
+  .node.link {
+    display: grid;
+    place-items: center;
+    font-weight: 600;
+    color: var(--teal);
+    text-decoration: none;
+    border-style: dashed;
+  }
+
+  .node.image {
+    padding: 0;
+  }
+
+  .node.image :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .node.group {
+    background: transparent;
+    border-style: dashed;
+    color: var(--muted);
+  }
+
+  .zoom {
+    position: absolute;
+    inset-block-start: 0.5rem;
+    inset-inline-end: calc(var(--gutter) + 0.5rem);
+    z-index: 2;
+    display: flex;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+  }
+
+  .as-list {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .as-list li {
+    padding-block-end: 1rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .note :global(ul) {
+    padding-inline-start: 1.25rem;
+  }
+</style>

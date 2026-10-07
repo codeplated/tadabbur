@@ -1,0 +1,193 @@
+---
+import Icon from "./Icon.astro"
+---
+
+<dialog id="settings-dialog" class="sheet" aria-labelledby="settings-title">
+  <form class="settings" method="dialog">
+    <div class="settings-head">
+      <h2 id="settings-title">Reading settings</h2>
+      <button class="icon-button" type="button" data-close aria-label="Close settings">
+        <Icon name="close" />
+      </button>
+    </div>
+
+    <fieldset>
+      <legend>Show</legend>
+      <label>
+        <input type="checkbox" name="urdu" /> Urdu translation
+      </label>
+      <label>
+        <input type="checkbox" name="english" /> English translation
+      </label>
+      <label>
+        <input type="checkbox" name="tafsir" /> Tafsir
+      </label>
+    </fieldset>
+
+    <fieldset class="segmented">
+      <legend>Arabic size</legend>
+      <label>
+        <input type="radio" name="arabicSize" value="m" />
+        <span lang="ar">بِسْمِ</span>
+      </label>
+      <label class="l">
+        <input type="radio" name="arabicSize" value="l" />
+        <span lang="ar">بِسْمِ</span>
+      </label>
+      <label class="xl">
+        <input type="radio" name="arabicSize" value="xl" />
+        <span lang="ar">بِسْمِ</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="segmented">
+      <legend>Theme</legend>
+      <label>
+        <input type="radio" name="theme" value="system" />
+        <span>Device</span>
+      </label>
+      <label>
+        <input type="radio" name="theme" value="light" />
+        <span>Light</span>
+      </label>
+      <label>
+        <input type="radio" name="theme" value="dark" />
+        <span>Dark</span>
+      </label>
+    </fieldset>
+  </form>
+</dialog>
+
+<script>
+  import { applyPrefs, readPrefs, writePrefs, type Prefs } from "../scripts/prefs"
+
+  const dialog = document.getElementById("settings-dialog") as HTMLDialogElement
+  const form = dialog.querySelector("form")!
+
+  dialog.addEventListener("open", () => {
+    const prefs = readPrefs()
+    for (const key of ["urdu", "english", "tafsir"] as const) {
+      ;(form.elements.namedItem(key) as HTMLInputElement).checked = prefs[key]
+    }
+    ;(form.elements.namedItem("arabicSize") as RadioNodeList).value = prefs.arabicSize
+    ;(form.elements.namedItem("theme") as RadioNodeList).value = prefs.theme
+  })
+
+  form.addEventListener("change", () => {
+    const data = new FormData(form)
+    const prefs: Prefs = {
+      urdu: data.has("urdu"),
+      english: data.has("english"),
+      tafsir: data.has("tafsir"),
+      arabicSize: (data.get("arabicSize") as Prefs["arabicSize"]) ?? "m",
+      theme: (data.get("theme") as Prefs["theme"]) ?? "system",
+    }
+    writePrefs(prefs)
+    applyPrefs(prefs)
+  })
+
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () =>
+    applyPrefs(readPrefs()),
+  )
+</script>
+
+<style>
+  .settings {
+    padding: 0 var(--gutter) 1.5rem;
+  }
+
+  .settings-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: var(--bar);
+  }
+
+  .settings-head h2 {
+    font-size: var(--step-1);
+  }
+
+  fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0.75rem 0;
+    border-block-start: 1px solid var(--line);
+  }
+
+  legend {
+    padding: 0;
+    margin-block-end: 0.5rem;
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+
+  fieldset:not(.segmented) label {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    min-height: var(--tap);
+    cursor: pointer;
+  }
+
+  input[type="checkbox"] {
+    width: 1.25rem;
+    height: 1.25rem;
+    accent-color: var(--teal);
+  }
+
+  .segmented {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .segmented legend {
+    grid-column: 1 / -1;
+  }
+
+  .segmented label {
+    position: relative;
+    display: grid;
+    place-items: center;
+    min-height: 3.25rem;
+    border: 1px solid var(--line);
+    margin-inline-start: -1px;
+    cursor: pointer;
+  }
+
+  .segmented label:first-of-type {
+    border-radius: var(--radius-s) 0 0 var(--radius-s);
+  }
+  .segmented label:last-of-type {
+    border-radius: 0 var(--radius-s) var(--radius-s) 0;
+  }
+
+  .segmented input {
+    position: absolute;
+    opacity: 0;
+    inset: 0;
+    cursor: pointer;
+  }
+
+  .segmented label:has(:checked) {
+    background: var(--teal-wash);
+    border-color: var(--teal);
+    color: var(--teal-strong);
+    z-index: 1;
+  }
+
+  .segmented label:has(:focus-visible) {
+    outline: 2px solid var(--teal);
+    outline-offset: 2px;
+  }
+
+  .segmented [lang="ar"] {
+    font-size: 1.3rem;
+    line-height: 1.4;
+  }
+  .segmented .l [lang="ar"] {
+    font-size: 1.6rem;
+  }
+  .segmented .xl [lang="ar"] {
+    font-size: 1.95rem;
+  }
+</style>

@@ -1,0 +1,212 @@
+---
+import { href } from "../lib/format"
+import Icon from "./Icon.astro"
+
+const sections = [
+  { label: "Surahs", href: href.surahs, match: /^\/(surahs|\d+)\// },
+  { label: "Themes", href: href.themes, match: /^\/themes\// },
+  { label: "Names of Allah", href: href.names, match: /^\/names\// },
+  { label: "People", href: href.people, match: /^\/people\// },
+]
+const path = Astro.url.pathname
+const current = (match: RegExp) => (match.test(path) ? "page" : undefined)
+---
+
+<header class="bar">
+  <div class="wrap bar-inner">
+    <a class="brand" href={href.home} aria-label="Tadabbur, home">
+      <img src="/logo.svg" width="32" height="32" alt="" />
+      <span class="brand-name">Tadabbur</span>
+    </a>
+
+    <nav class="nav" aria-label="Sections">
+      {sections.map((s) => (
+        <a href={s.href} aria-current={current(s.match)}>
+          {s.label}
+        </a>
+      ))}
+    </nav>
+
+    <div class="actions">
+      <button class="icon-button" type="button" data-open="search-dialog" aria-label="Search">
+        <Icon name="search" />
+      </button>
+      <button
+        class="icon-button"
+        type="button"
+        data-open="settings-dialog"
+        aria-label="Reading settings"
+      >
+        <Icon name="type" />
+      </button>
+      <button
+        class="icon-button menu-button"
+        type="button"
+        data-open="menu-dialog"
+        aria-label="Menu"
+      >
+        <Icon name="menu" />
+      </button>
+    </div>
+  </div>
+</header>
+
+<dialog id="menu-dialog" class="sheet top" aria-label="Menu">
+  <div class="menu">
+    <div class="menu-head">
+      <span class="brand-name">Tadabbur</span>
+      <button class="icon-button" type="button" data-close aria-label="Close menu">
+        <Icon name="close" />
+      </button>
+    </div>
+    <nav aria-label="Sections">
+      <ul class="plain-list">
+        {sections.map((s) => (
+          <li>
+            <a href={s.href} aria-current={current(s.match)}>
+              {s.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+    <button class="button quiet feedback-link" type="button" data-open="feedback-dialog">
+      Send feedback
+    </button>
+  </div>
+</dialog>
+
+<script>
+  // Any [data-open="id"] button opens that dialog; [data-close] or a backdrop tap closes it.
+  document.addEventListener("click", (event) => {
+    const target = event.target as Element
+    const opener = target.closest<HTMLElement>("[data-open]")
+    if (opener) {
+      const dialog = document.getElementById(opener.dataset.open ?? "")
+      if (dialog instanceof HTMLDialogElement) {
+        // A dialog opened from inside another (feedback from the menu) replaces it.
+        opener.closest("dialog")?.close()
+        dialog.showModal()
+        dialog.dispatchEvent(new Event("open"))
+      }
+      return
+    }
+    if (target.closest("[data-close]")) {
+      target.closest("dialog")?.close()
+      return
+    }
+    if (target instanceof HTMLDialogElement) target.close()
+  })
+
+  document.addEventListener("keydown", (event) => {
+    const typing = (event.target as Element).closest("input, textarea, select, [contenteditable]")
+    if (event.key === "/" && !typing && !document.querySelector("dialog[open]")) {
+      event.preventDefault()
+      document.querySelector<HTMLElement>('[data-open="search-dialog"]')?.click()
+    }
+  })
+</script>
+
+<style>
+  .bar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: blur(10px);
+    border-block-end: 1px solid var(--line);
+  }
+
+  .bar-inner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    height: var(--bar);
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: var(--ink);
+    text-decoration: none;
+    min-height: var(--tap);
+  }
+
+  .brand img {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .brand-name {
+    font-size: var(--step-1);
+    font-weight: 650;
+    letter-spacing: -0.01em;
+  }
+
+  .nav {
+    display: none;
+    gap: 0.25rem;
+    margin-inline-start: 1.5rem;
+  }
+
+  .nav a {
+    padding: 0.4rem 0.75rem;
+    border-radius: 999px;
+    color: var(--muted);
+    text-decoration: none;
+  }
+
+  .nav a:hover {
+    color: var(--ink);
+    background: var(--sunk);
+  }
+
+  .nav a[aria-current="page"] {
+    color: var(--teal-strong);
+    background: var(--teal-wash);
+  }
+
+  .actions {
+    display: flex;
+    margin-inline-start: auto;
+  }
+
+  @media (min-width: 60rem) {
+    .nav {
+      display: flex;
+    }
+    .menu-button {
+      display: none;
+    }
+  }
+
+  .menu {
+    padding: 0.5rem var(--gutter) 1.5rem;
+  }
+
+  .menu-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: var(--bar);
+  }
+
+  .menu li a {
+    display: flex;
+    align-items: center;
+    min-height: 3.25rem;
+    font-size: var(--step-1);
+    color: var(--ink);
+    text-decoration: none;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .menu li a[aria-current="page"] {
+    color: var(--teal);
+  }
+
+  .feedback-link {
+    margin-block-start: 1.5rem;
+  }
+</style>

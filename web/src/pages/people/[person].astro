@@ -1,0 +1,205 @@
+---
+import LocalGraph from "../../components/LocalGraph.astro"
+import ThemeChips from "../../components/ThemeChips.astro"
+import Verse from "../../components/Verse.astro"
+import Base from "../../layouts/Base.astro"
+import { href, normalizeArabic, pathLabel } from "../../lib/format"
+import { localGraph } from "../../lib/graph"
+import { site } from "../../lib/site"
+
+export async function getStaticPaths() {
+  const { personalities } = await site()
+  return personalities.map((p) => ({ params: { person: p.id }, props: { id: p.id } }))
+}
+
+const s = await site()
+const person = s.person(Astro.props.id)
+const kind = s.personalityKinds.find((k) => k.id === person.kind.id)
+const ayaat = person.ayaat.map((a) => s.ayah(a.id))
+const connected = person.connected.map((p) => s.person(p.id))
+const themes = person.themes.map((t) => s.theme(t.id))
+const graph = localGraph(s, { kind: "person", item: person })
+---
+
+<Base
+  title={person.name.en}
+  description={`${person.name.en} (${person.name.ar}): ${kind?.label.en}, ${person.era}. ${person.story.en.slice(0, 140)}`}
+  searchKind="Personality"
+>
+  <article class="column">
+    <header class="page-head head">
+      <p class="muted small">
+        <a href={href.people}>People of the Quran</a>, {kind?.label.en}
+      </p>
+      <h1 data-pagefind-meta="title">{person.name.en}</h1>
+      <p class="names">
+        <span lang="ar" dir="rtl">
+          {person.name.ar}
+        </span>
+        <span class="t-urdu" lang="ur" dir="rtl">
+          {person.name.ur}
+        </span>
+      </p>
+      <p hidden lang="ar">
+        {normalizeArabic(person.name.ar)}
+      </p>
+      {person.aliases.length > 0 && (
+        <p class="aliases">Also known as {person.aliases.join("; ")}</p>
+      )}
+      <p class="facts">
+        <span>{person.era}</span>
+      </p>
+    </header>
+
+    <aside class:list={["path-note", person.path]}>
+      <p class="path-title">
+        <a href={href.path(person.path)}>{pathLabel[person.path]}</a>
+        <span lang="ur" dir="rtl">
+          {person.pathLabel.ur}
+        </span>
+      </p>
+      <p>{person.pathReason}</p>
+    </aside>
+
+    <section class="section stack" aria-labelledby="story">
+      <h2 id="story">Story</h2>
+      <p class="t-english">{person.story.en}</p>
+      <p class="t-urdu" lang="ur" dir="rtl">
+        {person.story.ur}
+      </p>
+    </section>
+
+    {person.lessons.length > 0 && (
+      <section class="section" aria-labelledby="lessons">
+        <h2 id="lessons">Lessons from the Quran</h2>
+        <ol class="lessons">
+          {person.lessons.map((l) => (
+            <li>{l}</li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {person.notes && (
+      <section class="section" aria-labelledby="notes">
+        <h2 id="notes">Study notes</h2>
+        <p>{person.notes}</p>
+      </section>
+    )}
+
+    {ayaat.length > 0 && (
+      <section class="section" aria-labelledby="ayaat" data-pagefind-ignore>
+        <h2 id="ayaat">In the Quran</h2>
+        {ayaat.map((a) => (
+          <Verse ayah={a} surah={s.surah(a.surah.id)} />
+        ))}
+      </section>
+    )}
+
+    {connected.length > 0 && (
+      <section class="section" aria-labelledby="connected" data-pagefind-ignore>
+        <h2 id="connected">Connected people</h2>
+        <ul class="chips">
+          {connected.map((p) => (
+            <li>
+              <a class="chip" href={href.person(p.id)}>
+                {p.name.en}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {themes.length > 0 && (
+      <section class="section" aria-labelledby="themes" data-pagefind-ignore>
+        <h2 id="themes">Themes</h2>
+        <ThemeChips themes={themes} />
+      </section>
+    )}
+
+    {graph && (
+      <section class="section" aria-labelledby="connections" data-pagefind-ignore>
+        <h2 id="connections">Connections</h2>
+        <LocalGraph graph={graph} title={person.name.en} />
+      </section>
+    )}
+  </article>
+</Base>
+
+<style>
+  .head {
+    display: grid;
+    gap: 0.35rem;
+  }
+
+  .head .small a {
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: var(--step-4);
+  }
+
+  .names {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 1.25rem;
+  }
+
+  .names [lang="ar"] {
+    font-size: var(--step-3);
+    color: var(--teal-strong);
+  }
+
+  .names [lang="ur"] {
+    font-size: var(--step-1);
+    color: var(--muted);
+  }
+
+  .aliases {
+    color: var(--muted);
+  }
+
+  .path-note {
+    display: grid;
+    gap: 0.4rem;
+    padding: 1rem 1.25rem;
+    border-inline-start: 3px solid var(--teal);
+    background: var(--surface);
+    border-radius: 0 var(--radius-m) var(--radius-m) 0;
+  }
+
+  .path-note.deviated {
+    border-inline-start-color: var(--muted);
+  }
+
+  .path-note.mixed {
+    border-inline-start-style: dashed;
+  }
+
+  .path-title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 1rem;
+    font-weight: 600;
+  }
+
+  .path-title [lang="ur"] {
+    font-weight: 400;
+    color: var(--muted);
+  }
+
+  .lessons {
+    display: grid;
+    gap: 0.6rem;
+    padding-inline-start: 1.5rem;
+  }
+
+  .lessons ::marker {
+    color: var(--gold);
+    font-weight: 600;
+  }
+</style>

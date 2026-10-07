@@ -1,0 +1,210 @@
+---
+import Verse from "../../components/Verse.astro"
+import Base from "../../layouts/Base.astro"
+import { href, plural } from "../../lib/format"
+import { site, type Ayah } from "../../lib/site"
+
+export async function getStaticPaths() {
+  const { themes } = await site()
+  return themes.map((theme) => ({ params: { theme: theme.id }, props: { id: theme.id } }))
+}
+
+const s = await site()
+const theme = s.theme(Astro.props.id)
+const category = s.themeCategories.find((c) => c.id === theme.category.id)
+const use = s.themeUse(theme.id)
+
+// Ayaat grouped by surah, in Quran order.
+const groups: { surahId: string; ayaat: Ayah[] }[] = []
+for (const ayah of use.ayaat) {
+  const last = groups.at(-1)
+  if (last?.surahId === ayah.surah.id) last.ayaat.push(ayah)
+  else groups.push({ surahId: ayah.surah.id, ayaat: [ayah] })
+}
+const surahGroups = groups.map((g) => ({ surah: s.surah(g.surahId), ayaat: g.ayaat }))
+---
+
+<Base
+  title={theme.label.en}
+  description={`${theme.description}. ${plural(use.ayaat.length, "ayah", "ayaat")} across ${plural(surahGroups.length, "surah")}.`}
+  searchKind="Theme"
+>
+  <div class="column">
+    <header class="page-head">
+      <p class="category muted small">
+        <a href={`${href.themes}#${theme.category.id}`}>{category?.label}</a>
+      </p>
+      <h1 data-pagefind-meta="title">{theme.label.en}</h1>
+      <p class="ur" lang="ur" dir="rtl">
+        {theme.label.ur}
+      </p>
+      <p class="description">{theme.description}</p>
+      <p class="facts" data-pagefind-ignore>
+        <span>{plural(use.ayaat.length, "ayah", "ayaat")}</span>
+        <span>{plural(surahGroups.length, "surah")}</span>
+        {use.names.length > 0 && <span>{plural(use.names.length, "Name")} of Allah</span>}
+        {use.personalities.length > 0 && (
+          <span>{plural(use.personalities.length, "person", "people")}</span>
+        )}
+      </p>
+    </header>
+  </div>
+
+  {surahGroups.length > 1 && (
+    <nav class="jump-bar" aria-label="Surahs with this theme" data-pagefind-ignore>
+      <ul class="wrap">
+        {surahGroups.map(({ surah, ayaat }) => (
+          <li>
+            <a class="chip" href={`#s${surah.number}`}>
+              {surah.number}. {surah.transliteration}
+              <span class="count">{ayaat.length}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )}
+
+  <div class="column" data-pagefind-ignore>
+    {surahGroups.map(({ surah, ayaat }) => (
+      <section class="surah-group" id={`s${surah.number}`} aria-labelledby={`h${surah.number}`}>
+        <h2 id={`h${surah.number}`}>
+          <a href={href.surah(surah)}>
+            {surah.number}. {surah.transliteration}
+          </a>
+          <span class="muted">{surah.name.en}</span>
+          <span lang="ar" dir="rtl">
+            {surah.name.ar}
+          </span>
+        </h2>
+        {ayaat.map((ayah) => (
+          <Verse ayah={ayah} arabic={false} />
+        ))}
+      </section>
+    ))}
+
+    {(use.names.length > 0 || use.personalities.length > 0) && (
+      <section class="section related" aria-labelledby="related">
+        <h2 id="related">Related pages</h2>
+        {use.names.length > 0 && (
+          <>
+            <h3>Names of Allah</h3>
+            <ul class="chips">
+              {use.names.map((n) => (
+                <li>
+                  <a class="chip" href={href.name(n.id)}>
+                    {n.transliteration} <span lang="ar">{n.arabic}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+        {use.personalities.length > 0 && (
+          <>
+            <h3>People</h3>
+            <ul class="chips">
+              {use.personalities.map((p) => (
+                <li>
+                  <a class="chip" href={href.person(p.id)}>
+                    {p.name.en}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .page-head {
+    display: grid;
+    gap: 0.4rem;
+  }
+
+  .category a {
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: var(--step-4);
+  }
+
+  .ur {
+    font-size: var(--step-2);
+    line-height: 2;
+    color: var(--muted);
+  }
+
+  .description {
+    font-size: var(--step-1);
+    line-height: 1.5;
+  }
+
+  /* One swipeable row; wrapped, a busy theme's surahs were rows and rows of chips. */
+  .jump-bar {
+    position: sticky;
+    top: var(--bar);
+    z-index: 5;
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
+    backdrop-filter: blur(10px);
+    border-block: 1px solid var(--line);
+  }
+
+  .jump-bar ul {
+    display: flex;
+    gap: 0.4rem;
+    overflow-x: auto;
+    padding-block: 0.6rem;
+    list-style: none;
+    scrollbar-width: thin;
+  }
+
+  .jump-bar .chip {
+    flex: none;
+    white-space: nowrap;
+  }
+
+  .surah-group {
+    scroll-margin-top: calc(var(--bar) + 4rem);
+    padding-block-start: 2rem;
+  }
+
+  .surah-group h2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.75rem;
+    font-size: var(--step-1);
+    padding-block-end: 0.5rem;
+    border-block-end: 2px solid var(--ink);
+  }
+
+  .surah-group h2 a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .surah-group h2 a:hover {
+    color: var(--teal);
+  }
+
+  .surah-group h2 .muted {
+    font-size: var(--step-0);
+    font-weight: 400;
+  }
+
+  .surah-group h2 [lang="ar"] {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 1;
+  }
+
+  .related h3 {
+    font-size: var(--step-0);
+    margin-block: 1rem 0.5rem;
+  }
+</style>

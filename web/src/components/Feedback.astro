@@ -1,0 +1,135 @@
+---
+/**
+ * Feedback form, opened from the menu and the footer. One Send is one POST of { message, email, page, website } to
+ * the Worker in `feedback-worker/`, which forwards it to Telegram. `website` is a
+ * honeypot: hidden from people, filled in only by bots, and dropped by the Worker.
+ */
+import Icon from "./Icon.astro"
+---
+
+<dialog id="feedback-dialog" class="sheet" aria-labelledby="feedback-title">
+  <form class="feedback">
+    <div class="head">
+      <h2 id="feedback-title">Send feedback</h2>
+      <button class="icon-button" type="button" data-close aria-label="Close feedback">
+        <Icon name="close" />
+      </button>
+    </div>
+    <label for="fb-message">What should we fix or add?</label>
+    <textarea id="fb-message" name="message" rows="5" maxlength="3500" required></textarea>
+    <label for="fb-email">
+      Email, if you'd like a reply <span class="muted">(optional)</span>
+    </label>
+    <input id="fb-email" name="email" type="email" maxlength="254" autocomplete="email" />
+    <div class="honeypot" aria-hidden="true">
+      <label for="fb-website">Website</label>
+      <input id="fb-website" name="website" tabindex="-1" autocomplete="off" />
+    </div>
+    <div class="row">
+      <p class="status small" role="status" aria-live="polite"></p>
+      <button class="button" type="submit">
+        Send
+      </button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+  const WORKER_URL = "https://tadabbur-feedback.tadabbur-feedback.workers.dev"
+
+  const dialog = document.getElementById("feedback-dialog") as HTMLDialogElement
+  const form = dialog.querySelector("form")!
+  const status = form.querySelector(".status")!
+  const send = form.querySelector<HTMLButtonElement>("button[type=submit]")!
+
+  dialog.addEventListener("open", () => {
+    status.textContent = ""
+    status.classList.remove("error")
+    send.disabled = false
+    requestAnimationFrame(() => form.querySelector("textarea")!.focus())
+  })
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault()
+    const data = new FormData(form)
+    send.disabled = true
+    status.classList.remove("error")
+    status.textContent = "Sending…"
+    try {
+      const response = await fetch(WORKER_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          message: String(data.get("message") ?? "").trim(),
+          email: String(data.get("email") ?? "").trim(),
+          page: decodeURI(location.pathname),
+          website: String(data.get("website") ?? ""),
+        }),
+      })
+      if (!response.ok) throw new Error(String(response.status))
+      form.reset()
+      status.textContent = "Sent. JazakAllah khair."
+      setTimeout(() => dialog.close(), 2000)
+    } catch {
+      status.classList.add("error")
+      status.textContent = "Not sent. Check your connection and try again."
+      send.disabled = false
+    }
+  })
+</script>
+
+<style>
+  .feedback {
+    display: grid;
+    gap: 0.5rem;
+    padding: 0 var(--gutter) 1.5rem;
+  }
+
+  .head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: var(--bar);
+  }
+
+  .head h2 {
+    font-size: var(--step-1);
+  }
+
+  textarea,
+  input {
+    width: 100%;
+    padding: 0.6rem 0.75rem;
+    font: inherit;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-s);
+  }
+
+  input {
+    min-height: var(--tap);
+  }
+
+  label {
+    font-size: var(--step--1);
+    margin-block-start: 0.5rem;
+  }
+
+  .honeypot {
+    position: absolute;
+    left: -10000px;
+  }
+
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-block-start: 0.5rem;
+  }
+
+  .status:global(.error) {
+    color: var(--error);
+  }
+</style>

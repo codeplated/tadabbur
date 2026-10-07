@@ -1,0 +1,67 @@
+---
+import PeopleList from "../../components/PeopleList.astro"
+import Base from "../../layouts/Base.astro"
+import { href, pathLabel } from "../../lib/format"
+import { site, type Path } from "../../lib/site"
+
+const s = await site()
+const groups = s.personalityKinds.map((kind) => ({ kind, people: s.peopleOfKind(kind.id) }))
+const paths: Path[] = ["straight", "deviated", "mixed"]
+---
+
+<Base
+  title="People of the Quran"
+  description={`${s.personalities.length} prophets, angels, companions, nations and others named or described in the Quran, with their stories and the ayaat about them.`}
+>
+  <div class="wrap">
+    <header class="page-head">
+      <h1>People of the Quran</h1>
+      <p class="facts">
+        {s.personalities.length} prophets, angels, companions, nations and others, with their
+        stories and the ayaat about them.
+      </p>
+      <nav aria-label="By path" class="paths">
+        <ul class="chips">
+          {paths.map((p) => (
+            <li>
+              <a class="chip" href={href.path(p)}>
+                {pathLabel[p]} <span class="count">{s.peopleOnPath(p).length}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </header>
+
+    {groups.map(({ kind, people }) => (
+      <section class="section" aria-labelledby={kind.id}>
+        <h2 id={kind.id}>
+          {kind.label.en}{" "}
+          <span class="ur" lang="ur" dir="rtl">
+            {kind.label.ur}
+          </span>
+        </h2>
+        <PeopleList people={people} />
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .paths {
+    margin-block-start: 1.25rem;
+  }
+
+  h2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.75rem;
+  }
+
+  .ur {
+    font-weight: 400;
+    color: var(--muted);
+    font-size: var(--step-1);
+  }
+</style>

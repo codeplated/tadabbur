@@ -1,0 +1,23 @@
+---
+import SiteSearch from "../components/SiteSearch.astro"
+import Base from "../layouts/Base.astro"
+---
+
+<Base
+  title="Search"
+  description="Search every ayah, theme, Name of Allah and person, in English, Urdu or Arabic."
+>
+  <div class="column">
+    <header class="page-head">
+      <h1>Search</h1>
+      <p class="facts">Every ayah, theme, Name of Allah and person, in English, Urdu or Arabic.</p>
+    </header>
+    <SiteSearch fromUrl />
+    <noscript>
+      <p>
+        Search needs JavaScript. You can still browse by <a href="/surahs/">surah</a> or{" "}
+        <a href="/themes/">theme</a>.
+      </p>
+    </noscript>
+  </div>
+</Base>

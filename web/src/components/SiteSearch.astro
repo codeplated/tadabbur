@@ -1,0 +1,248 @@
+---
+/**
+ * Full-text search over the Pagefind index built after `astro build`. Used in the
+ * search dialog on every page and on /search/.
+ */
+interface Props {
+  /** Read the query from ?q= and search straight away (the /search/ page). */
+  fromUrl?: boolean
+}
+const { fromUrl = false } = Astro.props
+const kinds = ["All", "Ayah", "Surah", "Theme", "Name", "Personality"]
+const kindLabels: Record<string, string> = {
+  All: "All",
+  Ayah: "Ayaat",
+  Surah: "Surahs",
+  Theme: "Themes",
+  Name: "Names",
+  Personality: "People",
+}
+---
+
+<site-search data-from-url={fromUrl ? "" : undefined}>
+  <form role="search" action="/search/" class="search-form">
+    <label class="visually-hidden" for={fromUrl ? "search-page-q" : "search-dialog-q"}>
+      Search the Quran, themes, Names and people
+    </label>
+    <input
+      id={fromUrl ? "search-page-q" : "search-dialog-q"}
+      name="q"
+      type="search"
+      autocomplete="off"
+      enterkeyhint="search"
+      placeholder="Search in English, Urdu or Arabic"
+    />
+  </form>
+  <div class="kinds" role="group" aria-label="Show">
+    {kinds.map((kind, i) => (
+      <button type="button" class="chip" data-kind={kind} aria-pressed={i === 0 ? "true" : "false"}>
+        {kindLabels[kind]}
+      </button>
+    ))}
+  </div>
+  <p class="status muted small" role="status" aria-live="polite"></p>
+  <ol class="results plain-list"></ol>
+</site-search>
+
+<script>
+  import { normalizeArabic } from "../lib/format"
+
+  interface PagefindResult {
+    url: string
+    excerpt: string
+    meta: { title?: string }
+    filters: { kind?: string[] }
+  }
+  interface Pagefind {
+    init: () => Promise<void>
+    debouncedSearch: (
+      query: string,
+      options?: { filters?: Record<string, string> },
+      ms?: number,
+    ) => Promise<{ results: { data: () => Promise<PagefindResult> }[] } | null>
+  }
+
+  let pagefind: Promise<Pagefind | undefined> | undefined
+  function loadPagefind() {
+    return (pagefind ??= import(/* @vite-ignore */ `${location.origin}/pagefind/pagefind.js`)
+      .then(async (module: Pagefind) => {
+        await module.init()
+        return module
+      })
+      .catch(() => undefined))
+  }
+
+  const PAGE = 20
+
+  class SiteSearch extends HTMLElement {
+    input = this.querySelector("input")!
+    status = this.querySelector(".status")!
+    list = this.querySelector(".results")!
+    kind = "All"
+
+    connectedCallback() {
+      this.querySelector("form")!.addEventListener("submit", (event) => {
+        if (!this.hasAttribute("data-from-url")) event.preventDefault()
+        else {
+          event.preventDefault()
+          this.syncUrl()
+        }
+        void this.run()
+      })
+      this.input.addEventListener("input", () => void this.run())
+      this.querySelector(".kinds")!.addEventListener("click", (event) => {
+        const button = (event.target as Element).closest<HTMLButtonElement>("[data-kind]")
+        if (!button) return
+        this.kind = button.dataset.kind!
+        for (const b of this.querySelectorAll("[data-kind]")) {
+          b.setAttribute("aria-pressed", String(b === button))
+        }
+        void this.run()
+      })
+      this.closest("dialog")?.addEventListener("open", () => {
+        void loadPagefind()
+        requestAnimationFrame(() => {
+          this.input.focus()
+          this.input.select()
+        })
+      })
+      if (this.hasAttribute("data-from-url")) {
+        this.input.value = new URLSearchParams(location.search).get("q") ?? ""
+        this.input.focus()
+        if (this.input.value) void this.run()
+      }
+    }
+
+    syncUrl() {
+      const url = new URL(location.href)
+      url.searchParams.set("q", this.input.value)
+      history.replaceState(null, "", url)
+    }
+
+    async run() {
+      const query = normalizeArabic(this.input.value.trim())
+      if (!query) {
+        this.list.replaceChildren()
+        this.status.textContent = ""
+        return
+      }
+      const engine = await loadPagefind()
+      if (!engine) {
+        this.status.textContent = "Search is available on the built site (npm run build)."
+        return
+      }
+      const options = this.kind === "All" ? {} : { filters: { kind: this.kind } }
+      const search = await engine.debouncedSearch(query, options, 250)
+      if (!search) return // superseded by a newer keystroke
+      const results = await Promise.all(search.results.slice(0, PAGE).map((r) => r.data()))
+      const total = search.results.length
+      this.status.textContent = total
+        ? `${total.toLocaleString("en")} result${total === 1 ? "" : "s"}${total > PAGE ? `, showing the first ${PAGE}` : ""}`
+        : `Nothing found for "${this.input.value.trim()}". Try fewer words, or another language.`
+      this.list.replaceChildren(...results.map((r) => this.item(r)))
+    }
+
+    item(result: PagefindResult) {
+      const li = document.createElement("li")
+      const a = document.createElement("a")
+      a.href = result.url
+      const title = document.createElement("span")
+      title.className = "title"
+      title.textContent = result.meta.title ?? result.url
+      const kind = document.createElement("span")
+      kind.className = "kind"
+      kind.textContent = result.filters.kind?.[0] ?? ""
+      const excerpt = document.createElement("span")
+      excerpt.className = "excerpt"
+      excerpt.innerHTML = result.excerpt // Pagefind escapes the text and adds <mark>
+      a.append(title, kind, excerpt)
+      li.append(a)
+      return li
+    }
+  }
+
+  customElements.define("site-search", SiteSearch)
+</script>
+
+<style>
+  site-search {
+    display: block;
+  }
+
+  input[type="search"] {
+    width: 100%;
+    min-height: 3.25rem;
+    padding: 0.5rem 1rem;
+    font: inherit;
+    font-size: var(--step-1);
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+  }
+
+  input[type="search"]:focus-visible {
+    outline: 2px solid var(--teal);
+    outline-offset: 1px;
+  }
+
+  .kinds {
+    display: flex;
+    gap: 0.4rem;
+    overflow-x: auto;
+    padding-block: 0.75rem 0.25rem;
+    scrollbar-width: none;
+  }
+
+  .kinds .chip {
+    flex: none;
+    cursor: pointer;
+  }
+
+  .kinds .chip[aria-pressed="true"] {
+    background: var(--teal);
+    border-color: var(--teal);
+    color: var(--on-teal);
+  }
+
+  .status {
+    min-height: 1.5rem;
+    margin-block: 0.25rem;
+  }
+
+  .results :global(a) {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0.15rem 1rem;
+    padding: 0.75rem 0;
+    border-block-end: 1px solid var(--line);
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .results :global(a:hover .title) {
+    color: var(--teal);
+    text-decoration: underline;
+  }
+
+  .results :global(.title) {
+    font-weight: 600;
+  }
+
+  .results :global(.kind) {
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+
+  .results :global(.excerpt) {
+    grid-column: 1 / -1;
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+
+  .results :global(mark) {
+    background: var(--teal-wash);
+    color: var(--ink);
+    border-radius: 2px;
+  }
+</style>

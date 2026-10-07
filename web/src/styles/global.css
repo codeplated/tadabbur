@@ -1,0 +1,430 @@
+/*
+ * Tadabbur design tokens and base styles.
+ *
+ * Colour comes from the logo: its teal ink and its gold crescent. Teal carries every
+ * link and action; gold is ornament only (ayah markers, the keffiyeh band) and never
+ * carries text, because it doesn't have the contrast to.
+ *
+ * Three scripts, three faces: Literata for English, Scheherazade New for the Quranic
+ * Arabic, Noto Nastaliq Urdu for Urdu. Each is chosen by `lang`, which the pages set
+ * from the data, never by guessing at the text.
+ */
+
+:root {
+  color-scheme: light;
+  --paper: #f5f7f5;
+  --surface: #ffffff;
+  --sunk: #e8eeec;
+  --line: #d3dcd9;
+  --ink: #17201f;
+  --muted: #53615e;
+  --teal: #2c6461;
+  --teal-strong: #1d4644;
+  --teal-wash: #dcebe8;
+  --gold: #a5822f;
+  --error: #b3261e;
+  --on-teal: #ffffff;
+
+  --font-latin: "Literata Variable", "Iowan Old Style", Georgia, serif;
+  --font-arabic: "Scheherazade New", "Noto Naskh Arabic", "Geeza Pro", serif;
+  --font-urdu: "Noto Nastaliq Urdu Variable", "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif;
+
+  /* A 1.25 scale on a 17px base. */
+  --step--1: 0.85rem;
+  --step-0: 1.0625rem;
+  --step-1: 1.33rem;
+  --step-2: 1.66rem;
+  --step-3: 2.07rem;
+  --step-4: 2.6rem;
+
+  /* Reader's Arabic size, set from preferences. */
+  --arabic-scale: 1;
+  --arabic-verse: calc(1.65rem * var(--arabic-scale));
+
+  --measure: 40rem;
+  --page: 72rem;
+  --gutter: clamp(1rem, 4vw, 2rem);
+  --bar: 3.5rem;
+  --tap: 2.75rem;
+  --radius-s: 0.375rem;
+  --radius-m: 0.75rem;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #0f1615;
+  --surface: #162120;
+  --sunk: #1c2927;
+  --line: #2c3b39;
+  --ink: #e3ebe8;
+  --muted: #9aaba7;
+  --teal: #7fc0b7;
+  --teal-strong: #a5d6cf;
+  --teal-wash: #1d3634;
+  --gold: #d2b46e;
+  --error: #f2b8b5;
+  --on-teal: #0f1615;
+}
+
+:root[data-arabic-size="l"] {
+  --arabic-scale: 1.2;
+}
+:root[data-arabic-size="xl"] {
+  --arabic-scale: 1.45;
+}
+
+@media (min-width: 48rem) {
+  :root {
+    --arabic-verse: calc(2.3rem * var(--arabic-scale));
+  }
+}
+
+/* Reader preferences: each translation can be hidden. */
+:root[data-hide-urdu] .t-urdu,
+:root[data-hide-english] .t-english,
+:root[data-hide-tafsir] .t-tafsir {
+  display: none !important;
+}
+
+@view-transition {
+  navigation: auto;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--bar) + 1rem);
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-latin);
+  font-size: var(--step-0);
+  line-height: 1.6;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  flex: 1;
+}
+
+:lang(ar) {
+  font-family: var(--font-arabic);
+  line-height: 2;
+}
+
+:lang(ur) {
+  font-family: var(--font-urdu);
+  /* Nastaliq stacks letters diagonally and needs the room. */
+  line-height: 2.3;
+  font-size: 0.95em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+  font-weight: 600;
+  margin: 0;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--step-3);
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+h2 {
+  font-size: var(--step-2);
+}
+h3 {
+  font-size: var(--step-1);
+}
+
+p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+a {
+  color: var(--teal);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  color: var(--teal-strong);
+  text-decoration-thickness: 2px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* Layout primitives */
+
+.wrap {
+  width: 100%;
+  max-width: var(--page);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.column {
+  width: 100%;
+  max-width: calc(var(--measure) + 2 * var(--gutter));
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.stack > * + * {
+  margin-block-start: var(--space, 1rem);
+}
+
+.plain-list {
+  list-style: none;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.small {
+  font-size: var(--step--1);
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* A page's opening block: title, the other-script names, a line of facts. */
+.page-head {
+  padding-block: clamp(1.5rem, 5vw, 3rem) 1.5rem;
+}
+
+.page-head .facts {
+  margin-block-start: 0.75rem;
+  color: var(--muted);
+  font-size: var(--step--1);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+}
+
+.section {
+  padding-block: 1.5rem;
+}
+
+.section > h2 {
+  margin-block-end: 1rem;
+}
+
+/* Chips: themes, ayah numbers, filters. */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.25rem;
+  padding: 0.25rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--ink);
+  text-decoration: none;
+  font-size: var(--step--1);
+  line-height: 1.3;
+}
+
+.chip:hover {
+  border-color: var(--teal);
+  color: var(--teal-strong);
+}
+
+.chip[aria-current="page"] {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: var(--on-teal);
+}
+
+.chip .count {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.chip :lang(ur) {
+  line-height: 1.6;
+}
+
+@media (hover: none) {
+  .chip {
+    min-height: var(--tap);
+  }
+}
+
+/* The ornate ayah number, ﴿٢٥٥﴾, in gold. */
+.ayah-mark {
+  font-family: var(--font-arabic);
+  color: var(--gold);
+  white-space: nowrap;
+  font-feature-settings: "lnum" 0;
+}
+
+/* Quran text */
+.verse {
+  font-family: var(--font-arabic);
+  font-size: var(--arabic-verse);
+  line-height: 1.95;
+  text-align: start;
+  word-spacing: 0.05em;
+}
+
+.translation-en {
+  font-size: var(--step-0);
+  line-height: 1.65;
+}
+
+.translation-ur {
+  font-size: calc(var(--step-0) * 1.05);
+}
+
+/* Buttons */
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: var(--tap);
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid var(--teal);
+  background: var(--teal);
+  color: var(--on-teal);
+  text-decoration: none;
+  font-weight: 550;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: var(--teal-strong);
+  border-color: var(--teal-strong);
+  color: var(--on-teal);
+}
+
+.button.quiet {
+  background: transparent;
+  color: var(--teal);
+}
+
+.button.quiet:hover {
+  background: var(--teal-wash);
+  color: var(--teal-strong);
+}
+
+.icon-button {
+  display: inline-grid;
+  place-items: center;
+  width: var(--tap);
+  height: var(--tap);
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.icon-button:hover {
+  background: var(--sunk);
+}
+
+.icon-button svg {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
+/* Native dialogs: menu, search, reading settings. */
+dialog.sheet {
+  border: 0;
+  padding: 0;
+  max-width: min(36rem, 100vw);
+  width: 100%;
+  max-height: 100dvh;
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: var(--radius-m);
+  box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 0.25);
+}
+
+dialog.sheet::backdrop {
+  background: rgb(10 20 19 / 0.45);
+}
+
+@media (max-width: 47.99rem) {
+  dialog.sheet {
+    margin: 0;
+    margin-block-start: auto;
+    max-width: 100vw;
+    border-radius: var(--radius-m) var(--radius-m) 0 0;
+  }
+  dialog.sheet.top {
+    margin-block: 0 auto;
+    border-radius: 0 0 var(--radius-m) var(--radius-m);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  @view-transition {
+    navigation: none;
+  }
+}

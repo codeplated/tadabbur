@@ -1,0 +1,50 @@
+---
+import PeopleList from "../../../components/PeopleList.astro"
+import Base from "../../../layouts/Base.astro"
+import { href, pathLabel } from "../../../lib/format"
+import { site, type Path } from "../../../lib/site"
+
+export function getStaticPaths() {
+  return (["straight", "deviated", "mixed"] as const).map((path) => ({ params: { path } }))
+}
+
+const path = Astro.params.path as Path
+const s = await site()
+const people = s.peopleOnPath(path)
+const urdu = people[0]?.pathLabel.ur
+const intro: Record<Path, string> = {
+  straight: "Those the Quran holds up as guided: prophets, the righteous and the faithful.",
+  deviated: "Those who turned away, and whose stories the Quran tells as warnings.",
+  mixed: "Those who erred and repented, or whose story the Quran leaves complex.",
+}
+---
+
+<Base title={pathLabel[path]} description={intro[path]}>
+  <div class="wrap">
+    <header class="page-head">
+      <p class="muted small">
+        <a href={href.people}>People of the Quran</a>
+      </p>
+      <h1>{pathLabel[path]}</h1>
+      {urdu && (
+        <p class="ur" lang="ur" dir="rtl">
+          {urdu}
+        </p>
+      )}
+      <p class="facts">
+        {intro[path]} {people.length} people, in rough order of history.
+      </p>
+    </header>
+    <PeopleList people={people} showPath={false} />
+  </div>
+</Base>
+
+<style>
+  .page-head .small a {
+    color: var(--muted);
+  }
+  .ur {
+    font-size: var(--step-2);
+    color: var(--muted);
+  }
+</style>

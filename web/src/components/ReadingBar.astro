@@ -1,0 +1,161 @@
+---
+/**
+ * The bar along the bottom of an ayah page, where a thumb can reach it: previous, play,
+ * next. Previous and next are plain links; play drives the page's <audio id="recitation">
+ * and only appears once its script has run.
+ */
+import Icon from "./Icon.astro"
+
+interface Link {
+  href: string
+  label: string
+}
+
+interface Props {
+  label: string
+  previous?: Link | undefined
+  next?: Link | undefined
+}
+
+const { label, previous, next } = Astro.props
+---
+
+<nav class="reading-bar" aria-label="Ayah navigation">
+  <div class="inner">
+    {previous ? (
+      <a class="step" href={previous.href} rel="prev" data-key="ArrowLeft">
+        <Icon name="prev" />
+        <span>{previous.label}</span>
+      </a>
+    ) : (
+      <span class="step" />
+    )}
+    <play-recitation hidden>
+      <button type="button" class="play" aria-label={`Play ${label}`} aria-pressed="false">
+        <span class="icon-play">
+          <Icon name="play" />
+        </span>
+        <span class="icon-pause">
+          <Icon name="pause" />
+        </span>
+      </button>
+    </play-recitation>
+    {next ? (
+      <a class="step next" href={next.href} rel="next" data-key="ArrowRight">
+        <span>{next.label}</span>
+        <Icon name="next" />
+      </a>
+    ) : (
+      <span class="step" />
+    )}
+  </div>
+</nav>
+
+<script>
+  class PlayRecitation extends HTMLElement {
+    connectedCallback() {
+      const audio = document.getElementById("recitation") as HTMLAudioElement | null
+      if (!audio) return
+      const button = this.querySelector("button")!
+      const sync = () => {
+        this.toggleAttribute("playing", !audio.paused)
+        button.setAttribute("aria-pressed", String(!audio.paused))
+      }
+      audio.addEventListener("play", sync)
+      audio.addEventListener("pause", sync)
+      audio.addEventListener("ended", sync)
+      button.addEventListener("click", () => (audio.paused ? void audio.play() : audio.pause()))
+      this.hidden = false
+    }
+  }
+  customElements.define("play-recitation", PlayRecitation)
+
+  // Arrow keys step between ayaat, unless the reader is typing or a dialog is open.
+  document.addEventListener("keydown", (event) => {
+    if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
+    if ((event.target as Element).closest("input, textarea, select, audio, dialog")) return
+    const link = document.querySelector<HTMLAnchorElement>(`.reading-bar [data-key="${event.key}"]`)
+    if (link) location.href = link.href
+  })
+</script>
+
+<style>
+  .reading-bar {
+    position: sticky;
+    bottom: 0;
+    z-index: 10;
+    padding-block-end: env(safe-area-inset-bottom);
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
+    backdrop-filter: blur(10px);
+    border-block-start: 1px solid var(--line);
+  }
+
+  .inner {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    max-width: calc(var(--measure) + 2 * var(--gutter));
+    margin-inline: auto;
+    padding-inline: calc(var(--gutter) - 0.5rem);
+    height: var(--bar);
+  }
+
+  .step {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    min-height: var(--tap);
+    padding-inline: 0.5rem;
+    color: var(--ink);
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    justify-self: start;
+  }
+
+  .step.next {
+    justify-self: end;
+  }
+
+  .step :global(svg) {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  .step:hover {
+    color: var(--teal);
+  }
+
+  .play {
+    display: grid;
+    place-items: center;
+    width: 3rem;
+    height: 3rem;
+    border: 0;
+    border-radius: 999px;
+    background: var(--teal);
+    color: var(--on-teal);
+    cursor: pointer;
+  }
+
+  .play:hover {
+    background: var(--teal-strong);
+  }
+
+  .play :global(svg) {
+    width: 1.3rem;
+    height: 1.3rem;
+  }
+
+  .icon-pause,
+  play-recitation[playing] .icon-play {
+    display: none;
+  }
+
+  play-recitation[playing] .icon-pause {
+    display: contents;
+  }
+
+  .icon-play {
+    display: contents;
+  }
+</style>

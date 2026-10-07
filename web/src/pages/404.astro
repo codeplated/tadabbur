@@ -1,0 +1,22 @@
+---
+import Base from "../layouts/Base.astro"
+import { href } from "../lib/format"
+---
+
+<Base title="Page not found" noindex>
+  <div class="column page-head stack">
+    <h1>This page doesn't exist</h1>
+    <p>
+      The link may be mistyped. Ayaat live at addresses like <a href="/2/255/">/2/255/</a> and
+      surahs at <a href="/36/">/36/</a>.
+    </p>
+    <p>
+      <a class="button" href={href.home}>
+        Go to the home page
+      </a>
+      <a class="button quiet" href={href.search}>
+        Search
+      </a>
+    </p>
+  </div>
+</Base>

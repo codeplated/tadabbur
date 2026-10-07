@@ -1,0 +1,101 @@
+---
+import { href } from "../lib/format"
+import Icon from "./Icon.astro"
+---
+
+<footer class="footer">
+  <div class="keffiyeh" aria-hidden="true"></div>
+  <div class="wrap inner">
+    <nav aria-label="Footer">
+      <a href={href.surahs}>Surahs</a>
+      <a href={href.themes}>Themes</a>
+      <a href={href.names}>Names of Allah</a>
+      <a href={href.people}>People</a>
+      <a href={href.search}>Search</a>
+      <button class="link" type="button" data-open="feedback-dialog">
+        Send feedback
+      </button>
+    </nav>
+    <p class="credit">Recitation by Mishary Alafasy. Tafsir: Bayan ul Quran.</p>
+    <p class="credit">
+      Made with love by{" "}
+      <a href="https://belambo.com" rel="noopener" target="_blank">
+        Belambo
+      </a>
+      <a
+        class="github"
+        href="https://github.com/codeplated/tadabbur"
+        rel="noopener"
+        target="_blank"
+        aria-label="Source on GitHub"
+      >
+        <Icon name="github" />
+      </a>
+    </p>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    margin-block-start: 4rem;
+    color: var(--muted);
+    font-size: var(--step--1);
+  }
+
+  /* The keffiyeh weave, painted in the theme's ink through the SVG as a mask. */
+  .keffiyeh {
+    height: 2.5rem;
+    background: var(--ink);
+    opacity: 0.85;
+    mask: url("/keffiyeh.svg") left top / 1.5rem 2.5rem repeat-x;
+  }
+
+  .inner {
+    display: grid;
+    gap: 0.75rem;
+    padding-block: 1.5rem calc(2rem + env(safe-area-inset-bottom));
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+  }
+
+  nav a,
+  nav .link {
+    color: var(--ink);
+    min-height: var(--tap);
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .credit {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .link {
+    padding: 0;
+    font: inherit;
+    text-decoration: underline;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .github {
+    display: inline-grid;
+    place-items: center;
+    width: var(--tap);
+    height: var(--tap);
+    color: var(--muted);
+  }
+
+  .github :global(svg) {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+</style>

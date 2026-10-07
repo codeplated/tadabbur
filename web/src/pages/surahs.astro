@@ -1,0 +1,44 @@
+---
+import SurahCard from "../components/SurahCard.astro"
+import Base from "../layouts/Base.astro"
+import { site } from "../lib/site"
+
+const { surahs } = await site()
+---
+
+<Base title="Surahs" description="All 114 surahs of the Quran, in order.">
+  <div class="wrap">
+    <header class="page-head">
+      <h1>Surahs</h1>
+      <p class="facts">All 114, in the order of the mushaf.</p>
+    </header>
+    <ol class="grid plain-list">
+      {surahs.map((surah, i) => (
+        <li>
+          <SurahCard surah={surah} eager={i < 4} />
+        </li>
+      ))}
+    </ol>
+  </div>
+</Base>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  @media (min-width: 48rem) {
+    .grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+</style>
