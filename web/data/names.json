@@ -1,0 +1,3786 @@
+[
+  {
+    "id": "allah",
+    "number": 1,
+    "transliteration": "Allah",
+    "arabic": "ٱللَّه",
+    "urdu": "اللہ",
+    "english": "The One God",
+    "root": "أ-ل-ه",
+    "rootMeaning": "To be worshipped",
+    "category": "names-of-essential-nature",
+    "occurrences": 2699,
+    "meaning": {
+      "en": "The greatest and most comprehensive name of Allah. It is the proper name of God that encompasses all His attributes. Unlike all other names, 'Allah' cannot be made plural, feminine, or derived into other forms — it is unique and absolute. Every other name of Allah is a description; this is His name.",
+      "ur": "یہ اللہ کا ذاتی نام ہے جو تمام صفات کو محیط ہے۔ یہ نام نہ جمع ہو سکتا ہے نہ مؤنث — یہ مطلق اور منفرد ہے۔"
+    },
+    "inDailyLife": "When you say 'Bismillah' before any action, you invoke the complete reality of God. This name reminds you that all power, provision, and mercy flows from one single source.",
+    "keyAyaat": [
+      "2:255",
+      "59:22",
+      "59:23",
+      "112:1"
+    ],
+    "related": [
+      "al-hayy",
+      "al-qayyum",
+      "al-wahid",
+      "al-ahad",
+      "al-awwal",
+      "al-akhir",
+      "al-ghani",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "dhikr"
+    ]
+  },
+  {
+    "id": "ar-rahman",
+    "number": 2,
+    "transliteration": "Ar-Rahman",
+    "arabic": "ٱلرَّحْمَـٰن",
+    "urdu": "بے حد رحم کرنے والا",
+    "english": "The Most Gracious",
+    "root": "ر-ح-م",
+    "rootMeaning": "Womb-like tenderness, encompassing mercy",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 57,
+    "meaning": {
+      "en": "Ar-Rahman describes Allah's vast, all-encompassing mercy that extends to every single created thing — believer and disbeliever, human and animal, seen and unseen. This mercy is active right now, in this moment. It is not earned. The linguistic root (rahma) shares its origin with the word for womb (rahim) — suggesting a mercy that is innate, unconditional, and life-giving.",
+      "ur": "رحمان وہ ہے جس کی رحمت ہر چیز کو ڈھانپے ہوئے ہے — مومن ہو یا کافر۔ یہ رحمت بغیر کسی کے مانگے ملتی ہے۔"
+    },
+    "inDailyLife": "Every morning you wake up is Ar-Rahman in action. Every breath, every heartbeat is unearned mercy. When you feel unworthy of God's attention, remember — Ar-Rahman's mercy does not require your worthiness.",
+    "keyAyaat": [
+      "1:3",
+      "2:163",
+      "17:110",
+      "20:5",
+      "55:1",
+      "59:22"
+    ],
+    "related": [
+      "ar-rahim",
+      "al-ghaffar",
+      "al-halim",
+      "al-ghafur",
+      "al-barr",
+      "at-tawwab",
+      "al-afuww",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "ar-rahim",
+    "number": 3,
+    "transliteration": "Ar-Rahim",
+    "arabic": "ٱلرَّحِيم",
+    "urdu": "بار بار رحم کرنے والا",
+    "english": "The Most Merciful",
+    "root": "ر-ح-م",
+    "rootMeaning": "Mercy that returns repeatedly",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 95,
+    "meaning": {
+      "en": "While Ar-Rahman is the vast mercy given to all creation without condition, Ar-Rahim is the specific, focused mercy Allah reserves especially for the believers — particularly in the Hereafter. Ar-Rahman is the ocean; Ar-Rahim is the river directed toward those who turn to Him.",
+      "ur": "رحیم وہ رحمت ہے جو بار بار آتی ہے اور خاص طور پر مومنوں کے لیے آخرت میں ظاہر ہوگی۔ رحمان عام ہے، رحیم خاص۔"
+    },
+    "inDailyLife": "When you repent after making a mistake, you are turning to Ar-Rahim — the mercy that comes back to you again and again, no matter how many times you fall.",
+    "keyAyaat": [
+      "1:3",
+      "2:37",
+      "2:54",
+      "2:128",
+      "4:100",
+      "33:43",
+      "48:14"
+    ],
+    "related": [
+      "ar-rahman",
+      "al-ghaffar",
+      "al-halim",
+      "al-ghafur",
+      "ash-shakur",
+      "at-tawwab",
+      "al-afuww",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "tawbah",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "al-malik",
+    "number": 4,
+    "transliteration": "Al-Malik",
+    "arabic": "ٱلْمَلِك",
+    "urdu": "بادشاہ",
+    "english": "The Absolute Sovereign",
+    "root": "م-ل-ك",
+    "rootMeaning": "To possess, to govern",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 5,
+    "meaning": {
+      "en": "Al-Malik is the King whose dominion is absolute, unconditional, and eternal. Human kings borrow their authority, lose it, and die. Al-Malik owns everything inherently — nothing in creation exists outside His kingdom. On the Day of Judgment, all pretended sovereignties dissolve and only Al-Malik remains (40:16).",
+      "ur": "اللہ وہ بادشاہ ہے جس کی بادشاہت حقیقی اور ابدی ہے۔ دنیا کے بادشاہ عاریتی اقتدار رکھتے ہیں — اللہ کی ملکیت ذاتی اور مطلق ہے۔"
+    },
+    "inDailyLife": "When you feel powerless before worldly authorities, Al-Malik reminds you that the ultimate authority rests elsewhere. No decree of any earthly king can override His.",
+    "keyAyaat": [
+      "20:114",
+      "23:116",
+      "59:23",
+      "62:1",
+      "114:2"
+    ],
+    "related": [
+      "al-muhaymin",
+      "al-aziz",
+      "al-jabbar",
+      "al-mutakabbir",
+      "malik-ul-mulk",
+      "dhul-jalali-wal-ikram",
+      "al-mani",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "leadership",
+      "akhirah"
+    ]
+  },
+  {
+    "id": "al-quddus",
+    "number": 5,
+    "transliteration": "Al-Quddus",
+    "arabic": "ٱلْقُدُّوس",
+    "urdu": "پاک ذات",
+    "english": "The Most Pure, The Holy",
+    "root": "ق-د-س",
+    "rootMeaning": "To be pure, free of all defect",
+    "category": "names-of-holiness",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Quddus is absolutely free from every imperfection, limitation, deficiency, and defect — in His essence, attributes, and actions. Everything in creation has some flaw; Al-Quddus is transcendent beyond all of them. The angels constantly declare His holiness.",
+      "ur": "قدوس وہ ہے جو ہر عیب، کمزوری اور نقص سے پاک ہے۔ فرشتے اس کی تسبیح کرتے ہیں۔"
+    },
+    "inDailyLife": "When you doubt whether Allah could be just given the suffering you see, Al-Quddus answers — His wisdom is pure of any injustice.",
+    "keyAyaat": [
+      "59:23",
+      "62:1"
+    ],
+    "related": [],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "dhikr"
+    ]
+  },
+  {
+    "id": "as-salam",
+    "number": 6,
+    "transliteration": "As-Salam",
+    "arabic": "ٱلسَّلَام",
+    "urdu": "سلامتی دینے والا",
+    "english": "The Source of Peace",
+    "root": "س-ل-م",
+    "rootMeaning": "Peace, wholeness, freedom from defect",
+    "category": "names-of-peace-security",
+    "occurrences": 1,
+    "meaning": {
+      "en": "As-Salam is the source and embodiment of all peace — He Himself is free from every deficiency, and He is the giver of peace to His creation. The greeting of the people of Jannah will be 'Salam' (14:23), and Jannah itself is called Dar as-Salam — the Abode of Peace.",
+      "ur": "السلام وہ ہے جو خود سلامتی کا سرچشمہ ہے۔ جنت کو 'دارالسلام' اسی لیے کہا گیا کہ وہاں حقیقی سکون ہوگا۔"
+    },
+    "inDailyLife": "Anxiety often comes from seeking peace in things that cannot give it. As-Salam is a reminder that peace is a Person to turn to, not a circumstance to achieve.",
+    "keyAyaat": [
+      "59:23"
+    ],
+    "related": [
+      "al-mumin"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "anxiety-fear",
+      "jannah"
+    ]
+  },
+  {
+    "id": "al-mumin",
+    "number": 7,
+    "transliteration": "Al-Mu'min",
+    "arabic": "ٱلْمُؤْمِن",
+    "urdu": "امان دینے والا",
+    "english": "The Granter of Security",
+    "root": "أ-م-ن",
+    "rootMeaning": "Security, faith, trust",
+    "category": "names-of-peace-security",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Mu'min gives security and safety to His creation. He is the source of iman itself. He testified to His own oneness (3:18), and He grants the believer the security of faith — that deep internal steadiness that cannot be shaken by external events.",
+      "ur": "المومن وہ ہے جو امن اور ایمان عطا کرتا ہے۔ مومن کو جو دل کا سکون ملتا ہے وہ اسی نام کا عطیہ ہے۔"
+    },
+    "inDailyLife": "When you feel unsafe in the world, Al-Mu'min is the ultimate guarantor of security. The physical world may be unpredictable, but His protection of your soul is absolute.",
+    "keyAyaat": [
+      "59:23"
+    ],
+    "related": [
+      "as-salam"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "anxiety-fear",
+      "iman"
+    ]
+  },
+  {
+    "id": "al-muhaymin",
+    "number": 8,
+    "transliteration": "Al-Muhaymin",
+    "arabic": "ٱلْمُهَيْمِن",
+    "urdu": "نگہبان",
+    "english": "The Guardian, The Overseer",
+    "root": "ه-ي-م-ن",
+    "rootMeaning": "To watch over, to protect, to be witness",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Muhaymin watches over all things, protects them, and is fully aware of every detail. Nothing escapes His observation. He oversees the Quran as the guardian of all previous scriptures (5:48). He observes every secret thought, every hidden action — not as surveillance, but as protection.",
+      "ur": "المہیمن ہر چیز پر نگہبان ہے۔ قرآن کو بھی 'مہیمن' کہا گیا ہے کیونکہ وہ پچھلی کتابوں کا محافظ ہے۔"
+    },
+    "inDailyLife": "Every good deed done in private, every sacrifice no one saw — Al-Muhaymin witnessed it all. When you worry your good deeds go unnoticed, He has witnessed every one of them.",
+    "keyAyaat": [
+      "59:23"
+    ],
+    "related": [
+      "al-malik",
+      "al-aziz",
+      "al-jabbar",
+      "al-mutakabbir",
+      "al-qahhar",
+      "dhul-jalali-wal-ikram",
+      "al-mani",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "taqwa",
+      "ikhlas",
+      "revelation"
+    ]
+  },
+  {
+    "id": "al-aziz",
+    "number": 9,
+    "transliteration": "Al-Aziz",
+    "arabic": "ٱلْعَزِيز",
+    "urdu": "غالب",
+    "english": "The Almighty, The Invincible",
+    "root": "ع-ز-ز",
+    "rootMeaning": "To be mighty, rare, precious, unconquerable",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 92,
+    "meaning": {
+      "en": "Al-Aziz is the One whose might is absolute and unconquerable. He is never defeated, never overwhelmed, never overpowered. He is often paired with Al-Hakim (the Wise) — His power is always purposeful, never arbitrary.",
+      "ur": "العزیز وہ ہے جو ہر چیز پر غالب ہے۔ یہ نام اکثر 'الحکیم' کے ساتھ آتا ہے — طاقت اور حکمت لازم و ملزوم ہیں۔"
+    },
+    "inDailyLife": "When you face opponents or injustice that seems impossible to resist, Al-Aziz is the One whose support makes you unconquerable. If He is with you, who can truly overpower you?",
+    "keyAyaat": [
+      "2:129",
+      "2:209",
+      "2:220",
+      "3:6",
+      "4:158",
+      "59:23"
+    ],
+    "related": [
+      "al-malik",
+      "al-muhaymin",
+      "al-jabbar",
+      "al-mutakabbir",
+      "al-qahhar",
+      "al-qabid",
+      "al-mani",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawakkul",
+      "oppression"
+    ]
+  },
+  {
+    "id": "al-jabbar",
+    "number": 10,
+    "transliteration": "Al-Jabbar",
+    "arabic": "ٱلْجَبَّار",
+    "urdu": "جبر کرنے والا، ٹوٹے کو جوڑنے والا",
+    "english": "The Compeller, The Restorer",
+    "root": "ج-ب-ر",
+    "rootMeaning": "To compel, to set broken bones, to restore",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Jabbar has a dual beauty: the One who compels all things to His will, AND the One who repairs what is broken — the same root gives 'jabira' (a splint that sets broken bones). Human tyrants are 'jabbar' in a negative sense; Allah's jabr is the compulsion that restores justice and heals the broken-hearted.",
+      "ur": "الجبار کے دو معنی ہیں: وہ جو ہر چیز کو اپنی مرضی پر مجبور کرتا ہے، اور وہ جو ٹوٹے ہوئے کو جوڑتا ہے۔ دنیا کے جبار ظالم ہوتے ہیں — اللہ کا جبر رحمت ہے۔"
+    },
+    "inDailyLife": "If you are broken — by loss, betrayal, failure, illness — Al-Jabbar is the Divine Healer who sets broken things back together. You don't have to hold yourself together alone.",
+    "keyAyaat": [
+      "59:23"
+    ],
+    "related": [
+      "al-malik",
+      "al-muhaymin",
+      "al-aziz",
+      "al-mutakabbir",
+      "al-qahhar",
+      "al-qabid",
+      "al-khafid",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "grief-loss",
+      "hope-raja",
+      "oppression"
+    ]
+  },
+  {
+    "id": "al-mutakabbir",
+    "number": 11,
+    "transliteration": "Al-Mutakabbir",
+    "arabic": "ٱلْمُتَكَبِّر",
+    "urdu": "بڑائی والا",
+    "english": "The Supremely Great",
+    "root": "ك-ب-ر",
+    "rootMeaning": "Greatness, magnitude",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Mutakabbir is the One whose greatness is absolute — He alone has the right to this attribute. When a human exhibits kibr (arrogance), it is a sin because they are claiming a quality that belongs only to Allah. A hadith qudsi states: 'Pride is My cloak and Greatness is My garment — whoever contests Me in either, I will punish.'",
+      "ur": "المتکبر حقیقی معنوں میں بڑا ہے۔ انسان کا تکبر گناہ ہے کیونکہ وہ اللہ کی صفت میں شریک ہونے کی کوشش کرتا ہے۔"
+    },
+    "inDailyLife": "Whenever arrogance rises in you — about achievements, looks, status, or knowledge — Al-Mutakabbir is the reminder that true greatness belongs to One alone.",
+    "keyAyaat": [
+      "59:23"
+    ],
+    "related": [
+      "al-malik",
+      "al-muhaymin",
+      "al-aziz",
+      "al-jabbar",
+      "al-qahhar",
+      "al-qabid",
+      "al-khafid",
+      "ar-rafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "kibr"
+    ]
+  },
+  {
+    "id": "al-khaliq",
+    "number": 12,
+    "transliteration": "Al-Khaliq",
+    "arabic": "ٱلْخَالِق",
+    "urdu": "پیدا کرنے والا",
+    "english": "The Creator",
+    "root": "خ-ل-ق",
+    "rootMeaning": "To create from nothing, to measure precisely",
+    "category": "names-of-creation",
+    "occurrences": 8,
+    "meaning": {
+      "en": "Al-Khaliq creates from absolute nothingness — a creative act utterly unique to Allah. Human 'creation' is always a rearrangement of existing matter; Allah's creation is ex nihilo. The root also carries meaning of precision and measurement — everything He creates is exactly calibrated to its purpose.",
+      "ur": "الخالق وہ ہے جو عدم سے وجود بناتا ہے۔ انسان صرف موجود چیزوں کو بدلتا ہے — اللہ نیستی سے ہستی بناتا ہے۔"
+    },
+    "inDailyLife": "When you feel like you have no resources to work with, Al-Khaliq creates from nothing. Your apparent emptiness is not a limitation on what He can build through you.",
+    "keyAyaat": [
+      "6:102",
+      "13:16",
+      "15:28",
+      "23:14",
+      "35:3",
+      "39:62",
+      "40:62",
+      "59:24"
+    ],
+    "related": [
+      "al-bari",
+      "al-musawwir",
+      "al-mubdi",
+      "al-muid",
+      "al-muhyi",
+      "al-badi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "nature-signs",
+      "human-creation",
+      "tawheed"
+    ]
+  },
+  {
+    "id": "al-bari",
+    "number": 13,
+    "transliteration": "Al-Bari'",
+    "arabic": "ٱلْبَارِئ",
+    "urdu": "بنانے والا",
+    "english": "The Originator, The Evolver",
+    "root": "ب-ر-أ",
+    "rootMeaning": "To bring into existence distinct from all else",
+    "category": "names-of-creation",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Bari' creates things distinct from one another — He individuates creation into unique forms. While Al-Khaliq emphasizes creation from nothing, Al-Bari' emphasizes that each thing is made distinct, with its own identity. No two faces, no two fingerprints, no two souls are alike.",
+      "ur": "الباری وہ ہے جو ہر چیز کو الگ اور منفرد بناتا ہے۔ کوئی دو چہرے، دو انگلیوں کے نشان، دو روحیں یکساں نہیں۔"
+    },
+    "inDailyLife": "You were created distinct from every other human who has ever lived. Al-Bari' did not make you a copy. Your uniqueness is not accidental — it is divinely intentional.",
+    "keyAyaat": [
+      "2:54",
+      "59:24"
+    ],
+    "related": [
+      "al-khaliq",
+      "al-musawwir",
+      "al-mubdi",
+      "al-muid",
+      "al-muhyi",
+      "al-badi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "human-creation",
+      "nature-signs"
+    ]
+  },
+  {
+    "id": "al-musawwir",
+    "number": 14,
+    "transliteration": "Al-Musawwir",
+    "arabic": "ٱلْمُصَوِّر",
+    "urdu": "صورت بنانے والا",
+    "english": "The Fashioner of Forms",
+    "root": "ص-و-ر",
+    "rootMeaning": "To give shape and form",
+    "category": "names-of-creation",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Musawwir is the Divine Artist who gives every created thing its unique form, shape, and appearance. He shapes the child in the womb exactly as He wills (3:6). Every face, every snowflake, every leaf is His artistry. To look at any created thing with wonder is to witness Al-Musawwir at work.",
+      "ur": "المصور وہ ہے جو ہر چیز کو اس کی منفرد شکل دیتا ہے۔ ماں کے پیٹ میں بچے کی صورت وہی بناتا ہے۔"
+    },
+    "inDailyLife": "When you struggle with your appearance, Al-Musawwir shaped you deliberately, with intention. Your form is His direct handiwork.",
+    "keyAyaat": [
+      "3:6",
+      "59:24"
+    ],
+    "related": [
+      "al-khaliq",
+      "al-bari",
+      "al-mubdi",
+      "al-muid",
+      "al-muhyi",
+      "al-badi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "human-creation",
+      "nature-signs"
+    ]
+  },
+  {
+    "id": "al-ghaffar",
+    "number": 15,
+    "transliteration": "Al-Ghaffar",
+    "arabic": "ٱلْغَفَّار",
+    "urdu": "بار بار بخشنے والا",
+    "english": "The Repeatedly Forgiving",
+    "root": "غ-ف-ر",
+    "rootMeaning": "To cover, to conceal, to forgive",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 5,
+    "meaning": {
+      "en": "Al-Ghaffar is not just 'forgiving' but repeatedly, continuously forgiving. The root 'ghafara' comes from 'mighfar' (helmet) — forgiveness is a covering that protects you from the consequences of your sins. He forgives the same person for the same type of sin, time after time.",
+      "ur": "الغفار بار بار معاف کرنے والا ہے۔ مغفرت کا مطلب ہے گناہ کو ڈھانپ دینا تاکہ کوئی نہ دیکھے۔"
+    },
+    "inDailyLife": "The sin you keep committing and repenting from — Al-Ghaffar does not tire of your repentance. As long as you return, He keeps forgiving. The door is never closed.",
+    "keyAyaat": [
+      "20:82",
+      "38:66",
+      "39:5",
+      "40:42",
+      "71:10"
+    ],
+    "related": [
+      "ar-rahman",
+      "ar-rahim",
+      "al-halim",
+      "al-ghafur",
+      "ash-shakur",
+      "al-wadud",
+      "al-afuww",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "tawbah",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "al-qahhar",
+    "number": 16,
+    "transliteration": "Al-Qahhar",
+    "arabic": "ٱلْقَهَّار",
+    "urdu": "زبردست غالب",
+    "english": "The Subduer, The Dominant",
+    "root": "ق-ه-ر",
+    "rootMeaning": "To overpower completely, to subdue utterly",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 6,
+    "meaning": {
+      "en": "Al-Qahhar subdues and overpowers all things completely — nothing can resist His will. Every tyrant, every ego ultimately bows to Al-Qahhar. This name appears frequently in the context of the Day of Judgment when all false powers are finally and completely subdued (40:16).",
+      "ur": "القہار وہ ہے جو ہر چیز کو مکمل طور پر مغلوب کر دیتا ہے۔ قیامت کے دن تمام جھوٹی طاقتیں اس کے سامنے ڈھیر ہو جائیں گی۔"
+    },
+    "inDailyLife": "When you witness injustice going unpunished, Al-Qahhar will ultimately subdue every oppressor. No power permanently escapes His grip.",
+    "keyAyaat": [
+      "6:18",
+      "6:61",
+      "12:39",
+      "13:16",
+      "14:48",
+      "38:65",
+      "39:4",
+      "40:16"
+    ],
+    "related": [
+      "al-muhaymin",
+      "al-aziz",
+      "al-jabbar",
+      "al-mutakabbir",
+      "al-qabid",
+      "al-khafid",
+      "ar-rafi",
+      "al-muizz"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "oppression",
+      "akhirah"
+    ]
+  },
+  {
+    "id": "al-wahhab",
+    "number": 17,
+    "transliteration": "Al-Wahhab",
+    "arabic": "ٱلْوَهَّاب",
+    "urdu": "بے حساب عطا کرنے والا",
+    "english": "The Bestower, The Giver of Gifts",
+    "root": "و-ه-ب",
+    "rootMeaning": "To give freely without compensation",
+    "category": "names-of-generosity-provision",
+    "occurrences": 3,
+    "meaning": {
+      "en": "Al-Wahhab gives freely, abundantly, and without any expectation of return. Unlike human giving which is often transactional, Al-Wahhab's gifts require nothing — no payment, no gratitude, no worthiness. Ibrahim asked for righteous children (3:38), Sulayman asked for an unrivalled kingdom (38:35) — both invoking Al-Wahhab.",
+      "ur": "الوہاب بغیر کسی معاوضے کے دیتا ہے — کثرت سے، بار بار۔ ابراہیم اور سلیمان علیہم السلام نے اسی نام سے دعا مانگی۔"
+    },
+    "inDailyLife": "When you feel you have nothing to offer Allah in exchange for what you need, Al-Wahhab gives without requiring exchange. Your emptiness is not a barrier to His generosity.",
+    "keyAyaat": [
+      "3:8",
+      "3:38",
+      "38:9",
+      "38:35"
+    ],
+    "related": [
+      "ar-razzaq",
+      "al-fattah",
+      "al-basit",
+      "al-muqit",
+      "al-karim",
+      "al-mujib",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "dua",
+      "rizq",
+      "shukr"
+    ]
+  },
+  {
+    "id": "ar-razzaq",
+    "number": 18,
+    "transliteration": "Ar-Razzaq",
+    "arabic": "ٱلرَّزَّاق",
+    "urdu": "روزی دینے والا",
+    "english": "The Provider, The Sustainer",
+    "root": "ر-ز-ق",
+    "rootMeaning": "To provide sustenance, to supply what is needed",
+    "category": "names-of-generosity-provision",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Ar-Razzaq provides all sustenance — physical, spiritual, emotional, intellectual. Every form of provision comes from Ar-Razzaq. A key insight: rizq does not mean only money; it includes every good thing you receive — your health, your relationships, your ability to understand.",
+      "ur": "الرزاق ہر قسم کا رزق دیتا ہے — کھانا، پانی، علم، محبت، صحت۔ رزق صرف پیسہ نہیں — ہر نعمت رزق ہے۔"
+    },
+    "inDailyLife": "Anxiety about income is addressed directly by this name. Ar-Razzaq has never failed to provide for any of His creation since the beginning of time — and you are no exception.",
+    "keyAyaat": [
+      "51:58",
+      "11:6",
+      "29:60",
+      "34:24",
+      "35:3"
+    ],
+    "related": [
+      "al-wahhab",
+      "al-fattah",
+      "al-basit",
+      "al-muqit",
+      "al-karim",
+      "al-mujib",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "tawakkul",
+      "work-ethics"
+    ]
+  },
+  {
+    "id": "al-fattah",
+    "number": 19,
+    "transliteration": "Al-Fattah",
+    "arabic": "ٱلْفَتَّاح",
+    "urdu": "کھولنے والا، فیصلہ کرنے والا",
+    "english": "The Opener, The Judge",
+    "root": "ف-ت-ح",
+    "rootMeaning": "To open, to grant victory, to judge",
+    "category": "names-of-generosity-provision",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Fattah opens what is closed — locked doors, blocked paths, closed hearts, sealed provisions. The word 'fath' means both 'opening' and 'victory'. He opens the doors of mercy, knowledge, rizq, and opportunity when all human means have been exhausted.",
+      "ur": "الفتاح بند دروازے کھولتا ہے — روزی کے، رحمت کے، علم کے، موقع کے۔ جب تمام انسانی راستے بند ہو جائیں، الفتاح کا دروازہ کھلتا ہے۔"
+    },
+    "inDailyLife": "When every door seems closed — a job, a relationship, a solution — Al-Fattah is the name to invoke. No situation is permanently sealed against His decree.",
+    "keyAyaat": [
+      "34:26",
+      "35:2"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-basit",
+      "al-muqit",
+      "al-karim",
+      "al-mujib",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "hope-raja",
+      "rahmah"
+    ]
+  },
+  {
+    "id": "al-alim",
+    "number": 20,
+    "transliteration": "Al-Alim",
+    "arabic": "ٱلْعَلِيم",
+    "urdu": "سب کچھ جاننے والا",
+    "english": "The All-Knowing",
+    "root": "ع-ل-م",
+    "rootMeaning": "Knowledge, awareness, certainty",
+    "category": "names-of-knowledge",
+    "occurrences": 157,
+    "meaning": {
+      "en": "Al-Alim's knowledge is absolute, complete, and eternal — encompassing everything that was, is, and will be. It includes the seen and unseen, the spoken and the silent thought. A key implication: your du'a does not inform Allah of your need — He already knows it in full detail. The du'a is for you.",
+      "ur": "العلیم کا علم مطلق ہے — ماضی، حال، مستقبل، ظاہر، باطن، کہا اور ان کہا — سب کچھ۔ آپ کی دعا اسے آپ کی ضرورت سے آگاہ نہیں کرتی — وہ پہلے سے جانتا ہے۔"
+    },
+    "inDailyLife": "When you feel misunderstood by everyone — when no one knows the full story of your struggle — Al-Alim knows every detail, every context, every intention. You are fully known.",
+    "keyAyaat": [
+      "2:29",
+      "2:115",
+      "2:255",
+      "6:59",
+      "31:34",
+      "57:3",
+      "58:7"
+    ],
+    "related": [
+      "as-sami",
+      "al-basir",
+      "al-latif",
+      "al-khabir",
+      "al-batin",
+      "an-nur",
+      "al-hadi",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "knowledge",
+      "qadr",
+      "taqwa"
+    ]
+  },
+  {
+    "id": "al-qabid",
+    "number": 21,
+    "transliteration": "Al-Qabid",
+    "arabic": "ٱلْقَابِض",
+    "urdu": "روکنے والا",
+    "english": "The Withholder, The Constrictor",
+    "root": "ق-ب-ض",
+    "rootMeaning": "To grasp, to contract, to withhold",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Qabid withholds, constrains, and constricts — rizq, souls at death, the heart. This is never arbitrary. Al-Qabid always appears paired with Al-Basit (the Expander) — together forming the complete picture of sovereignty over all states of expansion and contraction.",
+      "ur": "القابض روکتا اور تنگ کرتا ہے۔ لیکن یہ ہمیشہ حکمت کے ساتھ ہے۔ القابض ہمیشہ الباسط کے ساتھ آتا ہے۔"
+    },
+    "inDailyLife": "When you are in a period of constriction — financially, emotionally, spiritually — Al-Qabid is teaching, pruning, or redirecting. Constriction is not abandonment; it is purposeful.",
+    "keyAyaat": [
+      "2:245"
+    ],
+    "related": [
+      "al-aziz",
+      "al-jabbar",
+      "al-mutakabbir",
+      "al-qahhar",
+      "al-khafid",
+      "ar-rafi",
+      "al-muizz",
+      "al-mudhill"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "qadr",
+      "trial-test"
+    ]
+  },
+  {
+    "id": "al-basit",
+    "number": 22,
+    "transliteration": "Al-Basit",
+    "arabic": "ٱلْبَاسِط",
+    "urdu": "کشادہ کرنے والا",
+    "english": "The Expander, The Reliever",
+    "root": "ب-س-ط",
+    "rootMeaning": "To expand, to extend, to open wide",
+    "category": "names-of-generosity-provision",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Basit expands, extends, and opens up — rizq, the heart, opportunities, relief. After every period of Al-Qabid comes Al-Basit, as promised in 94:5-6. The expansion of Al-Basit is experienced as relief, breakthrough, and abundance after constriction.",
+      "ur": "الباسط کشادگی دیتا ہے — رزق میں، دل میں۔ تنگی کے بعد کشادگی اسی کی عطا ہے۔ 'فإن مع العسر يسرا' الباسط کا وعدہ ہے۔"
+    },
+    "inDailyLife": "After every period of difficulty comes Al-Basit. The expansion is guaranteed — what varies is only the timing. Your current constriction is temporary; His expansion is coming.",
+    "keyAyaat": [
+      "2:245",
+      "17:30",
+      "30:37"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-fattah",
+      "al-muqit",
+      "al-karim",
+      "al-mujib",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "zakat",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "al-khafid",
+    "number": 23,
+    "transliteration": "Al-Khafid",
+    "arabic": "ٱلْخَافِض",
+    "urdu": "پست کرنے والا",
+    "english": "The Reducer, The Abaser",
+    "root": "خ-ف-ض",
+    "rootMeaning": "To lower, to abase, to humble",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Khafid lowers and abases whomever He wills — the arrogant, the oppressor, the one who rises in pride. It is the divine counterweight to worldly arrogance: no elevation achieved through pride and transgression is permanent. Paired with Ar-Rafi' — He lowers some and raises others.",
+      "ur": "الخافض پست کرتا ہے — متکبرین کو، ظالمین کو۔ کوئی بھی ناجائز بلندی ہمیشہ نہیں رہتی۔"
+    },
+    "inDailyLife": "When you see the arrogant thriving and the humble struggling, Al-Khafid reminds that all positions are temporary and divinely managed.",
+    "keyAyaat": [
+      "56:3"
+    ],
+    "related": [
+      "al-jabbar",
+      "al-mutakabbir",
+      "al-qahhar",
+      "al-qabid",
+      "ar-rafi",
+      "al-muizz",
+      "al-mudhill",
+      "al-azim"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "kibr",
+      "akhirah"
+    ]
+  },
+  {
+    "id": "ar-rafi",
+    "number": 24,
+    "transliteration": "Ar-Rafi'",
+    "arabic": "ٱلرَّافِع",
+    "urdu": "بلند کرنے والا",
+    "english": "The Exalter, The Elevator",
+    "root": "ر-ف-ع",
+    "rootMeaning": "To raise, to elevate, to honor",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Ar-Rafi' raises and elevates whomever He wills — in rank, in station, in honor, in the Hereafter. He elevated Prophet Idris (19:57) and raised Isa to Himself (4:158). True elevation comes only from Him — no amount of human networking or self-promotion can substitute.",
+      "ur": "الرافع بلند کرتا ہے۔ ادریس اور عیسیٰ علیہم السلام کو اس نے اٹھایا۔ حقیقی عزت اسی سے ملتی ہے۔"
+    },
+    "inDailyLife": "When you work hard and feel overlooked, Ar-Rafi' is the One who actually elevates — not subject to office politics or bias. Seek elevation from Him.",
+    "keyAyaat": [
+      "3:55",
+      "4:158",
+      "6:83",
+      "19:57",
+      "56:3"
+    ],
+    "related": [
+      "al-mutakabbir",
+      "al-qahhar",
+      "al-qabid",
+      "al-khafid",
+      "al-muizz",
+      "al-mudhill",
+      "al-azim",
+      "al-ali"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "kibr",
+      "akhirah",
+      "qadr"
+    ]
+  },
+  {
+    "id": "al-muizz",
+    "number": 25,
+    "transliteration": "Al-Mu'izz",
+    "arabic": "ٱلْمُعِزّ",
+    "urdu": "عزت دینے والا",
+    "english": "The Bestower of Honor",
+    "root": "ع-ز-ز",
+    "rootMeaning": "To honor, to make mighty",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Mu'izz gives honor, might, and dignity to whomever He wills. True honor belongs only to Allah, and He shares it with whom He wills (3:26). No human being can grant real honor — they can only give social recognition, which is as unstable as their approval.",
+      "ur": "المعز عزت اور وقار دیتا ہے جسے چاہے۔ حقیقی عزت اللہ کے ہاتھ میں ہے — انسانوں کی تعریف یا مذمت سے نہیں ملتی اور نہیں جاتی۔"
+    },
+    "inDailyLife": "When you compromise your values to gain people's approval, you are seeking honor from those who cannot give it. Al-Mu'izz is the only source of honor that actually matters.",
+    "keyAyaat": [
+      "3:26"
+    ],
+    "related": [
+      "al-qahhar",
+      "al-qabid",
+      "al-khafid",
+      "ar-rafi",
+      "al-mudhill",
+      "al-azim",
+      "al-ali",
+      "al-kabir"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "leadership",
+      "kibr"
+    ]
+  },
+  {
+    "id": "al-mudhill",
+    "number": 26,
+    "transliteration": "Al-Mudhill",
+    "arabic": "ٱلْمُذِلّ",
+    "urdu": "ذلیل کرنے والا",
+    "english": "The Humiliator",
+    "root": "ذ-ل-ل",
+    "rootMeaning": "To humiliate, to make submissive, to abase",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Mudhill humiliates and abases whomever He wills — particularly those who sought honor through rebellion or oppressing others. This is always an expression of perfect justice. No one can permanently humiliate whom Al-Mu'izz has honored.",
+      "ur": "المذل ذلیل کرتا ہے جسے چاہے — خاص طور پر متکبرین کو۔ یہ انصاف ہے، ظلم نہیں۔ جسے اللہ عزت دے کوئی اسے ذلیل نہیں کر سکتا۔"
+    },
+    "inDailyLife": "When you fear humiliation for standing on principle, Al-Mudhill's judgment supersedes all human verdicts. The honor or shame that comes from Him is what lasts.",
+    "keyAyaat": [
+      "3:26"
+    ],
+    "related": [
+      "al-qabid",
+      "al-khafid",
+      "ar-rafi",
+      "al-muizz",
+      "al-azim",
+      "al-ali",
+      "al-kabir",
+      "al-hafiz"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "kibr",
+      "oppression"
+    ]
+  },
+  {
+    "id": "as-sami",
+    "number": 27,
+    "transliteration": "As-Sami'",
+    "arabic": "ٱلسَّمِيع",
+    "urdu": "سننے والا",
+    "english": "The All-Hearing",
+    "root": "س-م-ع",
+    "rootMeaning": "To hear, to listen, to respond",
+    "category": "names-of-knowledge",
+    "occurrences": 45,
+    "meaning": {
+      "en": "As-Sami' hears every sound simultaneously — every voice, every whisper, every unspoken prayer of the heart. His hearing is not passive — it is active, responsive listening. The woman who argued about her husband: 'Allah heard the conversation' (58:1). This ayah opened with the guarantee: He heard her.",
+      "ur": "السمیع ایک ساتھ ہر آواز سنتا ہے — بولی ہو یا ان بولی۔ اس کا سننا جواب دینے کا وعدہ ہے۔"
+    },
+    "inDailyLife": "When you pray in the middle of the night and feel no one can hear you — As-Sami' is listening to every word, every sob, every plea. You are never speaking into silence.",
+    "keyAyaat": [
+      "2:127",
+      "2:137",
+      "2:181",
+      "2:256",
+      "3:34",
+      "58:1"
+    ],
+    "related": [
+      "al-alim",
+      "al-basir",
+      "al-latif",
+      "al-khabir",
+      "ar-raqib",
+      "an-nur",
+      "al-hadi",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "dua",
+      "speech-ethics"
+    ]
+  },
+  {
+    "id": "al-basir",
+    "number": 28,
+    "transliteration": "Al-Basir",
+    "arabic": "ٱلْبَصِير",
+    "urdu": "دیکھنے والا",
+    "english": "The All-Seeing",
+    "root": "ب-ص-ر",
+    "rootMeaning": "To see, to perceive, to have insight",
+    "category": "names-of-knowledge",
+    "occurrences": 42,
+    "meaning": {
+      "en": "Al-Basir sees all things simultaneously. His sight penetrates darkness, sealed rooms, and the interior of the heart. He saw the conversation between Musa and Pharaoh in real time (20:46): 'Do not fear — I am with you both, I hear and I see.'",
+      "ur": "البصیر سب کچھ دیکھتا ہے — ظاہر بھی باطن بھی۔ موسیٰ کو فرعون کے سامنے کہا: 'ڈرو نہیں، میں سنتا اور دیکھتا ہوں۔'"
+    },
+    "inDailyLife": "Every good deed done in private, every sacrifice no one saw, every hurt endured alone — Al-Basir witnessed it all. Nothing done for His sake goes unobserved.",
+    "keyAyaat": [
+      "2:96",
+      "2:110",
+      "2:233",
+      "3:15",
+      "4:58",
+      "17:1",
+      "20:46",
+      "40:44"
+    ],
+    "related": [
+      "al-alim",
+      "as-sami",
+      "al-latif",
+      "al-khabir",
+      "ar-raqib",
+      "al-wasi",
+      "al-hadi",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "taqwa",
+      "ihsan"
+    ]
+  },
+  {
+    "id": "al-hakam",
+    "number": 29,
+    "transliteration": "Al-Hakam",
+    "arabic": "ٱلْحَكَم",
+    "urdu": "فیصلہ کرنے والا",
+    "english": "The Judge, The Arbitrator",
+    "root": "ح-ك-م",
+    "rootMeaning": "To judge, to rule, to prevent harm through wisdom",
+    "category": "names-of-justice",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Hakam is the ultimate Judge whose verdicts are perfect, final, and without bias. No bribe, no influence, no eloquent argument changes His judgment. He is the final court of appeal where every oppressor faces their verdict and every wronged person receives justice.",
+      "ur": "الحکم وہ منصف ہے جس کا فیصلہ قطعی اور بے عیب ہے۔ اس کی عدالت میں رشوت نہیں چلتی۔"
+    },
+    "inDailyLife": "When you cannot get justice through earthly courts, Al-Hakam is the final court. When falsely accused, His knowledge of your truth is your ultimate defense.",
+    "keyAyaat": [
+      "6:114",
+      "11:45",
+      "40:48",
+      "95:8"
+    ],
+    "related": [
+      "al-adl",
+      "al-hasib",
+      "al-muntaqim",
+      "al-muqsit"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "adl",
+      "akhirah"
+    ]
+  },
+  {
+    "id": "al-adl",
+    "number": 30,
+    "transliteration": "Al-Adl",
+    "arabic": "ٱلْعَدْل",
+    "urdu": "عادل",
+    "english": "The Just, The Equitable",
+    "root": "ع-د-ل",
+    "rootMeaning": "Justice, balance, straightness",
+    "category": "names-of-justice",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Adl is perfectly, absolutely just. His justice is not approximate, not biased. He does not wrong anyone by even the weight of an atom (4:40). This name answers the deepest human question: 'Is the universe fair?' — yes, true justice exists and will be delivered.",
+      "ur": "العدل مکمل عدل کرنے والا ہے — ایک ذرے کے برابر بھی ظلم نہیں کرتا (4:40)۔"
+    },
+    "inDailyLife": "When you witness injustice and feel despair, Al-Adl guarantees the books will be balanced. Every account is being kept. No injustice is the final word.",
+    "keyAyaat": [
+      "3:18",
+      "4:40",
+      "10:54",
+      "16:90",
+      "21:47"
+    ],
+    "related": [
+      "al-hakam",
+      "al-hasib",
+      "al-muntaqim",
+      "al-muqsit"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "adl",
+      "akhirah",
+      "oppression"
+    ]
+  },
+  {
+    "id": "al-latif",
+    "number": 31,
+    "transliteration": "Al-Latif",
+    "arabic": "ٱللَّطِيف",
+    "urdu": "باریک بین، مہربان",
+    "english": "The Subtle, The Gentle",
+    "root": "ل-ط-ف",
+    "rootMeaning": "Subtle, gentle, so fine it cannot be perceived",
+    "category": "names-of-knowledge",
+    "occurrences": 7,
+    "meaning": {
+      "en": "Al-Latif works in ways invisible to the eye — the small turn of events that redirected your life, the person you 'happened' to meet, the door that 'coincidentally' opened. 'Surely my Lord is subtle in fulfilling what He wills' (12:100).",
+      "ur": "اللطیف ایسی لطافت سے کام کرتا ہے کہ نظر نہیں آتا۔ وہ اتفاقات جو آپ کی زندگی بدل دیتے ہیں — اللطیف کا کام ہے۔"
+    },
+    "inDailyLife": "Look back at your life and trace the 'coincidences' that shaped it. That is Al-Latif. He is working in your life right now in ways you won't fully see until later.",
+    "keyAyaat": [
+      "6:103",
+      "12:100",
+      "22:63",
+      "31:16",
+      "33:34",
+      "42:19",
+      "67:14"
+    ],
+    "related": [
+      "al-alim",
+      "as-sami",
+      "al-basir",
+      "al-khabir",
+      "ar-raqib",
+      "al-wasi",
+      "al-hakim",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "qadr",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "al-khabir",
+    "number": 32,
+    "transliteration": "Al-Khabir",
+    "arabic": "ٱلْخَبِير",
+    "urdu": "باخبر",
+    "english": "The All-Aware",
+    "root": "خ-ب-ر",
+    "rootMeaning": "Deep awareness, inner knowledge, expertise",
+    "category": "names-of-knowledge",
+    "occurrences": 45,
+    "meaning": {
+      "en": "Al-Khabir has expert, penetrating knowledge of all things — not just surface awareness but insight into hidden realities. He knows the inner state of hearts, the hidden motivations behind actions. Al-Alim knows everything; Al-Khabir knows everything deeply, inside out.",
+      "ur": "الخبیر ظاہری علم نہیں بلکہ گہرا باطنی علم رکھتا ہے — دلوں کی کیفیت، اعمال کے چھپے ارادے۔"
+    },
+    "inDailyLife": "You cannot hide your true intentions from Al-Khabir. But also: He knows the true purity of your intentions even when others judge you by appearances.",
+    "keyAyaat": [
+      "2:234",
+      "3:153",
+      "4:35",
+      "6:18",
+      "9:16",
+      "11:1",
+      "17:17",
+      "31:34"
+    ],
+    "related": [
+      "al-alim",
+      "as-sami",
+      "al-basir",
+      "al-latif",
+      "ar-raqib",
+      "al-wasi",
+      "al-hakim",
+      "ash-shahid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "knowledge",
+      "taqwa",
+      "ikhlas"
+    ]
+  },
+  {
+    "id": "al-halim",
+    "number": 33,
+    "transliteration": "Al-Halim",
+    "arabic": "ٱلْحَلِيم",
+    "urdu": "بردبار",
+    "english": "The Forbearing, The Clement",
+    "root": "ح-ل-م",
+    "rootMeaning": "Deliberate patience, restraint despite having power",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 11,
+    "meaning": {
+      "en": "Al-Halim does not rush to punish despite having the full power to do so. He withholds punishment to give time for repentance — not because He cannot act, but because He chooses patience. Every sin committed without immediate punishment is Al-Halim in action.",
+      "ur": "الحلیم قدرت رکھتے ہوئے بھی فوری سزا نہیں دیتا — توبہ کا موقع دیتا ہے۔ ہر گناہ جس کی فوری سزا نہیں آئی، الحلیم کا کرم ہے۔"
+    },
+    "inDailyLife": "The patience Allah has shown with your own disobedience is Al-Halim. He could have seized you immediately — instead He gave you another day to return. That is a gift.",
+    "keyAyaat": [
+      "2:225",
+      "2:235",
+      "3:155",
+      "4:12",
+      "5:101",
+      "17:44",
+      "22:59",
+      "33:51"
+    ],
+    "related": [
+      "ar-rahman",
+      "ar-rahim",
+      "al-ghaffar",
+      "al-ghafur",
+      "ash-shakur",
+      "al-wadud",
+      "al-wali-56",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "hilm",
+      "rahmah",
+      "tawbah"
+    ]
+  },
+  {
+    "id": "al-azim",
+    "number": 34,
+    "transliteration": "Al-Azim",
+    "arabic": "ٱلْعَظِيم",
+    "urdu": "عظیم",
+    "english": "The Magnificent, The Tremendous",
+    "root": "ع-ظ-م",
+    "rootMeaning": "Greatness in magnitude beyond comprehension",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 9,
+    "meaning": {
+      "en": "Al-Azim denotes immensity that is beyond the capacity of the mind to fully grasp. Ayat al-Kursi ends with 'Al-Aliyul Azim' — after describing His attributes, pointing to a greatness that encompasses all that was described and more.",
+      "ur": "العظیم وہ عظمت ہے جو عقل کی گرفت سے باہر ہے۔ آیت الکرسی کا اختتام 'العلی العظیم' پر ہوتا ہے۔"
+    },
+    "inDailyLife": "Whatever seems enormous in your life shrinks in comparison to Al-Azim. Your biggest problem is small before Him.",
+    "keyAyaat": [
+      "2:255",
+      "42:4",
+      "56:74",
+      "56:96",
+      "69:33"
+    ],
+    "related": [
+      "al-khafid",
+      "ar-rafi",
+      "al-muizz",
+      "al-mudhill",
+      "al-ali",
+      "al-kabir",
+      "al-hafiz",
+      "al-jalil"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "kibr",
+      "dhikr"
+    ]
+  },
+  {
+    "id": "al-ghafur",
+    "number": 35,
+    "transliteration": "Al-Ghafur",
+    "arabic": "ٱلْغَفُور",
+    "urdu": "بہت بخشنے والا",
+    "english": "The Most Forgiving",
+    "root": "غ-ف-ر",
+    "rootMeaning": "To cover over, to protect with forgiveness",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 91,
+    "meaning": {
+      "en": "Al-Ghafur is the most frequently mentioned of the divine names of forgiveness (91 times). He forgives massively and comprehensively — covering sins so they are hidden from all. He is often paired with Ar-Rahim: forgiveness leads to mercy.",
+      "ur": "الغفور قرآن میں سب سے زیادہ آنے والا نامِ مغفرت ہے (91 مرتبہ)۔ اکثر 'الرحیم' کے ساتھ آتا ہے: مغفرت کے بعد رحمت بھی ملتی ہے۔"
+    },
+    "inDailyLife": "The sheer frequency of Al-Ghafur in the Quran is itself a message: forgiveness is not a rare exception — it is His primary mode of dealing with sinners who return to Him.",
+    "keyAyaat": [
+      "2:173",
+      "2:182",
+      "2:192",
+      "2:218",
+      "2:226",
+      "3:31",
+      "4:25"
+    ],
+    "related": [
+      "ar-rahman",
+      "ar-rahim",
+      "al-ghaffar",
+      "al-halim",
+      "ash-shakur",
+      "al-wadud",
+      "al-wali-56",
+      "al-barr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "tawbah",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "ash-shakur",
+    "number": 36,
+    "transliteration": "Ash-Shakur",
+    "arabic": "ٱلشَّكُور",
+    "urdu": "قدردان",
+    "english": "The Appreciative, The Grateful",
+    "root": "ش-ك-ر",
+    "rootMeaning": "To acknowledge, to appreciate, to reward abundantly",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 4,
+    "meaning": {
+      "en": "Ash-Shakur appreciates even the smallest good deeds and rewards them far beyond their worth. One good deed is multiplied ten to seven hundred times or more (2:261). He preserves the reward of deeds indefinitely — nothing done for His sake is ever forgotten or wasted.",
+      "ur": "الشکور آپ کے چھوٹے سے نیک عمل کو بھی سراہتا ہے۔ ایک نیکی کا بدلہ دس سے سات سو گنا تک — کوئی نیکی ضائع نہیں جاتی۔"
+    },
+    "inDailyLife": "When you feel your good deeds are too small to matter, Ash-Shakur notices every single one. The cup of water given to a thirsty dog entered someone into Jannah. Nothing is too small.",
+    "keyAyaat": [
+      "2:158",
+      "35:30",
+      "35:34",
+      "42:23",
+      "64:17"
+    ],
+    "related": [
+      "ar-rahim",
+      "al-ghaffar",
+      "al-halim",
+      "al-ghafur",
+      "al-wadud",
+      "al-wali-56",
+      "al-barr",
+      "at-tawwab"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "shukr",
+      "hope-raja",
+      "ihsan"
+    ]
+  },
+  {
+    "id": "al-ali",
+    "number": 37,
+    "transliteration": "Al-Ali",
+    "arabic": "ٱلْعَلِيّ",
+    "urdu": "بلند و بالا",
+    "english": "The Most High, The Sublime",
+    "root": "ع-ل-و",
+    "rootMeaning": "To be high, above, transcendent",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 8,
+    "meaning": {
+      "en": "Al-Ali is absolutely transcendent — above all things in His essence, attributes, power, and authority. Nothing is above Him. This transcendence is not spatial but ontological — He is of a different order of reality than anything created.",
+      "ur": "العلی ذات، صفات، قدرت اور اختیار میں سب سے بلند ہے — کوئی اس سے اوپر نہیں۔"
+    },
+    "inDailyLife": "Prostrating to Al-Ali in Sujood — the most exalted being, and you with your forehead on the ground — is the most honest physical expression of the Creator-creation relationship.",
+    "keyAyaat": [
+      "2:255",
+      "4:34",
+      "22:62",
+      "31:30",
+      "42:4",
+      "42:51"
+    ],
+    "related": [
+      "ar-rafi",
+      "al-muizz",
+      "al-mudhill",
+      "al-azim",
+      "al-kabir",
+      "al-hafiz",
+      "al-jalil",
+      "al-majid-49"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "kibr",
+      "salah"
+    ]
+  },
+  {
+    "id": "al-kabir",
+    "number": 38,
+    "transliteration": "Al-Kabir",
+    "arabic": "ٱلْكَبِير",
+    "urdu": "بڑا",
+    "english": "The Great",
+    "root": "ك-ب-ر",
+    "rootMeaning": "Greatness in dignity and magnitude",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 6,
+    "meaning": {
+      "en": "Al-Kabir's greatness is inherent, ancient, and absolute — greatness in dignity, in existence, in authority. It is His natural state of being — not something achieved or that can be diminished. Paired with Al-Ali: 'the Most High, the Great' (13:9; 22:62; 31:30).",
+      "ur": "الکبیر کی عظمت ذاتی اور ازلی ہے — یہ کوئی حاصل کردہ یا گھٹنے والی چیز نہیں۔"
+    },
+    "inDailyLife": "Every time something seems overpowering — a problem, an enemy, a system — Al-Kabir reminds you the truly Great One is on your side.",
+    "keyAyaat": [
+      "4:34",
+      "13:9",
+      "22:62",
+      "31:30",
+      "34:23",
+      "40:12"
+    ],
+    "related": [
+      "al-muizz",
+      "al-mudhill",
+      "al-azim",
+      "al-ali",
+      "al-hafiz",
+      "al-jalil",
+      "al-majid-49",
+      "al-haqq"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "kibr",
+      "salah",
+      "dhikr"
+    ]
+  },
+  {
+    "id": "al-hafiz",
+    "number": 39,
+    "transliteration": "Al-Hafiz",
+    "arabic": "ٱلْحَفِيظ",
+    "urdu": "حفاظت کرنے والا",
+    "english": "The Preserver, The Guardian",
+    "root": "ح-ف-ظ",
+    "rootMeaning": "To guard, to preserve, to protect",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 4,
+    "meaning": {
+      "en": "Al-Hafiz preserves all things — records of deeds, the heavens and earth, lives until their appointed time, and the Quran itself (15:9). The Quran being preserved perfectly for 1400+ years is Al-Hafiz in action.",
+      "ur": "الحفیظ ہر چیز کی حفاظت کرتا ہے — قرآن کا 1400 سال سے محفوظ ہونا الحفیظ کا عملی ثبوت ہے۔"
+    },
+    "inDailyLife": "Your good deeds are preserved — not one moment of sincerity is lost. And the protection around you daily: the accidents that did not happen, the harm that did not reach you — Al-Hafiz.",
+    "keyAyaat": [
+      "11:57",
+      "12:64",
+      "34:21",
+      "41:12",
+      "42:6"
+    ],
+    "related": [
+      "al-mudhill",
+      "al-azim",
+      "al-ali",
+      "al-kabir",
+      "al-jalil",
+      "al-majid-49",
+      "al-haqq",
+      "al-wakil"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawakkul",
+      "anxiety-fear",
+      "revelation"
+    ]
+  },
+  {
+    "id": "al-muqit",
+    "number": 40,
+    "transliteration": "Al-Muqit",
+    "arabic": "ٱلْمُقِيت",
+    "urdu": "پالنے والا",
+    "english": "The Sustainer, The Nourisher",
+    "root": "ق-و-ت",
+    "rootMeaning": "Food, sustenance, strength, to nourish",
+    "category": "names-of-generosity-provision",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Muqit provides the specific sustenance needed by each creature — physical, spiritual, and intellectual nourishment tailored to each one's needs. Not just general provision, but the precise, customized provision each being requires.",
+      "ur": "المقیت ہر مخلوق کو اس کی خاص ضرورت کے مطابق پالتا ہے — جسمانی، روحانی، ذہنی۔"
+    },
+    "inDailyLife": "The specific form of sustenance you need — the exact nourishment your soul, body, and mind require — is being managed by Al-Muqit.",
+    "keyAyaat": [
+      "4:85"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-fattah",
+      "al-basit",
+      "al-karim",
+      "al-mujib",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "al-hasib",
+    "number": 41,
+    "transliteration": "Al-Hasib",
+    "arabic": "ٱلْحَسِيب",
+    "urdu": "حساب لینے والا، کافی",
+    "english": "The Reckoner, The Sufficient",
+    "root": "ح-س-ب",
+    "rootMeaning": "To reckon, to count, to be sufficient",
+    "category": "names-of-justice",
+    "occurrences": 3,
+    "meaning": {
+      "en": "Al-Hasib has two meanings: the One who takes perfect account of all deeds, and the One who is sufficient for those who trust Him. 'Hasbunallah wa ni'mal wakil' invokes Al-Hasib. The accounting He keeps is perfect — every deed, every intention precisely recorded.",
+      "ur": "الحسیب دو معنی رکھتا ہے: کامل حساب لینے والا اور کافی و کفایت کرنے والا۔ 'حسبنا اللہ' اسی نام کی پکار ہے۔"
+    },
+    "inDailyLife": "'Hasbunallah' is the active declaration that Al-Hasib is sufficient for your situation. When resources, support, and options run out, He remains.",
+    "keyAyaat": [
+      "3:173",
+      "4:6",
+      "4:86",
+      "33:39"
+    ],
+    "related": [
+      "al-hakam",
+      "al-adl",
+      "al-muntaqim",
+      "al-muqsit"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawakkul",
+      "akhirah",
+      "adl"
+    ]
+  },
+  {
+    "id": "al-jalil",
+    "number": 42,
+    "transliteration": "Al-Jalil",
+    "arabic": "ٱلْجَلِيل",
+    "urdu": "جلیل القدر",
+    "english": "The Majestic, The Glorious",
+    "root": "ج-ل-ل",
+    "rootMeaning": "Majesty, glory, greatness of status",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Jalil possesses absolute, transcendent majesty — glory that inspires awe and reverence. Invoked in 'Dhu al-Jalali wal-Ikram' (55:27, 55:78), which the Prophet ﷺ said should be frequently repeated. Jalal (majesty) inspires holy fear; Jamal (beauty) inspires love — together they form the complete relationship with Allah.",
+      "ur": "الجلیل وہ عظمت و جلال ہے جو خوف اور تعظیم پیدا کرتا ہے۔ 'ذوالجلال والاکرام' کثرت سے پڑھنے کا حکم ہے۔"
+    },
+    "inDailyLife": "Awe of Al-Jalil is the antidote to petty fears. When His majesty fills your heart, the terrifying things of this world shrink to their actual size.",
+    "keyAyaat": [
+      "55:27",
+      "55:78"
+    ],
+    "related": [
+      "al-azim",
+      "al-ali",
+      "al-kabir",
+      "al-hafiz",
+      "al-majid-49",
+      "al-haqq",
+      "al-wakil",
+      "al-qawi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "taqwa",
+      "anxiety-fear"
+    ]
+  },
+  {
+    "id": "al-karim",
+    "number": 43,
+    "transliteration": "Al-Karim",
+    "arabic": "ٱلْكَرِيم",
+    "urdu": "کریم، سخی",
+    "english": "The Generous, The Noble",
+    "root": "ك-ر-م",
+    "rootMeaning": "Nobility, generosity, honor",
+    "category": "names-of-generosity-provision",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Karim is generous without reminding of the favor, without making the recipient feel indebted, and giving even to those who do not deserve it. 'Man is ungrateful to his Lord, the Karim' (82:6) — yet Al-Karim keeps giving despite ingratitude.",
+      "ur": "الکریم کی سخاوت مکمل ہے — بغیر احسان جتائے، نافرمان کو بھی۔ انسان ناشکرا ہے (82:6) پھر بھی الکریم دیتا رہتا ہے۔"
+    },
+    "inDailyLife": "When you feel you don't deserve Allah's blessings because of your sins, Al-Karim gives even to the undeserving. His generosity is not contingent on your worthiness.",
+    "keyAyaat": [
+      "23:116",
+      "27:40",
+      "82:6",
+      "96:3"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-fattah",
+      "al-basit",
+      "al-muqit",
+      "al-mujib",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "ihsan",
+      "rizq",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "ar-raqib",
+    "number": 44,
+    "transliteration": "Ar-Raqib",
+    "arabic": "ٱلرَّقِيب",
+    "urdu": "نگران",
+    "english": "The Watchful, The Observer",
+    "root": "ر-ق-ب",
+    "rootMeaning": "To watch, to observe, to be on guard",
+    "category": "names-of-knowledge",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Ar-Raqib watches over all things with complete, continuous, attentive observation. He never sleeps, never becomes distracted. Prophet Isa will say on the Day of Judgment: 'You are the Watchful over all things' (5:117). His observation is not threatening — it is the ultimate form of being seen and valued.",
+      "ur": "الرقیب مسلسل اور مکمل نگرانی کرتا ہے۔ عیسیٰ علیہ السلام کہیں گے: 'تو ہی ہر چیز پر نگہبان ہے'۔"
+    },
+    "inDailyLife": "Ar-Raqib is the answer to loneliness. You are never truly alone — the most attentive observer in existence is always watching, always aware of exactly where you are.",
+    "keyAyaat": [
+      "4:1",
+      "5:117"
+    ],
+    "related": [
+      "as-sami",
+      "al-basir",
+      "al-latif",
+      "al-khabir",
+      "al-wasi",
+      "al-hakim",
+      "ash-shahid",
+      "al-muhsi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "taqwa",
+      "ihsan"
+    ]
+  },
+  {
+    "id": "al-mujib",
+    "number": 45,
+    "transliteration": "Al-Mujib",
+    "arabic": "ٱلْمُجِيب",
+    "urdu": "قبول کرنے والا",
+    "english": "The Responsive, The Answerer of Prayer",
+    "root": "ج-و-ب",
+    "rootMeaning": "To respond, to answer, to grant",
+    "category": "names-of-generosity-provision",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Mujib responds to every call and is never too busy or too far. He responded to Nuh, Ibrahim, Musa, Yunus, Ayyub, Maryam, Muhammad ﷺ. 'Call upon Me, I will respond' (40:60) — a categorical, unconditional promise.",
+      "ur": "المجیب ہر پکار کا جواب دیتا ہے۔ 'ادعونی استجب لکم' — بغیر شرط کے وعدہ ہے۔"
+    },
+    "inDailyLife": "Al-Mujib's response takes one of three forms: He gives what you asked, gives something better, or reserves an equivalent for the Hereafter. The promise is absolute.",
+    "keyAyaat": [
+      "2:186",
+      "11:61",
+      "40:60"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-fattah",
+      "al-basit",
+      "al-muqit",
+      "al-karim",
+      "al-mughni",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "dua",
+      "hope-raja",
+      "anxiety-fear"
+    ]
+  },
+  {
+    "id": "al-wasi",
+    "number": 46,
+    "transliteration": "Al-Wasi'",
+    "arabic": "ٱلْوَاسِع",
+    "urdu": "وسعت والا",
+    "english": "The All-Encompassing, The Vast",
+    "root": "و-س-ع",
+    "rootMeaning": "Vastness, capacity, encompassing",
+    "category": "names-of-knowledge",
+    "occurrences": 9,
+    "meaning": {
+      "en": "Al-Wasi' is vast and all-encompassing — His knowledge, mercy, provision, and forgiveness have no limits. 'Wherever you turn, there is the Face of Allah — surely Allah is Vast and Knowing' (2:115). No situation is beyond His capacity; no sin too great for His forgiveness.",
+      "ur": "الواسع کی وسعت لامحدود ہے — علم، رحمت، رزق، مغفرت سب بے حد ہیں۔ 'جہاں بھی منہ پھیرو، اللہ کا چہرہ وہاں ہے'۔"
+    },
+    "inDailyLife": "When your problem seems too vast for any solution, Al-Wasi' is vaster still. When your sin seems too large to forgive, Al-Wasi's mercy is larger.",
+    "keyAyaat": [
+      "2:115",
+      "2:247",
+      "2:261",
+      "2:268",
+      "3:73",
+      "4:130",
+      "5:54"
+    ],
+    "related": [
+      "al-basir",
+      "al-latif",
+      "al-khabir",
+      "ar-raqib",
+      "al-hakim",
+      "ash-shahid",
+      "al-muhsi",
+      "al-wajid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "rizq",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "al-hakim",
+    "number": 47,
+    "transliteration": "Al-Hakim",
+    "arabic": "ٱلْحَكِيم",
+    "urdu": "حکیم، دانا",
+    "english": "The All-Wise",
+    "root": "ح-ك-م",
+    "rootMeaning": "Wisdom, precision, placing things in their right place",
+    "category": "names-of-knowledge",
+    "occurrences": 97,
+    "meaning": {
+      "en": "Al-Hakim places everything in exactly the right place, at exactly the right time. Nothing in His creation or decrees is random or misplaced. Often paired with Al-Aziz: His power is always purposeful. Many painful things only reveal their wisdom in retrospect.",
+      "ur": "الحکیم ہر چیز کو بالکل صحیح جگہ، صحیح وقت میں رکھتا ہے۔ کائنات میں کچھ بھی بے مقصد نہیں۔"
+    },
+    "inDailyLife": "When something seems pointless or cruel — a loss, a failure, a closed door — Al-Hakim's wisdom is operating even when you cannot perceive it. Ask not 'why?' but 'what am I meant to learn?'",
+    "keyAyaat": [
+      "2:129",
+      "2:209",
+      "2:220",
+      "2:228",
+      "3:6",
+      "4:11",
+      "4:17"
+    ],
+    "related": [
+      "al-latif",
+      "al-khabir",
+      "ar-raqib",
+      "al-wasi",
+      "ash-shahid",
+      "al-muhsi",
+      "al-wajid",
+      "al-zahir"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "knowledge",
+      "qadr"
+    ]
+  },
+  {
+    "id": "al-wadud",
+    "number": 48,
+    "transliteration": "Al-Wadud",
+    "arabic": "ٱلْوَدُود",
+    "urdu": "محبت کرنے والا",
+    "english": "The Loving, The Affectionate",
+    "root": "و-د-د",
+    "rootMeaning": "Love, affection, tenderness, warmth",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Wadud is the One whose love is the deepest, most tender, and most constant. This is not a distant God who manages creation from afar. He loves the repentant, the purified, the patient, the just. He placed love for Ibrahim in the hearts of people (19:50).",
+      "ur": "الودود محبت کرنے والا ہے — گہری، نرم، قریبی محبت۔ وہ محبت کرتا ہے۔"
+    },
+    "inDailyLife": "When you feel unloved or abandoned by people — the One whose love is most real, most stable, and most complete loves you.",
+    "keyAyaat": [
+      "11:90",
+      "85:14"
+    ],
+    "related": [
+      "al-ghaffar",
+      "al-halim",
+      "al-ghafur",
+      "ash-shakur",
+      "al-wali-56",
+      "al-barr",
+      "at-tawwab",
+      "al-afuww"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "love-of-allah",
+      "rahmah",
+      "tawbah"
+    ]
+  },
+  {
+    "id": "al-majid-49",
+    "number": 49,
+    "transliteration": "Al-Majid",
+    "arabic": "ٱلْمَجِيد",
+    "urdu": "بزرگی والا",
+    "english": "The Glorious, The Magnificent",
+    "root": "م-ج-د",
+    "rootMeaning": "Glory, honor, nobility of character",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Majid combines glory, honor, and nobility of character — magnificence that is both external and internal. The angels said 'He is Praiseworthy, Glorious' (11:73) when giving Ibrahim the glad tidings of Ishaq. His glory is not just power — it is noble character.",
+      "ur": "المجید وہ شان ہے جو باہر سے ظاہر بھی ہے اور اندر سے حقیقی بھی — عالی ظرفی۔"
+    },
+    "inDailyLife": "Al-Majid's glory is the ultimate standard of nobility. The closer you draw to Him, the more His nobility reflects in your character.",
+    "keyAyaat": [
+      "11:73",
+      "85:15"
+    ],
+    "related": [
+      "al-ali",
+      "al-kabir",
+      "al-hafiz",
+      "al-jalil",
+      "al-haqq",
+      "al-wakil",
+      "al-qawi",
+      "al-matin"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "dhikr",
+      "ihsan"
+    ]
+  },
+  {
+    "id": "al-baith",
+    "number": 50,
+    "transliteration": "Al-Ba'ith",
+    "arabic": "ٱلْبَاعِث",
+    "urdu": "اٹھانے والا",
+    "english": "The Resurrector, The Raiser",
+    "root": "ب-ع-ث",
+    "rootMeaning": "To send, to raise, to awaken, to dispatch",
+    "category": "names-of-the-hereafter",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Ba'ith sends prophets to humanity and will resurrect all souls on the Day of Judgment. The resurrection is as easy for Al-Ba'ith as the first creation. 'Did you think We created you without purpose?' (23:115) — Al-Ba'ith guarantees the return.",
+      "ur": "الباعث نبیوں کو بھیجنے والا اور مردوں کو اٹھانے والا ہے۔ قیامت کا اٹھنا اس کے لیے پہلی بار پیدا کرنے سے بھی آسان ہے۔"
+    },
+    "inDailyLife": "Every morning when you wake from sleep is a small reminder that resurrection is real. Sleep is the minor death; waking is the minor resurrection.",
+    "keyAyaat": [
+      "2:56",
+      "4:87",
+      "6:36",
+      "16:38",
+      "22:7",
+      "30:56"
+    ],
+    "related": [
+      "al-mumit",
+      "al-jami",
+      "al-warith"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "resurrection",
+      "akhirah"
+    ]
+  },
+  {
+    "id": "ash-shahid",
+    "number": 51,
+    "transliteration": "Ash-Shahid",
+    "arabic": "ٱلشَّهِيد",
+    "urdu": "گواہ",
+    "english": "The Witness",
+    "root": "ش-ه-د",
+    "rootMeaning": "To witness, to be present, to testify",
+    "category": "names-of-knowledge",
+    "occurrences": 5,
+    "meaning": {
+      "en": "Ash-Shahid is the ultimate witness present at all events with perfect and complete awareness. His testimony on the Day of Judgment will be the decisive, irrefutable account. 'Allah bears witness that there is no deity except Him' (3:18) — His self-testimony is the highest testimony possible.",
+      "ur": "الشہید ہر چیز کا حاضر و ناظر گواہ ہے۔ قیامت میں اس کی گواہی قطعی اور ناقابل انکار ہوگی۔"
+    },
+    "inDailyLife": "Your private struggles, private worship, and private virtues are witnessed by Ash-Shahid. What no human sees, He sees and records. Your private faithfulness is not wasted.",
+    "keyAyaat": [
+      "3:18",
+      "4:33",
+      "4:79",
+      "4:166",
+      "5:117",
+      "6:19",
+      "10:46"
+    ],
+    "related": [
+      "al-khabir",
+      "ar-raqib",
+      "al-wasi",
+      "al-hakim",
+      "al-muhsi",
+      "al-wajid",
+      "al-zahir",
+      "al-batin"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "taqwa",
+      "akhirah"
+    ]
+  },
+  {
+    "id": "al-haqq",
+    "number": 52,
+    "transliteration": "Al-Haqq",
+    "arabic": "ٱلْحَقّ",
+    "urdu": "حق، سچ",
+    "english": "The Truth, The Reality",
+    "root": "ح-ق-ق",
+    "rootMeaning": "Truth, reality, that which is established and permanent",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 10,
+    "meaning": {
+      "en": "Al-Haqq is not just truthful, but Truth itself — the ultimate reality. He is permanent while everything else is transient. 'That is because Allah is the Truth, and that which they call upon other than Him is falsehood' (22:62).",
+      "ur": "الحق صرف سچ نہیں بولتا — وہ خود سچ ہے، خود حقیقت ہے۔ ایک بدلتی دنیا میں الحق وہ ثابت نقطہ ہے جو کبھی نہیں بدلتا۔"
+    },
+    "inDailyLife": "In a world of misinformation and uncertainty, orienting yourself to Al-Haqq is the compass. Let what you know about Him be the anchor.",
+    "keyAyaat": [
+      "6:62",
+      "10:32",
+      "18:44",
+      "20:114",
+      "22:6",
+      "22:62",
+      "23:116",
+      "31:30"
+    ],
+    "related": [
+      "al-kabir",
+      "al-hafiz",
+      "al-jalil",
+      "al-majid-49",
+      "al-wakil",
+      "al-qawi",
+      "al-matin",
+      "al-hamid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "hidayah",
+      "shirk"
+    ]
+  },
+  {
+    "id": "al-wakil",
+    "number": 53,
+    "transliteration": "Al-Wakil",
+    "arabic": "ٱلْوَكِيل",
+    "urdu": "کارساز",
+    "english": "The Trustee, The Disposer of Affairs",
+    "root": "و-ك-ل",
+    "rootMeaning": "To entrust, to delegate, to rely upon",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 14,
+    "meaning": {
+      "en": "Al-Wakil manages all affairs on behalf of those who entrust themselves to Him. Ibrahim said 'Hasbunallah wa ni'mal Wakil' when thrown into fire; the Prophet ﷺ said it when told an army was coming. Al-Wakil manages what you cannot manage and knows what you do not know.",
+      "ur": "الوکیل وہ ہے جس پر معاملات چھوڑے جائیں۔ ابراہیم نے آگ میں کہا، نبی ﷺ نے فوج کے سامنے کہا۔"
+    },
+    "inDailyLife": "Tawakkul is the active appointment of Al-Wakil to handle what is beyond your control. Do what you can; then formally hand the rest to Al-Wakil.",
+    "keyAyaat": [
+      "3:173",
+      "4:81",
+      "6:102",
+      "12:66",
+      "17:65",
+      "28:28",
+      "33:3",
+      "39:62"
+    ],
+    "related": [
+      "al-hafiz",
+      "al-jalil",
+      "al-majid-49",
+      "al-haqq",
+      "al-qawi",
+      "al-matin",
+      "al-hamid",
+      "al-majid-66"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawakkul",
+      "anxiety-fear"
+    ]
+  },
+  {
+    "id": "al-qawi",
+    "number": 54,
+    "transliteration": "Al-Qawi",
+    "arabic": "ٱلْقَوِيّ",
+    "urdu": "قوت والا",
+    "english": "The All-Strong",
+    "root": "ق-و-و",
+    "rootMeaning": "Strength, power, capability",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 9,
+    "meaning": {
+      "en": "Al-Qawi possesses absolute, perfect strength — never diminishing, never tiring, never weakening. His strength is not brute force but absolute capability combined with wisdom. Often paired with Al-Aziz.",
+      "ur": "القوی کی قوت مطلق ہے — کبھی کم نہیں ہوتی، کبھی تھکتی نہیں۔"
+    },
+    "inDailyLife": "Whatever strength you lack in facing your challenges — Al-Qawi can supply it. Your weakness is not a problem when you are aligned with the All-Strong.",
+    "keyAyaat": [
+      "2:165",
+      "8:52",
+      "11:66",
+      "22:40",
+      "22:74",
+      "33:25",
+      "42:19",
+      "57:25",
+      "58:21"
+    ],
+    "related": [
+      "al-jalil",
+      "al-majid-49",
+      "al-haqq",
+      "al-wakil",
+      "al-matin",
+      "al-hamid",
+      "al-majid-66",
+      "al-qadir"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawakkul",
+      "conflict"
+    ]
+  },
+  {
+    "id": "al-matin",
+    "number": 55,
+    "transliteration": "Al-Matin",
+    "arabic": "ٱلْمَتِين",
+    "urdu": "مضبوط",
+    "english": "The Firm, The Steadfast",
+    "root": "م-ت-ن",
+    "rootMeaning": "Firmness, solidity, unshakeable strength",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Matin is firm and unshakeable — His promises do not waver, His plans are not disrupted. 'Surely Allah is the Provider, Possessor of Firm Strength' (51:58). What He has decreed will come to pass; what He has promised will be fulfilled.",
+      "ur": "المتین مضبوط اور غیر متزلزل ہے — اس کے وعدے نہیں بدلتے، اس کے منصوبے نہیں ٹوٹتے۔"
+    },
+    "inDailyLife": "When the world feels unstable — relationships, institutions, economies all shifting — Al-Matin is the unmovable foundation. Build your life on Him.",
+    "keyAyaat": [
+      "51:58"
+    ],
+    "related": [
+      "al-majid-49",
+      "al-haqq",
+      "al-wakil",
+      "al-qawi",
+      "al-hamid",
+      "al-majid-66",
+      "al-qadir",
+      "al-muqtadir"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "al-wali-56",
+    "number": 56,
+    "transliteration": "Al-Wali",
+    "arabic": "ٱلْوَلِيّ",
+    "urdu": "دوست، سرپرست",
+    "english": "The Protecting Friend, The Guardian",
+    "root": "و-ل-و",
+    "rootMeaning": "Closeness, friendship, guardianship, support",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 12,
+    "meaning": {
+      "en": "Al-Wali is the closest, most loyal Friend and Protector — intimately involved in the believer's life. 'Allah is the Wali of those who believe' (2:257). Friendship requires loyalty from both sides.",
+      "ur": "الولی قریبی دوست اور محافظ ہے۔ 'اللہ مومنوں کا ولی ہے' (2:257)۔"
+    },
+    "inDailyLife": "Loneliness is the disease of the modern age. Al-Wali is the answer — a real, available, deeply engaged Friend who wants your company and cares for your wellbeing.",
+    "keyAyaat": [
+      "2:107",
+      "2:257",
+      "3:68",
+      "4:45",
+      "4:119",
+      "6:14",
+      "7:196",
+      "9:116"
+    ],
+    "related": [
+      "al-halim",
+      "al-ghafur",
+      "ash-shakur",
+      "al-wadud",
+      "al-barr",
+      "at-tawwab",
+      "al-afuww",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "wala-bara",
+      "tawakkul",
+      "love-of-allah",
+      "hidayah"
+    ]
+  },
+  {
+    "id": "al-hamid",
+    "number": 57,
+    "transliteration": "Al-Hamid",
+    "arabic": "ٱلْحَمِيد",
+    "urdu": "لائق تعریف",
+    "english": "The Praiseworthy",
+    "root": "ح-م-د",
+    "rootMeaning": "Praise, commendation, gratitude",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 17,
+    "meaning": {
+      "en": "Al-Hamid is intrinsically worthy of all praise — not because people praise Him, but because His nature is praiseworthy. He is the Praiseworthy even when unacknowledged — His praiseworthiness does not depend on anyone praising Him.",
+      "ur": "الحمید ذاتی طور پر تعریف کے لائق ہے — چاہے کوئی تعریف کرے یا نہ کرے۔ 'الحمد للہ' اسی کی طرف ہے۔"
+    },
+    "inDailyLife": "The practice of Hamd — conscious, intentional praise — trains the heart to see goodness in every situation. Looking for what is praiseworthy in your circumstances is the worship of Al-Hamid.",
+    "keyAyaat": [
+      "2:267",
+      "4:131",
+      "11:73",
+      "14:1",
+      "14:8",
+      "17:44",
+      "22:24",
+      "22:64"
+    ],
+    "related": [
+      "al-haqq",
+      "al-wakil",
+      "al-qawi",
+      "al-matin",
+      "al-majid-66",
+      "al-qadir",
+      "al-muqtadir",
+      "al-muqaddim"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "shukr",
+      "dhikr"
+    ]
+  },
+  {
+    "id": "al-muhsi",
+    "number": 58,
+    "transliteration": "Al-Muhsi",
+    "arabic": "ٱلْمُحْصِي",
+    "urdu": "گننے والا",
+    "english": "The Reckoner, The Counter",
+    "root": "ح-ص-و",
+    "rootMeaning": "To count precisely, to enumerate exhaustively",
+    "category": "names-of-knowledge",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Muhsi has counted and catalogued everything with perfect precision. 'He has enumerated all things in number' (72:28). Every sin and every good deed, no matter how small, is in His count — simultaneously sobering and reassuring.",
+      "ur": "المحصی نے ہر چیز گن رکھی ہے — 'اس نے ہر چیز کو گنتی سے ضبط کیا ہے' (72:28)۔"
+    },
+    "inDailyLife": "When you feel your small acts of goodness don't add up, Al-Muhsi's count includes every atom of good. And when you minimize your small sins, remember they are in His count too.",
+    "keyAyaat": [
+      "19:94",
+      "36:12",
+      "72:28"
+    ],
+    "related": [
+      "ar-raqib",
+      "al-wasi",
+      "al-hakim",
+      "ash-shahid",
+      "al-wajid",
+      "al-zahir",
+      "al-batin",
+      "an-nur"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "akhirah",
+      "knowledge",
+      "taqwa"
+    ]
+  },
+  {
+    "id": "al-mubdi",
+    "number": 59,
+    "transliteration": "Al-Mubdi'",
+    "arabic": "ٱلْمُبْدِئ",
+    "urdu": "شروع کرنے والا",
+    "english": "The Originator, The Initiator",
+    "root": "ب-د-أ",
+    "rootMeaning": "To begin, to start from scratch, unprecedented",
+    "category": "names-of-creation",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Mubdi' originated creation — started it all from absolute nothing, without any prior template. 'He originates creation, then He repeats it' (10:4). The ease of repeating (resurrection) is made obvious by the first origination.",
+      "ur": "المبدئ نے تخلیق کا آغاز کیا — بالکل شروع سے، بغیر کسی نمونے کے۔"
+    },
+    "inDailyLife": "When you need a fresh start — after failure, after sin, after loss — Al-Mubdi' creates new beginnings. He started the universe from nothing; He can start a new chapter in your life.",
+    "keyAyaat": [
+      "10:4",
+      "27:64",
+      "29:19",
+      "85:13"
+    ],
+    "related": [
+      "al-khaliq",
+      "al-bari",
+      "al-musawwir",
+      "al-muid",
+      "al-muhyi",
+      "al-badi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "human-creation",
+      "resurrection",
+      "nature-signs"
+    ]
+  },
+  {
+    "id": "al-muid",
+    "number": 60,
+    "transliteration": "Al-Mu'id",
+    "arabic": "ٱلْمُعِيد",
+    "urdu": "دوبارہ لوٹانے والا",
+    "english": "The Restorer, The Reproducer",
+    "root": "ع-و-د",
+    "rootMeaning": "To return, to restore, to repeat",
+    "category": "names-of-creation",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Mu'id restores and repeats creation — particularly the resurrection of the dead. To Al-Mu'id, restoration is simpler than origination. He also restores what is lost — faith, health, relationships — when His wisdom permits.",
+      "ur": "المعید دوبارہ لوٹانے والا ہے۔ جس نے پہلی بار بنایا، دوبارہ بنانا اس کے لیے اور آسان ہے۔"
+    },
+    "inDailyLife": "After every loss, Al-Mu'id can restore. After every 'ending,' He can restore what matters. Nothing ends permanently except by His will.",
+    "keyAyaat": [
+      "10:4",
+      "27:64",
+      "29:19",
+      "85:13"
+    ],
+    "related": [
+      "al-khaliq",
+      "al-bari",
+      "al-musawwir",
+      "al-mubdi",
+      "al-muhyi",
+      "al-badi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "resurrection",
+      "human-creation"
+    ]
+  },
+  {
+    "id": "al-muhyi",
+    "number": 61,
+    "transliteration": "Al-Muhyi",
+    "arabic": "ٱلْمُحْيِي",
+    "urdu": "زندگی دینے والا",
+    "english": "The Giver of Life",
+    "root": "ح-ي-و",
+    "rootMeaning": "Life, vitality, to enliven",
+    "category": "names-of-creation",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Muhyi gives life — to the body, to the soul, to dead earth through rain, to the spiritually dead heart through guidance. 'Is the one who was dead and We gave him life... like the one in darkness?' (6:122) — the life of iman is the greatest gift of Al-Muhyi.",
+      "ur": "المحیی زندگی دیتا ہے — جسم کو، روح کو، مردہ زمین کو بارش سے، مردہ دل کو ہدایت سے۔"
+    },
+    "inDailyLife": "When your heart feels spiritually dead — disconnected, cold — Al-Muhyi is the One who can revive it. The same power that will raise the dead can revive a dry heart.",
+    "keyAyaat": [
+      "2:73",
+      "2:258",
+      "3:156",
+      "7:57",
+      "9:116",
+      "15:23",
+      "30:50",
+      "41:39"
+    ],
+    "related": [
+      "al-khaliq",
+      "al-bari",
+      "al-musawwir",
+      "al-mubdi",
+      "al-muid",
+      "al-badi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "resurrection",
+      "nature-signs",
+      "death-reminder"
+    ]
+  },
+  {
+    "id": "al-mumit",
+    "number": 62,
+    "transliteration": "Al-Mumit",
+    "arabic": "ٱلْمُمِيت",
+    "urdu": "موت دینے والا",
+    "english": "The Taker of Life, The Giver of Death",
+    "root": "م-و-ت",
+    "rootMeaning": "Death, to cause to die",
+    "category": "names-of-the-hereafter",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Mumit causes death at the appointed time, without fail. No one dies before their appointed time; no one lives beyond it. This understanding liberates from irrational fears — you will not die before your time, and when your time comes, nothing can prevent it.",
+      "ur": "الممیت موت دیتا ہے — مقررہ وقت پر، یقیناً۔ یہ نام آزادی دیتا ہے: وقت سے پہلے نہیں مریں گے، وقت آنے پر کوئی نہیں بچا سکتا۔"
+    },
+    "inDailyLife": "Knowing Al-Mumit controls death completely liberates you from cowardice. You will not die one moment before your appointed time — so act with courage, stand for truth.",
+    "keyAyaat": [
+      "3:156",
+      "7:158",
+      "9:116",
+      "15:23",
+      "40:68",
+      "57:2"
+    ],
+    "related": [
+      "al-baith",
+      "al-jami",
+      "al-warith"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "death-reminder",
+      "qadr"
+    ]
+  },
+  {
+    "id": "al-hayy",
+    "number": 63,
+    "transliteration": "Al-Hayy",
+    "arabic": "ٱلْحَيّ",
+    "urdu": "زندہ",
+    "english": "The Ever-Living",
+    "root": "ح-ي-و",
+    "rootMeaning": "Life, perfect vitality, eternal living",
+    "category": "names-of-essential-nature",
+    "occurrences": 5,
+    "meaning": {
+      "en": "Al-Hayy is the Ever-Living — His life has no beginning, no end, and no dependence on anything else. All other life depends on Him; He depends on nothing. Ayat al-Kursi begins with it. The greatest du'a: 'Ya Hayyu ya Qayyum, bi rahmatika astaghith.'",
+      "ur": "الحی ہمیشہ زندہ ہے — بغیر ابتداء، بغیر انتہاء۔ آیت الکرسی اسی سے شروع ہوتی ہے۔"
+    },
+    "inDailyLife": "In Tahajjud, when the world sleeps, Al-Hayy is awake and present. 'Ya Hayyu ya Qayyum' — the greatest dua — calls on the Ever-Living in dark hours.",
+    "keyAyaat": [
+      "2:255",
+      "3:2",
+      "20:111",
+      "25:58",
+      "40:65"
+    ],
+    "related": [
+      "allah",
+      "al-qayyum",
+      "al-wahid",
+      "al-ahad",
+      "as-samad",
+      "al-akhir",
+      "al-ghani",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "al-qayyum",
+    "number": 64,
+    "transliteration": "Al-Qayyum",
+    "arabic": "ٱلْقَيُّوم",
+    "urdu": "قائم رہنے والا",
+    "english": "The Self-Sustaining, The Sustainer of All",
+    "root": "ق-و-م",
+    "rootMeaning": "To stand, to maintain, to sustain",
+    "category": "names-of-essential-nature",
+    "occurrences": 3,
+    "meaning": {
+      "en": "Al-Qayyum is self-sustaining (dependent on nothing) AND sustains all of creation (everything depends on Him). Remove His sustaining will for even a moment and the universe ceases to exist. 'Their preservation tires Him not' (2:255).",
+      "ur": "القیوم کے دو معنی: خود قائم ہے اور ہر چیز کو قائم رکھتا ہے۔ ایک لمحے کے لیے بھی اس کی قیومیت ہٹے تو کائنات فنا۔"
+    },
+    "inDailyLife": "Every moment of your existence is actively sustained by Al-Qayyum. You are being held in existence intentionally, moment by moment.",
+    "keyAyaat": [
+      "2:255",
+      "3:2",
+      "20:111"
+    ],
+    "related": [
+      "allah",
+      "al-hayy",
+      "al-wahid",
+      "al-ahad",
+      "as-samad",
+      "al-awwal",
+      "al-ghani",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "al-wajid",
+    "number": 65,
+    "transliteration": "Al-Wajid",
+    "arabic": "ٱلْوَاجِد",
+    "urdu": "پانے والا",
+    "english": "The Finder, The Resourceful",
+    "root": "و-ج-د",
+    "rootMeaning": "To find, to perceive, to have in abundance",
+    "category": "names-of-knowledge",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Wajid finds and perceives all things — nothing is hidden, nothing eludes His awareness. He also has everything in inexhaustible abundance: He never lacks, never runs short. Whatever is needed exists for Al-Wajid in infinite supply.",
+      "ur": "الواجد ہر چیز پاتا ہے اور ہر چیز وافر مقدار میں رکھتا ہے۔ اس کے پاس کبھی کمی نہیں ہوتی۔"
+    },
+    "inDailyLife": "What you think is lost or inaccessible is found by Al-Wajid. When you cannot find a way or a resource, Al-Wajid has it in inexhaustible abundance.",
+    "keyAyaat": [
+      "93:7",
+      "93:8"
+    ],
+    "related": [
+      "al-wasi",
+      "al-hakim",
+      "ash-shahid",
+      "al-muhsi",
+      "al-zahir",
+      "al-batin",
+      "an-nur",
+      "al-hadi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "knowledge",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "al-majid-66",
+    "number": 66,
+    "transliteration": "Al-Majid",
+    "arabic": "ٱلْمَاجِد",
+    "urdu": "بزرگ",
+    "english": "The Glorious, The Noble",
+    "root": "م-ج-د",
+    "rootMeaning": "Glory, honor, magnanimity",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Majid emphasizes Allah's inherent glory and magnanimity — His generosity flows naturally from His glory. He is too glorious to be stingy, too magnanimous to ignore the needy. His grandeur itself is the guarantor of His generosity.",
+      "ur": "الماجد بزرگی اور کرم کا مجموعہ ہے — اس کی شان سے کمینہ پن ناممکن ہے۔"
+    },
+    "inDailyLife": "Approach Al-Majid in dua with high expectations — His glory demands generosity. Do not limit your duas; His glory is not diminished by giving.",
+    "keyAyaat": [
+      "11:73",
+      "85:15",
+      "85:21"
+    ],
+    "related": [
+      "al-wakil",
+      "al-qawi",
+      "al-matin",
+      "al-hamid",
+      "al-qadir",
+      "al-muqtadir",
+      "al-muqaddim",
+      "al-muakhkhir"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "dua",
+      "rizq",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "al-wahid",
+    "number": 67,
+    "transliteration": "Al-Wahid",
+    "arabic": "ٱلْوَاحِد",
+    "urdu": "یکتا",
+    "english": "The One, The Unique",
+    "root": "و-ح-د",
+    "rootMeaning": "Oneness, uniqueness, singleness",
+    "category": "names-of-essential-nature",
+    "occurrences": 22,
+    "meaning": {
+      "en": "Al-Wahid is absolutely One — nothing like Him, no partner, no equal, no division within Him. His attributes are all perfectly unified: His power does not contradict His mercy. Surah Al-Ikhlas is the Quranic commentary on this name.",
+      "ur": "الواحد مطلق ایک ہے — نہ کوئی شریک، نہ کوئی مثل۔ اس کی صفات میں کوئی تضاد نہیں۔"
+    },
+    "inDailyLife": "Worshipping Al-Wahid simplifies life profoundly: one ultimate authority, one ultimate source, one ultimate destination. All complexity resolves around a single center.",
+    "keyAyaat": [
+      "2:163",
+      "4:171",
+      "5:73",
+      "6:19",
+      "12:39",
+      "13:16",
+      "14:48",
+      "18:110",
+      "38:65",
+      "39:4"
+    ],
+    "related": [
+      "allah",
+      "al-hayy",
+      "al-qayyum",
+      "al-ahad",
+      "as-samad",
+      "al-awwal",
+      "al-akhir",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "shirk"
+    ]
+  },
+  {
+    "id": "al-ahad",
+    "number": 68,
+    "transliteration": "Al-Ahad",
+    "arabic": "ٱلْأَحَد",
+    "urdu": "اکیلا، اکلوتا",
+    "english": "The Indivisible One",
+    "root": "و-ح-د",
+    "rootMeaning": "Absolute singularity, indivisibility",
+    "category": "names-of-essential-nature",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Ahad means indivisibly, absolutely ONE — singularity of essence. He cannot be divided, split, or composed of parts. Surah Al-Ikhlas (equal to one-third of the Quran) says 'Qul huwallahu Ahad.' This directly negates Trinity, polytheism, and pantheism.",
+      "ur": "الاحد اپنی ذات میں تقسیم نہیں ہو سکتا۔ 'قل ھو اللہ احد' — قرآن کا ایک تہائی اس ایک نام کی شرح ہے۔"
+    },
+    "inDailyLife": "The simplicity of Al-Ahad is the greatest gift: one God, one direction, one ultimate loyalty. When life fragments your attention in a hundred directions, Al-Ahad calls you back to one center.",
+    "keyAyaat": [
+      "112:1"
+    ],
+    "related": [
+      "allah",
+      "al-hayy",
+      "al-qayyum",
+      "al-wahid",
+      "as-samad",
+      "al-awwal",
+      "al-akhir",
+      "al-ghani"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "ikhlas"
+    ]
+  },
+  {
+    "id": "as-samad",
+    "number": 69,
+    "transliteration": "As-Samad",
+    "arabic": "ٱلصَّمَد",
+    "urdu": "بے نیاز",
+    "english": "The Eternal Refuge, The Self-Sufficient Master",
+    "root": "ص-م-د",
+    "rootMeaning": "The one all resort to, while needing nothing",
+    "category": "names-of-essential-nature",
+    "occurrences": 1,
+    "meaning": {
+      "en": "As-Samad is the most condensed name in Surah Al-Ikhlas: the One who is eternal and self-sufficient, whom all of creation needs and turns to, while He needs none of them. Ibn Abbas: 'the Master who is perfect in all His attributes, to whom all creation turns in their needs.'",
+      "ur": "الصمد — ہر مخلوق اس کی محتاج ہے اور اسی کی طرف رجوع کرتی ہے، جبکہ وہ کسی کا محتاج نہیں۔"
+    },
+    "inDailyLife": "Every need — spiritual, emotional, material — ultimately resolves only at As-Samad. People and circumstances are instruments; As-Samad is the real source. Turn to the source directly.",
+    "keyAyaat": [
+      "112:2"
+    ],
+    "related": [
+      "al-hayy",
+      "al-qayyum",
+      "al-wahid",
+      "al-ahad",
+      "al-awwal",
+      "al-akhir",
+      "al-ghani",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "tawakkul",
+      "dua"
+    ]
+  },
+  {
+    "id": "al-qadir",
+    "number": 70,
+    "transliteration": "Al-Qadir",
+    "arabic": "ٱلْقَادِر",
+    "urdu": "قادر",
+    "english": "The Capable, The Powerful",
+    "root": "ق-د-ر",
+    "rootMeaning": "Power, capability, to measure precisely",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 12,
+    "meaning": {
+      "en": "Al-Qadir is perfectly capable over all things — nothing is beyond His ability, too large or too small. His power is also precise: He exercises capability with perfect measure and wisdom. 'Allah is capable over all things' (2:284).",
+      "ur": "القادر ہر چیز پر قادر ہے — کچھ اس کے لیے مشکل نہیں۔ 'اللہ ہر چیز پر قادر ہے' (2:284)۔"
+    },
+    "inDailyLife": "The limitation you see in your situation is not a limitation on Al-Qadir. What seems impossible — a healing, a change of heart, an open door — is trivially easy for the Absolutely Capable.",
+    "keyAyaat": [
+      "2:106",
+      "2:109",
+      "2:148",
+      "2:259",
+      "2:284",
+      "3:26",
+      "3:165",
+      "4:133"
+    ],
+    "related": [
+      "al-qawi",
+      "al-matin",
+      "al-hamid",
+      "al-majid-66",
+      "al-muqtadir",
+      "al-muqaddim",
+      "al-muakhkhir",
+      "al-wali-78"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "tawakkul",
+      "resurrection"
+    ]
+  },
+  {
+    "id": "al-muqtadir",
+    "number": 71,
+    "transliteration": "Al-Muqtadir",
+    "arabic": "ٱلْمُقْتَدِر",
+    "urdu": "غالب قدرت والا",
+    "english": "The All-Determining, The Prevailing",
+    "root": "ق-د-ر",
+    "rootMeaning": "Absolute, complete power that always prevails",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 4,
+    "meaning": {
+      "en": "Al-Muqtadir is an intensified form of Al-Qadir — absolutely, prevailingly powerful. His power prevails over all opposition. No plan of creation can prevail against Al-Muqtadir when He has decided.",
+      "ur": "المقتدر القادر کا مبالغہ ہے — وہ قدرت جو ہر مزاحمت پر غالب آتی ہے۔"
+    },
+    "inDailyLife": "When the opposition you face seems overwhelming, Al-Muqtadir's prevailing power is the counterweight. No force can successfully resist what He has decreed.",
+    "keyAyaat": [
+      "6:65",
+      "18:45",
+      "54:42",
+      "54:55"
+    ],
+    "related": [
+      "al-matin",
+      "al-hamid",
+      "al-majid-66",
+      "al-qadir",
+      "al-muqaddim",
+      "al-muakhkhir",
+      "al-wali-78",
+      "al-mutaali"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "tawakkul",
+      "history-lessons"
+    ]
+  },
+  {
+    "id": "al-muqaddim",
+    "number": 72,
+    "transliteration": "Al-Muqaddim",
+    "arabic": "ٱلْمُقَدِّم",
+    "urdu": "آگے کرنے والا",
+    "english": "The Expediter, The Bringer Forward",
+    "root": "ق-د-م",
+    "rootMeaning": "To advance, to bring forward, to give priority",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Muqaddim brings forward what He wills — advancing it in time, priority, or position. Every early blessing, every opportunity that came at the perfect moment — that is Al-Muqaddim. Paired with Al-Mu'akhkhir in the famous du'a: 'You are Al-Muqaddim and Al-Mu'akhkhir.'",
+      "ur": "المقدم جسے چاہے آگے کرتا ہے۔ وہ شخص جو بالکل صحیح وقت پر آپ کی زندگی میں آیا — المقدم نے بھیجا تھا۔"
+    },
+    "inDailyLife": "The timing of blessings is managed by Al-Muqaddim. What comes early in your life, what opportunity appears at the perfect moment — trust His timing of advancement.",
+    "keyAyaat": [
+      "57:13",
+      "71:4"
+    ],
+    "related": [
+      "al-hamid",
+      "al-majid-66",
+      "al-qadir",
+      "al-muqtadir",
+      "al-muakhkhir",
+      "al-wali-78",
+      "al-mutaali",
+      "malik-ul-mulk"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "time",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "al-muakhkhir",
+    "number": 73,
+    "transliteration": "Al-Mu'akhkhir",
+    "arabic": "ٱلْمُؤَخِّر",
+    "urdu": "پیچھے کرنے والا",
+    "english": "The Delayer, The Retarder",
+    "root": "أ-خ-ر",
+    "rootMeaning": "To delay, to defer, to put back",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Mu'akhkhir delays what He wills — deferring punishment for the sinner to give time for repentance, delaying a blessing until the recipient is ready. The delay is always purposeful — never negligence, never inability.",
+      "ur": "المؤخر پیچھے ڈالتا ہے — توبہ کا موقع دینے کے لیے یا نعمت اس وقت تک روکنے کے لیے جب تک مستحق نہ ہو۔ تاخیر غفلت نہیں — حکمت ہے۔"
+    },
+    "inDailyLife": "The prayer not yet answered, the door not yet opened — Al-Mu'akhkhir is delaying for a reason you may not see yet. The delay is not a denial; it is divine timing.",
+    "keyAyaat": [
+      "14:42",
+      "16:61",
+      "71:4"
+    ],
+    "related": [
+      "al-majid-66",
+      "al-qadir",
+      "al-muqtadir",
+      "al-muqaddim",
+      "al-wali-78",
+      "al-mutaali",
+      "malik-ul-mulk",
+      "dhul-jalali-wal-ikram"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "time",
+      "tawbah",
+      "sabr"
+    ]
+  },
+  {
+    "id": "al-awwal",
+    "number": 74,
+    "transliteration": "Al-Awwal",
+    "arabic": "ٱلْأَوَّل",
+    "urdu": "اول",
+    "english": "The First",
+    "root": "أ-و-ل",
+    "rootMeaning": "First, the beginning",
+    "category": "names-of-essential-nature",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Awwal is the First — before Whom there is nothing. He has no beginning; He existed before existence itself. One of the four names in Surah Al-Hadid (57:3). Since He is The First, everything that exists came after Him and from His will.",
+      "ur": "الاول وہ ہے جس سے پہلے کچھ نہیں — نہ وجود، نہ وقت، نہ مکان۔"
+    },
+    "inDailyLife": "Before every relationship, every possession, every opportunity — Al-Awwal was there. Everything came after Him and through Him. Start every endeavor by acknowledging Al-Awwal.",
+    "keyAyaat": [
+      "57:3"
+    ],
+    "related": [
+      "allah",
+      "al-qayyum",
+      "al-wahid",
+      "al-ahad",
+      "as-samad",
+      "al-akhir",
+      "al-ghani",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "time"
+    ]
+  },
+  {
+    "id": "al-akhir",
+    "number": 75,
+    "transliteration": "Al-Akhir",
+    "arabic": "ٱلْآخِر",
+    "urdu": "آخر",
+    "english": "The Last",
+    "root": "أ-خ-ر",
+    "rootMeaning": "Last, the end",
+    "category": "names-of-essential-nature",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Akhir is the Last — after Whom there is nothing. After all of creation ends, Al-Akhir remains. Everything in creation will end; Al-Akhir endures after all endings. Paired with Al-Awwal: He was before everything and will be after everything.",
+      "ur": "الآخر وہ ہے جس کے بعد کچھ نہیں — تمام مخلوق کے بعد بھی وہی رہے گا۔"
+    },
+    "inDailyLife": "Investing in Al-Akhir — through deeds that outlast your life — is the most rational investment. Only what endures with Him is the ultimate destination.",
+    "keyAyaat": [
+      "57:3"
+    ],
+    "related": [
+      "allah",
+      "al-hayy",
+      "al-wahid",
+      "al-ahad",
+      "as-samad",
+      "al-awwal",
+      "al-ghani",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "time",
+      "death-reminder"
+    ]
+  },
+  {
+    "id": "al-zahir",
+    "number": 76,
+    "transliteration": "Al-Zahir",
+    "arabic": "ٱلظَّاهِر",
+    "urdu": "ظاہر",
+    "english": "The Manifest, The Evident",
+    "root": "ظ-ه-ر",
+    "rootMeaning": "To appear, to be manifest, to prevail",
+    "category": "names-of-knowledge",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Zahir is manifest and evident — His existence and presence are made obvious through the signs of His creation. Everything in the universe points to Him. Yet He is also above and beyond everything — apparent through creation, but not identical to it.",
+      "ur": "الظاہر کائنات میں ہر طرف ظاہر ہے — ہر چیز اس کی طرف اشارہ کرتی ہے۔"
+    },
+    "inDailyLife": "Look at any natural thing closely — a leaf, a snowflake, your own hand — and Al-Zahir is manifesting. Tafakkur (contemplation of His signs) is the worship of Al-Zahir.",
+    "keyAyaat": [
+      "57:3"
+    ],
+    "related": [
+      "al-hakim",
+      "ash-shahid",
+      "al-muhsi",
+      "al-wajid",
+      "al-batin",
+      "an-nur",
+      "al-hadi",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "nature-signs"
+    ]
+  },
+  {
+    "id": "al-batin",
+    "number": 77,
+    "transliteration": "Al-Batin",
+    "arabic": "ٱلْبَاطِن",
+    "urdu": "باطن",
+    "english": "The Hidden, The Innermost",
+    "root": "ب-ط-ن",
+    "rootMeaning": "Hidden, interior, innermost",
+    "category": "names-of-knowledge",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Batin is hidden — not perceivable by the senses, not containable within human concepts. Al-Zahir and Al-Batin together constitute the most profound paradox of divine reality: simultaneously the most evident reality in existence and the most hidden.",
+      "ur": "الباطن حواس سے پرے ہے۔ الظاہر اور الباطن ایک ساتھ: سب سے واضح اور سب سے پوشیدہ۔"
+    },
+    "inDailyLife": "Al-Batin prevents you from thinking you have fully understood God. Every time you feel you've grasped His full reality, Al-Batin reminds you the deepest reality always exceeds the grasp.",
+    "keyAyaat": [
+      "57:3"
+    ],
+    "related": [
+      "al-alim",
+      "ash-shahid",
+      "al-muhsi",
+      "al-wajid",
+      "al-zahir",
+      "an-nur",
+      "al-hadi",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "al-wali-78",
+    "number": 78,
+    "transliteration": "Al-Wali",
+    "arabic": "ٱلْوَالِي",
+    "urdu": "حاکم",
+    "english": "The Governor, The Ruler",
+    "root": "و-ل-ي",
+    "rootMeaning": "To govern, to administer, to be in charge",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Wali (the Governor, different from Al-Wali the Friend) is the supreme administrator of all affairs. No system — celestial, biological, social, spiritual — operates independently of His governance. He actively governs every moment.",
+      "ur": "الوالی (حاکم) ہر چیز کا انتظام کرنے والا ہے۔ کوئی قانونِ فطرت بھی اس کی اجازت کے بغیر نہیں چلتا۔"
+    },
+    "inDailyLife": "Nothing in your life is outside Al-Wali's administration. The systems and circumstances around you are managed by the supreme Governor — trust the governance.",
+    "keyAyaat": [
+      "13:11",
+      "18:44",
+      "42:28"
+    ],
+    "related": [
+      "al-qadir",
+      "al-muqtadir",
+      "al-muqaddim",
+      "al-muakhkhir",
+      "al-mutaali",
+      "malik-ul-mulk",
+      "dhul-jalali-wal-ikram",
+      "al-mani"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "leadership",
+      "tawakkul",
+      "qadr"
+    ]
+  },
+  {
+    "id": "al-mutaali",
+    "number": 79,
+    "transliteration": "Al-Muta'ali",
+    "arabic": "ٱلْمُتَعَالِي",
+    "urdu": "بلند تر",
+    "english": "The Most Exalted, The Self-Exalted",
+    "root": "ع-ل-و",
+    "rootMeaning": "Exaltation, transcendence, rising above",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Muta'ali is exalted above all things by His own nature — His transcendence is inherent, not granted by others. He transcends every limitation and every analogy humans might apply. Whatever you conceive of as the greatest possible being — Al-Muta'ali is above that.",
+      "ur": "المتعالی ذاتی طور پر ہر چیز سے بلند ہے۔ جو سب سے عظیم چیز آپ سوچ سکتے ہیں — المتعالی اس سے بھی اوپر ہے۔"
+    },
+    "inDailyLife": "Intellectual humility before Al-Muta'ali: your understanding, your mental image of God — all fall short. This is the correct posture before the Most Exalted.",
+    "keyAyaat": [
+      "13:9"
+    ],
+    "related": [
+      "al-muqtadir",
+      "al-muqaddim",
+      "al-muakhkhir",
+      "al-wali-78",
+      "malik-ul-mulk",
+      "dhul-jalali-wal-ikram",
+      "al-mani",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "kibr"
+    ]
+  },
+  {
+    "id": "al-barr",
+    "number": 80,
+    "transliteration": "Al-Barr",
+    "arabic": "ٱلْبَرّ",
+    "urdu": "نیکی کا سرچشمہ",
+    "english": "The Source of All Goodness",
+    "root": "ب-ر-ر",
+    "rootMeaning": "Goodness, righteousness, wide-open vastness",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Barr is the source of all goodness and kindness — from Him flows every act of goodness in the universe. 'Surely He is Al-Barr, Al-Rahim' — said to the people of Jannah (52:28). Al-Barr does not merely permit goodness; He is its origin and source.",
+      "ur": "البر تمام نیکی کا سرچشمہ ہے — کائنات میں جو بھی بھلائی ہے، اس کی اصل اللہ کی ذات ہے۔"
+    },
+    "inDailyLife": "Every act of genuine kindness you witness in people is a reflection of Al-Barr — they are channels of divine goodness. Seek goodness by returning to its source.",
+    "keyAyaat": [
+      "52:28"
+    ],
+    "related": [
+      "ar-rahman",
+      "al-ghafur",
+      "ash-shakur",
+      "al-wadud",
+      "al-wali-56",
+      "at-tawwab",
+      "al-afuww",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "ihsan",
+      "rahmah",
+      "jannah"
+    ]
+  },
+  {
+    "id": "at-tawwab",
+    "number": 81,
+    "transliteration": "At-Tawwab",
+    "arabic": "ٱلتَّوَّاب",
+    "urdu": "توبہ قبول کرنے والا",
+    "english": "The Acceptor of Repentance",
+    "root": "ت-و-ب",
+    "rootMeaning": "To turn back, to repent, to accept return",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 11,
+    "meaning": {
+      "en": "At-Tawwab turns toward His servants — He turns first to enable repentance, then turns again to accept it. 'Then He turned to them so they could repent' (9:118). The door of tawbah closes only at two points: when the sun rises from the West, or at the moment of death.",
+      "ur": "التواب بار بار توبہ قبول کرتا ہے — بلکہ پہلے خود رخ کرتا ہے تاکہ بندہ توبہ کر سکے (9:118)۔"
+    },
+    "inDailyLife": "When you turn toward Him in repentance, you find He was already facing you. The meeting is guaranteed.",
+    "keyAyaat": [
+      "2:37",
+      "2:54",
+      "2:128",
+      "2:160",
+      "4:16",
+      "4:64",
+      "9:104",
+      "9:118",
+      "49:12"
+    ],
+    "related": [
+      "ar-rahman",
+      "ar-rahim",
+      "ash-shakur",
+      "al-wadud",
+      "al-wali-56",
+      "al-barr",
+      "al-afuww",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawbah",
+      "rahmah",
+      "hope-raja"
+    ]
+  },
+  {
+    "id": "al-muntaqim",
+    "number": 82,
+    "transliteration": "Al-Muntaqim",
+    "arabic": "ٱلْمُنْتَقِم",
+    "urdu": "انتقام لینے والا",
+    "english": "The Avenger, The Retributor",
+    "root": "ن-ق-م",
+    "rootMeaning": "To avenge, to punish, to exact retribution",
+    "category": "names-of-justice",
+    "occurrences": 3,
+    "meaning": {
+      "en": "Al-Muntaqim takes retribution on behalf of His creation against those who persist in oppression and disbelief. This is not vengeful cruelty but the vindication of justice. Every oppressor who escaped earthly justice will face Al-Muntaqim.",
+      "ur": "المنتقم مظلوموں کی طرف سے ظالموں سے انتقام لیتا ہے۔ یہ عدل کا اظہار ہے، ظالمانہ غضب نہیں۔"
+    },
+    "inDailyLife": "This name is not permission to seek private revenge. It is the assurance that divine justice catches every escaping wrongdoer. Leave it to Al-Muntaqim.",
+    "keyAyaat": [
+      "3:4",
+      "5:95",
+      "14:47",
+      "32:22",
+      "39:37",
+      "44:16"
+    ],
+    "related": [
+      "al-hakam",
+      "al-adl",
+      "al-hasib",
+      "al-muqsit"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "adl",
+      "oppression",
+      "history-lessons"
+    ]
+  },
+  {
+    "id": "al-afuww",
+    "number": 83,
+    "transliteration": "Al-Afuww",
+    "arabic": "ٱلْعَفُوّ",
+    "urdu": "معاف کرنے والا",
+    "english": "The Pardoner, The Effacer of Sins",
+    "root": "ع-ف-و",
+    "rootMeaning": "To erase, to efface, to obliterate",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 5,
+    "meaning": {
+      "en": "Al-Afuww effaces sins entirely — not just forgives and covers (like Al-Ghafur) but wipes clean as if they never existed. Aisha رضي الله عنها was taught: 'Allahumma innaka afuwwun tuhibbul afwa fa'fu anni' — the chosen du'a for Laylatul Qadr.",
+      "ur": "العفو گناہ مٹا دیتا ہے — چھپاتا نہیں، مٹا دیتا ہے۔ لیلۃ القدر کی دعا: 'اے اللہ تو العفو ہے، معافی کو پسند کرتا ہے، مجھے معاف کر دے'۔"
+    },
+    "inDailyLife": "Make this du'a every Laylatul Qadr: 'Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.' One night of sincere calling on Al-Afuww can wipe a lifetime of sins clean.",
+    "keyAyaat": [
+      "2:187",
+      "4:43",
+      "4:99",
+      "4:149",
+      "5:101",
+      "22:60",
+      "58:2"
+    ],
+    "related": [
+      "ar-rahman",
+      "ar-rahim",
+      "al-ghaffar",
+      "al-wadud",
+      "al-wali-56",
+      "al-barr",
+      "at-tawwab",
+      "ar-rauf"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawbah",
+      "hilm",
+      "rahmah"
+    ]
+  },
+  {
+    "id": "ar-rauf",
+    "number": 84,
+    "transliteration": "Ar-Ra'uf",
+    "arabic": "ٱلرَّءُوف",
+    "urdu": "نہایت مہربان",
+    "english": "The Compassionate, The Most Kind",
+    "root": "ر-أ-ف",
+    "rootMeaning": "Deep compassion, tender pity",
+    "category": "names-of-forgiveness-mercy",
+    "occurrences": 10,
+    "meaning": {
+      "en": "Ar-Ra'uf is intensely, tenderly compassionate — a compassion that moves immediately and deeply when it sees suffering. The Prophet ﷺ is described as Ra'uf and Rahim (9:128) — attributes borrowed from the divine. His compassion is not distant sympathy; it is tender, active, and personal.",
+      "ur": "الرؤف گہری اور نرم رحمت ہے جو تکلیف دیکھ کر فوراً حرکت میں آتی ہے۔ نبی ﷺ کو بھی 'رؤف رحیم' کہا گیا (9:128)۔"
+    },
+    "inDailyLife": "When you feel no one is truly moved by your suffering, Ar-Ra'uf's compassion is real, deep, and personally directed at your situation. He is not indifferent.",
+    "keyAyaat": [
+      "2:143",
+      "2:207",
+      "3:30",
+      "9:117",
+      "9:128",
+      "16:7",
+      "22:65",
+      "24:20",
+      "57:9",
+      "59:10"
+    ],
+    "related": [
+      "ar-rahman",
+      "ar-rahim",
+      "al-ghaffar",
+      "al-halim",
+      "al-wali-56",
+      "al-barr",
+      "at-tawwab",
+      "al-afuww"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rahmah",
+      "ihsan"
+    ]
+  },
+  {
+    "id": "malik-ul-mulk",
+    "number": 85,
+    "transliteration": "Malik-ul-Mulk",
+    "arabic": "مَالِكُ ٱلْمُلْكِ",
+    "urdu": "ملک کا مالک",
+    "english": "The Owner of All Sovereignty",
+    "root": "م-ل-ك",
+    "rootMeaning": "King, dominion, possession",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Malik-ul-Mulk is the absolute proprietor of all kingship itself. All other kings are temporary custodians of borrowed authority. 'O Allah, Owner of Sovereignty, You give sovereignty to whom You will and take it from whom You will' (3:26).",
+      "ur": "مالک الملک تمام حکومت کا مطلق مالک ہے۔ باقی سب عاریتی اقتدار رکھتے ہیں (3:26)۔"
+    },
+    "inDailyLife": "Every government and authority operates on borrowed sovereignty from Malik-ul-Mulk. When these structures fail you, the original Owner of all sovereignty is your recourse.",
+    "keyAyaat": [
+      "3:26"
+    ],
+    "related": [
+      "al-malik",
+      "al-muqaddim",
+      "al-muakhkhir",
+      "al-wali-78",
+      "al-mutaali",
+      "dhul-jalali-wal-ikram",
+      "al-mani",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "leadership",
+      "qadr",
+      "tawheed"
+    ]
+  },
+  {
+    "id": "dhul-jalali-wal-ikram",
+    "number": 86,
+    "transliteration": "Dhul-Jalali wal-Ikram",
+    "arabic": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَام",
+    "urdu": "جلال و کرم والا",
+    "english": "The Lord of Majesty and Generosity",
+    "root": "ج-ل-ل and ك-ر-م",
+    "rootMeaning": "Majesty/Glory + Generosity/Honor",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Combining Jalal (majesty that inspires awe) and Ikram (generosity that draws one close): He is so majestic that one trembles, and so generous that one is drawn near. The Prophet ﷺ said to frequently repeat this name. Appears twice at the end of Surah Ar-Rahman (55:27, 55:78).",
+      "ur": "جلال (عظمت جو خوف پیدا کرے) اور اکرام (کرم جو قریب کھینچے) — دونوں مل کر اللہ سے کامل تعلق بناتے ہیں۔"
+    },
+    "inDailyLife": "When worship becomes only fear or only familiarity, Dhul-Jalali wal-Ikram calls you to the balance — awe and love, reverence and nearness, simultaneously.",
+    "keyAyaat": [
+      "55:27",
+      "55:78"
+    ],
+    "related": [
+      "al-malik",
+      "al-muhaymin",
+      "al-muakhkhir",
+      "al-wali-78",
+      "al-mutaali",
+      "malik-ul-mulk",
+      "al-mani",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "tawheed",
+      "dhikr",
+      "death-reminder"
+    ]
+  },
+  {
+    "id": "al-muqsit",
+    "number": 87,
+    "transliteration": "Al-Muqsit",
+    "arabic": "ٱلْمُقْسِط",
+    "urdu": "انصاف کرنے والا",
+    "english": "The Equitable, The Just",
+    "root": "ق-س-ط",
+    "rootMeaning": "Justice, equity, balance",
+    "category": "names-of-justice",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Muqsit actively implements and enforces justice. The scale of the Day of Judgment (the Mizan) is the instrument of Al-Muqsit — every deed weighed with perfect precision. Not even the weight of a mustard seed of injustice passes in His court.",
+      "ur": "المقسط کامل انصاف نافذ کرتا ہے۔ قیامت کا میزان اس کا آلہ ہے — رائی کے دانے کے برابر بھی ظلم نہیں گزرتا۔"
+    },
+    "inDailyLife": "Perfect justice is rare in this world — but Al-Muqsit's scales are perfectly calibrated. No deed, no suffering, no injustice goes unaccounted for in His court.",
+    "keyAyaat": [
+      "3:18",
+      "5:42",
+      "49:9",
+      "60:8"
+    ],
+    "related": [
+      "al-hakam",
+      "al-adl",
+      "al-hasib",
+      "al-muntaqim"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "adl",
+      "akhirah",
+      "love-of-allah"
+    ]
+  },
+  {
+    "id": "al-jami",
+    "number": 88,
+    "transliteration": "Al-Jami'",
+    "arabic": "ٱلْجَامِع",
+    "urdu": "جمع کرنے والا",
+    "english": "The Gatherer, The Uniter",
+    "root": "ج-م-ع",
+    "rootMeaning": "To gather, to collect, to unite",
+    "category": "names-of-the-hereafter",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Jami' gathers all things — scattered atoms recreated into bodies on the Day of Resurrection, nations gathered for judgment, contradictory elements harmonized in His plan. 'Our Lord, You will gather mankind for a Day about which there is no doubt' (3:9).",
+      "ur": "الجامع سب کو جمع کرتا ہے — قیامت میں بکھری ہوئی مٹی کو، انسانوں کو حساب کے لیے۔ بکھرے دلوں کو بھی جوڑ سکتا ہے۔"
+    },
+    "inDailyLife": "When your life feels scattered, Al-Jami' can bring coherence and unity. When relationships are broken, He is the One who can gather hearts back together.",
+    "keyAyaat": [
+      "3:9",
+      "4:140",
+      "6:12",
+      "42:29"
+    ],
+    "related": [
+      "al-baith",
+      "al-mumit",
+      "al-warith"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "akhirah",
+      "resurrection"
+    ]
+  },
+  {
+    "id": "al-ghani",
+    "number": 89,
+    "transliteration": "Al-Ghani",
+    "arabic": "ٱلْغَنِيّ",
+    "urdu": "بے نیاز، غنی",
+    "english": "The Self-Sufficient, The Rich",
+    "root": "غ-ن-ي",
+    "rootMeaning": "Wealth, self-sufficiency, freedom from need",
+    "category": "names-of-essential-nature",
+    "occurrences": 18,
+    "meaning": {
+      "en": "Al-Ghani is completely self-sufficient — He needs nothing from anyone. Your worship does not benefit Him; your sin does not harm Him. 'O mankind, you are the ones in need of Allah, while Allah is Al-Ghani, Al-Hamid' (35:15). Worship benefits the worshipper, not Allah.",
+      "ur": "الغنی کو کسی کی ضرورت نہیں — آپ کی عبادت اسے فائدہ نہیں، آپ کا گناہ نقصان نہیں۔ 'اے لوگو! تم اللہ کے محتاج ہو' (35:15)۔"
+    },
+    "inDailyLife": "Worship Al-Ghani because it transforms you, not because He needs it. Worship out of need (which you have) rather than obligation (which is distorted) — it becomes the most rational act.",
+    "keyAyaat": [
+      "2:263",
+      "2:267",
+      "3:97",
+      "4:131",
+      "6:133",
+      "10:68",
+      "22:64",
+      "27:40",
+      "29:6",
+      "35:15"
+    ],
+    "related": [
+      "allah",
+      "al-hayy",
+      "al-qayyum",
+      "al-ahad",
+      "as-samad",
+      "al-awwal",
+      "al-akhir",
+      "al-baqi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "wealth",
+      "zakat",
+      "tawheed"
+    ]
+  },
+  {
+    "id": "al-mughni",
+    "number": 90,
+    "transliteration": "Al-Mughni",
+    "arabic": "ٱلْمُغْنِي",
+    "urdu": "غنی کرنے والا",
+    "english": "The Enricher",
+    "root": "غ-ن-ي",
+    "rootMeaning": "To make rich, to enrich, to suffice",
+    "category": "names-of-generosity-provision",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Mughni enriches and suffices — He makes rich (materially, spiritually, emotionally) whom He wills. The greatest richness He grants is richness of the heart — contentment (ghina an-nafs) — which the Prophet ﷺ said is the true wealth.",
+      "ur": "المغنی غنی کرتا ہے — مادی بھی، روحانی بھی۔ سب سے بڑی غنائیت دل کی ہے جسے نبی ﷺ نے 'غنائے نفس' کہا۔"
+    },
+    "inDailyLife": "The contentment you seek through accumulating more is actually given by Al-Mughni as an inner state, not an outer one. Seek richness of heart from the Enricher.",
+    "keyAyaat": [
+      "9:28",
+      "53:48",
+      "93:8"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-fattah",
+      "al-basit",
+      "al-muqit",
+      "al-karim",
+      "al-mujib",
+      "an-nafi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "rizq",
+      "wealth",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "al-mani",
+    "number": 91,
+    "transliteration": "Al-Mani'",
+    "arabic": "ٱلْمَانِع",
+    "urdu": "روکنے والا",
+    "english": "The Withholder, The Shielder",
+    "root": "م-ن-ع",
+    "rootMeaning": "To prevent, to protect, to withhold",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Mani' withholds what He wills and prevents what He wills. The Hadith: 'What You give, no one can withhold; and what You withhold, no one can give.' Nothing reaches you except what Al-Mani' has permitted; nothing is kept from you except what Al-Mani' has withheld.",
+      "ur": "المانع جو چاہے روکتا ہے۔ حدیث: 'جو تو دے کوئی روک نہیں سکتا، جو تو روک لے کوئی دے نہیں سکتا'۔"
+    },
+    "inDailyLife": "What did not come to you — the job, the relationship, the thing you wanted — Al-Mani' withheld it. This may be the greatest mercy. Trust the withholding as much as the giving.",
+    "keyAyaat": [
+      "3:160",
+      "4:45",
+      "11:57",
+      "17:65"
+    ],
+    "related": [
+      "al-malik",
+      "al-muhaymin",
+      "al-aziz",
+      "al-wali-78",
+      "al-mutaali",
+      "malik-ul-mulk",
+      "dhul-jalali-wal-ikram",
+      "ad-darr"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "ad-darr",
+    "number": 92,
+    "transliteration": "Ad-Darr",
+    "arabic": "ٱلضَّارّ",
+    "urdu": "نقصان دینے والا",
+    "english": "The Distresser, The Afflicter",
+    "root": "ض-ر-ر",
+    "rootMeaning": "Harm, affliction, distress",
+    "category": "names-of-power-sovereignty",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Ad-Darr paired with An-Nafi' represents complete sovereignty over all outcomes. Whatever harm reaches any being, it comes only by His permission and within His plan. This prevents false attributions of harm to independent evil powers or chance. The One who permits harm is the same One who can remove it.",
+      "ur": "الضار نفع و نقصان دونوں پر مطلق اختیار رکھتا ہے۔ جو نقصان بھی پہنچے، اس کی اجازت سے ہے — یہ سمجھ شرک اور تشویش دونوں سے بچاتی ہے۔"
+    },
+    "inDailyLife": "Every hardship passed through Al-Darr's permission. It was not imposed by an independent evil power. The One who permits harm can also remove it.",
+    "keyAyaat": [
+      "6:17",
+      "7:188",
+      "10:107",
+      "13:11",
+      "21:83"
+    ],
+    "related": [
+      "al-malik",
+      "al-muhaymin",
+      "al-aziz",
+      "al-jabbar",
+      "al-mutaali",
+      "malik-ul-mulk",
+      "dhul-jalali-wal-ikram",
+      "al-mani"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "trial-test",
+      "tawakkul"
+    ]
+  },
+  {
+    "id": "an-nafi",
+    "number": 93,
+    "transliteration": "An-Nafi'",
+    "arabic": "ٱلنَّافِع",
+    "urdu": "نفع دینے والا",
+    "english": "The Benefiter, The Creator of Good",
+    "root": "ن-ف-ع",
+    "rootMeaning": "Benefit, profit, good",
+    "category": "names-of-generosity-provision",
+    "occurrences": 0,
+    "meaning": {
+      "en": "An-Nafi' is the source and giver of all benefit — every good thing, every advantage, every healing. Paired with Ad-Darr: only Allah has real power to help or harm. An-Nafi' can bring benefit through any channel He chooses — unlikely means, unexpected people, surprising circumstances.",
+      "ur": "النافع تمام نفع کا سرچشمہ ہے — ہر بھلائی، ہر فائدہ، ہر شفا۔ نفع اور نقصان دونوں صرف اللہ کے ہاتھ میں ہیں۔"
+    },
+    "inDailyLife": "When you are unsure which path will benefit you, consult An-Nafi' through Istikhara. When you need benefit no human can supply, seek it from its source.",
+    "keyAyaat": [
+      "3:176",
+      "6:17",
+      "7:188",
+      "10:107"
+    ],
+    "related": [
+      "al-wahhab",
+      "ar-razzaq",
+      "al-fattah",
+      "al-basit",
+      "al-muqit",
+      "al-karim",
+      "al-mujib",
+      "al-mughni"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "qadr",
+      "tawakkul",
+      "shirk"
+    ]
+  },
+  {
+    "id": "an-nur",
+    "number": 94,
+    "transliteration": "An-Nur",
+    "arabic": "ٱلنُّور",
+    "urdu": "نور",
+    "english": "The Light",
+    "root": "ن-و-ر",
+    "rootMeaning": "Light, illumination, guidance",
+    "category": "names-of-knowledge",
+    "occurrences": 1,
+    "meaning": {
+      "en": "An-Nur is the Light — source of all light, physical and spiritual. Ayat an-Nur (24:35) describes His light through an elaborate parable describing the light of iman in the heart of the believer. An-Nur will be the only light on the Day of Judgment when all other lights extinguish.",
+      "ur": "النور نور کا سرچشمہ ہے — مادی اور روحانی دونوں۔ آیت النور (24:35) مومن کے دل میں ایمان کا نور بیان کرتی ہے۔"
+    },
+    "inDailyLife": "When you feel spiritually lost or in darkness, An-Nur is the direct source of illumination. 'Allahu nurus samawati wal-ard.' Ask An-Nur for light.",
+    "keyAyaat": [
+      "24:35",
+      "33:46",
+      "39:22",
+      "57:28",
+      "64:8"
+    ],
+    "related": [
+      "al-alim",
+      "as-sami",
+      "al-muhsi",
+      "al-wajid",
+      "al-zahir",
+      "al-batin",
+      "al-hadi",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "hidayah",
+      "iman",
+      "revelation"
+    ]
+  },
+  {
+    "id": "al-hadi",
+    "number": 95,
+    "transliteration": "Al-Hadi",
+    "arabic": "ٱلْهَادِي",
+    "urdu": "ہدایت دینے والا",
+    "english": "The Guide",
+    "root": "ه-د-و",
+    "rootMeaning": "Guidance, to lead to the right path",
+    "category": "names-of-knowledge",
+    "occurrences": 1,
+    "meaning": {
+      "en": "Al-Hadi guides creation to what is beneficial and right — giving instinct to animals, guidance to the human heart, and revealed guidance through prophets and scripture. 'Sufficient is your Lord as a Guide and Helper' (25:31). His guidance is always available — the condition is sincere seeking.",
+      "ur": "الہادی رہنمائی کا سرچشمہ ہے۔ 'آپ کا رب کافی ہے بطور ہادی اور مددگار' (25:31)۔ اس کی ہدایت ہمیشہ دستیاب ہے — شرط اخلاص ہے۔"
+    },
+    "inDailyLife": "Every istikhara is asking Al-Hadi to guide your decision. Every time you read Quran for clarity, you are accessing His guidance.",
+    "keyAyaat": [
+      "2:272",
+      "16:9",
+      "22:54",
+      "25:31",
+      "39:23"
+    ],
+    "related": [
+      "al-alim",
+      "as-sami",
+      "al-basir",
+      "al-wajid",
+      "al-zahir",
+      "al-batin",
+      "an-nur",
+      "ar-rashid"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "hidayah",
+      "dua"
+    ]
+  },
+  {
+    "id": "al-badi",
+    "number": 96,
+    "transliteration": "Al-Badi'",
+    "arabic": "ٱلْبَدِيع",
+    "urdu": "انوکھا بنانے والا",
+    "english": "The Incomparable Originator",
+    "root": "ب-د-ع",
+    "rootMeaning": "To create in a completely unprecedented way",
+    "category": "names-of-creation",
+    "occurrences": 2,
+    "meaning": {
+      "en": "Al-Badi' creates in a completely unprecedented way — with no prior model, no comparison, no precedent. 'Incomparable Originator of the heavens and earth' (2:117). The universe is not a copy of anything; it is His unprecedented masterwork.",
+      "ur": "البدیع بے مثال انداز سے بناتا ہے — کوئی پرانا نمونہ نہیں۔ 'آسمانوں اور زمین کا البدیع' (2:117)۔"
+    },
+    "inDailyLife": "When you feel stuck in conventional thinking about your problem, Al-Badi' can create unprecedented solutions. No situation is without a creative resolution for the One who created the universe from nothing.",
+    "keyAyaat": [
+      "2:117",
+      "6:101"
+    ],
+    "related": [
+      "al-khaliq",
+      "al-bari",
+      "al-musawwir",
+      "al-mubdi",
+      "al-muid",
+      "al-muhyi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "nature-signs",
+      "tawheed"
+    ]
+  },
+  {
+    "id": "al-baqi",
+    "number": 97,
+    "transliteration": "Al-Baqi",
+    "arabic": "ٱلْبَاقِي",
+    "urdu": "باقی رہنے والا",
+    "english": "The Everlasting",
+    "root": "ب-ق-و",
+    "rootMeaning": "To remain, to last, to endure",
+    "category": "names-of-essential-nature",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Baqi remains after all of creation passes away. 'All on earth will perish, but the Face of your Lord will remain, full of majesty and honor' (55:26-27). 'Al-baqiyat as-salihat' — the righteous deeds that endure with Al-Baqi — are better in reward than all of this world.",
+      "ur": "الباقی ہمیشہ رہے گا — 'زمین میں جو کچھ ہے فنا ہو جائے گا اور آپ کے رب کا چہرہ باقی رہے گا' (55:26-27)۔"
+    },
+    "inDailyLife": "Every act of worship, every sadaqah jariyah, every prayer for others — these 'baqiyat as-salihat' endure with Al-Baqi. Build what lasts.",
+    "keyAyaat": [
+      "19:76",
+      "20:73",
+      "28:60",
+      "55:26",
+      "55:27"
+    ],
+    "related": [
+      "allah",
+      "al-hayy",
+      "al-qayyum",
+      "al-wahid",
+      "as-samad",
+      "al-awwal",
+      "al-akhir",
+      "al-ghani"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "death-reminder",
+      "dunya"
+    ]
+  },
+  {
+    "id": "al-warith",
+    "number": 98,
+    "transliteration": "Al-Warith",
+    "arabic": "ٱلْوَارِث",
+    "urdu": "وارث",
+    "english": "The Inheritor of All",
+    "root": "و-ر-ث",
+    "rootMeaning": "To inherit, to remain after others",
+    "category": "names-of-the-hereafter",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Al-Warith is the ultimate inheritor — He remains after all of creation passes away and everything returns to Him. All that humans accumulate will be 'inherited' by Al-Warith. 'It is We who give life and cause death, and We are the Inheritors' (15:23).",
+      "ur": "الوارث آخر میں سب کا وارث ہے — سب کی جمع پونجی، سلطنتیں، شہرت — سب واپس جائے گی۔"
+    },
+    "inDailyLife": "You are a temporary custodian of your wealth, time, and talents — Al-Warith is the ultimate owner. Spend as a trustee who knows the real owner will reclaim everything.",
+    "keyAyaat": [
+      "3:180",
+      "7:128",
+      "15:23",
+      "19:40",
+      "21:89",
+      "28:58"
+    ],
+    "related": [
+      "al-baith",
+      "al-mumit",
+      "al-jami"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "death-reminder",
+      "dunya",
+      "wealth"
+    ]
+  },
+  {
+    "id": "ar-rashid",
+    "number": 99,
+    "transliteration": "Ar-Rashid",
+    "arabic": "ٱلرَّشِيد",
+    "urdu": "راہنما",
+    "english": "The Guide to the Right Path",
+    "root": "ر-ش-د",
+    "rootMeaning": "Righteousness, right guidance, wisdom in directing",
+    "category": "names-of-knowledge",
+    "occurrences": 0,
+    "meaning": {
+      "en": "Ar-Rashid directs all things to their right and appointed ends with perfect wisdom. His direction is always toward the best outcome — He guides matters to their rightful conclusion without deviance. Whatever He directs toward its goal will arrive there.",
+      "ur": "الرشید ہر چیز کو اس کے صحیح انجام کی طرف بے خطا رہنمائی کرتا ہے۔ اس کی رہنمائی میں کوئی انحراف نہیں۔"
+    },
+    "inDailyLife": "When you cannot see where your situation is heading, Ar-Rashid is directing it toward its right end. You may not see the destination, but He is guiding the journey. Trust the Director.",
+    "keyAyaat": [
+      "2:256",
+      "4:6",
+      "11:87",
+      "18:10",
+      "18:17",
+      "72:2",
+      "72:10"
+    ],
+    "related": [
+      "al-alim",
+      "as-sami",
+      "al-basir",
+      "al-latif",
+      "al-zahir",
+      "al-batin",
+      "an-nur",
+      "al-hadi"
+    ],
+    "themes": [
+      "asma-ul-husna",
+      "hidayah",
+      "dua"
+    ]
+  }
+]

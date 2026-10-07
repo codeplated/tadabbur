@@ -1,0 +1,67 @@
+[
+  {
+    "id": "belief",
+    "label": "Belief",
+    "order": 1
+  },
+  {
+    "id": "hereafter",
+    "label": "Hereafter",
+    "order": 2
+  },
+  {
+    "id": "prophets",
+    "label": "Prophets",
+    "order": 3
+  },
+  {
+    "id": "narratives",
+    "label": "Narratives",
+    "order": 4
+  },
+  {
+    "id": "seerah",
+    "label": "Seerah",
+    "order": 5
+  },
+  {
+    "id": "worship",
+    "label": "Worship",
+    "order": 6
+  },
+  {
+    "id": "character",
+    "label": "Character",
+    "order": 7
+  },
+  {
+    "id": "spirit",
+    "label": "Spirit",
+    "order": 8
+  },
+  {
+    "id": "life",
+    "label": "Life",
+    "order": 9
+  },
+  {
+    "id": "relations",
+    "label": "Relations",
+    "order": 10
+  },
+  {
+    "id": "society",
+    "label": "Society",
+    "order": 11
+  },
+  {
+    "id": "signs",
+    "label": "Signs",
+    "order": 12
+  },
+  {
+    "id": "meta",
+    "label": "Meta",
+    "order": 13
+  }
+]

@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "tawheed",
+    "label": {
+      "en": "Tawheed",
+      "ur": "توحید"
+    },
+    "category": "belief",
+    "description": "Oneness of Allah — His lordship, sole right to worship & uniqueness",
+    "order": 1
+  },
+  {
+    "id": "asma-ul-husna",
+    "label": {
+      "en": "Asma ul Husna",
+      "ur": "اسماء الحسنیٰ"
+    },
+    "category": "belief",
+    "description": "Names & attributes of Allah",
+    "order": 2
+  },
+  {
+    "id": "rahmah",
+    "label": {
+      "en": "Mercy & Forgiveness",
+      "ur": "رحمت و مغفرت"
+    },
+    "category": "belief",
+    "description": "Allah's vast mercy, forgiveness & kindness to His servants",
+    "order": 3
+  },
+  {
+    "id": "iman",
+    "label": {
+      "en": "Iman",
+      "ur": "ایمان"
+    },
+    "category": "belief",
+    "description": "Faith, its pillars & the qualities of true believers",
+    "order": 4
+  },
+  {
+    "id": "shirk",
+    "label": {
+      "en": "Shirk",
+      "ur": "شرک"
+    },
+    "category": "belief",
+    "description": "Associating partners with Allah — idols, false gods & their refutation",
+    "order": 5
+  },
+  {
+    "id": "kufr",
+    "label": {
+      "en": "Kufr",
+      "ur": "کفر"
+    },
+    "category": "belief",
+    "description": "Disbelief, denial of the truth & the attitudes of the disbelievers",
+    "order": 6
+  },
+  {
+    "id": "nifaq",
+    "label": {
+      "en": "Nifaq",
+      "ur": "نفاق"
+    },
+    "category": "belief",
+    "description": "Hypocrisy — the hypocrites' traits, schemes & exposure",
+    "order": 7
+  },
+  {
+    "id": "hidayah",
+    "label": {
+      "en": "Guidance",
+      "ur": "ہدایت و ضلالت"
+    },
+    "category": "belief",
+    "description": "Guidance & misguidance — how and why hearts are guided or led astray",
+    "order": 8
+  },
+  {
+    "id": "qadr",
+    "label": {
+      "en": "Qadr",
+      "ur": "تقدیر"
+    },
+    "category": "belief",
+    "description": "Divine decree, Allah's will & destiny",
+    "order": 9
+  },
+  {
+    "id": "prophethood",
+    "label": {
+      "en": "Prophethood",
+      "ur": "نبوت و رسالت"
+    },
+    "category": "belief",
+    "description": "The messengers — their mission, humanity & belief in all of them",
+    "order": 10
+  },
+  {
+    "id": "revelation",
+    "label": {
+      "en": "Revelation",
+      "ur": "وحی و کتب"
+    },
+    "category": "belief",
+    "description": "Wahy — the Quran's divine origin, earlier scriptures & the challenge to imitate it",
+    "order": 11
+  },
+  {
+    "id": "angels",
+    "label": {
+      "en": "Angels",
+      "ur": "ملائکہ"
+    },
+    "category": "belief",
+    "description": "Angels — their nature, duties & the unseen world",
+    "order": 12
+  },
+  {
+    "id": "jinn",
+    "label": {
+      "en": "Jinn",
+      "ur": "جنات"
+    },
+    "category": "belief",
+    "description": "The jinn — their creation, believers & disbelievers among them",
+    "order": 13
+  },
+  {
+    "id": "shaytan",
+    "label": {
+      "en": "Shaytan",
+      "ur": "شیطان"
+    },
+    "category": "belief",
+    "description": "Iblis & the devils — enmity, whispers, deception & magic",
+    "order": 14
+  },
+  {
+    "id": "death-reminder",
+    "label": {
+      "en": "Death & the Grave",
+      "ur": "موت و برزخ"
+    },
+    "category": "hereafter",
+    "description": "Death, the barzakh & preparing to meet Allah",
+    "order": 15
+  },
+  {
+    "id": "resurrection",
+    "label": {
+      "en": "Resurrection",
+      "ur": "بعث بعد الموت"
+    },
+    "category": "hereafter",
+    "description": "Life after death — its proofs & answers to those who deny it",
+    "order": 16
+  },
+  {
+    "id": "akhirah",
+    "label": {
+      "en": "Akhirah & Judgment Day",
+      "ur": "آخرت و یوم الحساب"
+    },
+    "category": "hereafter",
+    "description": "The Hour, the Day of Judgment, reckoning, scales & intercession",
+    "order": 17
+  },
+  {
+    "id": "jannah",
+    "label": {
+      "en": "Jannah",
+      "ur": "جنت"
+    },
+    "category": "hereafter",
+    "description": "Paradise — its gardens, delights & people",
+    "order": 18
+  },
+  {
+    "id": "jahannam",
+    "label": {
+      "en": "Jahannam",
+      "ur": "جہنم"
+    },
+    "category": "hereafter",
+    "description": "Hell — its punishment & its people",
+    "order": 19
+  },
+  {
+    "id": "story-adam",
+    "label": {
+      "en": "Prophet Adam",
+      "ur": "آدم علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Creation of Adam, the angels' prostration, Iblis & repentance",
+    "order": 20
+  },
+  {
+    "id": "story-idris",
+    "label": {
+      "en": "Prophet Idris",
+      "ur": "ادریس علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "A truthful prophet raised to a high station",
+    "order": 21
+  },
+  {
+    "id": "story-nuh",
+    "label": {
+      "en": "Prophet Nuh",
+      "ur": "نوح علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Centuries of da'wah, the ark & the flood",
+    "order": 22
+  },
+  {
+    "id": "story-hud",
+    "label": {
+      "en": "Prophet Hud",
+      "ur": "ہود علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "The people of 'Ad, their might & the destroying wind",
+    "order": 23
+  },
+  {
+    "id": "story-salih",
+    "label": {
+      "en": "Prophet Salih",
+      "ur": "صالح علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Thamud, the she-camel & the mighty blast",
+    "order": 24
+  },
+  {
+    "id": "story-ibrahim",
+    "label": {
+      "en": "Prophet Ibrahim",
+      "ur": "ابراہیم علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Khalilullah — breaking the idols, the fire, the sacrifice & the Kaaba",
+    "order": 25
+  },
+  {
+    "id": "story-lut",
+    "label": {
+      "en": "Prophet Lut",
+      "ur": "لوط علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "The people of Lut, their indecency & the overturned cities",
+    "order": 26
+  },
+  {
+    "id": "story-ismail",
+    "label": {
+      "en": "Prophet Ismail",
+      "ur": "اسماعیل علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "The sacrifice, raising the Kaaba & true to his promise",
+    "order": 27
+  },
+  {
+    "id": "story-ishaq",
+    "label": {
+      "en": "Prophet Ishaq",
+      "ur": "اسحاق علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Glad tidings of a son to Ibrahim & Sarah in old age",
+    "order": 28
+  },
+  {
+    "id": "story-yaqub",
+    "label": {
+      "en": "Prophet Yaqub",
+      "ur": "یعقوب علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Beautiful patience in grief & his final counsel to his sons",
+    "order": 29
+  },
+  {
+    "id": "story-yusuf",
+    "label": {
+      "en": "Prophet Yusuf",
+      "ur": "یوسف علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "The dream, the well, the prison, the palace & forgiveness",
+    "order": 30
+  },
+  {
+    "id": "story-ayyub",
+    "label": {
+      "en": "Prophet Ayyub",
+      "ur": "ایوب علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Illness, loss & patience rewarded",
+    "order": 31
+  },
+  {
+    "id": "story-shuayb",
+    "label": {
+      "en": "Prophet Shuayb",
+      "ur": "شعیب علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Madyan & Aykah — full measure & honest trade",
+    "order": 32
+  },
+  {
+    "id": "story-musa",
+    "label": {
+      "en": "Prophet Musa",
+      "ur": "موسیٰ علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Pharaoh, the exodus, the Torah & the journey with Khidr",
+    "order": 33
+  },
+  {
+    "id": "story-harun",
+    "label": {
+      "en": "Prophet Harun",
+      "ur": "ہارون علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Musa's brother, minister & fellow messenger",
+    "order": 34
+  },
+  {
+    "id": "story-dhulkifl",
+    "label": {
+      "en": "Prophet Dhul-Kifl",
+      "ur": "ذوالکفل علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Among the patient & the best",
+    "order": 35
+  },
+  {
+    "id": "story-dawud",
+    "label": {
+      "en": "Prophet Dawud",
+      "ur": "داؤد علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Victory over Jalut, kingship, the Zabur & repentance",
+    "order": 36
+  },
+  {
+    "id": "story-sulayman",
+    "label": {
+      "en": "Prophet Sulayman",
+      "ur": "سلیمان علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "A kingdom over jinn & wind, the ant, the hoopoe & the Queen of Saba",
+    "order": 37
+  },
+  {
+    "id": "story-ilyas",
+    "label": {
+      "en": "Prophet Ilyas",
+      "ur": "الیاس علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Calling his people away from the idol Ba'l",
+    "order": 38
+  },
+  {
+    "id": "story-alyasa",
+    "label": {
+      "en": "Prophet Al-Yasa",
+      "ur": "الیسع علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Among the chosen & the best",
+    "order": 39
+  },
+  {
+    "id": "story-yunus",
+    "label": {
+      "en": "Prophet Yunus",
+      "ur": "یونس علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Leaving his people, the whale, the dua in the darkness & mercy",
+    "order": 40
+  },
+  {
+    "id": "story-zakariya",
+    "label": {
+      "en": "Prophet Zakariya",
+      "ur": "زکریا علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Guardian of Maryam — a quiet dua answered with Yahya",
+    "order": 41
+  },
+  {
+    "id": "story-yahya",
+    "label": {
+      "en": "Prophet Yahya",
+      "ur": "یحییٰ علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Given wisdom as a child — chaste, dutiful & at peace",
+    "order": 42
+  },
+  {
+    "id": "story-isa",
+    "label": {
+      "en": "Prophet Isa",
+      "ur": "عیسیٰ علیہ السلام"
+    },
+    "category": "prophets",
+    "description": "Miraculous birth, miracles, the disciples & being raised",
+    "order": 43
+  },
+  {
+    "id": "story-muhammad",
+    "label": {
+      "en": "Prophet Muhammad ﷺ",
+      "ur": "محمد ﷺ"
+    },
+    "category": "prophets",
+    "description": "His life, mission, character & rights over the believers",
+    "order": 44
+  },
+  {
+    "id": "story-maryam",
+    "label": {
+      "en": "Maryam",
+      "ur": "مریم علیہا السلام"
+    },
+    "category": "narratives",
+    "description": "Her birth, devotion & the miraculous birth of Isa",
+    "order": 45
+  },
+  {
+    "id": "story-luqman",
+    "label": {
+      "en": "Luqman",
+      "ur": "لقمان"
+    },
+    "category": "narratives",
+    "description": "Luqman's wise counsel to his son",
+    "order": 46
+  },
+  {
+    "id": "story-dhulqarnayn",
+    "label": {
+      "en": "Dhul-Qarnayn",
+      "ur": "ذوالقرنین"
+    },
+    "category": "narratives",
+    "description": "A just ruler's journeys, the barrier & Ya'juj and Ma'juj",
+    "order": 47
+  },
+  {
+    "id": "story-ashab-al-kahf",
+    "label": {
+      "en": "People of the Cave",
+      "ur": "اصحاب کہف"
+    },
+    "category": "narratives",
+    "description": "Youths who fled with their faith & slept for centuries",
+    "order": 48
+  },
+  {
+    "id": "story-bani-israil",
+    "label": {
+      "en": "Bani Israil",
+      "ur": "بنی اسرائیل"
+    },
+    "category": "narratives",
+    "description": "Children of Israel — favours, covenants, the calf, the cow & the Sabbath",
+    "order": 49
+  },
+  {
+    "id": "sahabah",
+    "label": {
+      "en": "Sahabah",
+      "ur": "صحابہ کرام"
+    },
+    "category": "seerah",
+    "description": "The Companions — Muhajirun, Ansar & their virtues",
+    "order": 50
+  },
+  {
+    "id": "prophets-household",
+    "label": {
+      "en": "Prophet's Household",
+      "ur": "اہل بیت و ازواج مطہرات"
+    },
+    "category": "seerah",
+    "description": "The Prophet's ﷺ wives & family — the Mothers of the Believers",
+    "order": 51
+  },
+  {
+    "id": "hijrah",
+    "label": {
+      "en": "Hijrah",
+      "ur": "ہجرت"
+    },
+    "category": "seerah",
+    "description": "Migrating for Allah's sake — Makkah to Madinah & its reward",
+    "order": 52
+  },
+  {
+    "id": "isra-miraj",
+    "label": {
+      "en": "Isra & Mi'raj",
+      "ur": "اسراء و معراج"
+    },
+    "category": "seerah",
+    "description": "The Night Journey & the Ascension",
+    "order": 53
+  },
+  {
+    "id": "battle-badr",
+    "label": {
+      "en": "Battle of Badr",
+      "ur": "غزوۂ بدر"
+    },
+    "category": "seerah",
+    "description": "The Day of Criterion — 2 AH",
+    "order": 54
+  },
+  {
+    "id": "battle-uhud",
+    "label": {
+      "en": "Battle of Uhud",
+      "ur": "غزوۂ احد"
+    },
+    "category": "seerah",
+    "description": "Victory, disobedience & lessons in setback — 3 AH",
+    "order": 55
+  },
+  {
+    "id": "battle-ahzab",
+    "label": {
+      "en": "Battle of the Trench",
+      "ur": "غزوۂ احزاب"
+    },
+    "category": "seerah",
+    "description": "The Confederates' siege of Madinah — 5 AH",
+    "order": 56
+  },
+  {
+    "id": "treaty-hudaybiyah",
+    "label": {
+      "en": "Treaty of Hudaybiyah",
+      "ur": "صلح حدیبیہ"
+    },
+    "category": "seerah",
+    "description": "The pledge under the tree & the clear victory — 6 AH",
+    "order": 57
+  },
+  {
+    "id": "battle-hunayn",
+    "label": {
+      "en": "Battle of Hunayn",
+      "ur": "غزوۂ حنین"
+    },
+    "category": "seerah",
+    "description": "When great numbers impressed them — 8 AH",
+    "order": 58
+  },
+  {
+    "id": "expedition-tabuk",
+    "label": {
+      "en": "Expedition of Tabuk",
+      "ur": "غزوۂ تبوک"
+    },
+    "category": "seerah",
+    "description": "Hardship, excuses & the three who stayed behind — 9 AH",
+    "order": 59
+  },
+  {
+    "id": "incident-ifk",
+    "label": {
+      "en": "The Slander (Ifk)",
+      "ur": "واقعۂ افک"
+    },
+    "category": "seerah",
+    "description": "The slander against Aisha & its lessons",
+    "order": 60
+  },
+  {
+    "id": "salah",
+    "label": {
+      "en": "Salah",
+      "ur": "نماز"
+    },
+    "category": "worship",
+    "description": "Prayer — its importance, times & manner",
+    "order": 61
+  },
+  {
+    "id": "taharah",
+    "label": {
+      "en": "Taharah",
+      "ur": "طہارت"
+    },
+    "category": "worship",
+    "description": "Purification — wudu, ghusl & tayammum",
+    "order": 62
+  },
+  {
+    "id": "zakat",
+    "label": {
+      "en": "Zakat & Sadaqah",
+      "ur": "زکوٰۃ و صدقہ"
+    },
+    "category": "worship",
+    "description": "Obligatory charity, voluntary giving & spending in Allah's way",
+    "order": 63
+  },
+  {
+    "id": "sawm",
+    "label": {
+      "en": "Sawm",
+      "ur": "روزہ"
+    },
+    "category": "worship",
+    "description": "Fasting & Ramadan",
+    "order": 64
+  },
+  {
+    "id": "hajj",
+    "label": {
+      "en": "Hajj & Umrah",
+      "ur": "حج و عمرہ"
+    },
+    "category": "worship",
+    "description": "Pilgrimage, its rites & sacrifice",
+    "order": 65
+  },
+  {
+    "id": "kaaba",
+    "label": {
+      "en": "Kaaba & Qiblah",
+      "ur": "کعبہ و قبلہ"
+    },
+    "category": "worship",
+    "description": "The Kaaba, the qiblah & the sacred mosques",
+    "order": 66
+  },
+  {
+    "id": "dhikr",
+    "label": {
+      "en": "Dhikr & Tasbih",
+      "ur": "ذکر و تسبیح"
+    },
+    "category": "worship",
+    "description": "Remembrance & glorification of Allah",
+    "order": 67
+  },
+  {
+    "id": "dua",
+    "label": {
+      "en": "Dua",
+      "ur": "دعا"
+    },
+    "category": "worship",
+    "description": "Supplications of the prophets & the believers",
+    "order": 68
+  },
+  {
+    "id": "tawbah",
+    "label": {
+      "en": "Tawbah",
+      "ur": "توبہ و استغفار"
+    },
+    "category": "worship",
+    "description": "Repentance, seeking forgiveness & returning to Allah",
+    "order": 69
+  },
+  {
+    "id": "quran-recitation",
+    "label": {
+      "en": "Tilawah & Tadabbur",
+      "ur": "تلاوت و تدبر"
+    },
+    "category": "worship",
+    "description": "Reciting, reflecting on & living by the Quran",
+    "order": 70
+  },
+  {
+    "id": "sabr",
+    "label": {
+      "en": "Sabr",
+      "ur": "صبر"
+    },
+    "category": "character",
+    "description": "Patience & steadfastness — in hardship, in obedience & against sin",
+    "order": 71
+  },
+  {
+    "id": "jihad",
+    "label": {
+      "en": "Jihad & Striving",
+      "ur": "جہاد و جدوجہد"
+    },
+    "category": "character",
+    "description": "Exertion in Allah's way — with the self, wealth, tongue & the Quran",
+    "order": 72
+  },
+  {
+    "id": "shukr",
+    "label": {
+      "en": "Shukr",
+      "ur": "شکر"
+    },
+    "category": "character",
+    "description": "Gratitude for Allah's blessings — and the ingratitude of man",
+    "order": 73
+  },
+  {
+    "id": "tawakkul",
+    "label": {
+      "en": "Tawakkul",
+      "ur": "توکل"
+    },
+    "category": "character",
+    "description": "Reliance & trust in Allah",
+    "order": 74
+  },
+  {
+    "id": "ikhlas",
+    "label": {
+      "en": "Ikhlas",
+      "ur": "اخلاص"
+    },
+    "category": "character",
+    "description": "Sincerity of intention & avoiding showing off",
+    "order": 75
+  },
+  {
+    "id": "taqwa",
+    "label": {
+      "en": "Taqwa",
+      "ur": "تقویٰ"
+    },
+    "category": "character",
+    "description": "God-consciousness, piety & awe of Allah",
+    "order": 76
+  },
+  {
+    "id": "ihsan",
+    "label": {
+      "en": "Ihsan",
+      "ur": "احسان"
+    },
+    "category": "character",
+    "description": "Excellence, goodness & kindness in action",
+    "order": 77
+  },
+  {
+    "id": "sidq",
+    "label": {
+      "en": "Sidq",
+      "ur": "صدق"
+    },
+    "category": "character",
+    "description": "Truthfulness in word & deed — and the evil of lying",
+    "order": 78
+  },
+  {
+    "id": "amanah",
+    "label": {
+      "en": "Amanah & Promises",
+      "ur": "امانت و عہد"
+    },
+    "category": "character",
+    "description": "Trusts, promises, oaths & covenants",
+    "order": 79
+  },
+  {
+    "id": "adl",
+    "label": {
+      "en": "Adl",
+      "ur": "عدل"
+    },
+    "category": "character",
+    "description": "Justice & fairness — in judgment, testimony & dealings",
+    "order": 80
+  },
+  {
+    "id": "hilm",
+    "label": {
+      "en": "Hilm & Afw",
+      "ur": "حلم و عفو"
+    },
+    "category": "character",
+    "description": "Forbearance, restraining anger & forgiving others",
+    "order": 81
+  },
+  {
+    "id": "kibr",
+    "label": {
+      "en": "Arrogance & Humility",
+      "ur": "تکبر و عاجزی"
+    },
+    "category": "character",
+    "description": "Pride as a disease of the heart & the humility Allah loves",
+    "order": 82
+  },
+  {
+    "id": "hasad",
+    "label": {
+      "en": "Hasad",
+      "ur": "حسد"
+    },
+    "category": "character",
+    "description": "Envy & jealousy",
+    "order": 83
+  },
+  {
+    "id": "haya",
+    "label": {
+      "en": "Haya",
+      "ur": "حیا و عفت"
+    },
+    "category": "character",
+    "description": "Modesty, chastity & hijab",
+    "order": 84
+  },
+  {
+    "id": "speech-ethics",
+    "label": {
+      "en": "Ethics of Speech",
+      "ur": "زبان کے آداب"
+    },
+    "category": "character",
+    "description": "Good words — and backbiting, mockery, slander & idle talk",
+    "order": 85
+  },
+  {
+    "id": "adab",
+    "label": {
+      "en": "Adab",
+      "ur": "آداب"
+    },
+    "category": "character",
+    "description": "Manners — greetings, seeking permission, gatherings & conduct",
+    "order": 86
+  },
+  {
+    "id": "tazkiyah",
+    "label": {
+      "en": "Tazkiyah",
+      "ur": "تزکیۂ نفس"
+    },
+    "category": "spirit",
+    "description": "Purifying the soul — the nafs, desires & hearts sealed or softened",
+    "order": 87
+  },
+  {
+    "id": "dunya",
+    "label": {
+      "en": "Dunya",
+      "ur": "دنیا"
+    },
+    "category": "spirit",
+    "description": "The worldly life — its reality, allure & heedlessness",
+    "order": 88
+  },
+  {
+    "id": "purpose-of-life",
+    "label": {
+      "en": "Purpose of Life",
+      "ur": "مقصدِ حیات"
+    },
+    "category": "spirit",
+    "description": "Why we exist — worship, vicegerency & the test",
+    "order": 89
+  },
+  {
+    "id": "love-of-allah",
+    "label": {
+      "en": "Love of Allah",
+      "ur": "محبتِ الٰہی"
+    },
+    "category": "spirit",
+    "description": "Whom Allah loves, whom He does not & loving Him",
+    "order": 90
+  },
+  {
+    "id": "hope-raja",
+    "label": {
+      "en": "Hope & Raja",
+      "ur": "امید"
+    },
+    "category": "spirit",
+    "description": "Hope in Allah & never despairing of His mercy",
+    "order": 91
+  },
+  {
+    "id": "anxiety-fear",
+    "label": {
+      "en": "Anxiety, Fear & Sakinah",
+      "ur": "خوف و سکینت"
+    },
+    "category": "spirit",
+    "description": "Worry, fear & finding tranquility of heart",
+    "order": 92
+  },
+  {
+    "id": "grief-loss",
+    "label": {
+      "en": "Grief & Loss",
+      "ur": "غم"
+    },
+    "category": "spirit",
+    "description": "Sorrow, loss & consolation",
+    "order": 93
+  },
+  {
+    "id": "trial-test",
+    "label": {
+      "en": "Trials & Tests",
+      "ur": "آزمائش"
+    },
+    "category": "spirit",
+    "description": "Why hardship & ease come — the tests of this life",
+    "order": 94
+  },
+  {
+    "id": "rizq",
+    "label": {
+      "en": "Rizq",
+      "ur": "رزق"
+    },
+    "category": "life",
+    "description": "Sustenance & provision — Allah as the Provider",
+    "order": 95
+  },
+  {
+    "id": "wealth",
+    "label": {
+      "en": "Wealth & Spending",
+      "ur": "مال و خرچ"
+    },
+    "category": "life",
+    "description": "Earning & spending — hoarding, stinginess & extravagance",
+    "order": 96
+  },
+  {
+    "id": "trade",
+    "label": {
+      "en": "Trade & Business",
+      "ur": "تجارت"
+    },
+    "category": "life",
+    "description": "Business ethics, contracts & fair measure",
+    "order": 97
+  },
+  {
+    "id": "debt",
+    "label": {
+      "en": "Debt & Loans",
+      "ur": "قرض"
+    },
+    "category": "life",
+    "description": "Lending, recording debts & easing the debtor",
+    "order": 98
+  },
+  {
+    "id": "riba",
+    "label": {
+      "en": "Riba",
+      "ur": "سود"
+    },
+    "category": "life",
+    "description": "Usury & interest — its prohibition & consequences",
+    "order": 99
+  },
+  {
+    "id": "time",
+    "label": {
+      "en": "Time",
+      "ur": "وقت"
+    },
+    "category": "life",
+    "description": "Time, its value & the shortness of life",
+    "order": 100
+  },
+  {
+    "id": "knowledge",
+    "label": {
+      "en": "Knowledge & Wisdom",
+      "ur": "علم و حکمت"
+    },
+    "category": "life",
+    "description": "Seeking knowledge, wisdom, scholars & using reason",
+    "order": 101
+  },
+  {
+    "id": "health",
+    "label": {
+      "en": "Health & Healing",
+      "ur": "صحت و شفا"
+    },
+    "category": "life",
+    "description": "The body, illness & healing",
+    "order": 102
+  },
+  {
+    "id": "food-halal",
+    "label": {
+      "en": "Halal & Haram Food",
+      "ur": "حلال و حرام"
+    },
+    "category": "life",
+    "description": "Permissible & forbidden food, drink & intoxicants",
+    "order": 103
+  },
+  {
+    "id": "work-ethics",
+    "label": {
+      "en": "Work & Effort",
+      "ur": "محنت"
+    },
+    "category": "life",
+    "description": "Effort, striving & earning a living",
+    "order": 104
+  },
+  {
+    "id": "marriage",
+    "label": {
+      "en": "Marriage & Nikah",
+      "ur": "نکاح"
+    },
+    "category": "relations",
+    "description": "Marriage, its rights & purposes",
+    "order": 105
+  },
+  {
+    "id": "family",
+    "label": {
+      "en": "Family & Kinship",
+      "ur": "خاندان"
+    },
+    "category": "relations",
+    "description": "Family bonds, kinship duties & rights",
+    "order": 106
+  },
+  {
+    "id": "parents",
+    "label": {
+      "en": "Parents & Elders",
+      "ur": "والدین"
+    },
+    "category": "relations",
+    "description": "Honouring parents & the elderly",
+    "order": 107
+  },
+  {
+    "id": "parenting",
+    "label": {
+      "en": "Parenting & Children",
+      "ur": "اولاد"
+    },
+    "category": "relations",
+    "description": "Children, their rights & raising them",
+    "order": 108
+  },
+  {
+    "id": "women",
+    "label": {
+      "en": "Women",
+      "ur": "خواتین"
+    },
+    "category": "relations",
+    "description": "The dignity & rights of women; exemplary women of the Quran",
+    "order": 109
+  },
+  {
+    "id": "divorce",
+    "label": {
+      "en": "Divorce & Iddah",
+      "ur": "طلاق و عدت"
+    },
+    "category": "relations",
+    "description": "Divorce, waiting periods & parting with kindness",
+    "order": 110
+  },
+  {
+    "id": "inheritance",
+    "label": {
+      "en": "Inheritance & Wills",
+      "ur": "وراثت و وصیت"
+    },
+    "category": "relations",
+    "description": "Shares of inheritance & bequests",
+    "order": 111
+  },
+  {
+    "id": "orphans",
+    "label": {
+      "en": "Orphans & the Vulnerable",
+      "ur": "یتیم"
+    },
+    "category": "relations",
+    "description": "Care for orphans & protecting their wealth",
+    "order": 112
+  },
+  {
+    "id": "community",
+    "label": {
+      "en": "Ummah & Brotherhood",
+      "ur": "امت و اخوت"
+    },
+    "category": "society",
+    "description": "Unity, brotherhood & avoiding division",
+    "order": 113
+  },
+  {
+    "id": "wala-bara",
+    "label": {
+      "en": "Alliances & Loyalty",
+      "ur": "ولاء و براء"
+    },
+    "category": "society",
+    "description": "Whom believers take as allies & protectors",
+    "order": 114
+  },
+  {
+    "id": "ahl-al-kitab",
+    "label": {
+      "en": "People of the Book",
+      "ur": "اہلِ کتاب"
+    },
+    "category": "society",
+    "description": "Jews & Christians — dialogue, their claims & critique",
+    "order": 115
+  },
+  {
+    "id": "dawah",
+    "label": {
+      "en": "Da'wah",
+      "ur": "دعوت و تبلیغ"
+    },
+    "category": "society",
+    "description": "Calling to Allah — enjoining good & forbidding evil",
+    "order": 116
+  },
+  {
+    "id": "leadership",
+    "label": {
+      "en": "Leadership & Authority",
+      "ur": "قیادت"
+    },
+    "category": "society",
+    "description": "Rulers, authority, obedience & responsibility",
+    "order": 117
+  },
+  {
+    "id": "shura",
+    "label": {
+      "en": "Shura",
+      "ur": "شوریٰ"
+    },
+    "category": "society",
+    "description": "Consultation & collective decision-making",
+    "order": 118
+  },
+  {
+    "id": "criminal-law",
+    "label": {
+      "en": "Crime & Punishment",
+      "ur": "حدود و قصاص"
+    },
+    "category": "society",
+    "description": "Qisas, hudud & blood money",
+    "order": 119
+  },
+  {
+    "id": "oppression",
+    "label": {
+      "en": "Oppression",
+      "ur": "ظلم"
+    },
+    "category": "society",
+    "description": "Dhulm — oppressors, the oppressed & standing against injustice",
+    "order": 120
+  },
+  {
+    "id": "conflict",
+    "label": {
+      "en": "War, Ethics & Peace",
+      "ur": "جنگ و صلح"
+    },
+    "category": "society",
+    "description": "Fighting in Allah's way, its ethics, treaties & peacemaking",
+    "order": 121
+  },
+  {
+    "id": "social-justice",
+    "label": {
+      "en": "Social Justice",
+      "ur": "سماجی انصاف"
+    },
+    "category": "society",
+    "description": "Rights of the poor & needy, fair distribution & freeing slaves",
+    "order": 122
+  },
+  {
+    "id": "environment",
+    "label": {
+      "en": "Earth & Corruption",
+      "ur": "زمین و فساد"
+    },
+    "category": "society",
+    "description": "Stewardship of the earth & spreading corruption (fasad) in it",
+    "order": 123
+  },
+  {
+    "id": "nature-signs",
+    "label": {
+      "en": "Signs in Creation",
+      "ur": "قدرت کی نشانیاں"
+    },
+    "category": "signs",
+    "description": "The heavens & earth, rain, plants, seas, night & day as signs of Allah",
+    "order": 124
+  },
+  {
+    "id": "human-creation",
+    "label": {
+      "en": "Creation of Mankind",
+      "ur": "تخلیقِ انسان"
+    },
+    "category": "signs",
+    "description": "From clay & a drop — stages of creation & human nature",
+    "order": 125
+  },
+  {
+    "id": "animals",
+    "label": {
+      "en": "Animals",
+      "ur": "جانور"
+    },
+    "category": "signs",
+    "description": "Cattle, bees, birds & other creatures & their lessons",
+    "order": 126
+  },
+  {
+    "id": "miracles",
+    "label": {
+      "en": "Miracles",
+      "ur": "معجزات"
+    },
+    "category": "signs",
+    "description": "Signs & miracles granted to the prophets",
+    "order": 127
+  },
+  {
+    "id": "history-lessons",
+    "label": {
+      "en": "Lessons from History",
+      "ur": "تاریخ کے سبق"
+    },
+    "category": "signs",
+    "description": "Past nations — their rise, destruction & what to learn",
+    "order": 128
+  },
+  {
+    "id": "muqattaat",
+    "label": {
+      "en": "Muqatta'at",
+      "ur": "حروفِ مقطعات"
+    },
+    "category": "meta",
+    "description": "The disjointed letters that open 29 surahs",
+    "order": 129
+  },
+  {
+    "id": "sajdah-tilawah",
+    "label": {
+      "en": "Sajdah Ayaat",
+      "ur": "آیاتِ سجدہ"
+    },
+    "category": "meta",
+    "description": "Ayaat of prostration during recitation",
+    "order": 130
+  },
+  {
+    "id": "o-believers",
+    "label": {
+      "en": "O You Who Believe",
+      "ur": "یا ایہا الذین آمنوا"
+    },
+    "category": "meta",
+    "description": "Direct addresses to the believers",
+    "order": 131
+  },
+  {
+    "id": "o-mankind",
+    "label": {
+      "en": "O Mankind",
+      "ur": "یا ایہا الناس"
+    },
+    "category": "meta",
+    "description": "Addresses to all of humanity",
+    "order": 132
+  },
+  {
+    "id": "they-ask-you",
+    "label": {
+      "en": "They Ask You",
+      "ur": "یسئلونک"
+    },
+    "category": "meta",
+    "description": "Questions put to the Prophet ﷺ & their answers",
+    "order": 133
+  },
+  {
+    "id": "commands",
+    "label": {
+      "en": "Direct Commands",
+      "ur": "اوامر"
+    },
+    "category": "meta",
+    "description": "Explicit commands from Allah",
+    "order": 134
+  },
+  {
+    "id": "prohibitions",
+    "label": {
+      "en": "Prohibitions",
+      "ur": "نواہی"
+    },
+    "category": "meta",
+    "description": "What Allah has forbidden",
+    "order": 135
+  },
+  {
+    "id": "glad-tidings",
+    "label": {
+      "en": "Glad Tidings",
+      "ur": "بشارت"
+    },
+    "category": "meta",
+    "description": "Promises of reward & mercy",
+    "order": 136
+  },
+  {
+    "id": "warnings",
+    "label": {
+      "en": "Warnings",
+      "ur": "تنبیہ"
+    },
+    "category": "meta",
+    "description": "Divine warnings & admonitions",
+    "order": 137
+  },
+  {
+    "id": "parables",
+    "label": {
+      "en": "Parables & Amthal",
+      "ur": "امثال"
+    },
+    "category": "meta",
+    "description": "Quranic parables, similitudes & examples",
+    "order": 138
+  },
+  {
+    "id": "oaths",
+    "label": {
+      "en": "Divine Oaths",
+      "ur": "قسمیں"
+    },
+    "category": "meta",
+    "description": "Allah's oaths & what they emphasize",
+    "order": 139
+  }
+]

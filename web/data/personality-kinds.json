@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prophet-messenger",
+    "label": {
+      "en": "Prophet / Messenger",
+      "ur": "نبی / رسول"
+    },
+    "order": 1
+  },
+  {
+    "id": "angel",
+    "label": {
+      "en": "Angel",
+      "ur": "فرشتہ"
+    },
+    "order": 2
+  },
+  {
+    "id": "jinn",
+    "label": {
+      "en": "Jinn",
+      "ur": "جن"
+    },
+    "order": 3
+  },
+  {
+    "id": "companion",
+    "label": {
+      "en": "Companion",
+      "ur": "صحابی"
+    },
+    "order": 4
+  },
+  {
+    "id": "person",
+    "label": {
+      "en": "Person",
+      "ur": "شخصیت"
+    },
+    "order": 5
+  },
+  {
+    "id": "group-nation",
+    "label": {
+      "en": "Group / Nation",
+      "ur": "قوم / گروہ"
+    },
+    "order": 6
+  }
+]
