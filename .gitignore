@@ -1,9 +1,8 @@
-.DS_Store
-node_modules
-/public
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-.quartz/
-*.log
+node_modules/
+dist/
+.astro/
+test-results/
+playwright-report/
 .wrangler/
+*.log
+.DS_Store

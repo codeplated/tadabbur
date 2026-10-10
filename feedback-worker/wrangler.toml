@@ -8,7 +8,7 @@ compatibility_date = "2026-09-01"
 workers_dev = true
 
 [vars]
-# Pages that may post to this Worker. localhost is the Quartz dev server.
+# Pages that may post to this Worker. localhost:8080 is the Astro dev and preview server.
 ALLOWED_ORIGINS = "https://tadabbur.belambo.com,http://localhost:8080"
 
 # TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID are secrets, set with

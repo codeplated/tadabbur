@@ -1,1 +1,0 @@
-export { ScriptLang } from "./scriptLang"

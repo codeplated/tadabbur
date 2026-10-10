@@ -1,5 +1,4 @@
-public
-node_modules
-.quartz-cache
-content
-.wrangler
+dist/
+.astro/
+data/
+package-lock.json

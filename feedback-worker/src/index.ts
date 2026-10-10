@@ -1,6 +1,6 @@
 /**
  * Tadabbur feedback Worker. Receives the site's feedback form —
- * POST { message, email, page, website } from quartz/static/feedback.js —
+ * POST { message, email, page, website } from src/components/Feedback.astro,
  * and forwards it to a Telegram chat through a bot. Nothing is stored.
  *
  * Secrets (wrangler secret put): TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.

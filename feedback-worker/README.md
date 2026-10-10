@@ -1,11 +1,10 @@
 # Tadabbur feedback Worker
 
 Receives the site's feedback form and forwards each message to a Telegram chat
-through a bot. Nothing is stored. The form is `quartz/components/Feedback.tsx`
-and `quartz/static/feedback.{js,css}` in the site repo; it POSTs to the URL in
-`WORKER_URL` at the top of `feedback.js`.
+through a bot. Nothing is stored. The form is `src/components/Feedback.astro` in
+the site repo; it POSTs to the URL in its `WORKER_URL`.
 
-This folder is separate from the Quartz build: its own `package.json`, deployed
+This folder is separate from the Astro build: its own `package.json`, deployed
 with wrangler, not by Cloudflare Pages.
 
 ## What it accepts
@@ -47,7 +46,7 @@ The Telegram Bot API is free.
    npm run deploy
    ```
    Wrangler prints the URL, `https://tadabbur-feedback.<account>.workers.dev`.
-   Put it in `WORKER_URL` at the top of `quartz/static/feedback.js`.
+   Put it in `WORKER_URL` in `src/components/Feedback.astro`.
 
 The first `wrangler secret put` creates the Worker if it doesn't exist yet.
 

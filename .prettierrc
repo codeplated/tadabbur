@@ -1,21 +1,7 @@
 {
   "printWidth": 100,
-  "quoteProps": "as-needed",
-  "trailingComma": "all",
-  "tabWidth": 2,
   "semi": false,
-  "overrides": [
-    {
-      "files": "*.canvas",
-      "options": {
-        "parser": "json"
-      }
-    },
-    {
-      "files": "*.base",
-      "options": {
-        "parser": "yaml"
-      }
-    }
-  ]
+  "trailingComma": "all",
+  "plugins": ["prettier-plugin-astro"],
+  "overrides": [{ "files": "*.astro", "options": { "parser": "astro" } }]
 }
