@@ -1,9 +1,10 @@
-# Tadabbur: Astro site
+# Tadabbur
 
-> Bismillah. This app publishes the Tadabbur Quran knowledge base as a static site.
+> Bismillah. This repo publishes the Tadabbur Quran knowledge base as a static Astro
+> site at `tadabbur.belambo.com`.
 
-Read `README.md` first: it covers the layout, routes, scripts and deployment. This file
-is the rules.
+Read `README.md` first: it covers the repo structure, routes, scripts, content updates
+and deployment. This file is the rules.
 
 ## Content is data, not ours to edit
 
@@ -58,8 +59,8 @@ is the rules.
 
 ## Feedback Worker
 
-`feedback-worker/` is deployed separately with wrangler. Its
-bot token and chat ID are wrangler secrets and must never be committed: the repo is
+`feedback-worker/` is deployed separately with wrangler. Its bot token and chat ID
+are wrangler secrets and must never be committed: the repo is
 public. It accepts requests only from the live site and `http://localhost:8080`,
 which is why the dev and preview servers use port 8080. Everything stays on free
 plans: no paid Workers, no D1, KV or R2 without discussion.
@@ -73,3 +74,20 @@ npm run check        # astro check, ESLint, Prettier
 npm test             # data integrity
 npm run test:e2e     # after a build
 ```
+
+Under an agent, Astro runs `astro preview` in the background and refuses a second one.
+`playwright.config.ts` passes `--ignore-lock` for that reason; stop a leftover server
+with `npx astro preview stop`.
+
+## What not to do
+
+- Don't hand-edit `data/` or `schemas/`; change the generator or `src/data/schema.ts`.
+- Don't add audio files; stream from `cdn.islamic.app`.
+- Don't add per-page image generation or a `prebuild` hook.
+- Don't add a UI framework, an SSR adapter or server routes.
+- Don't add Google Fonts links or other third-party requests on page load.
+- Don't use `100vh` for full-screen UI; use `100dvh`.
+- Don't change `site` in `astro.config.ts` without updating DNS and Cloudflare.
+- Don't change the dev or preview port from 8080 without updating the Worker's
+  `ALLOWED_ORIGINS`.
+- Don't commit `node_modules/`, `dist/`, `.astro/` or Worker secrets.

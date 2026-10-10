@@ -2,13 +2,13 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "web-preview",
+      "name": "preview",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "preview"],
       "port": 8080
     },
     {
-      "name": "web-dev",
+      "name": "dev",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
       "port": 8080
