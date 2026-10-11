@@ -838,6 +838,9 @@ article.themes-index {
       font-family: var(--bodyFont);
       font-size: 0.95rem;
       font-weight: 600;
+      // A label is never broken over two lines: the button has one line's
+      // height, so a second line would hang out of the box.
+      white-space: nowrap;
       cursor: pointer;
 
       &:first-child {
@@ -1061,12 +1064,15 @@ article.themes-index {
 
     // The filter takes a row, the arrangements the next; Descriptions and
     // the count share the third.
+    // The three share the row by the length of their labels, not in equal
+    // thirds: a third of a narrow phone is less than "Most Ayaat" needs.
     .ti-views {
       display: flex;
       flex-basis: 100%;
 
       button {
-        flex: 1;
+        flex: 1 1 auto;
+        padding: 0 0.6rem;
       }
     }
   }
