@@ -4,6 +4,7 @@ name: "Abu Jahl / أَبُو جَهْل / ابو جہل"
 type: Person
 path: Deviated Path
 era: "Makkah, died 624 CE at Battle of Badr"
+order: 60
 tags: ["story_muhammad", "oppression", "kufr", "kibr", "battle_badr"]
 ---
 <!-- GENERATED:START -->

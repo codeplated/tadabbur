@@ -4,6 +4,7 @@ name: "Ishaq (Isaac) / إِسْحَاق / اسحاق علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Time of Ibrahim and beyond"
+order: 8
 tags: ["story_ishaq", "story_ibrahim", "prophethood", "family", "miracles", "glad_tidings"]
 ---
 <!-- GENERATED:START -->

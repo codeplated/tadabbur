@@ -4,6 +4,7 @@ name: "Zulaikha (Wife of Al-Aziz) / زُلَيْخَا / زلیخا"
 type: Person
 path: Mixed — Erred, Repented, or Complex
 era: "Time of Yusuf, Egypt"
+order: 49
 tags: ["story_yusuf", "women", "tazkiyah", "haya", "sidq", "tawbah"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "Yaqub (Jacob) / يَعْقُوب / یعقوب علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Patriarch era, Canaan"
+order: 9
 tags: ["story_yaqub", "story_yusuf", "prophethood", "sabr", "grief_loss", "hope_raja", "family"]
 ---
 <!-- GENERATED:START -->

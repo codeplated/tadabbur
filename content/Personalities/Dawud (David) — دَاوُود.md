@@ -4,6 +4,7 @@ name: "Dawud (David) / دَاوُود / داؤد علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Palestine, approximately 1000 BCE"
+order: 14
 tags: ["story_dawud", "prophethood", "leadership", "tawbah", "revelation", "knowledge", "adl"]
 ---
 <!-- GENERATED:START -->

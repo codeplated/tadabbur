@@ -4,6 +4,7 @@ name: "Azar (Father of Ibrahim) / آزَر / آزر"
 type: Person
 path: Deviated Path
 era: "Time of Ibrahim"
+order: 44
 tags: ["story_ibrahim", "shirk", "parents", "family", "dawah", "kufr"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "People of Yunus / قَوْم يُونُس / قوم یونس"
 type: Group / Nation
 path: Straight Path
 era: "Ancient Nineveh (modern Iraq)"
+order: 79
 tags: ["story_yunus", "tawbah", "iman", "rahmah"]
 ---
 <!-- GENERATED:START -->

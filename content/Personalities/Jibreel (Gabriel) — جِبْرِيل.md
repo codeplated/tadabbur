@@ -4,6 +4,7 @@ name: "Jibreel (Gabriel) / جِبْرِيل / جبریل علیہ السلام"
 type: Angel
 path: Straight Path
 era: "From the beginning of creation to the end"
+order: 26
 tags: ["angels", "revelation", "amanah", "story_muhammad", "story_maryam", "isra_miraj"]
 ---
 <!-- GENERATED:START -->

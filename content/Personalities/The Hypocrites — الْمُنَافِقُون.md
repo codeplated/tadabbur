@@ -4,6 +4,7 @@ name: "The Hypocrites / الْمُنَافِقُون / منافقین"
 type: Group / Nation
 path: Deviated Path
 era: "Madinah period of early Islam"
+order: 77
 tags: ["nifaq", "jahannam", "story_muhammad", "battle_uhud", "battle_ahzab", "expedition_tabuk"]
 ---
 <!-- GENERATED:START -->

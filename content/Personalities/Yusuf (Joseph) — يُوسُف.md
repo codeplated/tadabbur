@@ -4,6 +4,7 @@ name: "Yusuf (Joseph) / يُوسُف / یوسف علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Patriarch era, Canaan and Egypt"
+order: 10
 tags: ["story_yusuf", "prophethood", "sabr", "haya", "hilm", "leadership", "knowledge"]
 ---
 <!-- GENERATED:START -->

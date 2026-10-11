@@ -4,6 +4,7 @@ name: "Dhul-Qarnayn / ذُو الْقَرْنَيْن / ذوالقرنین"
 type: Person
 path: Straight Path
 era: "Ancient history — identity debated"
+order: 62
 tags: ["story_dhulqarnayn", "leadership", "adl", "akhirah"]
 ---
 <!-- GENERATED:START -->

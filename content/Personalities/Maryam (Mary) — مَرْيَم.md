@@ -4,6 +4,7 @@ name: "Maryam (Mary) / مَرْيَم / مریم علیہا السلام"
 type: Person
 path: Straight Path
 era: "Roman-era Palestine"
+order: 57
 tags: ["story_maryam", "story_isa", "women", "haya", "miracles", "sidq", "parables"]
 ---
 <!-- GENERATED:START -->

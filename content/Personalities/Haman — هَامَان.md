@@ -4,6 +4,7 @@ name: "Haman / هَامَان / ہامان"
 type: Person
 path: Deviated Path
 era: "Time of Musa, Egypt"
+order: 52
 tags: ["story_musa", "oppression", "leadership", "kibr"]
 ---
 <!-- GENERATED:START -->

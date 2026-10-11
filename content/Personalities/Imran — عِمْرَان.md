@@ -4,6 +4,7 @@ name: "Imran / عِمْرَان / عمران"
 type: Person
 path: Straight Path
 era: "Roman-era Palestine"
+order: 63
 tags: ["story_maryam", "family", "parenting", "dua"]
 ---
 <!-- GENERATED:START -->

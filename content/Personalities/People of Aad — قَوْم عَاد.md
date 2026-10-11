@@ -4,6 +4,7 @@ name: "People of Aad / قَوْم عَاد / قوم عاد"
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Arabia, pre-Ibrahim"
+order: 70
 tags: ["story_hud", "kibr", "kufr", "history_lessons"]
 ---
 <!-- GENERATED:START -->

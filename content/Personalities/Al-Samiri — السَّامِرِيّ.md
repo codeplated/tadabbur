@@ -4,6 +4,7 @@ name: "Al-Samiri / السَّامِرِيّ / سامری"
 type: Person
 path: Deviated Path
 era: "Time of Musa, Sinai"
+order: 54
 tags: ["story_musa", "story_bani_israil", "shirk", "trial_test"]
 ---
 <!-- GENERATED:START -->

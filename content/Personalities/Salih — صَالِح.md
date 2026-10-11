@@ -4,6 +4,7 @@ name: "Salih / صَالِح / صالح علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Arabia — sent to the people of Thamud"
+order: 4
 tags: ["story_salih", "prophethood", "dawah", "miracles", "history_lessons"]
 ---
 <!-- GENERATED:START -->

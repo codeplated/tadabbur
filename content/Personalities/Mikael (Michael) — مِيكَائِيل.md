@@ -4,6 +4,7 @@ name: "Mikael (Michael) / مِيكَائِيل / میکائیل علیہ الس�
 type: Angel
 path: Straight Path
 era: "From creation to its end"
+order: 27
 tags: ["angels", "rizq", "nature_signs"]
 ---
 <!-- GENERATED:START -->

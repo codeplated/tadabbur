@@ -4,6 +4,7 @@ name: "Harut and Marut / هَارُوت وَمَارُوت / ہاروت و ما�
 type: Angel
 path: Straight Path
 era: "Ancient Babylon, time of Sulayman"
+order: 33
 tags: ["angels", "shaytan", "trial_test", "ahl_al_kitab"]
 ---
 <!-- GENERATED:START -->

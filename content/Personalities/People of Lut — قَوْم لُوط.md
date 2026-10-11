@@ -4,6 +4,7 @@ name: "People of Lut / قَوْم لُوط / قوم لوط"
 type: Group / Nation
 path: Deviated Path
 era: "Time of Ibrahim and Lut"
+order: 72
 tags: ["story_lut", "haya", "kufr", "history_lessons"]
 ---
 <!-- GENERATED:START -->

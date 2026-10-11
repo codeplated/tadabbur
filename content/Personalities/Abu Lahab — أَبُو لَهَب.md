@@ -4,6 +4,7 @@ name: "Abu Lahab / أَبُو لَهَب / ابو لہب"
 type: Person
 path: Deviated Path
 era: "Before Islam, Makkah, died 624 CE"
+order: 58
 tags: ["story_muhammad", "kufr", "family", "wealth", "jahannam"]
 ---
 <!-- GENERATED:START -->

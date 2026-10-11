@@ -53,6 +53,9 @@ plugins:
         - socialImage
         - image # and image, which is a path to a card thumbnail, not something
           # a reader needs above the verse on every ayah page
+        - order # a sorting key for the Personalities and Themes tables
+        - theme # a theme's name as a link, for its row in the Themes table
+        - description # already the first line under a theme's title
       hidePropertiesView: false
       delimiters: ---
       language: yaml
@@ -127,9 +130,12 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      # These run in the browser. sortFn puts the site's sections in the
-      # order the home page's cards offer them; everything else sorts as the
-      # plugin does by default, folders first and names by number.
+      # These run in the browser. The plugin hides a folder called `tags` by
+      # default; here it is the Themes section, so nothing is filtered out.
+      filterFn: "(node) => true"
+      # sortFn puts the site's sections in the order the home page's cards
+      # offer them; everything else sorts as the plugin does by default,
+      # folders first and names by number.
       sortFn: '(a, b) => { const order = ["the-quran", "personalities", "asma-ul-husna", "themes", "tags"]; const ia = order.indexOf(a.slugSegment), ib = order.indexOf(b.slugSegment); if (a.slugSegments.length === 1 && ia >= 0 && ib >= 0) return ia - ib; if (a.isFolder === b.isFolder) return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" }); return a.isFolder ? -1 : 1 }'
       # Strips harakat (and ٱ → ا) from sidebar names so they read cleanly at
       # small sizes; page content keeps them.

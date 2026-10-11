@@ -4,6 +4,7 @@ name: "Muhammad ﷺ / مُحَمَّد / محمد ﷺ"
 type: Prophet / Messenger
 path: Straight Path
 era: "570-632 CE, Makkah and Madinah"
+order: 25
 tags: ["story_muhammad", "prophethood", "revelation", "rahmah", "ihsan", "love_of_allah"]
 ---
 <!-- GENERATED:START -->

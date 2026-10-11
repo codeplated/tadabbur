@@ -4,6 +4,7 @@ name: "Harun (Aaron) / هَارُون / ہارون علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Same as Musa, Egypt and Sinai"
+order: 13
 tags: ["story_harun", "story_musa", "prophethood", "family", "leadership", "story_bani_israil"]
 ---
 <!-- GENERATED:START -->

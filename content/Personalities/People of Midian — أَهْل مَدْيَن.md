@@ -4,6 +4,7 @@ name: "People of Midian / أَهْل مَدْيَن / اہل مدین"
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Midian (northwest Arabia)"
+order: 73
 tags: ["story_shuayb", "trade", "kufr", "history_lessons"]
 ---
 <!-- GENERATED:START -->

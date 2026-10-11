@@ -4,6 +4,7 @@ name: "Shuayb (Jethro) / شُعَيْب / شعیب علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Midian and Aykah, time overlapping with Musa"
+order: 11
 tags: ["story_shuayb", "prophethood", "dawah", "trade", "adl"]
 ---
 <!-- GENERATED:START -->

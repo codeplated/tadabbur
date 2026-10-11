@@ -4,6 +4,7 @@ name: "Hajar (Hagar) / هَاجَر / ہاجرہ علیہا السلام"
 type: Person
 path: Straight Path
 era: "Time of Ibrahim, ancient Makkah"
+order: 46
 tags: ["story_ismail", "story_ibrahim", "women", "tawakkul", "hajj", "kaaba"]
 ---
 <!-- GENERATED:START -->

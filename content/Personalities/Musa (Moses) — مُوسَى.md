@@ -4,6 +4,7 @@ name: "Musa (Moses) / مُوسَى / موسیٰ علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Egypt, Sinai, approximately 1300 BCE"
+order: 12
 tags: ["story_musa", "prophethood", "oppression", "revelation", "miracles", "sabr", "story_bani_israil"]
 ---
 <!-- GENERATED:START -->

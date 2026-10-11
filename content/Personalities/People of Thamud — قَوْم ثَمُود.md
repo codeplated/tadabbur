@@ -4,6 +4,7 @@ name: "People of Thamud / قَوْم ثَمُود / قوم ثمود"
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Arabia, post-Hud era"
+order: 71
 tags: ["story_salih", "kufr", "miracles", "history_lessons"]
 ---
 <!-- GENERATED:START -->

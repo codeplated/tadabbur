@@ -4,6 +4,7 @@ name: "Ismail (Ishmael) / إِسْمَاعِيل / اسماعیل علیہ ال�
 type: Prophet / Messenger
 path: Straight Path
 era: "Time of Ibrahim, ancient Makkah"
+order: 6
 tags: ["story_ismail", "story_ibrahim", "prophethood", "trial_test", "sabr", "kaaba", "amanah"]
 ---
 <!-- GENERATED:START -->

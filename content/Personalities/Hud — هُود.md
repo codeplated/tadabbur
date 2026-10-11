@@ -4,6 +4,7 @@ name: "Hud / هُود / ہود علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Arabia — sent to the people of Aad"
+order: 3
 tags: ["story_hud", "prophethood", "dawah", "history_lessons"]
 ---
 <!-- GENERATED:START -->

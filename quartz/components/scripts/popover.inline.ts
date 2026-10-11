@@ -10,7 +10,10 @@ async function mouseEnterHandler(
   { clientX, clientY }: { clientX: number; clientY: number },
 ) {
   const link = (activeAnchor = this)
-  if (link.dataset.noPopover === "true") {
+  // The front page's cards are links stretched over the whole card (see "Front
+  // page cards" in custom.scss). A preview there would open wherever the
+  // pointer rests on a card, over the other three.
+  if (link.dataset.noPopover === "true" || link.closest("article.home")) {
     return
   }
 

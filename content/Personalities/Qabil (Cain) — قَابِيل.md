@@ -4,6 +4,7 @@ name: "Qabil (Cain) / قَابِيل / قابیل"
 type: Person
 path: Deviated Path
 era: "First generation of humanity"
+order: 65
 tags: ["story_adam", "hasad", "criminal_law", "family"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "Dhul-Kifl / ذُو الْكِفْل / ذوالکفل علیہ السلا�
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant"
+order: 20
 tags: ["story_dhulkifl", "prophethood", "sabr"]
 ---
 <!-- GENERATED:START -->

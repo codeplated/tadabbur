@@ -4,6 +4,7 @@ name: "People of the Cave / أَصْحَاب الْكَهْف / اصحاب ال�
 type: Group / Nation
 path: Straight Path
 era: "Roman era (Decius persecution, approximately 250 CE — scholarly debate)"
+order: 75
 tags: ["story_ashab_al_kahf", "iman", "resurrection", "miracles", "tawakkul"]
 ---
 <!-- GENERATED:START -->

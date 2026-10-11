@@ -4,6 +4,7 @@ name: "Sulayman (Solomon) / سُلَيْمَان / سلیمان علیہ الس�
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Palestine, approximately 950 BCE"
+order: 15
 tags: ["story_sulayman", "prophethood", "leadership", "knowledge", "shukr", "jinn", "animals"]
 ---
 <!-- GENERATED:START -->

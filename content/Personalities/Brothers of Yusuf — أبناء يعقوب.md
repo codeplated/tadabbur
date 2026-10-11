@@ -4,6 +4,7 @@ name: "Brothers of Yusuf / أبناء يعقوب / یوسف کے بھائی"
 type: Group / Nation
 path: Mixed — Erred, Repented, or Complex
 era: "Time of Yusuf, Canaan and Egypt"
+order: 68
 tags: ["story_yusuf", "family", "hasad", "amanah", "tawbah"]
 ---
 <!-- GENERATED:START -->

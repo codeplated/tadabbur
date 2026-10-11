@@ -4,6 +4,7 @@ name: "Bani Israel (Children of Israel) / بَنُو إِسْرَائِيل / ب
 type: Group / Nation
 path: Mixed — Erred, Repented, or Complex
 era: "From Yaqub through to the time of Muhammad ﷺ"
+order: 69
 tags: ["story_bani_israil", "amanah", "prophethood", "shukr", "ahl_al_kitab", "history_lessons"]
 ---
 <!-- GENERATED:START -->

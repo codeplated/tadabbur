@@ -4,6 +4,7 @@ name: "Umm Jamil (Wife of Abu Lahab) / أُمّ جَمِيل / ام جمیل"
 type: Person
 path: Deviated Path
 era: "Makkah, time of early Islam"
+order: 59
 tags: ["story_muhammad", "women", "oppression", "kufr", "jahannam"]
 ---
 <!-- GENERATED:START -->

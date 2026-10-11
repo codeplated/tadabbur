@@ -4,6 +4,7 @@ name: "Abu Bakr As-Siddiq / أَبُو بَكْر / ابو بکر صدیق رض�
 type: Companion
 path: Straight Path
 era: "570-634 CE, Makkah and Madinah"
+order: 35
 tags: ["sahabah", "hijrah", "sidq", "tawakkul", "wealth", "zakat", "story_muhammad"]
 ---
 <!-- GENERATED:START -->

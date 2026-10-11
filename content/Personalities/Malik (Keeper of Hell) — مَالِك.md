@@ -4,6 +4,7 @@ name: "Malik (Keeper of Hell) / مَالِك / مالک — جہنم کا دار
 type: Angel
 path: Straight Path
 era: "The Hereafter"
+order: 31
 tags: ["angels", "jahannam", "akhirah", "adl"]
 ---
 <!-- GENERATED:START -->

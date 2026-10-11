@@ -4,6 +4,7 @@ name: "Ayyub (Job) / أَيُّوب / ایوب علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant region"
+order: 16
 tags: ["story_ayyub", "prophethood", "sabr", "health", "dua", "rahmah", "trial_test"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "Son of Nuh (Kan'an) / ابن نوح / نوح کا بیٹا"
 type: Person
 path: Deviated Path
 era: "Time of Nuh, the flood"
+order: 43
 tags: ["story_nuh", "family", "kufr", "kibr", "history_lessons"]
 ---
 <!-- GENERATED:START -->

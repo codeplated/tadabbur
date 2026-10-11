@@ -616,15 +616,14 @@ article.home ul {
   }
 }
 
-// On touch the whole card is the link. With a mouse only the title is, so
-// resting the pointer on a card doesn't pop up a preview of the page behind.
-@media (hover: none) {
-  article.home ul > li > a.internal::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: inherit;
-  }
+// The whole card is the link, not just its title: the link's ::after is
+// stretched over the card. popover.inline.ts skips these links, or resting the
+// pointer anywhere on a card would pop up a preview of the page behind it.
+article.home ul > li > a.internal::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
 }
 
 // ============================================================================
@@ -811,6 +810,48 @@ article.home ul {
     box-sizing: border-box;
     min-height: var(--tap-target);
   }
+}
+
+// ── The left panel: room for surah names ────────────────────────────────────
+// The surahs sit one level down, under The Quran, and their names run long:
+// "46 - The Wind-Curved Sandhills الأحقاف". At the stock 320px, 48 of the 114
+// wrapped onto a second line. So the left column grows with the window, up to
+// 26.5rem; nested levels indent a little less; and a section or surah name
+// always stays on one line, cut with an ellipsis if it still doesn't fit.
+// (The tablet column is widened the same way under "Tablets" below.)
+@media all and ($desktop) {
+  .page > #quartz-body {
+    grid-template-columns: clamp(#{$sidePanelWidth}, 28vw, 26.5rem) auto #{$sidePanelWidth};
+  }
+
+  .page > #quartz-body .sidebar.left {
+    padding-right: 1.25rem;
+  }
+}
+
+.explorer .folder-outer > ul {
+  margin-left: 4px;
+  padding-left: 0.55rem;
+}
+
+.explorer .folder-container > div {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.explorer .folder-container div > a,
+.explorer .folder-container div > button {
+  max-width: 100%;
+  min-width: 0;
+}
+
+.explorer .folder-title {
+  display: block;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 // ── The explorer heading ────────────────────────────────────────────────────
@@ -1128,6 +1169,31 @@ article.home ul {
   }
 }
 
+// On a desktop the cards share the row with both side columns, and the left
+// one is wide enough for the surah names. At the base's 270px minimum only two
+// cards fitted in what was left, each most of a screen tall; this fits three.
+@media all and ($desktop) {
+  .bases-cards {
+    grid-template-columns: repeat(auto-fit, minmax(min(200px, 100%), 1fr)) !important;
+  }
+}
+
+// ── Tables with tabs (Personalities, Themes) ────────────────────────────────
+// Those pages are one table each, written by the generator as a `base` block:
+// the tabs filter it and a click on a column heading sorts it. Squeezed into a
+// phone's width, the Era and Description columns wrapped to five or six lines a
+// row, and Themes has 139 rows. Here the table keeps a readable width and its
+// wrapper, which already scrolls sideways, lets the reader swipe to the rest.
+@media all and ($mobile) {
+  .bases-table {
+    min-width: 34rem;
+  }
+
+  .bases-table-wrapper {
+    overscroll-behavior-x: contain;
+  }
+}
+
 @media (hover: none) {
   .bases-view-tabs button {
     min-height: 2.35rem;
@@ -1256,11 +1322,13 @@ article.home ul {
 // ── Tablets ─────────────────────────────────────────────────────────────────
 // Between 800 and 1200px the explorer is a permanent column beside the text.
 // At 320px wide it took 39% of an iPad held upright, and the 6rem of space
-// above both columns pushed the first line of every page off the screen.
+// above both columns pushed the first line of every page off the screen. It
+// stays at 17rem held upright and grows to 22rem held sideways, where there is
+// room to show the longer surah names whole.
 
 @media all and ($tablet) {
   .page > #quartz-body {
-    grid-template-columns: minmax(0, 17rem) minmax(0, 1fr);
+    grid-template-columns: minmax(0, clamp(17rem, 30vw, 22rem)) minmax(0, 1fr);
   }
 
   .page > #quartz-body .sidebar.left {

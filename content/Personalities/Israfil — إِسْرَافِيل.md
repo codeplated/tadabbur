@@ -4,6 +4,7 @@ name: "Israfil / إِسْرَافِيل / اسرافیل علیہ السلام"
 type: Angel
 path: Straight Path
 era: "From creation, will act at the end of time"
+order: 28
 tags: ["angels", "resurrection", "akhirah"]
 ---
 <!-- GENERATED:START -->

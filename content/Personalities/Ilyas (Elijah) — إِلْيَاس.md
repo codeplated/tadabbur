@@ -4,6 +4,7 @@ name: "Ilyas (Elijah) / إِلْيَاس / الیاس علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant"
+order: 18
 tags: ["story_ilyas", "prophethood", "shirk", "dawah"]
 ---
 <!-- GENERATED:START -->

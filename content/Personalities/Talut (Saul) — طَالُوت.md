@@ -4,6 +4,7 @@ name: "Talut (Saul) / طَالُوت / طالوت"
 type: Person
 path: Straight Path
 era: "Ancient Palestine, before Dawud"
+order: 67
 tags: ["story_bani_israil", "leadership", "trial_test", "iman", "conflict", "sabr"]
 ---
 <!-- GENERATED:START -->

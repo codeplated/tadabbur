@@ -4,6 +4,7 @@ name: "Izraeel (Angel of Death) / عِزْرَائِيل / عزرائیل علی
 type: Angel
 path: Straight Path
 era: "From creation to end"
+order: 29
 tags: ["angels", "death_reminder"]
 ---
 <!-- GENERATED:START -->

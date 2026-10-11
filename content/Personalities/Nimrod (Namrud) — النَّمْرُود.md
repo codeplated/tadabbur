@@ -4,6 +4,7 @@ name: "Nimrod (Namrud) / النَّمْرُود / نمرود"
 type: Person
 path: Deviated Path
 era: "Time of Ibrahim, ancient Mesopotamia"
+order: 45
 tags: ["story_ibrahim", "oppression", "kibr", "shirk", "leadership"]
 ---
 <!-- GENERATED:START -->

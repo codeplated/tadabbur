@@ -4,6 +4,7 @@ name: "Ali ibn Abi Talib / عَلِيّ / علی ابن ابی طالب رضی �
 type: Companion
 path: Straight Path
 era: "600-661 CE, Makkah, Madinah, Kufa"
+order: 36
 tags: ["sahabah", "prophets_household", "ihsan", "zakat", "hijrah"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "Hawwa (Eve) / حَوَّاء / حوا علیہا السلام"
 type: Person
 path: Straight Path
 era: "Beginning of humanity"
+order: 41
 tags: ["story_adam", "women", "human_creation", "marriage", "family", "tawbah"]
 ---
 <!-- GENERATED:START -->

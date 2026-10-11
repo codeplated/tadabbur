@@ -4,6 +4,7 @@ name: "Sarah / سَارَة / سارہ علیہا السلام"
 type: Person
 path: Straight Path
 era: "Time of Ibrahim"
+order: 47
 tags: ["story_ishaq", "story_ibrahim", "women", "family", "miracles", "glad_tidings"]
 ---
 <!-- GENERATED:START -->

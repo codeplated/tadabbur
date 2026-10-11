@@ -4,6 +4,7 @@ name: "People of the Ditch / أَصْحَاب الْأُخْدُود / اصحا�
 type: Group / Nation
 path: Mixed — Erred, Repented, or Complex
 era: "Pre-Islamic Arabia or Yemen, scholars debate"
+order: 76
 tags: ["oppression", "iman", "sabr", "jahannam", "history_lessons"]
 ---
 <!-- GENERATED:START -->

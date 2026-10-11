@@ -4,6 +4,7 @@ name: "Zakariyya (Zechariah) / زَكَرِيَّا / زکریا علیہ الس
 type: Prophet / Messenger
 path: Straight Path
 era: "Roman-era Palestine, guardian of Maryam"
+order: 23
 tags: ["story_zakariya", "prophethood", "dua", "hope_raja", "miracles", "family", "story_maryam"]
 ---
 <!-- GENERATED:START -->

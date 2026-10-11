@@ -4,6 +4,7 @@ name: "Fir'awn (Pharaoh) / فِرْعَوْن / فرعون"
 type: Person
 path: Deviated Path
 era: "Egypt, time of Musa"
+order: 50
 tags: ["story_musa", "oppression", "kibr", "shirk", "leadership", "history_lessons"]
 ---
 <!-- GENERATED:START -->

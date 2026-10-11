@@ -4,6 +4,7 @@ name: "Aisha bint Abi Bakr / عَائِشَة / عائشہ رضی اللہ عن�
 type: Companion
 path: Straight Path
 era: "613-678 CE, Makkah and Madinah"
+order: 37
 tags: ["prophets_household", "sahabah", "incident_ifk", "women", "knowledge", "speech_ethics"]
 ---
 <!-- GENERATED:START -->

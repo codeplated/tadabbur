@@ -4,6 +4,7 @@ name: "Habil (Abel) / هَابِيل / ہابیل"
 type: Person
 path: Straight Path
 era: "First generation of humanity"
+order: 64
 tags: ["story_adam", "taqwa", "hilm", "criminal_law", "family"]
 ---
 <!-- GENERATED:START -->

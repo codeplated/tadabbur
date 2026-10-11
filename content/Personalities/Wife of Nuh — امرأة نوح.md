@@ -4,6 +4,7 @@ name: "Wife of Nuh / امرأة نوح / نوح کی بیوی"
 type: Person
 path: Deviated Path
 era: "Time of Nuh"
+order: 42
 tags: ["story_nuh", "women", "family", "kufr", "amanah", "warnings", "parables"]
 ---
 <!-- GENERATED:START -->

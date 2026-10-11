@@ -4,6 +4,7 @@ name: "Ammar ibn Yasir / عَمَّار / عمار ابن یاسر رضی الل
 type: Companion
 path: Straight Path
 era: "Early Islam, Makkah and Madinah"
+order: 39
 tags: ["sahabah", "oppression", "iman", "sabr"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "Al-Khidr / الْخَضِر / خضر علیہ السلام"
 type: Person
 path: Straight Path
 era: "Time of Musa (and possibly beyond — debates exist)"
+order: 55
 tags: ["story_musa", "knowledge", "qadr", "rahmah", "sabr"]
 ---
 <!-- GENERATED:START -->

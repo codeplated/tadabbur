@@ -11,4 +11,4 @@ This site is a structured companion for that reflection. It covers all 114 surah
 - [[The Quran/index|The Quran]] <small>All 114 surahs. Open a surah for its ayaat, each with recitation, translations and tafsir.</small>
 - [[Personalities/index|Personalities]] <small>The 79 prophets, companions, groups and figures the Quran speaks about.</small>
 - [[Asma Ul Husna/index|Asma Ul Husna]] <small>The 99 Names of Allah, with their meanings, roots and the ayaat they appear in.</small>
-- [[Themes|Themes]] <small>The 139 themes of the Quran, each listing every ayah that carries it.</small>
+- [[tags/index|Themes]] <small>The 139 themes of the Quran, by topic or A–Z, each listing every ayah that carries it.</small>

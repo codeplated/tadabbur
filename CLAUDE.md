@@ -38,8 +38,11 @@ quartz/                          ← repo root
 │   │   │   └── The Opener.canvas← reflection canvas (canvas-page)
 │   │   └── ...                  ← one folder per surah, 1–114
 │   ├── Personalities/           ← /personalities
+│   │   └── index.md             ← one table of everyone, with a tab per path (a `base` block)
 │   ├── Asma Ul Husna/           ← /asma-ul-husna
-│   ├── Themes.md                ← the themes by topic (to become a folder of its own)
+│   ├── tags/                    ← Themes, at /tags (where the tag-page plugin serves them)
+│   │   ├── index.md             ← one table of every theme, tabs By Topic and A–Z (a `base` block)
+│   │   └── tawheed.md …         ← one note per theme: the top of that theme's page
 │   └── attachments/             ← surah_001.png … surah_114.png
 └── node_modules/                ← never touch
 ```
@@ -69,23 +72,32 @@ and synced here. **Do not manually edit any file inside `/content`.**
 The site has four sections, and they appear the same way in two places: as
 four cards on the front page and as the four parents in the left panel. In
 order: **The Quran, Personalities, Asma Ul Husna, Themes.** Each is a
-top-level folder (or note) in `content/`, so the generator decides the
-structure and the site only orders and styles it.
+top-level folder in `content/`, so the generator decides the structure and the
+site only orders and styles it. Themes is the folder `tags`, because `/tags`
+is where the site serves a theme's page; its index note is titled "Themes".
+
+The Personalities and Themes pages are each one table with tabs that filter it
+(Straight / Mixed / Deviated Path; By Topic / A–Z) and columns that sort when
+their heading is clicked. The generator writes each as a `base` block in the
+page; nothing about the tabs, columns or filters lives in this repo.
 
 What this site expects from the generator:
 
-| Field / file                                                                                                                | Used by                                                 |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                                             | tag-page patch (grouping, ordering, labels)             |
-| `index.md` in a folder — `The Quran`, every surah folder, `Personalities`, `Asma Ul Husna`                                  | folder-page (it replaces the stock file listing)        |
-| Top-level `The Quran/`, `Personalities/`, `Asma Ul Husna/` and `Themes`                                                     | explorer `sortFn` (orders them by their slugs)          |
-| Front page: `cssclasses: [home]`, and a list of four links, each followed by a `<small>` line                               | "Front page cards" in `custom.scss`                     |
-| A heading containing the word `English` (e.g. `## English (Sahih International)`), then the translation                     | tag-page patch (ayah text on tag pages)                 |
-| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                             | the surah cards' images                                 |
-| `tags`                                                                                                                      | tag-list, tag pages                                     |
-| A `base` block in `The Quran/index.md` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`      | bases-page (it draws a `base` block inside any page)    |
-| `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                                          | canvas-page                                             |
-| Under `## Recitation (…)`: the player, then a Next link and a Prev link in one paragraph, `<span></span>` for a missing one | Next/Prev buttons in `custom.scss` (styled by position) |
+| Field / file                                                                                                                | Used by                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                                             | tag-page patch (grouping, ordering, labels)                       |
+| `index.md` in a folder — `The Quran`, every surah folder, `Personalities`, `Asma Ul Husna`                                  | folder-page (it replaces the stock file listing)                  |
+| Top-level `The Quran/`, `Personalities/`, `Asma Ul Husna/` and `tags/`                                                      | explorer `sortFn` (orders them by their slugs)                    |
+| `base` blocks in `Personalities/index.md` and `tags/index.md`, several views each                                           | bases-page (views become tabs; table columns sort)                |
+| `tags/<key>.md` per theme, file name = the tag's key, with `title`, `theme`, `urdu`, `category`, `notes`, `order`           | tag-page (top of the theme's page), the Themes table              |
+| `order` on personality and theme notes; `theme` (the name as a link) on theme notes                                         | sorting and linking in the tables; hidden from the properties box |
+| Front page: `cssclasses: [home]`, and a list of four links, each followed by a `<small>` line                               | "Front page cards" in `custom.scss`                               |
+| A heading containing the word `English` (e.g. `## English (Sahih International)`), then the translation                     | tag-page patch (ayah text on tag pages)                           |
+| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                             | the surah cards' images                                           |
+| `tags`                                                                                                                      | tag-list, tag pages                                               |
+| A `base` block in `The Quran/index.md` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`      | bases-page (it draws a `base` block inside any page)              |
+| `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                                          | canvas-page                                                       |
+| Under `## Recitation (…)`: the player, then a Next link and a Prev link in one paragraph, `<span></span>` for a missing one | Next/Prev buttons in `custom.scss` (styled by position)           |
 
 All other frontmatter fields are shown as-is in the properties box.
 
@@ -158,9 +170,11 @@ Existing patches:
   ayaat — they used to come first, which on a phone put a couple of thousand
   pixels of secondary content ahead of the verses the tag is about. The
   translation is the first line after the heading containing the word `English`, or frontmatter
-  `description` if the generator sets one. `/tags` becomes an A–Z grid of
-  tags with page counts. An intro for a tag comes from
-  `content/tags/<tag>.md` if the generator writes one.
+  `description` if the generator sets one. The top of a tag's page comes from
+  `content/tags/<tag>.md`, which the generator writes for every theme. `/tags`
+  itself is `content/tags/index.md`, the Themes page: a folder note, so the
+  folder-page plugin renders it and this plugin's own A–Z grid of tags is only
+  what `/tags` would fall back to without that note.
 - `@quartz-community+footer+0.1.1.patch` — the "Created with Quartz vX" line
   is hardcoded in the plugin, so the patch replaces it with "Created with a heart
   by Belambo" (links to https://belambo.com). The `footer` option links sit
@@ -172,20 +186,20 @@ Existing patches:
 These files differ from upstream Quartz. Re-check them after pulling a
 Quartz update:
 
-| File                                                                | Change                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `quartz/plugins/emitters/static.ts`                                 | Files under `quartz/static/root/` are copied to the site root instead of `/static/` (`robots.txt`; a Pages `_headers` file would go there too)                                                                                                                                                                   |
-| `quartz/plugins/transformers/scriptLang.ts`                         | New transformer: tags Arabic-script text `lang="ar"` or `lang="ur"` so CSS picks the right font and direction                                                                                                                                                                                                    |
-| `quartz/plugins/transformers/index.ts`                              | Exports `ScriptLang`                                                                                                                                                                                                                                                                                             |
-| `quartz/plugins/loader/config-loader.ts`                            | Registers `ScriptLang` as a built-in transformer                                                                                                                                                                                                                                                                 |
-| `quartz/components/Head.tsx`                                        | Loads Scheherazade New, Noto Naskh Arabic, Noto Nastaliq Urdu and Noto Emoji from Google Fonts                                                                                                                                                                                                                   |
-| `quartz/components/scripts/popover.inline.ts`                       | `setupPopovers` returns early when `(hover: none)` matches. A tap fires `mouseenter`, so on a phone every link touched fetched and parsed the whole target page for a card that flashed up and was navigated away from                                                                                           |
-| `quartz/styles/custom.scss`                                         | All site styling, including the CSS-mask logo and the phone/tablet layout. Its "Interaction colour" section makes every hover, focus, pressed and selected state use `--tertiary` (`#607300`, the same in both themes, by choice) — plugins' own hover colours included, so new plugin UI needs a rule there too |
-| `quartz/components/Feedback.tsx`, `quartz/static/feedback.{css,js}` | Floating feedback form. POSTs `{ message, email, page, website }` to `WORKER_URL` at the top of `feedback.js` — the Worker in `feedback-worker/`, which forwards it to Telegram (see its README). `website` is a hidden honeypot field; only bots fill it                                                        |
-| `quartz/components/HomeHero.tsx`, `quartz/static/keffiyeh.svg`      | Front page hero: the "A Structured Quran Knowledge Base" heading over a band of keffiyeh pattern. Renders on slug `index` only. The SVG is `assets-src/Keffiyeh.svg` through `svgo --precision 2`, used as a CSS mask so the theme colours it                                                                    |
-| `quartz/components/index.ts`                                        | Exports `Feedback` and `HomeHero`                                                                                                                                                                                                                                                                                |
-| `quartz/plugins/loader/config-loader.ts`                            | `loadQuartzLayout` puts `HomeHero` first in `beforeBody` and appends `Feedback` to `afterBody` on every page type except `404`. They're core components, not plugins, so the yaml layout can't place them                                                                                                        |
-| `quartz/static/icon.png`, `logo.svg`, `og-image.png`                | Tadabbur branding (og-image is the default social preview card)                                                                                                                                                                                                                                                  |
+| File                                                                | Change                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `quartz/plugins/emitters/static.ts`                                 | Files under `quartz/static/root/` are copied to the site root instead of `/static/` (`robots.txt`; a Pages `_headers` file would go there too)                                                                                                                                                                                                                                              |
+| `quartz/plugins/transformers/scriptLang.ts`                         | New transformer: tags Arabic-script text `lang="ar"` or `lang="ur"` so CSS picks the right font and direction                                                                                                                                                                                                                                                                               |
+| `quartz/plugins/transformers/index.ts`                              | Exports `ScriptLang`                                                                                                                                                                                                                                                                                                                                                                        |
+| `quartz/plugins/loader/config-loader.ts`                            | Registers `ScriptLang` as a built-in transformer                                                                                                                                                                                                                                                                                                                                            |
+| `quartz/components/Head.tsx`                                        | Loads Scheherazade New, Noto Naskh Arabic, Noto Nastaliq Urdu and Noto Emoji from Google Fonts                                                                                                                                                                                                                                                                                              |
+| `quartz/components/scripts/popover.inline.ts`                       | `setupPopovers` returns early when `(hover: none)` matches. A tap fires `mouseenter`, so on a phone every link touched fetched and parsed the whole target page for a card that flashed up and was navigated away from. Links inside `article.home` are skipped too: the front page's cards are links stretched over the whole card, and a preview there opened wherever the pointer rested |
+| `quartz/styles/custom.scss`                                         | All site styling, including the CSS-mask logo and the phone/tablet layout. Its "Interaction colour" section makes every hover, focus, pressed and selected state use `--tertiary` (`#607300`, the same in both themes, by choice) — plugins' own hover colours included, so new plugin UI needs a rule there too                                                                            |
+| `quartz/components/Feedback.tsx`, `quartz/static/feedback.{css,js}` | Floating feedback form. POSTs `{ message, email, page, website }` to `WORKER_URL` at the top of `feedback.js` — the Worker in `feedback-worker/`, which forwards it to Telegram (see its README). `website` is a hidden honeypot field; only bots fill it                                                                                                                                   |
+| `quartz/components/HomeHero.tsx`, `quartz/static/keffiyeh.svg`      | Front page hero: the "A Structured Quran Knowledge Base" heading over a band of keffiyeh pattern. Renders on slug `index` only. The SVG is `assets-src/Keffiyeh.svg` through `svgo --precision 2`, used as a CSS mask so the theme colours it                                                                                                                                               |
+| `quartz/components/index.ts`                                        | Exports `Feedback` and `HomeHero`                                                                                                                                                                                                                                                                                                                                                           |
+| `quartz/plugins/loader/config-loader.ts`                            | `loadQuartzLayout` puts `HomeHero` first in `beforeBody` and appends `Feedback` to `afterBody` on every page type except `404`. They're core components, not plugins, so the yaml layout can't place them                                                                                                                                                                                   |
+| `quartz/static/icon.png`, `logo.svg`, `og-image.png`                | Tadabbur branding (og-image is the default social preview card)                                                                                                                                                                                                                                                                                                                             |
 
 The generator writes no emoji. For anything a reader types into a note, the
 font stacks end with **Noto Emoji** — the monochrome cut, which holds no Latin
@@ -290,22 +304,31 @@ plugins:
       true # every generator field; hides tags, image
       # (a card thumbnail path, not something a
       # reader needs above the verse) and
-      # title/modified/socialImage (added by the plugin)
+      # title/modified/socialImage (added by the plugin),
+      # and order/theme/description, which the tables use
   obsidian-flavored-markdown:
     enableInHtmlEmbed: true # required — notes contain <audio> HTML tags
   crawl-links:
     markdownLinkResolution: shortest # matches Obsidian wikilink format
   explorer:
+    filterFn: … # nothing hidden: the plugin's default hides `tags`, our Themes
     sortFn: … # the four sections in front-page order; the rest as by default
     mapFn: … # strips harakat from sidebar names only
 ```
 
-Both explorer functions run in the browser. `sortFn` puts the top-level
+The three explorer functions run in the browser. `sortFn` puts the top-level
 sections in the order of the front page's cards, by slug (`the-quran`,
-`personalities`, `asma-ul-husna`, `themes`); rename one of those folders in
-the generator and its slug here has to follow. Below the top level it sorts as
-the plugin does by default. `mapFn` strips harakat (and ٱ → ا) from every
-sidebar name; page content keeps them.
+`personalities`, `asma-ul-husna`, `tags`). This is the one place the site
+names the generator's folders: the plugin can only sort by name, and the
+order isn't alphabetical. Rename a section in the generator and its slug here
+has to follow. Below the top level it sorts as the plugin does by default.
+`mapFn` strips harakat (and ٱ → ا) from every sidebar name; page content keeps
+them.
+
+The left column is wider than stock on a desktop (up to 26.5rem, growing with
+the window) so that all 114 surah names fit on one line under The Quran, and a
+folder name never wraps: one that still doesn't fit is cut with an ellipsis.
+See "The left panel: room for surah names" in `custom.scss`.
 
 ---
 
@@ -364,7 +387,11 @@ What the section does, and why, so it doesn't get undone by accident:
   most of its results sat behind the keyboard.
 - **Surah cards go two-up** on a phone and three-up on a tablet. One per row
   turned the 114 surahs on The Quran page into a 48,000px scroll.
-- **The front page's four cards** sit two by two, and stack on a phone.
+- **The front page's four cards** sit two by two, and stack on a phone. The
+  whole card is the link.
+- **The Personalities and Themes tables scroll sideways** on a phone rather
+  than squeeze. Squeezed, the Description column wrapped to six lines a row,
+  and Themes has 139 rows.
 - **A tag page's jump bar** becomes one swipeable row. Wrapped, a busy tag's
   75 surah chips were 20 rows of them before the first ayah.
 - **A surah's ayah index becomes a grid of chips on touch.** The generator

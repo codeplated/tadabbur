@@ -4,6 +4,7 @@ name: "The Disciples of Isa / الْحَوَارِيُّون / حواریون"
 type: Group / Nation
 path: Straight Path
 era: "Roman-era Palestine, time of Isa"
+order: 78
 tags: ["story_isa", "dawah", "iman", "miracles"]
 ---
 <!-- GENERATED:START -->

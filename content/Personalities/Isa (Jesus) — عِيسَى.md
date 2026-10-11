@@ -4,6 +4,7 @@ name: "Isa (Jesus) / عِيسَى / عیسیٰ علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Roman-era Palestine, approximately 1-33 CE"
+order: 22
 tags: ["story_isa", "prophethood", "miracles", "story_maryam", "ahl_al_kitab", "tawheed", "akhirah"]
 ---
 <!-- GENERATED:START -->

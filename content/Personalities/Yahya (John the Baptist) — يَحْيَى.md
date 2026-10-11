@@ -4,6 +4,7 @@ name: "Yahya (John the Baptist) / يَحْيَى / یحییٰ علیہ السل�
 type: Prophet / Messenger
 path: Straight Path
 era: "Roman-era Palestine, contemporary with Isa"
+order: 24
 tags: ["story_yahya", "story_zakariya", "prophethood", "knowledge", "haya", "parents"]
 ---
 <!-- GENERATED:START -->

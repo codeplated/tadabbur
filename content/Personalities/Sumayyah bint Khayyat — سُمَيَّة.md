@@ -4,6 +4,7 @@ name: "Sumayyah bint Khayyat / سُمَيَّة / سمیہ رضی اللہ عن�
 type: Companion
 path: Straight Path
 era: "Early Islam, Makkah"
+order: 38
 tags: ["sahabah", "women", "sabr", "oppression", "iman"]
 ---
 <!-- GENERATED:START -->

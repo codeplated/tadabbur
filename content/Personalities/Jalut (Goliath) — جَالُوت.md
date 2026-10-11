@@ -4,6 +4,7 @@ name: "Jalut (Goliath) / جَالُوت / جالوت"
 type: Person
 path: Deviated Path
 era: "Ancient Palestine, time of Dawud"
+order: 66
 tags: ["story_bani_israil", "story_dawud", "conflict", "oppression"]
 ---
 <!-- GENERATED:START -->

@@ -4,6 +4,7 @@ name: "Ibrahim (Abraham) / إِبْرَاهِيم / ابراہیم علیہ ال
 type: Prophet / Messenger
 path: Straight Path
 era: "Approximately 2000 BCE, Mesopotamia and Arabia"
+order: 5
 tags: ["story_ibrahim", "prophethood", "tawheed", "trial_test", "kaaba", "hajj", "dawah"]
 ---
 <!-- GENERATED:START -->

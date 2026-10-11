@@ -4,6 +4,7 @@ name: "Munkar and Nakeer / مُنكَر وَنَكِير / منکر و نکیر"
 type: Angel
 path: Straight Path
 era: "The realm of the grave (Barzakh)"
+order: 30
 tags: ["angels", "death_reminder", "iman"]
 ---
 <!-- GENERATED:START -->

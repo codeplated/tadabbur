@@ -4,6 +4,7 @@ name: "Nuh (Noah) / نُوح / نوح علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Early human history, pre-Ibrahim"
+order: 2
 tags: ["story_nuh", "prophethood", "dawah", "sabr", "family", "history_lessons"]
 ---
 <!-- GENERATED:START -->

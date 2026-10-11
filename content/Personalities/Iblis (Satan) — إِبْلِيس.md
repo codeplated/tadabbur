@@ -4,6 +4,7 @@ name: "Iblis (Satan) / إِبْلِيس / ابلیس"
 type: Jinn
 path: Deviated Path
 era: "Pre-human creation; ongoing until Day of Judgment"
+order: 34
 tags: ["shaytan", "jinn", "story_adam", "kibr"]
 ---
 <!-- GENERATED:START -->

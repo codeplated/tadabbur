@@ -4,6 +4,7 @@ name: "Yunus (Jonah) / يُونُس / یونس علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Nineveh (modern Iraq area)"
+order: 17
 tags: ["story_yunus", "prophethood", "dua", "tawbah", "sabr", "anxiety_fear"]
 ---
 <!-- GENERATED:START -->

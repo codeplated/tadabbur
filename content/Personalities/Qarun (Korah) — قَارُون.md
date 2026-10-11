@@ -4,6 +4,7 @@ name: "Qarun (Korah) / قَارُون / قارون"
 type: Person
 path: Deviated Path
 era: "Time of Musa, among Bani Israel"
+order: 53
 tags: ["story_musa", "wealth", "kibr", "shukr", "dunya", "history_lessons"]
 ---
 <!-- GENERATED:START -->

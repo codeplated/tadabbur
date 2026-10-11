@@ -4,6 +4,7 @@ name: "Wife of Lut / امرأة لوط / لوط کی بیوی"
 type: Person
 path: Deviated Path
 era: "Time of Lut"
+order: 48
 tags: ["story_lut", "women", "family", "kufr", "amanah", "warnings", "parables"]
 ---
 <!-- GENERATED:START -->

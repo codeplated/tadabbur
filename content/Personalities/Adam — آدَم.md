@@ -4,6 +4,7 @@ name: "Adam / آدَم / آدم علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Beginning of humanity"
+order: 1
 tags: ["story_adam", "prophethood", "human_creation", "purpose_of_life", "shaytan", "tawbah", "qadr"]
 ---
 <!-- GENERATED:START -->

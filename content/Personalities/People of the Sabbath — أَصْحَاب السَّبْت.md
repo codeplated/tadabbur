@@ -4,6 +4,7 @@ name: "People of the Sabbath / أَصْحَاب السَّبْت / اصحاب ا
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Israelite history"
+order: 74
 tags: ["story_bani_israil", "trial_test", "dawah", "history_lessons"]
 ---
 <!-- GENERATED:START -->

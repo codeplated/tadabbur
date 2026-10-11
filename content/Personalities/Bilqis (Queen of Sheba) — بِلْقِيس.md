@@ -4,6 +4,7 @@ name: "Bilqis (Queen of Sheba) / بِلْقِيس / بلقیس — ملکہ سب
 type: Person
 path: Straight Path
 era: "Time of Sulayman, ancient Yemen"
+order: 56
 tags: ["story_sulayman", "women", "leadership", "shura", "iman", "knowledge", "kibr"]
 ---
 <!-- GENERATED:START -->

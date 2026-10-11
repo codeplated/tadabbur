@@ -4,6 +4,7 @@ name: "Luqman / لُقْمَان / لقمان"
 type: Person
 path: Straight Path
 era: "Ancient times — scholars debate his identity and era"
+order: 61
 tags: ["story_luqman", "knowledge", "parenting", "shukr", "adab"]
 ---
 <!-- GENERATED:START -->

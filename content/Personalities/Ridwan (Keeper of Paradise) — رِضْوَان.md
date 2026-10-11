@@ -4,6 +4,7 @@ name: "Ridwan (Keeper of Paradise) / رِضْوَان / رضوان — جنت ک
 type: Angel
 path: Straight Path
 era: "The Hereafter"
+order: 32
 tags: ["angels", "jannah", "akhirah"]
 ---
 <!-- GENERATED:START -->

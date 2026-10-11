@@ -4,6 +4,7 @@ name: "Lut (Lot) / لُوط / لوط علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Time of Ibrahim; the cities of Sodom and Gomorrah"
+order: 7
 tags: ["story_lut", "prophethood", "dawah", "haya", "family", "history_lessons"]
 ---
 <!-- GENERATED:START -->

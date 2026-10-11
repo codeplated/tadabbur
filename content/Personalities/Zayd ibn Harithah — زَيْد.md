@@ -4,6 +4,7 @@ name: "Zayd ibn Harithah / زَيْد / زید ابن حارثہ رضی اللہ
 type: Companion
 path: Straight Path
 era: "610-629 CE, Arabia"
+order: 40
 tags: ["sahabah", "family", "marriage", "divorce", "prophets_household"]
 ---
 <!-- GENERATED:START -->

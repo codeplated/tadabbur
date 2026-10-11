@@ -4,6 +4,7 @@ name: "Idris (Enoch) / إِدْرِيس / ادریس علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Very early human history, before Nuh by some accounts"
+order: 21
 tags: ["story_idris", "prophethood", "sabr", "sidq"]
 ---
 <!-- GENERATED:START -->

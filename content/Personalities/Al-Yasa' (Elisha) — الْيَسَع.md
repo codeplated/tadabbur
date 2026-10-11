@@ -4,6 +4,7 @@ name: "Al-Yasa' (Elisha) / الْيَسَع / یسع علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant, successor of Ilyas"
+order: 19
 tags: ["story_alyasa", "prophethood"]
 ---
 <!-- GENERATED:START -->

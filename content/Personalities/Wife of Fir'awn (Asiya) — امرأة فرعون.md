@@ -4,6 +4,7 @@ name: "Wife of Fir'awn (Asiya) / امرأة فرعون / آسیہ — فرعون
 type: Person
 path: Straight Path
 era: "Time of Musa, Egypt"
+order: 51
 tags: ["story_musa", "women", "iman", "oppression", "sabr", "jannah", "parables"]
 ---
 <!-- GENERATED:START -->
