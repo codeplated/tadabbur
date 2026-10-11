@@ -6,6 +6,8 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// @ts-ignore
+import themesIndexScript from "../../components/scripts/themesIndex.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -89,6 +91,12 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     componentResources.afterDOMLoaded.push(popoverScript)
     componentResources.css.push(popoverStyle)
   }
+
+  // The Themes page's filter, arrangements and closing categories. It goes to
+  // every page, as the scripts above do: the Themes page is usually reached by
+  // a link from another one, and SPA navigation runs the scripts already
+  // loaded rather than fetching new ones. It does nothing anywhere else.
+  componentResources.afterDOMLoaded.push(themesIndexScript)
 
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId

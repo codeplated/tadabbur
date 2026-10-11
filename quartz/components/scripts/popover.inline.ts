@@ -12,8 +12,10 @@ async function mouseEnterHandler(
   const link = (activeAnchor = this)
   // The front page's cards are links stretched over the whole card (see "Front
   // page cards" in custom.scss). A preview there would open wherever the
-  // pointer rests on a card, over the other three.
-  if (link.dataset.noPopover === "true" || link.closest("article.home")) {
+  // pointer rests on a card, over the other three. The Themes page's rows are
+  // stretched links too, and each preview would fetch a page of hundreds of
+  // ayaat for a pointer that was only passing over a list of 139.
+  if (link.dataset.noPopover === "true" || link.closest("article.home, article.themes-index")) {
     return
   }
 

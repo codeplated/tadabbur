@@ -39,6 +39,13 @@ const BLOCKS = new Set([
   "figcaption",
 ])
 const SKIP = new Set(["code", "pre", "script", "style", "svg", "math", "kbd", "samp"])
+// Inline HTML from a note, one tag to a raw node. An opening tag that closes
+// itself (`<br />`) opens nothing.
+const OPENING_TAG = /^<[a-z][^>]*[^/]>$|^<[a-z]>$/i
+const CLOSING_TAG = /^<\/[a-z][^>]*>$/i
+const LANG_ATTR = /\slang\s*=/i
+// Tags that never get a closing tag, so they open nothing either.
+const VOID_TAG = /^<(?:br|hr|img|wbr|input|source|track)\b/i
 
 type Lang = "ar" | "ur"
 
@@ -78,13 +85,39 @@ function wrapRuns(text: Text, lang: Lang | undefined, blockLang: Lang): ElementC
 
 function walk(parent: Element | Root, lang: Lang | undefined, blockLang: Lang) {
   const next: RootContent[] = []
+  // A language written in the note is the author's word, and nothing inside
+  // it is guessed again. The Themes page marks each Urdu name, and a name like
+  // نفاق has no letter only Urdu uses: guessing would wrap it as Arabic inside
+  // its own Urdu span.
+  //
+  // HTML written in a note is not parsed yet when this runs: `<span lang="ur">`
+  // and its `</span>` are still two raw nodes with the text between them as a
+  // sibling. So the depth of raw tags is counted from an opening tag that
+  // carries a lang to the tag that closes it.
+  let insideRawLang = 0
   for (const child of parent.children) {
+    if ((child.type as string) === "raw") {
+      const tag = (child as unknown as { value: string }).value.trim()
+      if (insideRawLang > 0) {
+        if (CLOSING_TAG.test(tag)) insideRawLang--
+        else if (OPENING_TAG.test(tag) && !VOID_TAG.test(tag)) insideRawLang++
+      } else if (OPENING_TAG.test(tag) && LANG_ATTR.test(tag)) {
+        insideRawLang = 1
+      }
+      next.push(child)
+      continue
+    }
     if (child.type === "text") {
-      next.push(...(ARABIC_SCRIPT.test(child.value) ? wrapRuns(child, lang, blockLang) : [child]))
+      const guess = insideRawLang === 0 && ARABIC_SCRIPT.test(child.value)
+      next.push(...(guess ? wrapRuns(child, lang, blockLang) : [child]))
       continue
     }
     if (child.type === "element" && !SKIP.has(child.tagName)) {
-      let childLang = (child.properties?.lang as Lang | undefined) ?? lang
+      if (child.properties?.lang || insideRawLang > 0) {
+        next.push(child)
+        continue
+      }
+      let childLang = lang
       let childBlockLang = blockLang
       if (BLOCKS.has(child.tagName)) {
         const text = textOf(child)

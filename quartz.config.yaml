@@ -53,8 +53,8 @@ plugins:
         - socialImage
         - image # and image, which is a path to a card thumbnail, not something
           # a reader needs above the verse on every ayah page
-        - order # a sorting key for the Personalities and Themes tables
-        - theme # a theme's name as a link, for its row in the Themes table
+        - order # a sorting key for the Personalities table
+        - cssclasses # a styling hook (the Themes page), not something to read
         - description # already the first line under a theme's title
       hidePropertiesView: false
       delimiters: ---
