@@ -348,6 +348,12 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug} data-basepath={basePath}>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
+        {/* Tadabbur: first thing the Tab key reaches, so a keyboard or screen
+            reader user can pass the menu. data-router-ignore keeps the SPA
+            router from treating it as a page change. */}
+        <a class="skip-link" href="#content" data-router-ignore>
+          Skip to the page
+        </a>
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
             {[

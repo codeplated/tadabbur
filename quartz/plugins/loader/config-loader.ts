@@ -497,6 +497,7 @@ export async function loadQuartzConfig(
     builtinPlugins.ComponentResources(),
     builtinPlugins.Assets(),
     builtinPlugins.Static(),
+    builtinPlugins.Menu(),
   ]
   const builtinPageTypes = [builtinPlugins.PageTypes.NotFoundPageType()]
 
@@ -703,6 +704,18 @@ export async function loadQuartzLayout(layoutOverrides?: {
   defaultLayout.afterBody = [...(defaultLayout.afterBody ?? []), feedback]
   for (const [pageType, pt] of Object.entries(byPageType)) {
     if (pageType !== "404") pt.afterBody = [...(pt.afterBody ?? []), feedback]
+  }
+
+  // The site menu, last in the left sidebar of every page type, with the
+  // button that opens it on a phone first. Core components like the two
+  // around them, so the yaml layout can't place them.
+  const SiteMenuModule = await import("../../components/SiteMenu")
+  const SiteMenuToggleModule = await import("../../components/SiteMenuToggle")
+  const siteMenu = SiteMenuModule.default()
+  const siteMenuToggle = SiteMenuToggleModule.default()
+  defaultLayout.left = [siteMenuToggle, ...(defaultLayout.left ?? []), siteMenu]
+  for (const [pageType, pt] of Object.entries(byPageType)) {
+    if (pageType !== "404") pt.left = [siteMenuToggle, ...(pt.left ?? []), siteMenu]
   }
 
   // Front page hero. Renders only on slug "index" (a content page, so the

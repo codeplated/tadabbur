@@ -28,7 +28,9 @@ export const DefaultFrame: PageFrame = {
             <BodyComponent {...componentData} />
           ))}
         </div>
-        <div class="center">
+        {/* Tadabbur: the page itself is the main landmark, and where the skip
+            link at the top of the body (renderPage.tsx) lands. */}
+        <main class="center" id="content" tabindex={-1}>
           <div class="page-header">
             <Header {...componentData}>
               {header.map((HeaderComponent) => (
@@ -48,7 +50,7 @@ export const DefaultFrame: PageFrame = {
               <BodyComponent {...componentData} />
             ))}
           </div>
-        </div>
+        </main>
         <div class="right sidebar">
           {right.map((BodyComponent) => (
             <BodyComponent {...componentData} />

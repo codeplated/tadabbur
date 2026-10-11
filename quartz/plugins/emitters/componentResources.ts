@@ -10,6 +10,8 @@ import popoverScript from "../../components/scripts/popover.inline"
 import themesIndexScript from "../../components/scripts/themesIndex.inline"
 // @ts-ignore
 import themePageScript from "../../components/scripts/themePage.inline"
+// @ts-ignore
+import siteMenuScript from "../../components/scripts/siteMenu.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -101,6 +103,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   componentResources.afterDOMLoaded.push(themesIndexScript)
   // A theme's own page: marks the surah being read in its surah index.
   componentResources.afterDOMLoaded.push(themePageScript)
+  // The site menu: its lists, the mark on the page being read, the drawer.
+  componentResources.afterDOMLoaded.push(siteMenuScript)
 
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId

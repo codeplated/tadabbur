@@ -7,6 +7,8 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Feedback from "./Feedback"
 import HomeHero from "./HomeHero"
+import SiteMenu from "./SiteMenu"
+import SiteMenuToggle from "./SiteMenuToggle"
 
 export { componentRegistry, defineComponent } from "./registry"
 export { External } from "./external"
@@ -23,4 +25,6 @@ export {
   ConditionalRender,
   Feedback,
   HomeHero,
+  SiteMenu,
+  SiteMenuToggle,
 }

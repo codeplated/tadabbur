@@ -1,3 +1,4 @@
+@use "sass:map";
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
@@ -27,7 +28,7 @@ a.internal:has(> img) {
 // One colour for every hover, focus, pressed and selected/current state, on
 // every page: --tertiary (quartz.config.yaml, the same in both themes). Links
 // at rest stay --secondary. Stock Quartz already uses --tertiary for link
-// hover and the explorer's current page; the rules below bring everything that
+// hover; the rules below bring everything that
 // used --secondary, a grey, or nothing at all into line. Plugin CSS is
 // unlayered, hence the !important on plugin selectors.
 //
@@ -41,7 +42,7 @@ a.internal:has(> img) {
 
 // Every link, hovered or pressed (a tap on a phone never hovers). !important
 // because plugins give their links a resting colour of their own — the
-// explorer and table of contents use --dark — and an unlayered plugin rule
+// table of contents uses --dark — and an unlayered plugin rule
 // beats base's a:hover, so those links didn't change colour at all.
 a:hover,
 a:active {
@@ -100,7 +101,6 @@ ul.toc-content > li > a.in-view {
   fill: var(--tertiary) !important;
 }
 
-.explorer-toggle:hover,
 .toc-header:hover {
   color: var(--tertiary) !important;
 
@@ -110,8 +110,9 @@ ul.toc-content > li > a.in-view {
   }
 }
 
-.mobile-explorer:hover .lucide-menu {
-  stroke: var(--tertiary) !important;
+.sm-toggle:hover,
+.sm-twist:hover {
+  color: var(--tertiary);
 }
 
 .graph .global-graph-icon:hover,
@@ -1107,7 +1108,7 @@ article.themes-index {
 // gets a third column from it; a theme's page puts its surah index there.
 @media all and ($desktop) {
   .page:has(article.themes-index, .tt-tag-page) > #quartz-body {
-    grid-template-columns: clamp(#{$sidePanelWidth}, 28vw, 26.5rem) minmax(0, 1fr);
+    grid-template-columns: clamp(#{$sidePanelWidth}, 24vw, 23rem) minmax(0, 1fr);
     grid-template-areas:
       "grid-sidebar-left grid-header"
       "grid-sidebar-left grid-center"
@@ -1143,7 +1144,7 @@ article.themes-index {
 
 :root {
   // The height of the phone app bar. Everything that has to sit clear of it —
-  // scroll anchors, the explorer drawer — measures from this.
+  // scroll anchors, the menu's drawer — measures from this.
   --mobile-bar-height: 3.5rem;
   // Comfortable minimum for anything a finger has to hit.
   --tap-target: 2.75rem;
@@ -1157,9 +1158,7 @@ article.themes-index {
   button,
   summary,
   .search-button,
-  .explorer-content a,
-  .explorer-content button,
-  .folder-icon,
+  .site-menu a,
   .tags a,
   .tt-jump a,
   .tt-index a,
@@ -1193,13 +1192,23 @@ article.themes-index {
     scroll-padding-top: calc(var(--mobile-bar-height) + 0.75rem);
   }
 
+  // Stock Quartz sizes the phone's one column `auto`, which is as wide as its
+  // widest unbreakable content. The bar's site name does not wrap, so on a
+  // 320px screen, or with the browser's text size turned up, the column and
+  // everything in it grew wider than the screen and the search and theme
+  // buttons went off its edge. The column is the screen's width, and the name
+  // is what gives way.
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
   .page > #quartz-body > .sidebar.left {
     box-sizing: border-box;
     // Fixed, not a minimum: the drawer opens at exactly this offset, so a bar
     // that grew by a few pixels would show a strip of the page above it.
     height: var(--mobile-bar-height);
-    // Above the article, which scrolls under it. The explorer drawer (z-index
-    // 100) and its toggle (101) are children, so they still come out on top.
+    // Above the article, which scrolls under it. The menu's drawer (z-index
+    // 100) is a child, so it still comes out on top.
     z-index: 50;
     gap: 0.35rem;
     align-items: center;
@@ -1289,14 +1298,6 @@ article.themes-index {
     translate: -50% -50%;
   }
 
-  .explorer button.mobile-explorer {
-    width: var(--tap-target);
-    height: var(--tap-target);
-    justify-content: center;
-    padding: 0;
-    border-radius: var(--radius);
-  }
-
   // The tablet sidebar keeps the full-width search button and the table of
   // contents fold header; both were around 20–32px tall.
   .search > .search-button {
@@ -1313,139 +1314,421 @@ article.themes-index {
   }
 }
 
-// ── The left panel: room for surah names ────────────────────────────────────
-// The surahs sit one level down, under The Quran, and their names run long:
-// "46 - The Wind-Curved Sandhills الأحقاف". At the stock 320px, 48 of the 114
-// wrapped onto a second line. So the left column grows with the window, up to
-// 26.5rem; nested levels indent a little less; and a section or surah name
-// always stays on one line, cut with an ellipsis if it still doesn't fit.
-// (The tablet column is widened the same way under "Tablets" below.)
+// ── Site menu ───────────────────────────────────────────────────────────────
+// The menu in the left sidebar (components/SiteMenu.tsx): the site's sections,
+// one of them open to its list, the rest in reach under it. It replaced a file
+// tree of all 6,673 notes, which with The Quran open was 24 phone screens long
+// and kept the other three sections at the bottom of that.
+//
+// The open section takes whatever height is left and scrolls by itself, so the
+// closed sections sit at the foot of the sidebar however long the list is. A
+// surah's ayaat are a grid of numbers, not 286 rows.
+//
+// The current page is marked by weight and a wash, never by the hover colour:
+// olive text is 3.2:1 on the dark page.
+.site-menu {
+  // --gray is 4.0:1 on the page; see the same variable on the Themes index.
+  --sm-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.sm-toggle {
+  display: none;
+  flex: none;
+}
+
+// The menu's column on a desktop: 320px on a small laptop, growing to 23rem,
+// where all but 3 of the 114 surah names fit beside their Arabic names (at
+// 320px, 16 are cut with an ellipsis; none ever wraps). The search box fills
+// the column it sits in.
 @media all and ($desktop) {
   .page > #quartz-body {
-    grid-template-columns: clamp(#{$sidePanelWidth}, 28vw, 26.5rem) auto #{$sidePanelWidth};
-  }
-
-  .page > #quartz-body .sidebar.left {
-    padding-right: 1.25rem;
+    grid-template-columns: clamp(#{$sidePanelWidth}, 24vw, 23rem) auto #{$sidePanelWidth};
   }
 }
 
-.explorer .folder-outer > ul {
-  margin-left: 4px;
-  padding-left: 0.55rem;
+@media all and (min-width: #{map.get($breakpoints, mobile)}) {
+  .sidebar.left .search {
+    flex: 1 1 auto;
+    max-width: none;
+  }
+
+  .sidebar.left .search > .search-button {
+    box-sizing: border-box;
+    width: 100%;
+  }
 }
 
-.explorer .folder-container > div {
+.sm-sections {
+  display: flex;
   flex: 1 1 auto;
-  min-width: 0;
+  flex-direction: column;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.explorer .folder-container div > a,
-.explorer .folder-container div > button {
-  max-width: 100%;
-  min-width: 0;
+.sm-section {
+  flex: none;
+  margin: 0;
+
+  &.sm-on {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    min-height: 0;
+  }
 }
 
-.explorer .folder-title {
-  display: block;
-  flex: 0 1 auto;
-  min-width: 0;
+// A section: its name goes to its page, the arrow opens its list here.
+.sm-head {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+
+  a {
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 0.3rem 0;
+    overflow: hidden;
+    background: none;
+    color: var(--secondary);
+    font-family: var(--headerFont);
+    font-weight: 600;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    &[aria-current] {
+      color: var(--dark);
+    }
+  }
+}
+
+.sm-twist {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-sm);
+  background: none;
+  color: var(--secondary);
+  cursor: pointer;
+
+  svg {
+    width: 1rem;
+    height: 1rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2.2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    transition: rotate 0.15s;
+  }
+
+  &[aria-expanded="true"] svg {
+    rotate: 90deg;
+  }
+}
+
+.sm-list {
+  flex: 1 1 auto;
+  min-height: 0;
+  margin-bottom: 0.35rem;
+  padding: 0 0.25rem 0.5rem 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--lightgray) transparent;
+
+  &[hidden] {
+    display: none;
+  }
+
+  ul,
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin: 0;
+  }
+}
+
+// One entry: a name, with a number before it and an Arabic name after it
+// where the title has them.
+.sm-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0 0.6rem;
+  align-items: baseline;
+  box-sizing: border-box;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  background: none;
+  color: var(--darkgray);
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.4;
+
+  &:has(.sm-num) {
+    grid-template-columns: 1.6rem minmax(0, 1fr) auto;
+  }
+}
+
+.sm-num {
+  color: var(--sm-faded);
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.sm-name {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
 
-// ── The explorer heading ────────────────────────────────────────────────────
-// The plugin puts an "Explorer" button above the tree on tablet and desktop.
-// All it does is fold the whole tree away, which nobody needs: the tree is the
-// sidebar. It has no option to turn it off. The phone's menu button is a
-// separate element (.mobile-explorer) and is untouched.
-
-.explorer button.desktop-explorer {
-  display: none !important;
+.sm-ar {
+  white-space: nowrap;
 }
 
-.explorer .explorer-content {
-  margin-top: 0 !important;
+// The surah being read stays at the top of the list while its ayaat scroll
+// under it, so the numbers always have a name over them.
+.sm-item.sm-trail {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--light);
+  color: var(--dark);
+  font-weight: 600;
 }
 
-// ── The explorer drawer ─────────────────────────────────────────────────────
-// 114 surahs plus the explore folders: on a phone this is the main way around
-// the site. It was a full-screen overlay pinned to the top of the page, so its
-// first rows sat underneath the app bar and the menu button overlapped them.
-// Anchoring it below the bar leaves the bar usable while it is open.
+.sm-item[aria-current] {
+  background: var(--highlight);
+  color: var(--dark);
+  font-weight: 600;
+}
 
+// The ayaat of the surah being read.
+.sm-list .sm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(2.1rem, 1fr));
+  gap: 1px;
+  margin: 0.15rem 0 0.5rem 2.1rem;
+
+  a {
+    display: grid;
+    place-items: center;
+    height: 1.6rem;
+    border-radius: var(--radius-sm);
+    background: none;
+    color: var(--darkgray);
+    font-size: 0.8rem;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+  }
+
+  // The ayah being read. A solid fill, not the wash: among 286 numbers it has
+  // to be found at a glance.
+  a[aria-current] {
+    background: var(--secondary);
+    color: var(--light);
+    font-weight: 600;
+  }
+}
+
+// Narrow screens: the menu is a drawer under the bar, opened by the button at
+// the bar's start (SiteMenuToggle.tsx). Closed, the drawer is `inert` (the
+// script sets it) as well as out of sight, so the Tab key and a screen reader
+// pass straight over it.
 @media all and ($mobile) {
-  .explorer .explorer-content {
+  .sm-toggle {
+    display: grid;
+    place-items: center;
+    width: var(--tap-target);
+    height: var(--tap-target);
+    padding: 0;
+    border: 0;
+    border-radius: var(--radius);
+    background: none;
+    color: var(--darkgray);
+    cursor: pointer;
+
+    svg {
+      width: 1.4rem;
+      height: 1.4rem;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2;
+      stroke-linecap: round;
+    }
+
+    // Open: it reads as a toggle that is on.
+    &[aria-expanded="true"] {
+      background: var(--highlight);
+      color: var(--dark);
+    }
+  }
+
+  .site-menu {
     position: fixed;
     top: var(--mobile-bar-height);
     right: 0;
     bottom: 0;
     left: 0;
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    max-height: none;
-    padding: 0.5rem 1rem 2rem;
-    // Closed, it sits one screen to the left. `translateX(-100%)` is measured
-    // on the drawer itself, unlike the plugin's `-100vw`, which is a viewport
-    // width away from wherever the drawer happens to start.
+    z-index: 100;
+    box-sizing: border-box;
+    padding: 0.5rem 1rem 1rem;
+    background: var(--light);
+    visibility: hidden;
     transform: translateX(-100%);
+    transition:
+      transform 0.2s ease-out,
+      visibility 0s 0.2s;
   }
 
-  .explorer:not(.collapsed) > .explorer-content {
+  .site-menu.sm-open {
+    visibility: visible;
     transform: none;
+    transition: transform 0.2s ease-out;
   }
 
-  // The plugin adds this to <html> while the drawer is open but only uses it to
-  // contain overscroll. Without it the page keeps scrolling behind the drawer.
-  html.mobile-no-scroll,
-  html.mobile-no-scroll body {
+  // The page behind an open drawer does not scroll.
+  html.sm-lock,
+  html.sm-lock body {
     overflow: hidden;
   }
+}
 
-  // Open state on the menu button, so it reads as a toggle and not a stray icon
-  // floating over the file tree.
-  .explorer:not(.collapsed) button.mobile-explorer {
-    background-color: var(--highlight);
+// Fingers: every row is a full target, and the ayah numbers are too.
+@media (hover: none) {
+  .sm-head a,
+  .sm-item {
+    min-height: var(--tap-target);
+  }
 
-    .lucide-menu {
-      stroke: var(--tertiary);
+  .sm-head a {
+    display: flex;
+    align-items: center;
+    padding: 0;
+  }
+
+  .sm-item {
+    align-content: center;
+    align-items: center;
+    font-size: 1rem;
+  }
+
+  .sm-twist {
+    width: var(--tap-target);
+    height: var(--tap-target);
+  }
+
+  .sm-list .sm-grid {
+    grid-template-columns: repeat(auto-fill, minmax(var(--tap-target), 1fr));
+    gap: 0;
+    margin-left: 0;
+
+    a {
+      height: var(--tap-target);
+      font-size: 0.95rem;
     }
   }
 }
 
-// The file tree is a list of tap targets on any touch device — in the phone
-// drawer and in the tablet sidebar alike. 24px rows with a 12px fold arrow are
-// a mis-tap waiting to happen.
-@media (hover: none) {
-  .explorer-content {
-    ul li > a,
-    .folder-container div > a,
-    .folder-container div > button {
-      display: flex;
-      align-items: center;
-      min-height: var(--tap-target);
-      font-size: 1rem;
-      line-height: 1.35;
+// A short screen cannot afford four pinned section names and a list between
+// them: on a phone held sideways that left the list a 36px window. There the
+// whole menu scrolls as one, sections and list together.
+@media (max-height: 520px) {
+  .site-menu {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  .sm-sections,
+  .sm-section.sm-on,
+  .sm-list {
+    flex: none;
+  }
+
+  .sm-list {
+    overflow: visible;
+  }
+}
+
+// A phone held sideways is wide enough for the side column but about 390px
+// tall. With the logo stacked over the title and the search under that, the
+// menu was left a 101px window: two rows. The logo goes beside the title, as
+// in the phone's bar, and the column starts at the top.
+@media (min-width: 800px) and (max-height: 520px) {
+  .page > #quartz-body .sidebar.left {
+    gap: 0.35rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 0.75rem;
+  }
+
+  .page-title {
+    --logo-size: 2rem;
+    margin: 0;
+    font-size: 1.15rem;
+
+    a {
+      display: block;
+      min-height: 2.5rem;
+      padding-top: 0;
+      padding-left: calc(var(--logo-size) + 0.5rem);
+      overflow: hidden;
+      line-height: 2.5rem;
+      white-space: nowrap;
+      text-overflow: ellipsis;
     }
 
-    .folder-container div > button {
-      flex: 1 1 auto;
-      min-width: 0;
-    }
-
-    // The arrow opens the folder while the label navigates into it, so it needs
-    // a hit area of its own rather than 12px of glyph.
-    .folder-icon {
-      box-sizing: border-box;
-      width: var(--tap-target);
-      height: var(--tap-target);
-      padding: calc((var(--tap-target) - 12px) / 2);
-      margin-right: 0;
-      margin-left: -0.55rem;
+    a::before,
+    a::after {
+      top: 50%;
+      left: 0;
+      margin-top: calc(var(--logo-size) / -2);
     }
   }
+}
+
+// ── Skip link ───────────────────────────────────────────────────────────────
+// The first thing the Tab key reaches on every page. Out of sight until it has
+// focus; then it takes a keyboard or screen-reader user past the menu to the
+// page (the <main> in frames/DefaultFrame.tsx).
+.skip-link {
+  position: fixed;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  background: var(--secondary);
+  color: var(--light) !important;
+  font-weight: 600;
+  transform: translateY(-200%);
+
+  &:focus {
+    transform: none;
+  }
+}
+
+// The skip link lands here; the page is not a control and gets no ring.
+main#content:focus {
+  outline: none;
 }
 
 // ── Search ──────────────────────────────────────────────────────────────────
@@ -2121,14 +2404,14 @@ article.themes-index {
     scroll-behavior: auto;
   }
 
-  .explorer .explorer-content,
-  .page > #quartz-body > :not(.sidebar.left:has(.explorer)) {
+  .site-menu,
+  .sm-twist svg {
     transition: none;
   }
 }
 
 // ── Tablets ─────────────────────────────────────────────────────────────────
-// Between 800 and 1200px the explorer is a permanent column beside the text.
+// Between 800 and 1200px the menu is a permanent column beside the text.
 // At 320px wide it took 39% of an iPad held upright, and the 6rem of space
 // above both columns pushed the first line of every page off the screen. It
 // stays at 17rem held upright and grows to 22rem held sideways, where there is

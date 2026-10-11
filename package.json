@@ -35,7 +35,6 @@
     "@quartz-community/crawl-links": "^0.1.0",
     "@quartz-community/darkmode": "^0.1.0",
     "@quartz-community/description": "^0.1.0",
-    "@quartz-community/explorer": "0.1.0",
     "@quartz-community/folder-page": "0.1.0",
     "@quartz-community/footer": "0.1.1",
     "@quartz-community/github-flavored-markdown": "^0.1.0",
