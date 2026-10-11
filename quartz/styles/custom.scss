@@ -780,9 +780,21 @@ article.themes-index {
       font: inherit;
       font-size: 1rem;
 
+      // A touch smaller than what is typed, so the hint fits the narrowest
+      // phone. What is typed stays at 1rem: under 16px, iOS zooms the page
+      // when the field is tapped.
       &::placeholder {
         color: var(--ti-faded);
+        font-size: 0.93rem;
         opacity: 1;
+      }
+
+      // The room on the right is for the clear button, which is only there
+      // once something is typed. While the hint shows, the hint gets it. If
+      // the hint still does not fit, it ends in an ellipsis, not mid-letter.
+      &:placeholder-shown {
+        padding-right: 0.75rem;
+        text-overflow: ellipsis;
       }
 
       &::-webkit-search-cancel-button {
