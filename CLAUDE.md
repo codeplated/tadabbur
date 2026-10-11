@@ -346,11 +346,17 @@ Do not add audio files to this repo.
 
 ---
 
-## Mobile and Tablet
+## Every Screen Counts the Same
 
-Most readers open this site on a phone, so the small-screen layout is the one
-that has to be right. It all lives in the "Phones and tablets" section at the
-end of `quartz/styles/custom.scss`.
+The site has to be equally good on a phone, a tablet, a foldable, a laptop, a
+desktop monitor and a high-resolution display. No device is the one that "has
+to be right" with the others as fallbacks: a fault at 1512px is as much a
+fault as one at 390px. (An earlier version of these notes put phones first, and
+desktop faults slipped through because of it.) `PRODUCT.md` records this, along
+with who the site is for and its accessibility requirement.
+
+The small-screen rules live in the "Phones and tablets" section at the end of
+`quartz/styles/custom.scss`, and the rest of this section explains them.
 
 Two kinds of media query are used there and they are **not** interchangeable:
 
@@ -405,9 +411,25 @@ of its id, since the heading names the reciter. If those headings change, the
 styling stops
 applying and the page degrades to plain prose — it doesn't break.
 
-Check any layout change at 390px (phone), 768px and 820px (tablet, portrait —
-note 768 gets the _mobile_ layout and 820 the tablet one) and 1180px (tablet,
-landscape).
+Check any layout change at every one of these widths, and measure rather than
+glance: nothing clipped, nothing overflowing its frame, nothing misaligned.
+
+| Width          | Stands for                                                   |
+| -------------- | ------------------------------------------------------------ |
+| 344px          | a foldable, closed (its narrow outer screen)                 |
+| 390px          | a phone                                                      |
+| 690px          | a foldable, open                                             |
+| 768px          | a tablet, portrait: this one still gets the _mobile_ layout  |
+| 820px          | a tablet, portrait: this one gets the tablet layout          |
+| 1180px         | a tablet, landscape                                          |
+| 1280px, 1512px | laptops                                                      |
+| 1920px         | a desktop monitor                                            |
+| 2560px         | a high-resolution display (the layout is capped and centred) |
+
+The two foldable widths are roughly what a book-style foldable (a Galaxy Z Fold)
+reports closed and open; treat them as stand-ins, not exact device figures. A
+high-resolution display also means sharp pixels at any width, so check that
+images and icons stay crisp at 2x and 3x.
 
 ---
 
