@@ -566,6 +566,67 @@ $logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewB
   mask: url("/static/keffiyeh.svg") left top / calc(100% / 7) 100% repeat-x;
 }
 
+// ── Front page cards ────────────────────────────────────────────────────────
+// The four ways into the site: The Quran, Personalities, Asma Ul Husna and
+// Themes, the same four the left panel shows as its parents. The generator
+// writes them as a list on the home page, each item a link followed by a
+// <small> line, and marks the page `cssclasses: [home]`, which lands on its
+// article. Two across where there is room, stacked on a phone.
+article.home ul {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0 1rem;
+  display: grid;
+  // Two by two, never three and one: four cards read as one set.
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+
+  @media all and ($mobile) {
+    grid-template-columns: 1fr;
+  }
+
+  > li {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--lightgray);
+    border-radius: var(--radius-lg);
+
+    &:hover,
+    &:focus-within {
+      border-color: var(--tertiary);
+    }
+
+    > a.internal {
+      font-family: var(--headerFont);
+      font-size: 1.2rem;
+      font-weight: 600;
+      background: none;
+      padding: 0;
+    }
+
+    > small {
+      color: var(--darkgray);
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+  }
+}
+
+// On touch the whole card is the link. With a mouse only the title is, so
+// resting the pointer on a card doesn't pop up a preview of the page behind.
+@media (hover: none) {
+  article.home ul > li > a.internal::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+  }
+}
+
 // ============================================================================
 // Phones and tablets
 // ============================================================================
@@ -1036,7 +1097,7 @@ $logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewB
   }
 }
 
-// ── Cards (Quran.base) ──────────────────────────────────────────────────────
+// ── Cards (the surah cards on The Quran page) ───────────────────────────────
 // One card per row turned 114 surahs into a 48,000px scroll.
 
 @media all and ($mobile) {

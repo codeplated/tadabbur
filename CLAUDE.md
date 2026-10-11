@@ -29,16 +29,17 @@ quartz/                          ← repo root
 │   │   └── root/                ← served at the site root: robots.txt
 │   └── styles/custom.scss       ← all site styling
 ├── content/                     ← GENERATED — read below before touching
-│   ├── index.md                 ← front page, served at /
-│   ├── 0 - Explore/
-│   │   ├── Asma Ul Husna/
-│   │   ├── Personalities/
-│   │   └── Quran.base           ← surah card grid (bases-page)
-│   ├── 1 - The Opener/
-│   │   ├── index.md             ← surah page: overview + ayah index (a Quran.base card)
-│   │   ├── 1_1.md … 1_7.md      ← one note per ayah; title in frontmatter
-│   │   └── The Opener.canvas    ← reflection canvas (canvas-page)
-│   ├── ...                      ← one folder per surah, 1–114
+│   ├── index.md                 ← front page, served at /: intro + four cards
+│   ├── The Quran/               ← /the-quran
+│   │   ├── index.md             ← the surah card grid (a `base` block, bases-page)
+│   │   ├── 1 - The Opener/      ← /the-quran/1---the-opener
+│   │   │   ├── index.md         ← surah page: overview + ayah index (one of the cards)
+│   │   │   ├── 1_1.md … 1_7.md  ← one note per ayah; title in frontmatter
+│   │   │   └── The Opener.canvas← reflection canvas (canvas-page)
+│   │   └── ...                  ← one folder per surah, 1–114
+│   ├── Personalities/           ← /personalities
+│   ├── Asma Ul Husna/           ← /asma-ul-husna
+│   ├── Themes.md                ← the themes by topic (to become a folder of its own)
 │   └── attachments/             ← surah_001.png … surah_114.png
 └── node_modules/                ← never touch
 ```
@@ -63,18 +64,26 @@ and synced here. **Do not manually edit any file inside `/content`.**
   change the generator
 - The front page (slug `index`) hides its title, date, breadcrumbs and
   properties box via the `condition: not-index` layout condition in
-  `quartz.config.yaml`, so it needs no frontmatter.
+  `quartz.config.yaml`.
+
+The site has four sections, and they appear the same way in two places: as
+four cards on the front page and as the four parents in the left panel. In
+order: **The Quran, Personalities, Asma Ul Husna, Themes.** Each is a
+top-level folder (or note) in `content/`, so the generator decides the
+structure and the site only orders and styles it.
 
 What this site expects from the generator:
 
 | Field / file                                                                                                                | Used by                                                 |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                                             | tag-page patch (grouping, ordering, labels)             |
-| `index.md` in a folder — surah folders, `0 - Explore`, and its two subfolders                                               | folder-page (it replaces the stock file listing)        |
+| `index.md` in a folder — `The Quran`, every surah folder, `Personalities`, `Asma Ul Husna`                                  | folder-page (it replaces the stock file listing)        |
+| Top-level `The Quran/`, `Personalities/`, `Asma Ul Husna/` and `Themes`                                                     | explorer `sortFn` (orders them by their slugs)          |
+| Front page: `cssclasses: [home]`, and a list of four links, each followed by a `<small>` line                               | "Front page cards" in `custom.scss`                     |
 | A heading containing the word `English` (e.g. `## English (Sahih International)`), then the translation                     | tag-page patch (ayah text on tag pages)                 |
-| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                             | `Quran.base` card images                                |
+| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                             | the surah cards' images                                 |
 | `tags`                                                                                                                      | tag-list, tag pages                                     |
-| `0 - Explore/Quran.base` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`                    | bases-page                                              |
+| A `base` block in `The Quran/index.md` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`      | bases-page (it draws a `base` block inside any page)    |
 | `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                                          | canvas-page                                             |
 | Under `## Recitation (…)`: the player, then a Next link and a Prev link in one paragraph, `<span></span>` for a missing one | Next/Prev buttons in `custom.scss` (styled by position) |
 
@@ -287,12 +296,16 @@ plugins:
   crawl-links:
     markdownLinkResolution: shortest # matches Obsidian wikilink format
   explorer:
+    sortFn: … # the four sections in front-page order; the rest as by default
     mapFn: … # strips harakat from sidebar names only
 ```
 
-The explorer `mapFn` runs in the browser and strips harakat (and ٱ → ا) from
-every sidebar name. It doesn't depend on folder names; harakat only occur in
-`0 - Explore` names today, and page content keeps them.
+Both explorer functions run in the browser. `sortFn` puts the top-level
+sections in the order of the front page's cards, by slug (`the-quran`,
+`personalities`, `asma-ul-husna`, `themes`); rename one of those folders in
+the generator and its slug here has to follow. Below the top level it sorts as
+the plugin does by default. `mapFn` strips harakat (and ٱ → ا) from every
+sidebar name; page content keeps them.
 
 ---
 
@@ -349,8 +362,9 @@ What the section does, and why, so it doesn't get undone by accident:
   that scrolls away.
 - **Search opens at the top of the screen** on mobile; at `12vh` the field and
   most of its results sat behind the keyboard.
-- **Cards go two-up** on a phone and three-up on a tablet. One per row turned
-  the 114 surahs of `Quran.base` into a 48,000px scroll.
+- **Surah cards go two-up** on a phone and three-up on a tablet. One per row
+  turned the 114 surahs on The Quran page into a 48,000px scroll.
+- **The front page's four cards** sit two by two, and stack on a phone.
 - **A tag page's jump bar** becomes one swipeable row. Wrapped, a busy tag's
   75 surah chips were 20 rows of them before the first ayah.
 - **A surah's ayah index becomes a grid of chips on touch.** The generator
@@ -383,7 +397,7 @@ If improving graph performance:
 - Do NOT increase node count or disable depth limiting
 - Test on mobile after any change — mobile is the primary bottleneck
 
-`.base` files are excluded from the graph via the graph patch (see above),
+`.base` files, if the generator writes any, are excluded from the graph via the graph patch (see above),
 and the same patch skips the graph entirely on touch devices — so the
 numbers above only ever apply to a desktop browser with a pointer.
 

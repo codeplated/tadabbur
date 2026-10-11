@@ -1,0 +1,23 @@
+---
+title: "The Quran"
+---
+All 114 surahs, in order. Open one for its ayaat.
+
+```base
+formulas:
+  surah_number: number(note.surah.split(" ")[0])
+views:
+  - type: cards
+    name: Surahs
+    filters:
+      and:
+        - file.name == "index"
+        - file.hasProperty("surah_name")
+    sort:
+      - property: formula.surah_number
+        direction: ASC
+    rowHeight: tall
+    cardSize: 270
+    image: note.image
+    imageAspectRatio: 1
+```

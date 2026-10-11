@@ -127,8 +127,12 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      # Runs in the browser. Strips harakat (and ٱ → ا) from sidebar names so
-      # they read cleanly at small sizes; page content keeps them.
+      # These run in the browser. sortFn puts the site's sections in the
+      # order the home page's cards offer them; everything else sorts as the
+      # plugin does by default, folders first and names by number.
+      sortFn: '(a, b) => { const order = ["the-quran", "personalities", "asma-ul-husna", "themes", "tags"]; const ia = order.indexOf(a.slugSegment), ib = order.indexOf(b.slugSegment); if (a.slugSegments.length === 1 && ia >= 0 && ib >= 0) return ia - ib; if (a.isFolder === b.isFolder) return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" }); return a.isFolder ? -1 : 1 }'
+      # Strips harakat (and ٱ → ا) from sidebar names so they read cleanly at
+      # small sizes; page content keeps them.
       mapFn: '(node) => { node.displayName = node.displayName.replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, "").replace(/\u0671/g, "\u0627") }'
     layout:
       position: left
