@@ -64,7 +64,7 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-      condition: not-index
+      condition: not-index-or-theme # a theme's page says these in its own head
 
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
@@ -170,14 +170,14 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
-      condition: not-index # home page has its own H1
+      condition: not-index-or-theme # the home page and a theme's page have their own H1
 
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
       position: beforeBody
       priority: 20
-      condition: not-index
+      condition: not-index-or-tags # no reading time on the Themes pages: they are lists
 
   - source: "@quartz-community/tag-list"
     enabled: true

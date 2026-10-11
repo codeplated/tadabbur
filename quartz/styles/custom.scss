@@ -1102,16 +1102,11 @@ article.themes-index {
   }
 }
 
-// The Themes page has nothing for the right-hand column (no table of
-// contents, no backlinks), so on a desktop the index takes that width: it is
-// what gives it a third column. The reading-time line goes too: an index is
-// not read through, and "1 min read" on it was simply wrong.
-.page:has(article.themes-index) .content-meta {
-  display: none;
-}
-
+// Neither Themes page has anything for the right-hand column (no table of
+// contents, no backlinks), so on a desktop they take that width. The index
+// gets a third column from it; a theme's page puts its surah index there.
 @media all and ($desktop) {
-  .page:has(article.themes-index) > #quartz-body {
+  .page:has(article.themes-index, .tt-tag-page) > #quartz-body {
     grid-template-columns: clamp(#{$sidePanelWidth}, 28vw, 26.5rem) minmax(0, 1fr);
     grid-template-areas:
       "grid-sidebar-left grid-header"
@@ -1707,51 +1702,358 @@ article.themes-index {
   }
 }
 
-// ── Tag pages ───────────────────────────────────────────────────────────────
+// ── A theme's page ──────────────────────────────────────────────────────────
+// /tags/<key>, drawn by the tag-page patch: a head (the theme's name in both
+// languages, its description, one line of facts), the surah index, then the
+// ayaat grouped by surah. The first ayah has to be on the first screen: the
+// page used to open with a properties box and up to 77 surah chips, and the
+// ayaat began one to two screens down.
+//
+// The surah index is in the page twice. Where there is a column for it (a
+// desktop) it is a list that stays beside the ayaat; anywhere narrower it is
+// one select that stays under the top of the screen. A busy theme is 60
+// screens long on a desktop and over 100 on a phone, so both also say which
+// surah is being read (components/scripts/themePage.inline.ts marks it).
+//
+// `.page` leads every selector so these outrank the patch's own stylesheet,
+// which loads separately.
+.page .tt-tag-page {
+  // --gray is 4.0:1 on the page, under what small text needs. See the same
+  // variable on the Themes index.
+  --tt-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
+  --tt-line: var(--gray);
 
-@media all and ($mobile) {
-  // A busy tag lists 75 surahs to jump to. Wrapped, that is 20 rows of chips —
-  // a wall between the reader and the ayaat. One swipeable row instead.
-  .tt-tag-page .tt-jump {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x proximity;
-    scrollbar-width: none;
-    margin-inline: -1rem;
-    padding: 0.4rem 1rem;
-    mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
-    // A busy tag page runs to 60,000px on a phone. One row is cheap enough to
-    // keep on screen, and it is the only way to move around the page.
-    position: sticky;
-    top: var(--mobile-bar-height);
-    z-index: 5;
-    background-color: var(--light);
-    border-bottom: 1px solid var(--lightgray);
+  .tt-head {
+    margin: 0 0 1.5rem;
+  }
 
-    &::-webkit-scrollbar {
-      display: none;
-    }
+  // The name, and its Urdu name at the other end of the same line.
+  .tt-heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0 1.5rem;
+    margin: 2rem 0 0;
+  }
+
+  .tt-urdu {
+    direction: rtl;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.8;
+  }
+
+  .tt-head article p {
+    margin: 0.4rem 0 0;
+  }
+
+  .tt-summary {
+    margin: 0.35rem 0 0;
+    color: var(--tt-faded);
+    font-size: 0.95rem;
 
     a {
-      flex: 0 0 auto;
-      scroll-snap-align: start;
+      padding: 0;
+      background: none;
+      font-weight: 600;
     }
   }
 
-  // Stacks on top of html's scroll-padding-top, which already clears the app
-  // bar; this is the jump row that sits under it.
-  .tt-tag-page .tt-group {
-    scroll-margin-top: 3rem;
+  .tt-count,
+  .tt-sub {
+    color: var(--tt-faded);
+  }
+
+  .tt-count {
+    font-variant-numeric: tabular-nums;
+  }
+
+  // ── A surah's heading ─────────────────────────────────────────────────────
+  .tt-group {
+    margin-bottom: 2rem;
+  }
+
+  .tt-group > h2 {
+    gap: 0 0.5rem;
+    font-size: 1.15rem;
+  }
+
+  .tt-surah-num {
+    min-width: 1.5rem;
+    margin: 0;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .tt-surah-ar {
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.4;
+  }
+
+  .tt-group > h2 .tt-count {
+    margin-left: auto;
+    font-size: 0.8rem;
+  }
+
+  // ── The surah index as one control (no column for a list) ─────────────────
+  .tt-bar {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 1.25rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--lightgray);
+    background: var(--light);
+  }
+
+  .tt-select-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 0;
+
+    // The select's own arrow is drawn differently by every browser.
+    &::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: 0.95rem;
+      width: 0.45rem;
+      height: 0.45rem;
+      border: solid var(--darkgray);
+      border-width: 0 2px 2px 0;
+      transform: translateY(-70%) rotate(45deg);
+      pointer-events: none;
+    }
+  }
+
+  // 1rem and no smaller: under 16px, iOS zooms the page when it is tapped.
+  .tt-select {
+    width: 100%;
+    height: 2.5rem;
+    padding: 0 2.25rem 0 0.75rem;
+    border: 1px solid var(--tt-line);
+    appearance: none;
+    background: var(--light);
+    color: var(--dark);
+    font-family: var(--bodyFont);
+    font-size: 1rem;
+    font-weight: 600;
+    text-overflow: ellipsis;
+    cursor: pointer;
+
+    &:hover {
+      border-color: var(--secondary);
+    }
+  }
+
+  .tt-bar .tt-top {
+    display: grid;
+    flex: none;
+    place-items: center;
+    box-sizing: border-box;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1px solid var(--tt-line);
+    border-radius: var(--radius);
+    color: var(--darkgray);
+
+    &:hover {
+      border-color: var(--tertiary);
+    }
+
+    svg {
+      width: 1.1rem;
+      height: 1.1rem;
+    }
+  }
+
+  // ── The surah index as a list (a desktop's right-hand column) ─────────────
+  .tt-jump {
+    display: none;
+  }
+
+  .tt-jump-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 0 0.5rem 0.4rem;
+    border-bottom: 1px solid var(--tt-line);
+    color: var(--dark);
+    font-family: var(--headerFont);
+    font-weight: 600;
+
+    .tt-top {
+      font-family: var(--bodyFont);
+      font-size: 0.85rem;
+    }
+  }
+
+  .tt-jump ul {
+    margin: 0.3rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tt-jump li {
+    margin: 0;
+  }
+
+  .tt-jump li > a {
+    display: grid;
+    grid-template-columns: 1.7rem minmax(0, 1fr) auto;
+    gap: 0 0.5rem;
+    align-items: baseline;
+    padding: 0.2rem 0.5rem;
+    border-radius: var(--radius-sm);
+    background: none;
+    color: var(--darkgray);
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.4;
+  }
+
+  .tt-jump-num {
+    color: var(--tt-faded);
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+    text-align: right;
+  }
+
+  .tt-jump-name {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .tt-jump .tt-count {
+    margin: 0;
+    font-size: 0.8rem;
+  }
+
+  // The surah being read. Weight and a wash, not the hover colour: olive text
+  // is 3.2:1 on the dark page.
+  .tt-jump li > a[aria-current] {
+    background: var(--highlight);
+    color: var(--dark);
+    font-weight: 600;
+  }
+
+  .tt-jump-related {
+    margin-top: 0.4rem;
+    padding-top: 0.4rem;
+    border-top: 1px solid var(--lightgray);
+  }
+
+  @media all and ($desktop) {
+    &:has(.tt-jump) {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 16rem;
+      column-gap: 3rem;
+      align-items: start;
+    }
+
+    .tt-head {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .tt-groups {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .tt-bar {
+      display: none;
+    }
+
+    // It scrolls by itself, so the page can be 60 screens long and the list
+    // is still all there.
+    .tt-jump {
+      position: sticky;
+      top: 1.5rem;
+      display: block;
+      grid-column: 2;
+      grid-row: 1 / span 2;
+      // It ends above the feedback button, which floats in the same corner
+      // and would sit on the last rows. At the top of the page the list has
+      // not stuck yet and starts about 9.5rem down, so that is allowed for
+      // too, with 5rem for the button.
+      max-height: calc(100dvh - 14.5rem);
+      margin-top: 2rem;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      scrollbar-width: thin;
+      scrollbar-color: var(--lightgray) transparent;
+    }
+
+    // The heading of the surah being read stays at the top of the column.
+    .tt-group > h2 {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      padding-top: 0.6rem;
+      background: var(--light);
+    }
+  }
+
+  // Narrower than a desktop, the control is stuck to the top, so a surah has
+  // to land below it. On a phone html's scroll-padding-top already clears the
+  // app bar; this is the control under it.
+  @media all and ($mobile), all and ($tablet) {
+    .tt-group {
+      scroll-margin-top: 4rem;
+    }
+
+    // With scripts off the select does nothing, so the list of links is shown
+    // in its place.
+    @media (scripting: none) {
+      .tt-bar {
+        display: none;
+      }
+
+      .tt-jump {
+        display: block;
+        margin-bottom: 1.5rem;
+
+        ul {
+          columns: 14rem;
+        }
+      }
+    }
+  }
+
+  @media all and ($mobile) {
+    .tt-bar {
+      top: var(--mobile-bar-height);
+    }
+  }
+
+  @media (hover: none) {
+    .tt-select,
+    .tt-bar .tt-top {
+      height: var(--tap-target);
+    }
+
+    .tt-bar .tt-top {
+      width: var(--tap-target);
+    }
   }
 }
 
 @media (hover: none) {
-  .tt-tag-page .tt-jump a,
   .tt-tag-page .tt-index a {
     display: inline-flex;
     align-items: center;
     min-height: 2.5rem;
+  }
+
+  .page .tt-tag-page .tt-jump li > a {
+    min-height: 2.5rem;
+    align-items: center;
   }
 }
 

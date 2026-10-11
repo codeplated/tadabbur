@@ -95,22 +95,22 @@ categories start closed.
 
 What this site expects from the generator:
 
-| Field / file                                                                                                                                                                                                                            | Used by                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                                                                                                                                                         | tag-page patch (grouping, ordering, labels)                        |
-| `index.md` in a folder — `The Quran`, every surah folder, `Personalities`, `Asma Ul Husna`                                                                                                                                              | folder-page (it replaces the stock file listing)                   |
-| Top-level `The Quran/`, `Personalities/`, `Asma Ul Husna/` and `tags/`                                                                                                                                                                  | explorer `sortFn` (orders them by their slugs)                     |
-| A `base` block in `Personalities/index.md`, with several views                                                                                                                                                                          | bases-page (views become tabs; table columns sort)                 |
-| `tags/<key>.md` per theme, file name = the tag's key, with `title`, `urdu`, `category`, `notes`, `description`                                                                                                                          | tag-page (top of the theme's page)                                 |
-| `order` on personality notes                                                                                                                                                                                                            | sorting in the Personalities table; hidden from the properties box |
-| `tags/index.md`: `cssclasses: [themes-index]`; an `h2` per category, each followed by a list; each line a link, then `<span lang="ur">` (Urdu name), `<span class="count">` (a number, then a `.unit` word) and `<small>` (description) | "Themes index" in `custom.scss`, `themesIndex.inline.ts`           |
-| Front page: `cssclasses: [home]`, and a list of four links, each followed by a `<small>` line                                                                                                                                           | "Front page cards" in `custom.scss`                                |
-| A heading containing the word `English` (e.g. `## English (Sahih International)`), then the translation                                                                                                                                 | tag-page patch (ayah text on tag pages)                            |
-| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                                                                                                                                         | the surah cards' images                                            |
-| `tags`                                                                                                                                                                                                                                  | tag-list, tag pages                                                |
-| A `base` block in `The Quran/index.md` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`                                                                                                                  | bases-page (it draws a `base` block inside any page)               |
-| `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                                                                                                                                                      | canvas-page                                                        |
-| Under `## Recitation (…)`: the player, then a Next link and a Prev link in one paragraph, `<span></span>` for a missing one                                                                                                             | Next/Prev buttons in `custom.scss` (styled by position)            |
+| Field / file                                                                                                                                                                                                                            | Used by                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `surah`, `ayah` (`"2 / 286"` style), `surah_name` (`"English / Arabic / Urdu"`)                                                                                                                                                         | tag-page patch (grouping, ordering, labels)                                                                                                |
+| `index.md` in a folder — `The Quran`, every surah folder, `Personalities`, `Asma Ul Husna`                                                                                                                                              | folder-page (it replaces the stock file listing)                                                                                           |
+| Top-level `The Quran/`, `Personalities/`, `Asma Ul Husna/` and `tags/`                                                                                                                                                                  | explorer `sortFn` (orders them by their slugs)                                                                                             |
+| A `base` block in `Personalities/index.md`, with several views                                                                                                                                                                          | bases-page (views become tabs; table columns sort)                                                                                         |
+| `tags/<key>.md` per theme, file name = the tag's key, with `title`, `urdu`, `category`, `notes`, `description`                                                                                                                          | tag-page patch: the head of the theme's page (`title` and `urdu` in its heading, `category` as a link to that category on the Themes page) |
+| `order` on personality notes                                                                                                                                                                                                            | sorting in the Personalities table; hidden from the properties box                                                                         |
+| `tags/index.md`: `cssclasses: [themes-index]`; an `h2` per category, each followed by a list; each line a link, then `<span lang="ur">` (Urdu name), `<span class="count">` (a number, then a `.unit` word) and `<small>` (description) | "Themes index" in `custom.scss`, `themesIndex.inline.ts`                                                                                   |
+| Front page: `cssclasses: [home]`, and a list of four links, each followed by a `<small>` line                                                                                                                                           | "Front page cards" in `custom.scss`                                                                                                        |
+| A heading containing the word `English` (e.g. `## English (Sahih International)`), then the translation                                                                                                                                 | tag-page patch (ayah text on tag pages)                                                                                                    |
+| `image: "/attachments/surah_NNN.png"` on surah `index.md` notes                                                                                                                                                                         | the surah cards' images                                                                                                                    |
+| `tags`                                                                                                                                                                                                                                  | tag-list, tag pages                                                                                                                        |
+| A `base` block in `The Quran/index.md` — one `cards` view of the surah `index` notes, sorted by `formula.surah_number`                                                                                                                  | bases-page (it draws a `base` block inside any page)                                                                                       |
+| `*.canvas` (JSON Canvas) — rendered as interactive pages, e.g. `The Opener.canvas`                                                                                                                                                      | canvas-page                                                                                                                                |
+| Under `## Recitation (…)`: the player, then a Next link and a Prev link in one paragraph, `<span></span>` for a missing one                                                                                                             | Next/Prev buttons in `custom.scss` (styled by position)                                                                                    |
 
 All other frontmatter fields are shown as-is in the properties box.
 
@@ -176,18 +176,31 @@ Existing patches:
   index. The patch skips the list when the folder note has content of its own;
   a folder without an index still gets the stock listing.
 - `@quartz-community+tag-page+0.1.0.patch` — replaces the stock date-sorted
-  title list on tag pages. A tag page groups ayahs by surah in Quran order
-  (from `surah`, `ayah`, `surah_name`), shows each as `surah:ayah` with its
-  English translation and other tags, adds a surah jump bar, and lists
-  non-ayah pages (personalities, names) under "Related pages", after the
-  ayaat — they used to come first, which on a phone put a couple of thousand
-  pixels of secondary content ahead of the verses the tag is about. The
-  translation is the first line after the heading containing the word `English`, or frontmatter
-  `description` if the generator sets one. The top of a tag's page comes from
-  `content/tags/<tag>.md`, which the generator writes for every theme. `/tags`
-  itself is `content/tags/index.md`, the Themes page: a folder note, so the
-  folder-page plugin renders it and this plugin's own A–Z grid of tags is only
-  what `/tags` would fall back to without that note.
+  title list on tag pages with a theme's page. From the top:
+  - **A head.** The page's own `h1`, with the theme's Urdu name at the other
+    end of the line; its description (the body of `content/tags/<tag>.md`);
+    and one line: the category as a link to it on the Themes page, how many
+    ayaat in how many surahs, and a link to the related pages. This replaced
+    the stock title, a properties box and "1 min read", which the layout
+    conditions now keep off these pages.
+  - **The surah index, twice.** `nav.tt-jump`, a list of surahs with counts,
+    and `div.tt-bar`, a `select` of the same surahs with a "top" link.
+    `custom.scss` shows the list in the right-hand column on a desktop and the
+    select, stuck under the top of the screen, anywhere narrower.
+    `themePage.inline.ts` marks the surah being read in both. They replaced a
+    row of up to 77 chips that put the first ayah one to two screens down.
+  - **The ayaat**, grouped by surah in Quran order (from `surah`, `ayah`,
+    `surah_name`), each as `surah:ayah` with its English translation and its
+    other tags. The translation is the first line after the heading containing
+    the word `English`, or frontmatter `description` if the generator sets
+    one. A surah's Arabic name is marked `lang="ar"`.
+  - **Related pages** (personalities, names), after the ayaat, at `#related`.
+
+  It says "ayaat", and "ayah" for one. `/tags` itself is
+  `content/tags/index.md`, the Themes page: a folder note, so the folder-page
+  plugin renders it and this plugin's own A–Z grid of tags is only what `/tags`
+  would fall back to without that note.
+
 - `@quartz-community+footer+0.1.1.patch` — the "Created with Quartz vX" line
   is hardcoded in the plugin, so the patch replaces it with "Created with a heart
   by Belambo" (links to https://belambo.com). The `footer` option links sit
@@ -208,6 +221,8 @@ Quartz update:
 | `quartz/components/Head.tsx`                                                                       | Loads Scheherazade New, Noto Naskh Arabic, Noto Nastaliq Urdu and Noto Emoji from Google Fonts                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | `quartz/components/scripts/popover.inline.ts`                                                      | `setupPopovers` returns early when `(hover: none)` matches. A tap fires `mouseenter`, so on a phone every link touched fetched and parsed the whole target page for a card that flashed up and was navigated away from. Links inside `article.home` are skipped too: the front page's cards are links stretched over the whole card, and a preview there opened wherever the pointer rested. Links inside `article.themes-index` are skipped for the same reason, and because each preview would fetch a page of hundreds of ayaat |
 | `quartz/components/scripts/themesIndex.inline.ts`, `quartz/plugins/emitters/componentResources.ts` | The Themes page's script: filter, arrangements, closing categories, and the arrangement kept in the address so Back restores it. The emitter adds it to every page beside the popover script, because the Themes page is usually reached by a link and SPA navigation only runs scripts already loaded                                                                                                                                                                                                                             |
+| `quartz/components/scripts/themePage.inline.ts`                                                    | A theme's page: marks the surah being read in the surah index (the list on a desktop, the select elsewhere), keeps the list scrolled to it, and makes the select and the "top" links move the page. Added to every page by `componentResources.ts`, like the Themes index script                                                                                                                                                                                                                                                   |
+| `quartz/plugins/loader/conditions.ts`                                                              | Two layout conditions. `not-index-or-theme` keeps the stock title and the properties box off a theme's page (`tags/<key>`), which draws its own heading and says its fields in a line. `not-index-or-tags` keeps the reading time off both Themes pages: they are lists                                                                                                                                                                                                                                                            |
 | `quartz/styles/custom.scss`                                                                        | All site styling, including the CSS-mask logo and the phone/tablet layout. Its "Interaction colour" section makes every hover, focus, pressed and selected state use `--tertiary` (`#607300`, the same in both themes, by choice) — plugins' own hover colours included, so new plugin UI needs a rule there too                                                                                                                                                                                                                   |
 | `quartz/components/Feedback.tsx`, `quartz/static/feedback.{css,js}`                                | Floating feedback form. POSTs `{ message, email, page, website }` to `WORKER_URL` at the top of `feedback.js` — the Worker in `feedback-worker/`, which forwards it to Telegram (see its README). `website` is a hidden honeypot field; only bots fill it                                                                                                                                                                                                                                                                          |
 | `quartz/components/HomeHero.tsx`, `quartz/static/keffiyeh.svg`                                     | Front page hero: the "A Structured Quran Knowledge Base" heading over a band of keffiyeh pattern. Renders on slug `index` only. The SVG is `assets-src/Keffiyeh.svg` through `svgo --precision 2`, used as a CSS mask so the theme colours it                                                                                                                                                                                                                                                                                      |
@@ -391,8 +406,8 @@ What the section does, and why, so it doesn't get undone by accident:
   of the page. Stacking the logo above a 1.75rem title made it 179px tall —
   a fifth of an iPhone screen, permanently, with the article scrolling
   underneath it. It is now one 56px row: menu, logo beside the title, search,
-  theme. `scroll-padding-top` is tied to its height so heading links and the
-  tag-page jump bar don't land underneath it.
+  theme. `scroll-padding-top` is tied to its height so heading links and a
+  theme page's surahs don't land underneath it.
 - **The explorer drawer** is anchored below the bar rather than over it (the
   menu button used to overlap its first rows), is `position: fixed` rather
   than absolute at `100vw`, and locks the page behind it. Tree rows are
@@ -416,8 +431,10 @@ What the section does, and why, so it doesn't get undone by accident:
   rows. It goes by the width of the index, not of the screen. A category the
   reader opens stays open when they come back from a theme, and a filter opens
   whatever it finds.
-- **A tag page's jump bar** becomes one swipeable row. Wrapped, a busy tag's
-  75 surah chips were 20 rows of them before the first ayah.
+- **A theme's page keeps its surah index in reach.** Below a desktop's width it
+  is one select stuck under the top of the screen, which always shows the
+  surah being read, with a "top" link beside it. It replaced a swipeable row of
+  up to 77 chips that was 12,000px wide and never showed where you were.
 - **A surah's ayah index becomes a grid of chips on touch.** The generator
   writes the ayaat as a run of numbers separated by "·", which is around 12px
   of tap target each, and it is the way into every ayah of the surah.
