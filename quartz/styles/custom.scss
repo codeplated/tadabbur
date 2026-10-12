@@ -570,61 +570,166 @@ $logo-light: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewB
 // ── Front page cards ────────────────────────────────────────────────────────
 // The four ways into the site: The Quran, Personalities, Asma Ul Husna and
 // Themes, the same four the left panel shows as its parents. The generator
-// writes them as a list on the home page, each item a link followed by a
-// <small> line, and marks the page `cssclasses: [home]`, which lands on its
-// article. Two across where there is room, stacked on a phone.
-article.home ul {
-  list-style: none;
-  padding: 0;
-  margin: 2rem 0 1rem;
-  display: grid;
-  // Two by two, never three and one: four cards read as one set.
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.75rem;
+// writes the home page as one line saying what the site is, then a list of
+// four items, then what Tadabbur means, and marks it `cssclasses: [home]`,
+// which lands on its article. An item is a link, a <small> line on what the
+// section holds, and a list of three entries from it, each a link and a
+// .count. Without this section the page is that list, which is what Obsidian
+// shows.
+//
+// The cards come before the prose. With the prose on top the first card began
+// 851px down a phone's 844px screen, and none was on the first screen of a
+// 1280px laptop either.
 
-  @media all and ($mobile) {
-    grid-template-columns: 1fr;
+article.home {
+  // Counts are small secondary text. --gray is 4.0:1 on the page, under the
+  // 4.5:1 that text needs; this is --gray taken a third of the way to --dark,
+  // about 6:1 in both themes (the listing pages use the same mix).
+  --home-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
+
+  // Quartz wraps a note's content in a div of its own inside the article, so
+  // nothing here counts on being the article's child: the cards are the list
+  // that is not inside another, the entries the lists that are.
+
+  // The line under the band: it carries on from the heading, so it is centred
+  // as the heading is.
+  p:first-child:not(blockquote p) {
+    max-width: 40rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.55;
+    text-align: center;
+    text-wrap: balance;
+    color: var(--darkgray);
   }
 
-  > li {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    gap: 0.35rem;
-    margin: 0;
-    padding: 1rem 1.1rem;
-    border: 1px solid var(--lightgray);
-    border-radius: var(--radius-lg);
+  ul:not(li ul) {
+    list-style: none;
+    padding: 0;
+    margin: 1.75rem 0 2.5rem;
+    display: grid;
+    // Two by two, never three and one: four cards read as one set. A column
+    // is never under 17rem, so where the page's own column cannot hold two
+    // (a phone, and a tablet held upright, where it is 511px beside the menu)
+    // the cards stack. It goes by the room the cards have, not by the screen.
+    grid-template-columns: repeat(
+      auto-fit,
+      minmax(min(100%, max(17rem, calc(50% - 0.375rem))), 1fr)
+    );
+    gap: 0.75rem;
 
-    &:hover,
-    &:focus-within {
-      border-color: var(--tertiary);
+    > li {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      margin: 0;
+      padding: 1rem 1.1rem 0.7rem;
+      border: 1px solid var(--lightgray);
+      border-radius: var(--radius-lg);
+
+      // The card lights up for its own link, not for an entry inside it,
+      // which goes somewhere else.
+      &:hover:not(:has(li:hover)),
+      &:has(> a:focus-visible) {
+        border-color: var(--tertiary);
+      }
+
+      > a.internal {
+        font-family: var(--headerFont);
+        font-size: 1.2rem;
+        font-weight: 600;
+        background: none;
+        padding: 0;
+      }
+
+      > small {
+        color: var(--darkgray);
+        font-size: 0.9rem;
+        line-height: 1.5;
+      }
+    }
+  }
+
+  // The whole card is the link, not just its title: the link's ::after is
+  // stretched over the card. popover.inline.ts skips these links, or resting
+  // the pointer anywhere on a card would pop up a preview of the page behind
+  // it.
+  ul:not(li ul) > li > a.internal::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+  }
+
+  // Three entries from the section, as a corner of its listing: a name, and
+  // at the other end of the row its count. A row sits above the card's
+  // stretched link and is a link over its own whole width, so the name and
+  // the number beside it go to the same place.
+  li > ul {
+    list-style: none;
+    // Pushed to the foot of the card, so two cards in a row keep their
+    // entries level when one description runs a line longer.
+    margin: auto 0 0;
+    padding: 0.35rem 0 0;
+    border-top: 1px solid var(--lightgray);
+
+    > li {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      min-height: 2rem;
+      margin: 0 -0.5rem;
+      padding: 0 0.5rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.9rem;
+      line-height: 1.35;
+
+      &:hover {
+        background: var(--highlight);
+      }
+
+      // The ring goes round the row, which is what the link covers.
+      &:has(a:focus-visible) {
+        outline: 2px solid var(--tertiary);
+        outline-offset: -2px;
+      }
+
+      @media (hover: none) {
+        min-height: var(--tap-target);
+      }
     }
 
-    > a.internal {
-      font-family: var(--headerFont);
-      font-size: 1.2rem;
-      font-weight: 600;
+    a.internal {
+      min-width: 0;
       background: none;
       padding: 0;
+      font-weight: 600;
+      overflow-wrap: anywhere;
+
+      &::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-radius: inherit;
+      }
+
+      &:focus-visible {
+        outline: none;
+      }
     }
 
-    > small {
-      color: var(--darkgray);
-      font-size: 0.9rem;
-      line-height: 1.5;
+    .count {
+      flex: none;
+      color: var(--home-faded);
+      font-size: 0.8rem;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
     }
   }
-}
-
-// The whole card is the link, not just its title: the link's ::after is
-// stretched over the card. popover.inline.ts skips these links, or resting the
-// pointer anywhere on a card would pop up a preview of the page behind it.
-article.home ul > li > a.internal::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
 }
 
 // ── Listing pages: Themes, Personalities, Asma Ul Husna ─────────────────────
