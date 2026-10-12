@@ -3,7 +3,7 @@ id: ashabul_kahf
 name: "People of the Cave / أَصْحَاب الْكَهْف / اصحاب الکہف"
 type: Group / Nation
 path: Straight Path
-era: "Roman era (Decius persecution, approximately 250 CE — scholarly debate)"
+era: "Roman era (Decius persecution, approximately 250 CE; scholarly debate)"
 tags: ["story_ashab_al_kahf", "iman", "resurrection", "miracles", "tawakkul"]
 cssclasses: [profile]
 ---
@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 اصحاب الکہف
 
-> [[Personalities/index#Groups and Nations|Group / Nation]] · Straight Path · Roman era (Decius persecution, approximately 250 CE — scholarly debate) · [[#Mentioned in Quran|18 ayaat]]
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Straight Path · Roman era (Decius persecution, approximately 250 CE; scholarly debate) · [[#Mentioned in Quran|18 ayaat]]
 >
 > **Also known as:** The Seven Sleepers
 >

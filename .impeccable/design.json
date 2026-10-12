@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T12:48:19+00:00",
+  "title": "Design System: Tadabbur",
+  "extensions": {
+    "colorMeta": {
+      "parchment": {
+        "role": "neutral",
+        "displayName": "Parchment",
+        "canonical": "#f7f3ea",
+        "tonalRamp": [
+          "oklch(15.0% 0.013 86.8)",
+          "oklch(27.0% 0.013 86.8)",
+          "oklch(39.0% 0.013 86.8)",
+          "oklch(51.0% 0.013 86.8)",
+          "oklch(63.0% 0.013 86.8)",
+          "oklch(75.0% 0.013 86.8)",
+          "oklch(87.0% 0.013 86.8)",
+          "oklch(95.0% 0.013 86.8)"
+        ]
+      },
+      "parchment-edge": {
+        "role": "neutral",
+        "displayName": "Parchment Edge",
+        "canonical": "#e4ddcf",
+        "tonalRamp": [
+          "oklch(15.0% 0.020 84.6)",
+          "oklch(27.0% 0.020 84.6)",
+          "oklch(39.0% 0.020 84.6)",
+          "oklch(51.0% 0.020 84.6)",
+          "oklch(63.0% 0.020 84.6)",
+          "oklch(75.0% 0.020 84.6)",
+          "oklch(87.0% 0.020 84.6)",
+          "oklch(95.0% 0.020 84.6)"
+        ]
+      },
+      "faded-ink": {
+        "role": "neutral",
+        "displayName": "Faded Ink",
+        "canonical": "#7f7768",
+        "tonalRamp": [
+          "oklch(15.0% 0.024 83.2)",
+          "oklch(27.0% 0.024 83.2)",
+          "oklch(39.0% 0.024 83.2)",
+          "oklch(51.0% 0.024 83.2)",
+          "oklch(63.0% 0.024 83.2)",
+          "oklch(75.0% 0.024 83.2)",
+          "oklch(87.0% 0.024 83.2)",
+          "oklch(95.0% 0.024 83.2)"
+        ]
+      },
+      "faded-ink-strong": {
+        "role": "neutral",
+        "displayName": "Faded Ink Strong",
+        "canonical": "color-mix(in srgb, #7f7768, #24221e 35%)",
+        "tonalRamp": [
+          "oklch(15.0% 0.019 82.7)",
+          "oklch(27.0% 0.019 82.7)",
+          "oklch(39.0% 0.019 82.7)",
+          "oklch(51.0% 0.019 82.7)",
+          "oklch(63.0% 0.019 82.7)",
+          "oklch(75.0% 0.019 82.7)",
+          "oklch(87.0% 0.019 82.7)",
+          "oklch(95.0% 0.019 82.7)"
+        ]
+      },
+      "soft-ink": {
+        "role": "neutral",
+        "displayName": "Soft Ink",
+        "canonical": "#3b3833",
+        "tonalRamp": [
+          "oklch(15.0% 0.010 80.7)",
+          "oklch(27.0% 0.010 80.7)",
+          "oklch(39.0% 0.010 80.7)",
+          "oklch(51.0% 0.010 80.7)",
+          "oklch(63.0% 0.010 80.7)",
+          "oklch(75.0% 0.010 80.7)",
+          "oklch(87.0% 0.010 80.7)",
+          "oklch(95.0% 0.010 80.7)"
+        ]
+      },
+      "black-ink": {
+        "role": "neutral",
+        "displayName": "Black Ink",
+        "canonical": "#24221e",
+        "tonalRamp": [
+          "oklch(15.0% 0.008 84.6)",
+          "oklch(27.0% 0.008 84.6)",
+          "oklch(39.0% 0.008 84.6)",
+          "oklch(51.0% 0.008 84.6)",
+          "oklch(63.0% 0.008 84.6)",
+          "oklch(75.0% 0.008 84.6)",
+          "oklch(87.0% 0.008 84.6)",
+          "oklch(95.0% 0.008 84.6)"
+        ]
+      },
+      "ink-teal": {
+        "role": "primary",
+        "displayName": "Ink Teal",
+        "canonical": "#2c6461",
+        "tonalRamp": [
+          "oklch(15.0% 0.059 190.6)",
+          "oklch(27.0% 0.059 190.6)",
+          "oklch(39.0% 0.059 190.6)",
+          "oklch(51.0% 0.059 190.6)",
+          "oklch(63.0% 0.059 190.6)",
+          "oklch(75.0% 0.059 190.6)",
+          "oklch(87.0% 0.059 190.6)",
+          "oklch(95.0% 0.059 190.6)"
+        ]
+      },
+      "olive-leaf": {
+        "role": "secondary",
+        "displayName": "Olive Leaf",
+        "canonical": "#607300",
+        "tonalRamp": [
+          "oklch(15.0% 0.124 120.4)",
+          "oklch(27.0% 0.124 120.4)",
+          "oklch(39.0% 0.124 120.4)",
+          "oklch(51.0% 0.124 120.4)",
+          "oklch(63.0% 0.124 120.4)",
+          "oklch(75.0% 0.124 120.4)",
+          "oklch(87.0% 0.124 120.4)",
+          "oklch(95.0% 0.124 120.4)"
+        ]
+      },
+      "ink-teal-wash": {
+        "role": "neutral",
+        "displayName": "Ink Teal Wash",
+        "canonical": "rgba(44, 100, 97, 0.08)",
+        "tonalRamp": [
+          "oklch(15.0% 0.059 190.6)",
+          "oklch(27.0% 0.059 190.6)",
+          "oklch(39.0% 0.059 190.6)",
+          "oklch(51.0% 0.059 190.6)",
+          "oklch(63.0% 0.059 190.6)",
+          "oklch(75.0% 0.059 190.6)",
+          "oklch(87.0% 0.059 190.6)",
+          "oklch(95.0% 0.059 190.6)"
+        ]
+      },
+      "gilt-marker": {
+        "role": "neutral",
+        "displayName": "Gilt Marker",
+        "canonical": "#f0d58a99",
+        "tonalRamp": [
+          "oklch(15.0% 0.099 90.4)",
+          "oklch(27.0% 0.099 90.4)",
+          "oklch(39.0% 0.099 90.4)",
+          "oklch(51.0% 0.099 90.4)",
+          "oklch(63.0% 0.099 90.4)",
+          "oklch(75.0% 0.099 90.4)",
+          "oklch(87.0% 0.099 90.4)",
+          "oklch(95.0% 0.099 90.4)"
+        ]
+      },
+      "night-desk": {
+        "role": "neutral",
+        "displayName": "Night Desk",
+        "canonical": "#1c1b19",
+        "tonalRamp": [
+          "oklch(15.0% 0.004 84.6)",
+          "oklch(27.0% 0.004 84.6)",
+          "oklch(39.0% 0.004 84.6)",
+          "oklch(51.0% 0.004 84.6)",
+          "oklch(63.0% 0.004 84.6)",
+          "oklch(75.0% 0.004 84.6)",
+          "oklch(87.0% 0.004 84.6)",
+          "oklch(95.0% 0.004 84.6)"
+        ]
+      },
+      "night-edge": {
+        "role": "neutral",
+        "displayName": "Night Edge",
+        "canonical": "#33312c",
+        "tonalRamp": [
+          "oklch(15.0% 0.009 88.8)",
+          "oklch(27.0% 0.009 88.8)",
+          "oklch(39.0% 0.009 88.8)",
+          "oklch(51.0% 0.009 88.8)",
+          "oklch(63.0% 0.009 88.8)",
+          "oklch(75.0% 0.009 88.8)",
+          "oklch(87.0% 0.009 88.8)",
+          "oklch(95.0% 0.009 88.8)"
+        ]
+      },
+      "night-faded": {
+        "role": "neutral",
+        "displayName": "Night Faded",
+        "canonical": "#8a8478",
+        "tonalRamp": [
+          "oklch(15.0% 0.019 84.6)",
+          "oklch(27.0% 0.019 84.6)",
+          "oklch(39.0% 0.019 84.6)",
+          "oklch(51.0% 0.019 84.6)",
+          "oklch(63.0% 0.019 84.6)",
+          "oklch(75.0% 0.019 84.6)",
+          "oklch(87.0% 0.019 84.6)",
+          "oklch(95.0% 0.019 84.6)"
+        ]
+      },
+      "night-faded-strong": {
+        "role": "neutral",
+        "displayName": "Night Faded Strong",
+        "canonical": "color-mix(in srgb, #8a8478, #e8e2d6 35%)",
+        "tonalRamp": [
+          "oklch(15.0% 0.018 84.6)",
+          "oklch(27.0% 0.018 84.6)",
+          "oklch(39.0% 0.018 84.6)",
+          "oklch(51.0% 0.018 84.6)",
+          "oklch(63.0% 0.018 84.6)",
+          "oklch(75.0% 0.018 84.6)",
+          "oklch(87.0% 0.018 84.6)",
+          "oklch(95.0% 0.018 84.6)"
+        ]
+      },
+      "night-soft": {
+        "role": "neutral",
+        "displayName": "Night Soft",
+        "canonical": "#cfc8bb",
+        "tonalRamp": [
+          "oklch(15.0% 0.019 83.1)",
+          "oklch(27.0% 0.019 83.1)",
+          "oklch(39.0% 0.019 83.1)",
+          "oklch(51.0% 0.019 83.1)",
+          "oklch(63.0% 0.019 83.1)",
+          "oklch(75.0% 0.019 83.1)",
+          "oklch(87.0% 0.019 83.1)",
+          "oklch(95.0% 0.019 83.1)"
+        ]
+      },
+      "night-paper": {
+        "role": "neutral",
+        "displayName": "Night Paper",
+        "canonical": "#e8e2d6",
+        "tonalRamp": [
+          "oklch(15.0% 0.017 84.6)",
+          "oklch(27.0% 0.017 84.6)",
+          "oklch(39.0% 0.017 84.6)",
+          "oklch(51.0% 0.017 84.6)",
+          "oklch(63.0% 0.017 84.6)",
+          "oklch(75.0% 0.017 84.6)",
+          "oklch(87.0% 0.017 84.6)",
+          "oklch(95.0% 0.017 84.6)"
+        ]
+      },
+      "ink-teal-lit": {
+        "role": "primary",
+        "displayName": "Ink Teal Lit",
+        "canonical": "#8fbfb5",
+        "tonalRamp": [
+          "oklch(15.0% 0.053 180.6)",
+          "oklch(27.0% 0.053 180.6)",
+          "oklch(39.0% 0.053 180.6)",
+          "oklch(51.0% 0.053 180.6)",
+          "oklch(63.0% 0.053 180.6)",
+          "oklch(75.0% 0.053 180.6)",
+          "oklch(87.0% 0.053 180.6)",
+          "oklch(95.0% 0.053 180.6)"
+        ]
+      },
+      "ink-teal-lit-wash": {
+        "role": "neutral",
+        "displayName": "Ink Teal Lit Wash",
+        "canonical": "rgba(143, 191, 181, 0.1)",
+        "tonalRamp": [
+          "oklch(15.0% 0.053 180.6)",
+          "oklch(27.0% 0.053 180.6)",
+          "oklch(39.0% 0.053 180.6)",
+          "oklch(51.0% 0.053 180.6)",
+          "oklch(63.0% 0.053 180.6)",
+          "oklch(75.0% 0.053 180.6)",
+          "oklch(87.0% 0.053 180.6)",
+          "oklch(95.0% 0.053 180.6)"
+        ]
+      },
+      "gilt-marker-dim": {
+        "role": "neutral",
+        "displayName": "Gilt Marker Dim",
+        "canonical": "#a8862f66",
+        "tonalRamp": [
+          "oklch(15.0% 0.111 86.9)",
+          "oklch(27.0% 0.111 86.9)",
+          "oklch(39.0% 0.111 86.9)",
+          "oklch(51.0% 0.111 86.9)",
+          "oklch(63.0% 0.111 86.9)",
+          "oklch(75.0% 0.111 86.9)",
+          "oklch(87.0% 0.111 86.9)",
+          "oklch(95.0% 0.111 86.9)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The heading over the front page's pattern band, and nowhere else."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "A page's title."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Section headings inside a page."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose and translations."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "The properties box, the small line on a front page card, a row in a theme's surah index."
+      },
+      "entry": {
+        "displayName": "Entry",
+        "purpose": "A line in an index: a listing page's entries, the menu's entries, the arrangement buttons."
+      },
+      "count": {
+        "displayName": "Count",
+        "purpose": "The number at the end of a row, an entry's number, a detail line under an entry."
+      },
+      "arabic": {
+        "displayName": "Arabic",
+        "purpose": "The verse."
+      },
+      "urdu": {
+        "displayName": "Urdu",
+        "purpose": "Urdu translation and tafsir."
+      }
+    },
+    "shadows": [
+      {
+        "name": "surah-card",
+        "value": "0 2px 8px rgba(0, 0, 0, 0.08)",
+        "purpose": "The surah cards only. The one shadow in the page; not a rule."
+      }
+    ],
+    "motion": [],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "800px"
+      },
+      {
+        "name": "desktop",
+        "value": "1200px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Tag chip",
+      "kind": "chip",
+      "refersTo": "tag-chip",
+      "description": "A theme on an ayah, a person or a Name. Opens that theme's page.",
+      "html": "<a class=\"ds-chip\" href=\"#\">#tawheed</a>",
+      "css": ".ds-chip { display: inline-block; font: 600 1rem/1.4 Literata, Georgia, serif; color: var(--secondary); background: var(--highlight); padding: 0 0.6rem; border-radius: 6px; text-decoration: none; } .ds-chip:hover, .ds-chip:focus-visible { background: var(--tertiary); color: var(--light); }"
+    },
+    {
+      "name": "Index",
+      "kind": "custom",
+      "refersTo": "row-entry",
+      "description": "A group on a listing page: a heading over a rule, then entries with their counts at the end of the row.",
+      "html": "<section class=\"ds-index\"><h2 class=\"ds-index-head\">Belief <span>12</span></h2><ul><li><a href=\"#\">Tawheed</a><span lang=\"ur\">توحید</span><span class=\"ds-index-count\">381</span></li><li><a href=\"#\">Iman</a><span lang=\"ur\">ایمان</span><span class=\"ds-index-count\">352</span></li><li><a href=\"#\">Shirk</a><span lang=\"ur\">شرک</span><span class=\"ds-index-count\">361</span></li></ul></section>",
+      "css": ".ds-index { width: 18.5rem; } .ds-index-head { display: flex; align-items: baseline; gap: 0.4rem; margin: 0; padding-bottom: 4px; border-bottom: 1px solid var(--gray); font: 600 1.05rem/1.5 Lora, Georgia, serif; color: var(--dark); } .ds-index-head span, .ds-index-count { font: 400 0.8rem/1.45 Literata, Georgia, serif; font-variant-numeric: tabular-nums; color: color-mix(in srgb, var(--gray), var(--dark) 35%); } .ds-index ul { list-style: none; margin: 0.3rem 0 0; padding: 0; } .ds-index li { display: grid; grid-template-columns: minmax(0, 1fr) auto 2.4rem; gap: 0 0.6rem; align-items: baseline; font: 400 0.95rem/1.45 Literata, Georgia, serif; padding: 0.15rem 0; } .ds-index a { color: var(--secondary); text-decoration: none; } .ds-index a:hover { color: var(--tertiary); } .ds-index a:focus-visible { outline: 2px solid var(--tertiary); outline-offset: 2px; } .ds-index [lang=\"ur\"] { font-family: 'Noto Nastaliq Urdu', serif; color: var(--darkgray); } .ds-index-count { text-align: right; }"
+    },
+    {
+      "name": "Filter field",
+      "kind": "input",
+      "refersTo": "field-filter",
+      "description": "Narrows a listing page as the reader types.",
+      "html": "<label class=\"ds-filter\"><svg width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><input type=\"search\" placeholder=\"Filter by name, Urdu or description\" aria-label=\"Filter themes\"></label>",
+      "css": ".ds-filter { position: relative; display: block; width: 20rem; color: color-mix(in srgb, var(--gray), var(--dark) 35%); } .ds-filter svg { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); pointer-events: none; } .ds-filter input { box-sizing: border-box; width: 100%; height: 2.5rem; padding: 0 0.75rem 0 2.4rem; border: 1px solid var(--gray); border-radius: 10px; background: transparent; color: var(--dark); font: 400 1rem/1 Literata, Georgia, serif; } .ds-filter input::placeholder { color: color-mix(in srgb, var(--gray), var(--dark) 35%); font-size: 0.93rem; } .ds-filter input:focus-visible { outline: 2px solid var(--tertiary); outline-offset: 2px; }"
+    },
+    {
+      "name": "Arrangements",
+      "kind": "custom",
+      "refersTo": "arrangement-on",
+      "description": "The ways a listing page can be arranged: joined buttons in one outline, the selected one filled.",
+      "html": "<div class=\"ds-views\" role=\"group\" aria-label=\"Arrange\"><button class=\"ds-view\" aria-pressed=\"true\">By Topic</button><button class=\"ds-view\" aria-pressed=\"false\">A–Z</button><button class=\"ds-view\" aria-pressed=\"false\">Most Ayaat</button></div>",
+      "css": ".ds-views { display: inline-flex; border: 1px solid var(--gray); border-radius: 10px; } .ds-view { height: calc(2.5rem - 2px); padding: 0 0.9rem; border: 0; border-left: 1px solid var(--gray); background: transparent; color: var(--darkgray); font: 400 0.95rem/1 Literata, Georgia, serif; white-space: nowrap; cursor: pointer; } .ds-view:first-child { border-left: 0; border-radius: 9px 0 0 9px; } .ds-view:last-child { border-radius: 0 9px 9px 0; } .ds-view:hover { color: var(--tertiary); } .ds-view:focus-visible { outline: 2px solid var(--tertiary); outline-offset: 2px; } .ds-view[aria-pressed=\"true\"] { background: var(--secondary); color: var(--light); }"
+    },
+    {
+      "name": "Step buttons",
+      "kind": "button",
+      "refersTo": "button-step",
+      "description": "Next and Prev under an ayah's recitation.",
+      "html": "<div class=\"ds-steps\"><a class=\"ds-step\" href=\"#\">Next 2:256 <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m9 18 6-6-6-6\"/></svg></a><a class=\"ds-step\" href=\"#\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m15 18-6-6 6-6\"/></svg> Prev 2:254</a></div>",
+      "css": ".ds-steps { display: flex; justify-content: space-between; gap: 1rem; } .ds-step { display: inline-flex; align-items: center; gap: 0.35rem; min-height: 2.75rem; padding: 0 0.85rem; border: 1px solid var(--lightgray); border-radius: 10px; font: 600 1.05rem/1.3 Literata, Georgia, serif; color: var(--secondary); text-decoration: none; } .ds-step:hover, .ds-step:focus-visible { border-color: var(--tertiary); color: var(--tertiary); }"
+    },
+    {
+      "name": "Front page card",
+      "kind": "card",
+      "refersTo": "card-section",
+      "description": "One of the four ways into the site. The whole card is the link to its section; each row under the line is a link to an entry.",
+      "html": "<div class=\"ds-home-card\"><a class=\"ds-home-card-title\" href=\"#\">Themes</a><small>139 themes in 13 categories, each listing every ayah that carries it, in Quran order. Filter by name, or arrange by topic, A–Z or most ayaat.</small><ul><li><a href=\"#\">Tawheed</a><span>381 ayaat</span></li><li><a href=\"#\">Sabr</a><span>112 ayaat</span></li><li><a href=\"#\">Akhirah &amp; Judgment Day</a><span>794 ayaat</span></li></ul></div>",
+      "css": ".ds-home-card { position: relative; display: flex; flex-direction: column; gap: 0.35rem; max-width: 24rem; padding: 1rem 1.1rem 0.7rem; border: 1px solid var(--lightgray); border-radius: 16px; color: var(--darkgray); } .ds-home-card:hover:not(:has(li:hover)), .ds-home-card:has(> a:focus-visible) { border-color: var(--tertiary); } .ds-home-card-title { font: 600 1.2rem/1.2 Lora, Georgia, serif; color: var(--secondary); text-decoration: none; } .ds-home-card-title::after { content: ''; position: absolute; inset: 0; border-radius: inherit; } .ds-home-card-title:hover { color: var(--tertiary); } .ds-home-card small { font: 400 0.9rem/1.5 Literata, Georgia, serif; } .ds-home-card ul { list-style: none; margin: auto 0 0; padding: 0.35rem 0 0; border-top: 1px solid var(--lightgray); } .ds-home-card li { position: relative; z-index: 1; display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; min-height: 2rem; margin: 0 -0.5rem; padding: 0 0.5rem; border-radius: 6px; font: 400 0.9rem/1.35 Literata, Georgia, serif; } .ds-home-card li:hover { background: var(--highlight); } .ds-home-card li:has(a:focus-visible) { outline: 2px solid var(--tertiary); outline-offset: -2px; } .ds-home-card li a { font-weight: 600; color: var(--secondary); text-decoration: none; outline: none; } .ds-home-card li a::after { content: ''; position: absolute; inset: 0; border-radius: inherit; } .ds-home-card li a:hover { color: var(--tertiary); } .ds-home-card li span { flex: none; font-size: 0.8rem; font-variant-numeric: tabular-nums; white-space: nowrap; color: color-mix(in srgb, var(--gray), var(--dark) 35%); }"
+    },
+    {
+      "name": "Surah card",
+      "kind": "card",
+      "refersTo": "card-surah",
+      "description": "One surah on The Quran page: thumbnail over title.",
+      "html": "<a class=\"ds-surah\" href=\"#\"><span class=\"ds-surah-art\"></span><span class=\"ds-surah-title\">2 - The Cow البقرة</span></a>",
+      "css": ".ds-surah { display: block; width: 13rem; border: 1px solid var(--lightgray); border-radius: 16px; overflow: hidden; background: var(--highlight); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); text-decoration: none; } .ds-surah-art { display: block; aspect-ratio: 16 / 9; background: color-mix(in srgb, var(--secondary) 22%, var(--light)); } .ds-surah-title { display: block; padding: 0.7rem 0.85rem; font: 600 1rem/1.4 Literata, Georgia, serif; color: var(--dark); } .ds-surah:hover .ds-surah-title, .ds-surah:focus-visible .ds-surah-title { color: var(--tertiary); }"
+    },
+    {
+      "name": "Search field",
+      "kind": "input",
+      "refersTo": "field-search",
+      "description": "Opens the full search panel.",
+      "html": "<button class=\"ds-search\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><span>Search</span></button>",
+      "css": ".ds-search { display: flex; align-items: center; gap: 0.5rem; width: 14rem; height: 2.75rem; padding: 0 0.75rem; border: 1px solid var(--lightgray); border-radius: 10px; background: transparent; font: 400 1rem/1 Literata, Georgia, serif; color: var(--gray); cursor: pointer; } .ds-search:hover, .ds-search:focus-visible { color: var(--tertiary); }"
+    },
+    {
+      "name": "Properties box",
+      "kind": "custom",
+      "refersTo": "box-properties",
+      "description": "An ayah's fields above the verse.",
+      "html": "<div class=\"ds-props\"><div class=\"ds-props-head\">Properties</div><div class=\"ds-props-row\"><span>surah</span><span>2 / 114</span></div><div class=\"ds-props-row\"><span>ayah</span><span>255 / 286</span></div></div>",
+      "css": ".ds-props { max-width: 26rem; border: 1px solid var(--lightgray); border-radius: 16px; overflow: hidden; font: 400 0.9rem/1.4 Literata, Georgia, serif; color: var(--darkgray); } .ds-props-head { padding: 0.6rem 0.85rem; font-weight: 600; color: var(--dark); } .ds-props-row { display: grid; grid-template-columns: 40% 1fr; padding: 0.55rem 0.85rem; border-top: 1px solid var(--lightgray); } .ds-props-row span:first-child { color: var(--gray); }"
+    },
+    {
+      "name": "Menu",
+      "kind": "nav",
+      "refersTo": "row-current",
+      "description": "The site menu: four sections, one open to its list; the surah being read shows its ayaat as numbers, and the page being read is marked.",
+      "html": "<nav class=\"ds-menu\" aria-label=\"Site\"><div class=\"ds-menu-head\"><a href=\"#\">The Quran</a></div><ul><li><a class=\"ds-menu-item\" href=\"#\"><span class=\"ds-menu-num\">1</span><span>The Opener</span><span lang=\"ar\">الفاتحة</span></a><ol class=\"ds-menu-grid\"><li><a href=\"#\">1</a></li><li><a href=\"#\">2</a></li><li><a href=\"#\" aria-current=\"page\">3</a></li><li><a href=\"#\">4</a></li><li><a href=\"#\">5</a></li><li><a href=\"#\">6</a></li><li><a href=\"#\">7</a></li></ol></li><li><a class=\"ds-menu-item\" href=\"#\"><span class=\"ds-menu-num\">2</span><span>The Cow</span><span lang=\"ar\">البقرة</span></a></li></ul><div class=\"ds-menu-head\"><a href=\"#\">Personalities</a></div><div class=\"ds-menu-head\"><a href=\"#\">Asma Ul Husna</a></div><div class=\"ds-menu-head\"><a href=\"#\">Themes</a></div></nav>",
+      "css": ".ds-menu { width: 18rem; } .ds-menu-head a { display: block; padding: 0.3rem 0; font: 600 1rem/1.35 Lora, Georgia, serif; color: var(--secondary); text-decoration: none; } .ds-menu ul, .ds-menu ol { list-style: none; margin: 0; padding: 0; } .ds-menu-item { display: grid; grid-template-columns: 1.6rem minmax(0, 1fr) auto; gap: 0 0.6rem; align-items: baseline; padding: 0.2rem 0.5rem; border-radius: 6px; font: 400 0.95rem/1.4 Literata, Georgia, serif; color: var(--darkgray); text-decoration: none; } .ds-menu-num { font-size: 0.8rem; font-variant-numeric: tabular-nums; color: color-mix(in srgb, var(--gray), var(--dark) 35%); } .ds-menu [lang=\"ar\"] { font-family: 'Scheherazade New', 'Noto Naskh Arabic', serif; } .ds-menu .ds-menu-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(2.1rem, 1fr)); gap: 2px; padding: 0.2rem 0.5rem 0.5rem 2.7rem; } .ds-menu-grid a { display: grid; place-items: center; height: 1.6rem; border-radius: 6px; font: 400 0.8rem/1 Literata, Georgia, serif; font-variant-numeric: tabular-nums; color: var(--darkgray); text-decoration: none; } .ds-menu-grid a[aria-current] { background: var(--highlight); color: var(--dark); font-weight: 600; } .ds-menu a:hover { color: var(--tertiary); } .ds-menu a:focus-visible { outline: 2px solid var(--tertiary); outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Study Desk",
+    "overview": "A working reference laid open. The verse, its translations, its commentary and the indexes that lead to other verses are all within reach on one surface. The owner's words for the present look are plain, dense and practical: it is a tool for looking things up and comparing, and atmosphere comes second to information.\n\nThe surface is paper-coloured with dark ink for text and one deep green-blue for anything that leads somewhere. Everything is set in serif type. There is almost no decoration: boxes are drawn with a single thin line, and the only ornament is a band of keffiyeh pattern across the front page.\n\nThe pages that list things are indexes, as at the back of a book: names in columns under headings, a number at the end of each line. Tables with tabs, which the site used until 2026-10-12, are gone.",
+    "keyCharacteristics": [
+      "Paper and ink, in a light theme and a dark theme with the same roles.",
+      "One colour for links at rest, a second for hover and focus.",
+      "Serif type throughout, with dedicated faces for Arabic and Urdu.",
+      "Thin lines, rounded corners, almost no shadow.",
+      "Indexes in columns, not tables: a name, and its count at the end of the row.",
+      "Three columns on a wide screen (menu, page, and a rail of contents and backlinks); the listing pages and a theme's page give the rail's width to the page."
+    ],
+    "rules": [
+      {
+        "name": "The Two Greens Rule",
+        "body": "Ink Teal means \"this leads somewhere\". Olive Leaf means \"you are pointing at this\". Neither is used for the other's job, and plugin controls are brought into line with it.",
+        "section": "colors"
+      },
+      {
+        "name": "The You Are Here Rule",
+        "body": "The page being read (in the menu, in a theme's surah index) is marked by weight 600 and an Ink Teal Wash, and says so to a screen reader. A selected arrangement is filled with Ink Teal. Neither uses Olive Leaf, and neither relies on colour alone.",
+        "section": "colors"
+      },
+      {
+        "name": "The Readable Small Text Rule",
+        "body": "Text under 1rem is never set in Faded Ink. It uses Faded Ink Strong or darker.",
+        "section": "colors"
+      },
+      {
+        "name": "The Marked Language Rule",
+        "body": "Arabic and Urdu text is tagged with its language so that it gets its own face, its own line spacing and right-to-left direction. Latin text never borrows those settings and they never borrow Latin ones. Where the generator knows the language it says so in the note; the site guesses only what is left.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "Do use Ink Teal for links at rest and Olive Leaf for hover, pressed and the focus ring, including on controls a plugin draws.",
+      "Do mark the page being read with weight and an Ink Teal Wash, and a selected control with an Ink Teal fill.",
+      "Do set small secondary text in Faded Ink Strong, and outline a control in Faded Ink.",
+      "Do mark Arabic and Urdu text with its language so it gets its own face.",
+      "Do keep anything a finger must hit at least 2.75rem tall.",
+      "Do list things as an index (names in columns, count at the end of the row), with a filter and arrangements where the list is long.",
+      "Do use `dvh`, never `vh`, for anything that fills a phone screen."
+    ],
+    "donts": [
+      "Don't treat these present faults as part of the system. They are recorded so they are not copied: hovered text in Olive Leaf is 3.2:1 on the dark page; the feedback button floats over the page's content; the phone's bar loses the site's name when the text size is doubled; tag chips on an ayah's page show a theme's key and not its name.",
+      "Don't bring back a table with tabs for a list of entries. Three of them were replaced by indexes in October 2026, after being 7 to 16 screens long.",
+      "Don't read the Elevation and Components sections as rules. The owner left both undecided.",
+      "Don't treat any of this as binding identity. All of it is open to change with the owner's approval."
+    ]
+  }
+}

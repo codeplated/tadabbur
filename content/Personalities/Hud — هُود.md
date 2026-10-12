@@ -3,7 +3,7 @@ id: hud
 name: "Hud / هُود / ہود علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
-era: "Ancient Arabia — sent to the people of Aad"
+era: "Ancient Arabia, sent to the people of Aad"
 tags: ["story_hud", "prophethood", "dawah", "history_lessons"]
 cssclasses: [profile]
 ---
@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 ہود علیہ السلام
 
-> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Arabia — sent to the people of Aad · [[#Mentioned in Quran|43 ayaat]]
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Arabia, sent to the people of Aad · [[#Mentioned in Quran|43 ayaat]]
 >
 > **Themes:** [[tags/story_hud|Prophet Hud]] · [[tags/prophethood|Prophethood]] · [[tags/dawah|Da'wah]] · [[tags/history_lessons|Lessons from History]]
 

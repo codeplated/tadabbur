@@ -24,6 +24,18 @@ a.internal:has(> img) {
   border-radius: var(--radius);
 }
 
+// ── The page's width ────────────────────────────────────────────────────────
+// Stock Quartz makes the page 100vw wide and hides what overflows. 100vw counts
+// the window's scrollbar, so wherever a scrollbar takes room (a desktop with a
+// mouse: 15px) the page ran that far under it: the right-hand column lost 15px
+// at 1280px, and on a wide monitor the centred layout sat 7px off centre. The
+// page is now as wide as the room beside the scrollbar, and that room is kept
+// on a page too short to scroll, so nothing moves sideways between two pages.
+html {
+  width: auto;
+  scrollbar-gutter: stable;
+}
+
 // ── Interaction colour ──────────────────────────────────────────────────────
 // One colour for every hover, focus, pressed and selected/current state, on
 // every page: --tertiary (quartz.config.yaml, the same in both themes). Links

@@ -3,7 +3,7 @@ id: khidr
 name: "Al-Khidr / الْخَضِر / خضر علیہ السلام"
 type: Person
 path: Straight Path
-era: "Time of Musa (and possibly beyond — debates exist)"
+era: "Time of Musa (and possibly beyond; debates exist)"
 tags: ["story_musa", "knowledge", "qadr", "rahmah", "sabr"]
 cssclasses: [profile]
 ---
@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 خضر علیہ السلام
 
-> [[Personalities/index#People|Person]] · Straight Path · Time of Musa (and possibly beyond — debates exist) · [[#Mentioned in Quran|18 ayaat]]
+> [[Personalities/index#People|Person]] · Straight Path · Time of Musa (and possibly beyond; debates exist) · [[#Mentioned in Quran|18 ayaat]]
 >
 > **Also known as:** Al-Khadir, The Green One
 >

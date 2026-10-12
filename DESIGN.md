@@ -277,7 +277,8 @@ Three ways of laying out the same page, switched by width:
 - **Above 1200px:** three columns: the menu (320px growing to 23rem with the
   window), the page, and a 320px rail holding the table of contents, the graph
   and backlinks. The whole layout stops growing at about 1500px and is centred
-  beyond that.
+  beyond that. The page is as wide as the room beside the window's scrollbar,
+  never 100vw, which counts the scrollbar. The front page keeps the rail empty.
 
 The three listing pages and a theme's page have nothing for the rail, so on a
 wide screen they take its width: a listing gets a third column of entries, and
@@ -431,7 +432,7 @@ mask so it takes the theme's colour.
 
 - **Don't** treat these present faults as part of the system. They are
   recorded so they are not copied: hovered text in Olive Leaf is 3.2:1 on the
-  dark page; the layout runs about 15px under the scrollbar on a desktop; the
+  dark page; the
   feedback button floats over the page's content; the phone's bar loses the
   site's name when the text size is doubled; tag chips on an ayah's page show a
   theme's key and not its name.

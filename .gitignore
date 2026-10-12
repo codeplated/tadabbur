@@ -7,3 +7,10 @@ tsconfig.tsbuildinfo
 .quartz/
 *.log
 .wrangler/
+
+# The design skill and its working files. `.claude/` is the skill itself (23 MB,
+# with a binary) and this machine's settings. Of `.impeccable/` only the design
+# record's sidecar is kept: it goes with DESIGN.md.
+.claude/
+.impeccable/*
+!.impeccable/design.json

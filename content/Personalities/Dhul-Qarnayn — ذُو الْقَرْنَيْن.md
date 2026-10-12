@@ -3,7 +3,7 @@ id: dhul_qarnayn
 name: "Dhul-Qarnayn / ذُو الْقَرْنَيْن / ذوالقرنین"
 type: Person
 path: Straight Path
-era: "Ancient history — identity debated"
+era: "Ancient history, identity debated"
 tags: ["story_dhulqarnayn", "leadership", "adl", "akhirah"]
 cssclasses: [profile]
 ---
@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 ذوالقرنین
 
-> [[Personalities/index#People|Person]] · Straight Path · Ancient history — identity debated · [[#Mentioned in Quran|17 ayaat]]
+> [[Personalities/index#People|Person]] · Straight Path · Ancient history, identity debated · [[#Mentioned in Quran|17 ayaat]]
 >
 > **Also known as:** The Two-Horned One, Alexander (debated), Cyrus the Great (debated)
 >

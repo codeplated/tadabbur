@@ -3,7 +3,7 @@ id: luqman
 name: "Luqman / لُقْمَان / لقمان"
 type: Person
 path: Straight Path
-era: "Ancient times — scholars debate his identity and era"
+era: "Ancient times: scholars debate his identity and era"
 tags: ["story_luqman", "knowledge", "parenting", "shukr", "adab"]
 cssclasses: [profile]
 ---
@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 لقمان
 
-> [[Personalities/index#People|Person]] · Straight Path · Ancient times — scholars debate his identity and era · [[#Mentioned in Quran|8 ayaat]]
+> [[Personalities/index#People|Person]] · Straight Path · Ancient times: scholars debate his identity and era · [[#Mentioned in Quran|8 ayaat]]
 >
 > **Also known as:** The Wise, Luqman al-Hakim
 >
