@@ -9,15 +9,20 @@ root_meaning: "To entrust, to delegate, to rely upon"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 14
 tags: ["asma_ul_husna", "tawakkul", "anxiety_fear"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wakil — ٱلْوَكِيل
-### The Trustee · The Disposer of Affairs
-#### کارساز
 
-> **Root:** و-ك-ل — To entrust, to delegate, to rely upon
+**The Trustee · The Disposer of Affairs**
+
+کارساز
+
+> Name 53 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 14 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 14 times
+> **Root:** و-ك-ل · To entrust, to delegate, to rely upon
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]]
 
 ---
 

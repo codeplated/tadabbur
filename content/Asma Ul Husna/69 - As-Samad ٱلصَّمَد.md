@@ -9,15 +9,20 @@ root_meaning: "The one all resort to, while needing nothing"
 category: "Names of Essential Nature"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "tawakkul", "dua"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # As-Samad — ٱلصَّمَد
-### The Eternal Refuge · The Self-Sufficient Master
-#### بے نیاز
 
-> **Root:** ص-م-د — The one all resort to, while needing nothing
+**The Eternal Refuge · The Self-Sufficient Master**
+
+بے نیاز
+
+> Name 69 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 1 time
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 1 time
+> **Root:** ص-م-د · The one all resort to, while needing nothing
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/tawakkul|Tawakkul]] · [[tags/dua|Dua]]
 
 ---
 

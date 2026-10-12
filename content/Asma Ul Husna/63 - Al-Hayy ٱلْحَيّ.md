@@ -9,15 +9,20 @@ root_meaning: "Life, perfect vitality, eternal living"
 category: "Names of Essential Nature"
 quran_occurrences: 5
 tags: ["asma_ul_husna", "tawheed", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hayy — ٱلْحَيّ
-### The Ever-Living
-#### زندہ
 
-> **Root:** ح-ي-و — Life, perfect vitality, eternal living
+**The Ever-Living**
+
+زندہ
+
+> Name 63 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 5 times
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 5 times
+> **Root:** ح-ي-و · Life, perfect vitality, eternal living
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

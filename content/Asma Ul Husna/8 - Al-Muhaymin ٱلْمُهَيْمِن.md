@@ -9,15 +9,20 @@ root_meaning: "To watch over, to protect, to be witness"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "taqwa", "ikhlas", "revelation"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muhaymin — ٱلْمُهَيْمِن
-### The Guardian · The Overseer
-#### نگہبان
 
-> **Root:** ه-ي-م-ن — To watch over, to protect, to be witness
+**The Guardian · The Overseer**
+
+نگہبان
+
+> Name 8 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ه-ي-م-ن · To watch over, to protect, to be witness
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/taqwa|Taqwa]] · [[tags/ikhlas|Ikhlas]] · [[tags/revelation|Revelation]]
 
 ---
 

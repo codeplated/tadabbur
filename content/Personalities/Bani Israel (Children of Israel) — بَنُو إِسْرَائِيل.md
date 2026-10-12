@@ -4,14 +4,19 @@ name: "Bani Israel (Children of Israel) / بَنُو إِسْرَائِيل / ب
 type: Group / Nation
 path: Mixed — Erred, Repented, or Complex
 era: "From Yaqub through to the time of Muhammad ﷺ"
-order: 69
 tags: ["story_bani_israil", "amanah", "prophethood", "shukr", "ahl_al_kitab", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل
-### بنی اسرائیل
 
+بنی اسرائیل
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Mixed Path · From Yaqub through to the time of Muhammad ﷺ · [[#Mentioned in Quran|14 ayaat]]
+>
 > **Also known as:** Children of Israel, The Israelites
+>
+> **Themes:** [[tags/story_bani_israil|Bani Israil]] · [[tags/amanah|Amanah & Promises]] · [[tags/prophethood|Prophethood]] · [[tags/shukr|Shukr]] · [[tags/ahl_al_kitab|People of the Book]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

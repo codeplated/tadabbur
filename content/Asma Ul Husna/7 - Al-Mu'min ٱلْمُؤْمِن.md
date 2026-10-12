@@ -9,15 +9,20 @@ root_meaning: "Security, faith, trust"
 category: "Names of Peace & Security"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "anxiety_fear", "iman"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mu'min — ٱلْمُؤْمِن
-### The Granter of Security
-#### امان دینے والا
 
-> **Root:** أ-م-ن — Security, faith, trust
+**The Granter of Security**
+
+امان دینے والا
+
+> Name 7 of 99 · [[Asma Ul Husna/index#Peace & Security|Names of Peace & Security]] · In the Quran: 1 time
 >
-> **Category:** Names of Peace & Security · **In the Quran:** 1 time
+> **Root:** أ-م-ن · Security, faith, trust
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]] · [[tags/iman|Iman]]
 
 ---
 

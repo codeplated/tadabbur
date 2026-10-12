@@ -4,14 +4,19 @@ name: "Dawud (David) / دَاوُود / داؤد علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Palestine, approximately 1000 BCE"
-order: 14
 tags: ["story_dawud", "prophethood", "leadership", "tawbah", "revelation", "knowledge", "adl"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Dawud (David) — دَاوُود
-### داؤد علیہ السلام
 
+داؤد علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Palestine, approximately 1000 BCE · [[#Mentioned in Quran|23 ayaat]]
+>
 > **Also known as:** David, Khalifah of the earth (38:26)
+>
+> **Themes:** [[tags/story_dawud|Prophet Dawud]] · [[tags/prophethood|Prophethood]] · [[tags/leadership|Leadership & Authority]] · [[tags/tawbah|Tawbah]] · [[tags/revelation|Revelation]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/adl|Adl]]
 
 ---
 

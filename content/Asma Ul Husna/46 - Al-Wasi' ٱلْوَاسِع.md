@@ -9,15 +9,20 @@ root_meaning: "Vastness, capacity, encompassing"
 category: "Names of Knowledge"
 quran_occurrences: 9
 tags: ["asma_ul_husna", "rahmah", "rizq", "knowledge"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wasi' — ٱلْوَاسِع
-### The All-Encompassing · The Vast
-#### وسعت والا
 
-> **Root:** و-س-ع — Vastness, capacity, encompassing
+**The All-Encompassing · The Vast**
+
+وسعت والا
+
+> Name 46 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 9 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 9 times
+> **Root:** و-س-ع · Vastness, capacity, encompassing
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/rizq|Rizq]] · [[tags/knowledge|Knowledge & Wisdom]]
 
 ---
 

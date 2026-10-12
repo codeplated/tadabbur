@@ -4,14 +4,19 @@ name: "Isa (Jesus) / عِيسَى / عیسیٰ علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Roman-era Palestine, approximately 1-33 CE"
-order: 22
 tags: ["story_isa", "prophethood", "miracles", "story_maryam", "ahl_al_kitab", "tawheed", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Isa (Jesus) — عِيسَى
-### عیسیٰ علیہ السلام
 
+عیسیٰ علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Roman-era Palestine, approximately 1-33 CE · [[#Mentioned in Quran|64 ayaat]]
+>
 > **Also known as:** Jesus, Al-Masih (The Messiah), Kalimullah (Word of Allah), Ruhullah (Spirit of Allah), Ibn Maryam (Son of Mary)
+>
+> **Themes:** [[tags/story_isa|Prophet Isa]] · [[tags/prophethood|Prophethood]] · [[tags/miracles|Miracles]] · [[tags/story_maryam|Maryam]] · [[tags/ahl_al_kitab|People of the Book]] · [[tags/tawheed|Tawheed]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

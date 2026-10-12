@@ -4,14 +4,19 @@ name: "Nuh (Noah) / نُوح / نوح علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Early human history, pre-Ibrahim"
-order: 2
 tags: ["story_nuh", "prophethood", "dawah", "sabr", "family", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Nuh (Noah) — نُوح
-### نوح علیہ السلام
 
+نوح علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Early human history, pre-Ibrahim · [[#Mentioned in Quran|96 ayaat]]
+>
 > **Also known as:** Noah, Shaykhul Anbiya (Elder of Prophets)
+>
+> **Themes:** [[tags/story_nuh|Prophet Nuh]] · [[tags/prophethood|Prophethood]] · [[tags/dawah|Da'wah]] · [[tags/sabr|Sabr]] · [[tags/family|Family & Kinship]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

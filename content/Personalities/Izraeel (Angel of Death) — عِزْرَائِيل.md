@@ -4,14 +4,19 @@ name: "Izraeel (Angel of Death) / عِزْرَائِيل / عزرائیل علی
 type: Angel
 path: Straight Path
 era: "From creation to end"
-order: 29
 tags: ["angels", "death_reminder"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Izraeel (Angel of Death) — عِزْرَائِيل
-### عزرائیل علیہ السلام
 
+عزرائیل علیہ السلام
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · From creation to end · [[#Mentioned in Quran|2 ayaat]]
+>
 > **Also known as:** Malak al-Mawt (Angel of Death), Izrael
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/death_reminder|Death & the Grave]]
 
 ---
 

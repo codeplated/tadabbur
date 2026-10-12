@@ -4,14 +4,19 @@ name: "Munkar and Nakeer / مُنكَر وَنَكِير / منکر و نکیر"
 type: Angel
 path: Straight Path
 era: "The realm of the grave (Barzakh)"
-order: 30
 tags: ["angels", "death_reminder", "iman"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Munkar and Nakeer — مُنكَر وَنَكِير
-### منکر و نکیر
 
+منکر و نکیر
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · The realm of the grave (Barzakh)
+>
 > **Also known as:** The Two Questioners of the Grave
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/death_reminder|Death & the Grave]] · [[tags/iman|Iman]]
 
 ---
 

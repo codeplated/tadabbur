@@ -4,14 +4,19 @@ name: "Sulayman (Solomon) / سُلَيْمَان / سلیمان علیہ الس�
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Palestine, approximately 950 BCE"
-order: 15
 tags: ["story_sulayman", "prophethood", "leadership", "knowledge", "shukr", "jinn", "animals"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Sulayman (Solomon) — سُلَيْمَان
-### سلیمان علیہ السلام
 
+سلیمان علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Palestine, approximately 950 BCE · [[#Mentioned in Quran|54 ayaat]]
+>
 > **Also known as:** Solomon
+>
+> **Themes:** [[tags/story_sulayman|Prophet Sulayman]] · [[tags/prophethood|Prophethood]] · [[tags/leadership|Leadership & Authority]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/shukr|Shukr]] · [[tags/jinn|Jinn]] · [[tags/animals|Animals]]
 
 ---
 

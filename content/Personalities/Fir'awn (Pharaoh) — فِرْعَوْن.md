@@ -4,14 +4,19 @@ name: "Fir'awn (Pharaoh) / فِرْعَوْن / فرعون"
 type: Person
 path: Deviated Path
 era: "Egypt, time of Musa"
-order: 50
 tags: ["story_musa", "oppression", "kibr", "shirk", "leadership", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Fir'awn (Pharaoh) — فِرْعَوْن
-### فرعون
 
+فرعون
+
+> [[Personalities/index#People|Person]] · Deviated Path · Egypt, time of Musa · [[#Mentioned in Quran|129 ayaat]]
+>
 > **Also known as:** Pharaoh, Ramesses II (by some historians)
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/oppression|Oppression]] · [[tags/kibr|Arrogance & Humility]] · [[tags/shirk|Shirk]] · [[tags/leadership|Leadership & Authority]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

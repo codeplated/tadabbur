@@ -4,14 +4,17 @@ name: "Al-Samiri / السَّامِرِيّ / سامری"
 type: Person
 path: Deviated Path
 era: "Time of Musa, Sinai"
-order: 54
 tags: ["story_musa", "story_bani_israil", "shirk", "trial_test"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Samiri — السَّامِرِيّ
-### سامری
 
-> **Also known as:** —
+سامری
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Musa, Sinai · [[#Mentioned in Quran|6 ayaat]]
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/story_bani_israil|Bani Israil]] · [[tags/shirk|Shirk]] · [[tags/trial_test|Trials & Tests]]
 
 ---
 

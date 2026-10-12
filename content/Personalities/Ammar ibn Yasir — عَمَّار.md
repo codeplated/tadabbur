@@ -4,14 +4,17 @@ name: "Ammar ibn Yasir / عَمَّار / عمار ابن یاسر رضی الل
 type: Companion
 path: Straight Path
 era: "Early Islam, Makkah and Madinah"
-order: 39
 tags: ["sahabah", "oppression", "iman", "sabr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ammar ibn Yasir — عَمَّار
-### عمار ابن یاسر رضی اللہ عنہ
 
-> **Also known as:** —
+عمار ابن یاسر رضی اللہ عنہ
+
+> [[Personalities/index#Companions|Companion]] · Straight Path · Early Islam, Makkah and Madinah · [[#Mentioned in Quran|1 ayah]]
+>
+> **Themes:** [[tags/sahabah|Sahabah]] · [[tags/oppression|Oppression]] · [[tags/iman|Iman]] · [[tags/sabr|Sabr]]
 
 ---
 

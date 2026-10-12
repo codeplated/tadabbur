@@ -4,14 +4,19 @@ name: "Musa (Moses) / مُوسَى / موسیٰ علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Egypt, Sinai, approximately 1300 BCE"
-order: 12
 tags: ["story_musa", "prophethood", "oppression", "revelation", "miracles", "sabr", "story_bani_israil"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Musa (Moses) — مُوسَى
-### موسیٰ علیہ السلام
 
+موسیٰ علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Egypt, Sinai, approximately 1300 BCE · [[#Mentioned in Quran|367 ayaat]]
+>
 > **Also known as:** Moses, Kalimullah (The one Allah spoke to directly), Ulul Azm
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/prophethood|Prophethood]] · [[tags/oppression|Oppression]] · [[tags/revelation|Revelation]] · [[tags/miracles|Miracles]] · [[tags/sabr|Sabr]] · [[tags/story_bani_israil|Bani Israil]]
 
 ---
 

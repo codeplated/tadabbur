@@ -4,14 +4,19 @@ name: "Yaqub (Jacob) / يَعْقُوب / یعقوب علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Patriarch era, Canaan"
-order: 9
 tags: ["story_yaqub", "story_yusuf", "prophethood", "sabr", "grief_loss", "hope_raja", "family"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Yaqub (Jacob) — يَعْقُوب
-### یعقوب علیہ السلام
 
+یعقوب علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Patriarch era, Canaan · [[#Mentioned in Quran|43 ayaat]]
+>
 > **Also known as:** Jacob, Israel, Abu Yusuf
+>
+> **Themes:** [[tags/story_yaqub|Prophet Yaqub]] · [[tags/story_yusuf|Prophet Yusuf]] · [[tags/prophethood|Prophethood]] · [[tags/sabr|Sabr]] · [[tags/grief_loss|Grief & Loss]] · [[tags/hope_raja|Hope & Raja]] · [[tags/family|Family & Kinship]]
 
 ---
 

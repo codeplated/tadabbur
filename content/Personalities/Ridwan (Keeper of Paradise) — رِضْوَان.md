@@ -4,14 +4,19 @@ name: "Ridwan (Keeper of Paradise) / رِضْوَان / رضوان — جنت ک
 type: Angel
 path: Straight Path
 era: "The Hereafter"
-order: 32
 tags: ["angels", "jannah", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ridwan (Keeper of Paradise) — رِضْوَان
-### رضوان — جنت کا داروغہ
 
+رضوان — جنت کا داروغہ
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · The Hereafter · [[#Mentioned in Quran|1 ayah]]
+>
 > **Also known as:** Keeper of Jannah
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/jannah|Jannah]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

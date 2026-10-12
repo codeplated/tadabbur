@@ -9,15 +9,20 @@ root_meaning: "To grasp, to contract, to withhold"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "qadr", "trial_test"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Qabid — ٱلْقَابِض
-### The Withholder · The Constrictor
-#### روکنے والا
 
-> **Root:** ق-ب-ض — To grasp, to contract, to withhold
+**The Withholder · The Constrictor**
+
+روکنے والا
+
+> Name 21 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ق-ب-ض · To grasp, to contract, to withhold
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/qadr|Qadr]] · [[tags/trial_test|Trials & Tests]]
 
 ---
 

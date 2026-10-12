@@ -4,14 +4,19 @@ name: "Ayyub (Job) / أَيُّوب / ایوب علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant region"
-order: 16
 tags: ["story_ayyub", "prophethood", "sabr", "health", "dua", "rahmah", "trial_test"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ayyub (Job) — أَيُّوب
-### ایوب علیہ السلام
 
+ایوب علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Levant region · [[#Mentioned in Quran|8 ayaat]]
+>
 > **Also known as:** Job, Symbol of Sabr
+>
+> **Themes:** [[tags/story_ayyub|Prophet Ayyub]] · [[tags/prophethood|Prophethood]] · [[tags/sabr|Sabr]] · [[tags/health|Health & Healing]] · [[tags/dua|Dua]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/trial_test|Trials & Tests]]
 
 ---
 

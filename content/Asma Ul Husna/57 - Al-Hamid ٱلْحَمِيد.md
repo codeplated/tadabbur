@@ -9,15 +9,20 @@ root_meaning: "Praise, commendation, gratitude"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 17
 tags: ["asma_ul_husna", "shukr", "dhikr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hamid — ٱلْحَمِيد
-### The Praiseworthy
-#### لائق تعریف
 
-> **Root:** ح-م-د — Praise, commendation, gratitude
+**The Praiseworthy**
+
+لائق تعریف
+
+> Name 57 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 17 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 17 times
+> **Root:** ح-م-د · Praise, commendation, gratitude
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/shukr|Shukr]] · [[tags/dhikr|Dhikr & Tasbih]]
 
 ---
 

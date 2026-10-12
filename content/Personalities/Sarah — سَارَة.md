@@ -4,14 +4,17 @@ name: "Sarah / سَارَة / سارہ علیہا السلام"
 type: Person
 path: Straight Path
 era: "Time of Ibrahim"
-order: 47
 tags: ["story_ishaq", "story_ibrahim", "women", "family", "miracles", "glad_tidings"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Sarah — سَارَة
-### سارہ علیہا السلام
 
-> **Also known as:** —
+سارہ علیہا السلام
+
+> [[Personalities/index#People|Person]] · Straight Path · Time of Ibrahim · [[#Mentioned in Quran|4 ayaat]]
+>
+> **Themes:** [[tags/story_ishaq|Prophet Ishaq]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/women|Women]] · [[tags/family|Family & Kinship]] · [[tags/miracles|Miracles]] · [[tags/glad_tidings|Glad Tidings]]
 
 ---
 

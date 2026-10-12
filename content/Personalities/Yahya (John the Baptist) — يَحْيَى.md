@@ -4,14 +4,19 @@ name: "Yahya (John the Baptist) / يَحْيَى / یحییٰ علیہ السل�
 type: Prophet / Messenger
 path: Straight Path
 era: "Roman-era Palestine, contemporary with Isa"
-order: 24
 tags: ["story_yahya", "story_zakariya", "prophethood", "knowledge", "haya", "parents"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Yahya (John the Baptist) — يَحْيَى
-### یحییٰ علیہ السلام
 
+یحییٰ علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Roman-era Palestine, contemporary with Isa · [[#Mentioned in Quran|8 ayaat]]
+>
 > **Also known as:** John the Baptist
+>
+> **Themes:** [[tags/story_yahya|Prophet Yahya]] · [[tags/story_zakariya|Prophet Zakariya]] · [[tags/prophethood|Prophethood]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/haya|Haya]] · [[tags/parents|Parents & Elders]]
 
 ---
 

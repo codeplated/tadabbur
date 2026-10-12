@@ -9,15 +9,20 @@ root_meaning: "To guard, to preserve, to protect"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 4
 tags: ["asma_ul_husna", "tawakkul", "anxiety_fear", "revelation"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hafiz — ٱلْحَفِيظ
-### The Preserver · The Guardian
-#### حفاظت کرنے والا
 
-> **Root:** ح-ف-ظ — To guard, to preserve, to protect
+**The Preserver · The Guardian**
+
+حفاظت کرنے والا
+
+> Name 39 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 4 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 4 times
+> **Root:** ح-ف-ظ · To guard, to preserve, to protect
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]] · [[tags/revelation|Revelation]]
 
 ---
 

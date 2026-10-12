@@ -9,15 +9,20 @@ root_meaning: "To witness, to be present, to testify"
 category: "Names of Knowledge"
 quran_occurrences: 5
 tags: ["asma_ul_husna", "taqwa", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ash-Shahid — ٱلشَّهِيد
-### The Witness
-#### گواہ
 
-> **Root:** ش-ه-د — To witness, to be present, to testify
+**The Witness**
+
+گواہ
+
+> Name 51 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 5 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 5 times
+> **Root:** ش-ه-د · To witness, to be present, to testify
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/taqwa|Taqwa]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

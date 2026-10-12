@@ -4,14 +4,19 @@ name: "Bilqis (Queen of Sheba) / بِلْقِيس / بلقیس — ملکہ سب
 type: Person
 path: Straight Path
 era: "Time of Sulayman, ancient Yemen"
-order: 56
 tags: ["story_sulayman", "women", "leadership", "shura", "iman", "knowledge", "kibr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Bilqis (Queen of Sheba) — بِلْقِيس
-### بلقیس — ملکہ سبا
 
+بلقیس — ملکہ سبا
+
+> [[Personalities/index#People|Person]] · Straight Path · Time of Sulayman, ancient Yemen · [[#Mentioned in Quran|21 ayaat]]
+>
 > **Also known as:** Queen of Sheba, Malakat Saba
+>
+> **Themes:** [[tags/story_sulayman|Prophet Sulayman]] · [[tags/women|Women]] · [[tags/leadership|Leadership & Authority]] · [[tags/shura|Shura]] · [[tags/iman|Iman]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/kibr|Arrogance & Humility]]
 
 ---
 

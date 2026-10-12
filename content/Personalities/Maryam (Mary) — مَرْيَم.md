@@ -4,14 +4,19 @@ name: "Maryam (Mary) / مَرْيَم / مریم علیہا السلام"
 type: Person
 path: Straight Path
 era: "Roman-era Palestine"
-order: 57
 tags: ["story_maryam", "story_isa", "women", "haya", "miracles", "sidq", "parables"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Maryam (Mary) — مَرْيَم
-### مریم علیہا السلام
 
+مریم علیہا السلام
+
+> [[Personalities/index#People|Person]] · Straight Path · Roman-era Palestine · [[#Mentioned in Quran|32 ayaat]]
+>
 > **Also known as:** Mary, The only woman with a Surah named after her, Siddiqah (the truthful)
+>
+> **Themes:** [[tags/story_maryam|Maryam]] · [[tags/story_isa|Prophet Isa]] · [[tags/women|Women]] · [[tags/haya|Haya]] · [[tags/miracles|Miracles]] · [[tags/sidq|Sidq]] · [[tags/parables|Parables & Amthal]]
 
 ---
 

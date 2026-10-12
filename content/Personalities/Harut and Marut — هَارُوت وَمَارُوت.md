@@ -4,14 +4,17 @@ name: "Harut and Marut / هَارُوت وَمَارُوت / ہاروت و ما�
 type: Angel
 path: Straight Path
 era: "Ancient Babylon, time of Sulayman"
-order: 33
 tags: ["angels", "shaytan", "trial_test", "ahl_al_kitab"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Harut and Marut — هَارُوت وَمَارُوت
-### ہاروت و ماروت
 
-> **Also known as:** —
+ہاروت و ماروت
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · Ancient Babylon, time of Sulayman · [[#Mentioned in Quran|1 ayah]]
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/shaytan|Shaytan]] · [[tags/trial_test|Trials & Tests]] · [[tags/ahl_al_kitab|People of the Book]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Imran / عِمْرَان / عمران"
 type: Person
 path: Straight Path
 era: "Roman-era Palestine"
-order: 63
 tags: ["story_maryam", "family", "parenting", "dua"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Imran — عِمْرَان
-### عمران
 
+عمران
+
+> [[Personalities/index#People|Person]] · Straight Path · Roman-era Palestine · [[#Mentioned in Quran|3 ayaat]]
+>
 > **Also known as:** Father of Maryam, Surah Ali Imran is named for his family
+>
+> **Themes:** [[tags/story_maryam|Maryam]] · [[tags/family|Family & Kinship]] · [[tags/parenting|Parenting & Children]] · [[tags/dua|Dua]]
 
 ---
 

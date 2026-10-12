@@ -4,14 +4,19 @@ name: "Abu Lahab / أَبُو لَهَب / ابو لہب"
 type: Person
 path: Deviated Path
 era: "Before Islam, Makkah, died 624 CE"
-order: 58
 tags: ["story_muhammad", "kufr", "family", "wealth", "jahannam"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Abu Lahab — أَبُو لَهَب
-### ابو لہب
 
+ابو لہب
+
+> [[Personalities/index#People|Person]] · Deviated Path · Before Islam, Makkah, died 624 CE · [[#Mentioned in Quran|5 ayaat]]
+>
 > **Also known as:** Abd al-Uzza ibn Abd al-Muttalib, Father of Flame
+>
+> **Themes:** [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/kufr|Kufr]] · [[tags/family|Family & Kinship]] · [[tags/wealth|Wealth & Spending]] · [[tags/jahannam|Jahannam]]
 
 ---
 

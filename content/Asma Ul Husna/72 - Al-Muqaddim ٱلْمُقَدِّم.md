@@ -9,15 +9,20 @@ root_meaning: "To advance, to bring forward, to give priority"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "time", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muqaddim — ٱلْمُقَدِّم
-### The Expediter · The Bringer Forward
-#### آگے کرنے والا
 
-> **Root:** ق-د-م — To advance, to bring forward, to give priority
+**The Expediter · The Bringer Forward**
+
+آگے کرنے والا
+
+> Name 72 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** ق-د-م · To advance, to bring forward, to give priority
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/time|Time]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

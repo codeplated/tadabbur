@@ -9,15 +9,20 @@ root_meaning: "To turn back, to repent, to accept return"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 11
 tags: ["asma_ul_husna", "tawbah", "rahmah", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # At-Tawwab — ٱلتَّوَّاب
-### The Acceptor of Repentance
-#### توبہ قبول کرنے والا
 
-> **Root:** ت-و-ب — To turn back, to repent, to accept return
+**The Acceptor of Repentance**
+
+توبہ قبول کرنے والا
+
+> Name 81 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 11 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 11 times
+> **Root:** ت-و-ب · To turn back, to repent, to accept return
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawbah|Tawbah]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

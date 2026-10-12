@@ -9,15 +9,20 @@ root_meaning: "To give shape and form"
 category: "Names of Creation"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "human_creation", "nature_signs"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Musawwir — ٱلْمُصَوِّر
-### The Fashioner of Forms
-#### صورت بنانے والا
 
-> **Root:** ص-و-ر — To give shape and form
+**The Fashioner of Forms**
+
+صورت بنانے والا
+
+> Name 14 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: 1 time
 >
-> **Category:** Names of Creation · **In the Quran:** 1 time
+> **Root:** ص-و-ر · To give shape and form
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/human_creation|Creation of Mankind]] · [[tags/nature_signs|Signs in Creation]]
 
 ---
 

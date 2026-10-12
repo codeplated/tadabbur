@@ -4,14 +4,19 @@ name: "Mikael (Michael) / مِيكَائِيل / میکائیل علیہ الس�
 type: Angel
 path: Straight Path
 era: "From creation to its end"
-order: 27
 tags: ["angels", "rizq", "nature_signs"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Mikael (Michael) — مِيكَائِيل
-### میکائیل علیہ السلام
 
+میکائیل علیہ السلام
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · From creation to its end · [[#Mentioned in Quran|1 ayah]]
+>
 > **Also known as:** Michael, Angel of Provision
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/rizq|Rizq]] · [[tags/nature_signs|Signs in Creation]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "To overpower completely, to subdue utterly"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 6
 tags: ["asma_ul_husna", "tawheed", "oppression", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Qahhar — ٱلْقَهَّار
-### The Subduer · The Dominant
-#### زبردست غالب
 
-> **Root:** ق-ه-ر — To overpower completely, to subdue utterly
+**The Subduer · The Dominant**
+
+زبردست غالب
+
+> Name 16 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 6 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 6 times
+> **Root:** ق-ه-ر · To overpower completely, to subdue utterly
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/oppression|Oppression]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

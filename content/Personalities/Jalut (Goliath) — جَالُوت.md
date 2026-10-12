@@ -4,14 +4,19 @@ name: "Jalut (Goliath) / جَالُوت / جالوت"
 type: Person
 path: Deviated Path
 era: "Ancient Palestine, time of Dawud"
-order: 66
 tags: ["story_bani_israil", "story_dawud", "conflict", "oppression"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Jalut (Goliath) — جَالُوت
-### جالوت
 
+جالوت
+
+> [[Personalities/index#People|Person]] · Deviated Path · Ancient Palestine, time of Dawud · [[#Mentioned in Quran|3 ayaat]]
+>
 > **Also known as:** Goliath
+>
+> **Themes:** [[tags/story_bani_israil|Bani Israil]] · [[tags/story_dawud|Prophet Dawud]] · [[tags/conflict|War, Ethics & Peace]] · [[tags/oppression|Oppression]]
 
 ---
 

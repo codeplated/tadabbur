@@ -9,15 +9,20 @@ root_meaning: "Light, illumination, guidance"
 category: "Names of Knowledge"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "hidayah", "iman", "revelation"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # An-Nur — ٱلنُّور
-### The Light
-#### نور
 
-> **Root:** ن-و-ر — Light, illumination, guidance
+**The Light**
+
+نور
+
+> Name 94 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 1 time
 >
-> **Category:** Names of Knowledge · **In the Quran:** 1 time
+> **Root:** ن-و-ر · Light, illumination, guidance
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/hidayah|Guidance]] · [[tags/iman|Iman]] · [[tags/revelation|Revelation]]
 
 ---
 

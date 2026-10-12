@@ -4,14 +4,19 @@ name: "People of Thamud / قَوْم ثَمُود / قوم ثمود"
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Arabia, post-Hud era"
-order: 71
 tags: ["story_salih", "kufr", "miracles", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # People of Thamud — قَوْم ثَمُود
-### قوم ثمود
 
+قوم ثمود
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Ancient Arabia, post-Hud era · [[#Mentioned in Quran|35 ayaat]]
+>
 > **Also known as:** Thamud
+>
+> **Themes:** [[tags/story_salih|Prophet Salih]] · [[tags/kufr|Kufr]] · [[tags/miracles|Miracles]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

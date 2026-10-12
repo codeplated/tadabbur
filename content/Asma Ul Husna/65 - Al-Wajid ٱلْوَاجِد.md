@@ -9,15 +9,20 @@ root_meaning: "To find, to perceive, to have in abundance"
 category: "Names of Knowledge"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "rizq", "knowledge", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wajid — ٱلْوَاجِد
-### The Finder · The Resourceful
-#### پانے والا
 
-> **Root:** و-ج-د — To find, to perceive, to have in abundance
+**The Finder · The Resourceful**
+
+پانے والا
+
+> Name 65 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: not in this form
 >
-> **Category:** Names of Knowledge · **In the Quran:** not in this form
+> **Root:** و-ج-د · To find, to perceive, to have in abundance
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

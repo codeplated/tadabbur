@@ -4,14 +4,19 @@ name: "Son of Nuh (Kan'an) / ابن نوح / نوح کا بیٹا"
 type: Person
 path: Deviated Path
 era: "Time of Nuh, the flood"
-order: 43
 tags: ["story_nuh", "family", "kufr", "kibr", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Son of Nuh (Kan'an) — ابن نوح
-### نوح کا بیٹا
 
+نوح کا بیٹا
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Nuh, the flood · [[#Mentioned in Quran|5 ayaat]]
+>
 > **Also known as:** Kan'an (according to some traditions)
+>
+> **Themes:** [[tags/story_nuh|Prophet Nuh]] · [[tags/family|Family & Kinship]] · [[tags/kufr|Kufr]] · [[tags/kibr|Arrogance & Humility]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

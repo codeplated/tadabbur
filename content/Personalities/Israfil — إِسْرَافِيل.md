@@ -4,14 +4,19 @@ name: "Israfil / إِسْرَافِيل / اسرافیل علیہ السلام"
 type: Angel
 path: Straight Path
 era: "From creation, will act at the end of time"
-order: 28
 tags: ["angels", "resurrection", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Israfil — إِسْرَافِيل
-### اسرافیل علیہ السلام
 
+اسرافیل علیہ السلام
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · From creation, will act at the end of time · [[#Mentioned in Quran|16 ayaat]]
+>
 > **Also known as:** Angel of the Trumpet
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/resurrection|Resurrection]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

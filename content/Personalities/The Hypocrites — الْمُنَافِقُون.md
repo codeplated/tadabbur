@@ -4,14 +4,19 @@ name: "The Hypocrites / الْمُنَافِقُون / منافقین"
 type: Group / Nation
 path: Deviated Path
 era: "Madinah period of early Islam"
-order: 77
 tags: ["nifaq", "jahannam", "story_muhammad", "battle_uhud", "battle_ahzab", "expedition_tabuk"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # The Hypocrites — الْمُنَافِقُون
-### منافقین
 
+منافقین
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Madinah period of early Islam · [[#Mentioned in Quran|51 ayaat]]
+>
 > **Also known as:** The Hypocrites, Those with two faces
+>
+> **Themes:** [[tags/nifaq|Nifaq]] · [[tags/jahannam|Jahannam]] · [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/battle_uhud|Battle of Uhud]] · [[tags/battle_ahzab|Battle of the Trench]] · [[tags/expedition_tabuk|Expedition of Tabuk]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Brothers of Yusuf / أبناء يعقوب / یوسف کے بھائی"
 type: Group / Nation
 path: Mixed — Erred, Repented, or Complex
 era: "Time of Yusuf, Canaan and Egypt"
-order: 68
 tags: ["story_yusuf", "family", "hasad", "amanah", "tawbah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Brothers of Yusuf — أبناء يعقوب
-### یوسف کے بھائی
 
+یوسف کے بھائی
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Mixed Path · Time of Yusuf, Canaan and Egypt · [[#Mentioned in Quran|42 ayaat]]
+>
 > **Also known as:** Sons of Jacob, The Twelve Tribes (ancestors of)
+>
+> **Themes:** [[tags/story_yusuf|Prophet Yusuf]] · [[tags/family|Family & Kinship]] · [[tags/hasad|Hasad]] · [[tags/amanah|Amanah & Promises]] · [[tags/tawbah|Tawbah]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Wife of Nuh / امرأة نوح / نوح کی بیوی"
 type: Person
 path: Deviated Path
 era: "Time of Nuh"
-order: 42
 tags: ["story_nuh", "women", "family", "kufr", "amanah", "warnings", "parables"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Wife of Nuh — امرأة نوح
-### نوح کی بیوی
 
+نوح کی بیوی
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Nuh · [[#Mentioned in Quran|2 ayaat]]
+>
 > **Also known as:** Waila (according to some traditions)
+>
+> **Themes:** [[tags/story_nuh|Prophet Nuh]] · [[tags/women|Women]] · [[tags/family|Family & Kinship]] · [[tags/kufr|Kufr]] · [[tags/amanah|Amanah & Promises]] · [[tags/warnings|Warnings]] · [[tags/parables|Parables & Amthal]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "To govern, to administer, to be in charge"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "leadership", "tawakkul", "qadr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wali — ٱلْوَالِي
-### The Governor · The Ruler
-#### حاکم
 
-> **Root:** و-ل-ي — To govern, to administer, to be in charge
+**The Governor · The Ruler**
+
+حاکم
+
+> Name 78 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** و-ل-ي · To govern, to administer, to be in charge
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/leadership|Leadership & Authority]] · [[tags/tawakkul|Tawakkul]] · [[tags/qadr|Qadr]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "To reckon, to count, to be sufficient"
 category: "Names of Justice"
 quran_occurrences: 3
 tags: ["asma_ul_husna", "tawakkul", "akhirah", "adl"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hasib — ٱلْحَسِيب
-### The Reckoner · The Sufficient
-#### حساب لینے والا · کافی
 
-> **Root:** ح-س-ب — To reckon, to count, to be sufficient
+**The Reckoner · The Sufficient**
+
+حساب لینے والا، کافی
+
+> Name 41 of 99 · [[Asma Ul Husna/index#Justice|Names of Justice]] · In the Quran: 3 times
 >
-> **Category:** Names of Justice · **In the Quran:** 3 times
+> **Root:** ح-س-ب · To reckon, to count, to be sufficient
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/adl|Adl]]
 
 ---
 

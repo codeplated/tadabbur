@@ -9,15 +9,20 @@ root_meaning: "Firmness, solidity, unshakeable strength"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Matin — ٱلْمَتِين
-### The Firm · The Steadfast
-#### مضبوط
 
-> **Root:** م-ت-ن — Firmness, solidity, unshakeable strength
+**The Firm · The Steadfast**
+
+مضبوط
+
+> Name 55 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** م-ت-ن · Firmness, solidity, unshakeable strength
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

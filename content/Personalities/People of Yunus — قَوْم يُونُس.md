@@ -4,14 +4,19 @@ name: "People of Yunus / قَوْم يُونُس / قوم یونس"
 type: Group / Nation
 path: Straight Path
 era: "Ancient Nineveh (modern Iraq)"
-order: 79
 tags: ["story_yunus", "tawbah", "iman", "rahmah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # People of Yunus — قَوْم يُونُس
-### قوم یونس
 
+قوم یونس
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Straight Path · Ancient Nineveh (modern Iraq) · [[#Mentioned in Quran|3 ayaat]]
+>
 > **Also known as:** People of Nineveh
+>
+> **Themes:** [[tags/story_yunus|Prophet Yunus]] · [[tags/tawbah|Tawbah]] · [[tags/iman|Iman]] · [[tags/rahmah|Mercy & Forgiveness]]
 
 ---
 

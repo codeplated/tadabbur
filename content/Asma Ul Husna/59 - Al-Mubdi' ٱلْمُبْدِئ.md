@@ -9,15 +9,20 @@ root_meaning: "To begin, to start from scratch, unprecedented"
 category: "Names of Creation"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "human_creation", "resurrection", "nature_signs"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mubdi' — ٱلْمُبْدِئ
-### The Originator · The Initiator
-#### شروع کرنے والا
 
-> **Root:** ب-د-أ — To begin, to start from scratch, unprecedented
+**The Originator · The Initiator**
+
+شروع کرنے والا
+
+> Name 59 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: not in this form
 >
-> **Category:** Names of Creation · **In the Quran:** not in this form
+> **Root:** ب-د-أ · To begin, to start from scratch, unprecedented
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/human_creation|Creation of Mankind]] · [[tags/resurrection|Resurrection]] · [[tags/nature_signs|Signs in Creation]]
 
 ---
 

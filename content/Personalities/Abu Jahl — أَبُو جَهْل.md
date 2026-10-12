@@ -4,14 +4,19 @@ name: "Abu Jahl / أَبُو جَهْل / ابو جہل"
 type: Person
 path: Deviated Path
 era: "Makkah, died 624 CE at Battle of Badr"
-order: 60
 tags: ["story_muhammad", "oppression", "kufr", "kibr", "battle_badr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Abu Jahl — أَبُو جَهْل
-### ابو جہل
 
+ابو جہل
+
+> [[Personalities/index#People|Person]] · Deviated Path · Makkah, died 624 CE at Battle of Badr · [[#Mentioned in Quran|10 ayaat]]
+>
 > **Also known as:** Amr ibn Hisham, Father of Ignorance (nickname given by Muslims)
+>
+> **Themes:** [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/oppression|Oppression]] · [[tags/kufr|Kufr]] · [[tags/kibr|Arrogance & Humility]] · [[tags/battle_badr|Battle of Badr]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Wife of Lut / امرأة لوط / لوط کی بیوی"
 type: Person
 path: Deviated Path
 era: "Time of Lut"
-order: 48
 tags: ["story_lut", "women", "family", "kufr", "amanah", "warnings", "parables"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Wife of Lut — امرأة لوط
-### لوط کی بیوی
 
+لوط کی بیوی
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Lut · [[#Mentioned in Quran|9 ayaat]]
+>
 > **Also known as:** Waligha (according to some traditions)
+>
+> **Themes:** [[tags/story_lut|Prophet Lut]] · [[tags/women|Women]] · [[tags/family|Family & Kinship]] · [[tags/kufr|Kufr]] · [[tags/amanah|Amanah & Promises]] · [[tags/warnings|Warnings]] · [[tags/parables|Parables & Amthal]]
 
 ---
 

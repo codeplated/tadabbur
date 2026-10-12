@@ -53,8 +53,7 @@ plugins:
         - socialImage
         - image # and image, which is a path to a card thumbnail, not something
           # a reader needs above the verse on every ayah page
-        - order # a sorting key for the Personalities table
-        - cssclasses # a styling hook (the Themes page), not something to read
+        - cssclasses # says what kind of page a note is; a hook, not something to read
         - description # already the first line under a theme's title
       hidePropertiesView: false
       delimiters: ---
@@ -64,7 +63,7 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-      condition: not-index-or-theme # a theme's page says these in its own head
+      condition: stock-head # a theme's, a person's and a Name's page say these in their own head
 
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
@@ -153,20 +152,21 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
-      condition: not-index-or-theme # the home page and a theme's page have their own H1
+      condition: stock-head # the home page and the pages that draw their own H1 go without
 
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
       position: beforeBody
       priority: 20
-      condition: not-index-or-tags # no reading time on the Themes pages: they are lists
+      condition: reading-time # not on a listing, a theme's page, a person's or a Name's page
 
   - source: "@quartz-community/tag-list"
     enabled: true
     layout:
       position: beforeBody
       priority: 30
+      condition: tag-chips # a person's and a Name's page name their themes in their head
 
   - source: "@quartz-community/page-title"
     enabled: true

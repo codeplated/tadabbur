@@ -4,14 +4,19 @@ name: "Aisha bint Abi Bakr / عَائِشَة / عائشہ رضی اللہ عن�
 type: Companion
 path: Straight Path
 era: "613-678 CE, Makkah and Madinah"
-order: 37
 tags: ["prophets_household", "sahabah", "incident_ifk", "women", "knowledge", "speech_ethics"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Aisha bint Abi Bakr — عَائِشَة
-### عائشہ رضی اللہ عنہا
 
+عائشہ رضی اللہ عنہا
+
+> [[Personalities/index#Companions|Companion]] · Straight Path · 613-678 CE, Makkah and Madinah · [[#Mentioned in Quran|10 ayaat]]
+>
 > **Also known as:** Umm al-Mu'minin (Mother of the Believers), Al-Humayra, Scholar of Islam
+>
+> **Themes:** [[tags/prophets_household|Prophet's Household]] · [[tags/sahabah|Sahabah]] · [[tags/incident_ifk|The Slander (Ifk)]] · [[tags/women|Women]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/speech_ethics|Ethics of Speech]]
 
 ---
 

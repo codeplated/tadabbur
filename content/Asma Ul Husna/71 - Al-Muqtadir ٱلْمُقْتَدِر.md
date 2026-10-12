@@ -9,15 +9,20 @@ root_meaning: "Absolute, complete power that always prevails"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 4
 tags: ["asma_ul_husna", "qadr", "tawakkul", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muqtadir — ٱلْمُقْتَدِر
-### The All-Determining · The Prevailing
-#### غالب قدرت والا
 
-> **Root:** ق-د-ر — Absolute, complete power that always prevails
+**The All-Determining · The Prevailing**
+
+غالب قدرت والا
+
+> Name 71 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 4 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 4 times
+> **Root:** ق-د-ر · Absolute, complete power that always prevails
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/tawakkul|Tawakkul]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

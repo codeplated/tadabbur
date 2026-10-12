@@ -9,15 +9,20 @@ root_meaning: "Exaltation, transcendence, rising above"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "kibr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muta'ali — ٱلْمُتَعَالِي
-### The Most Exalted · The Self-Exalted
-#### بلند تر
 
-> **Root:** ع-ل-و — Exaltation, transcendence, rising above
+**The Most Exalted · The Self-Exalted**
+
+بلند تر
+
+> Name 79 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ع-ل-و · Exaltation, transcendence, rising above
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/kibr|Arrogance & Humility]]
 
 ---
 

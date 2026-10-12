@@ -9,15 +9,20 @@ root_meaning: "Absolute singularity, indivisibility"
 category: "Names of Essential Nature"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "ikhlas"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Ahad — ٱلْأَحَد
-### The Indivisible One
-#### اکیلا · اکلوتا
 
-> **Root:** و-ح-د — Absolute singularity, indivisibility
+**The Indivisible One**
+
+اکیلا، اکلوتا
+
+> Name 68 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 1 time
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 1 time
+> **Root:** و-ح-د · Absolute singularity, indivisibility
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/ikhlas|Ikhlas]]
 
 ---
 

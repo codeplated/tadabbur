@@ -9,15 +9,20 @@ root_meaning: "Goodness, righteousness, wide-open vastness"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "ihsan", "rahmah", "jannah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Barr — ٱلْبَرّ
-### The Source of All Goodness
-#### نیکی کا سرچشمہ
 
-> **Root:** ب-ر-ر — Goodness, righteousness, wide-open vastness
+**The Source of All Goodness**
+
+نیکی کا سرچشمہ
+
+> Name 80 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 1 time
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 1 time
+> **Root:** ب-ر-ر · Goodness, righteousness, wide-open vastness
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/ihsan|Ihsan]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/jannah|Jannah]]
 
 ---
 

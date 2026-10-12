@@ -9,15 +9,20 @@ root_meaning: "Oneness, uniqueness, singleness"
 category: "Names of Essential Nature"
 quran_occurrences: 22
 tags: ["asma_ul_husna", "tawheed", "shirk"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wahid — ٱلْوَاحِد
-### The One · The Unique
-#### یکتا
 
-> **Root:** و-ح-د — Oneness, uniqueness, singleness
+**The One · The Unique**
+
+یکتا
+
+> Name 67 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 22 times
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 22 times
+> **Root:** و-ح-د · Oneness, uniqueness, singleness
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/shirk|Shirk]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Habil (Abel) / هَابِيل / ہابیل"
 type: Person
 path: Straight Path
 era: "First generation of humanity"
-order: 64
 tags: ["story_adam", "taqwa", "hilm", "criminal_law", "family"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Habil (Abel) — هَابِيل
-### ہابیل
 
+ہابیل
+
+> [[Personalities/index#People|Person]] · Straight Path · First generation of humanity · [[#Mentioned in Quran|5 ayaat]]
+>
 > **Also known as:** Abel
+>
+> **Themes:** [[tags/story_adam|Prophet Adam]] · [[tags/taqwa|Taqwa]] · [[tags/hilm|Hilm & Afw]] · [[tags/criminal_law|Crime & Punishment]] · [[tags/family|Family & Kinship]]
 
 ---
 

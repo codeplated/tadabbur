@@ -9,15 +9,20 @@ root_meaning: "To honor, to make mighty"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "qadr", "leadership", "kibr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mu'izz — ٱلْمُعِزّ
-### The Bestower of Honor
-#### عزت دینے والا
 
-> **Root:** ع-ز-ز — To honor, to make mighty
+**The Bestower of Honor**
+
+عزت دینے والا
+
+> Name 25 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ع-ز-ز · To honor, to make mighty
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/leadership|Leadership & Authority]] · [[tags/kibr|Arrogance & Humility]]
 
 ---
 

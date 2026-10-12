@@ -9,15 +9,20 @@ root_meaning: "To acknowledge, to appreciate, to reward abundantly"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 4
 tags: ["asma_ul_husna", "shukr", "hope_raja", "ihsan"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ash-Shakur — ٱلشَّكُور
-### The Appreciative · The Grateful
-#### قدردان
 
-> **Root:** ش-ك-ر — To acknowledge, to appreciate, to reward abundantly
+**The Appreciative · The Grateful**
+
+قدردان
+
+> Name 36 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 4 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 4 times
+> **Root:** ش-ك-ر · To acknowledge, to appreciate, to reward abundantly
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/shukr|Shukr]] · [[tags/hope_raja|Hope & Raja]] · [[tags/ihsan|Ihsan]]
 
 ---
 

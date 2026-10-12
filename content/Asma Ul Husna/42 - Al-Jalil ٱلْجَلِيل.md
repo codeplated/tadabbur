@@ -9,15 +9,20 @@ root_meaning: "Majesty, glory, greatness of status"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "tawheed", "taqwa", "anxiety_fear"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Jalil — ٱلْجَلِيل
-### The Majestic · The Glorious
-#### جلیل القدر
 
-> **Root:** ج-ل-ل — Majesty, glory, greatness of status
+**The Majestic · The Glorious**
+
+جلیل القدر
+
+> Name 42 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 2 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 2 times
+> **Root:** ج-ل-ل · Majesty, glory, greatness of status
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/taqwa|Taqwa]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]]
 
 ---
 

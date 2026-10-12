@@ -4,14 +4,19 @@ name: "Nimrod (Namrud) / النَّمْرُود / نمرود"
 type: Person
 path: Deviated Path
 era: "Time of Ibrahim, ancient Mesopotamia"
-order: 45
 tags: ["story_ibrahim", "oppression", "kibr", "shirk", "leadership"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Nimrod (Namrud) — النَّمْرُود
-### نمرود
 
+نمرود
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Ibrahim, ancient Mesopotamia · [[#Mentioned in Quran|3 ayaat]]
+>
 > **Also known as:** Namrud
+>
+> **Themes:** [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/oppression|Oppression]] · [[tags/kibr|Arrogance & Humility]] · [[tags/shirk|Shirk]] · [[tags/leadership|Leadership & Authority]]
 
 ---
 

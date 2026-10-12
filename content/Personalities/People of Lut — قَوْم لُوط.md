@@ -4,14 +4,19 @@ name: "People of Lut / قَوْم لُوط / قوم لوط"
 type: Group / Nation
 path: Deviated Path
 era: "Time of Ibrahim and Lut"
-order: 72
 tags: ["story_lut", "haya", "kufr", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # People of Lut — قَوْم لُوط
-### قوم لوط
 
+قوم لوط
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Time of Ibrahim and Lut · [[#Mentioned in Quran|27 ayaat]]
+>
 > **Also known as:** Sodom and Gomorrah, Mu'tafikaat
+>
+> **Themes:** [[tags/story_lut|Prophet Lut]] · [[tags/haya|Haya]] · [[tags/kufr|Kufr]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

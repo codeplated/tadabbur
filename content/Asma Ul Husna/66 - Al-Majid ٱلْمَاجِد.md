@@ -9,15 +9,20 @@ root_meaning: "Glory, honor, magnanimity"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "dua", "rizq", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Majid — ٱلْمَاجِد
-### The Glorious · The Noble
-#### بزرگ
 
-> **Root:** م-ج-د — Glory, honor, magnanimity
+**The Glorious · The Noble**
+
+بزرگ
+
+> Name 66 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** م-ج-د · Glory, honor, magnanimity
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dua|Dua]] · [[tags/rizq|Rizq]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

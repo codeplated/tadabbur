@@ -4,14 +4,19 @@ name: "Al-Khidr / الْخَضِر / خضر علیہ السلام"
 type: Person
 path: Straight Path
 era: "Time of Musa (and possibly beyond — debates exist)"
-order: 55
 tags: ["story_musa", "knowledge", "qadr", "rahmah", "sabr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Khidr — الْخَضِر
-### خضر علیہ السلام
 
+خضر علیہ السلام
+
+> [[Personalities/index#People|Person]] · Straight Path · Time of Musa (and possibly beyond — debates exist) · [[#Mentioned in Quran|18 ayaat]]
+>
 > **Also known as:** Al-Khadir, The Green One
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/qadr|Qadr]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/sabr|Sabr]]
 
 ---
 

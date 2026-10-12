@@ -4,14 +4,19 @@ name: "Hawwa (Eve) / حَوَّاء / حوا علیہا السلام"
 type: Person
 path: Straight Path
 era: "Beginning of humanity"
-order: 41
 tags: ["story_adam", "women", "human_creation", "marriage", "family", "tawbah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Hawwa (Eve) — حَوَّاء
-### حوا علیہا السلام
 
+حوا علیہا السلام
+
+> [[Personalities/index#People|Person]] · Straight Path · Beginning of humanity · [[#Mentioned in Quran|9 ayaat]]
+>
 > **Also known as:** Eve, Mother of Humanity
+>
+> **Themes:** [[tags/story_adam|Prophet Adam]] · [[tags/women|Women]] · [[tags/human_creation|Creation of Mankind]] · [[tags/marriage|Marriage & Nikah]] · [[tags/family|Family & Kinship]] · [[tags/tawbah|Tawbah]]
 
 ---
 

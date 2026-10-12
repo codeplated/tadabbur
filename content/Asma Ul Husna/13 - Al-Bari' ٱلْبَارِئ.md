@@ -9,15 +9,20 @@ root_meaning: "To bring into existence distinct from all else"
 category: "Names of Creation"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "human_creation", "nature_signs"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Bari' — ٱلْبَارِئ
-### The Originator · The Evolver
-#### بنانے والا
 
-> **Root:** ب-ر-أ — To bring into existence distinct from all else
+**The Originator · The Evolver**
+
+بنانے والا
+
+> Name 13 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: 2 times
 >
-> **Category:** Names of Creation · **In the Quran:** 2 times
+> **Root:** ب-ر-أ · To bring into existence distinct from all else
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/human_creation|Creation of Mankind]] · [[tags/nature_signs|Signs in Creation]]
 
 ---
 

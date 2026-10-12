@@ -9,15 +9,20 @@ root_meaning: "To avenge, to punish, to exact retribution"
 category: "Names of Justice"
 quran_occurrences: 3
 tags: ["asma_ul_husna", "adl", "oppression", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muntaqim — ٱلْمُنْتَقِم
-### The Avenger · The Retributor
-#### انتقام لینے والا
 
-> **Root:** ن-ق-م — To avenge, to punish, to exact retribution
+**The Avenger · The Retributor**
+
+انتقام لینے والا
+
+> Name 82 of 99 · [[Asma Ul Husna/index#Justice|Names of Justice]] · In the Quran: 3 times
 >
-> **Category:** Names of Justice · **In the Quran:** 3 times
+> **Root:** ن-ق-م · To avenge, to punish, to exact retribution
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/adl|Adl]] · [[tags/oppression|Oppression]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

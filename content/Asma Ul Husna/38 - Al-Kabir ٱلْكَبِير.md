@@ -9,15 +9,20 @@ root_meaning: "Greatness in dignity and magnitude"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 6
 tags: ["asma_ul_husna", "kibr", "salah", "dhikr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Kabir — ٱلْكَبِير
-### The Great
-#### بڑا
 
-> **Root:** ك-ب-ر — Greatness in dignity and magnitude
+**The Great**
+
+بڑا
+
+> Name 38 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 6 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 6 times
+> **Root:** ك-ب-ر · Greatness in dignity and magnitude
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/kibr|Arrogance & Humility]] · [[tags/salah|Salah]] · [[tags/dhikr|Dhikr & Tasbih]]
 
 ---
 

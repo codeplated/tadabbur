@@ -9,15 +9,20 @@ root_meaning: "Life, vitality, to enliven"
 category: "Names of Creation"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "resurrection", "nature_signs", "death_reminder"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muhyi — ٱلْمُحْيِي
-### The Giver of Life
-#### زندگی دینے والا
 
-> **Root:** ح-ي-و — Life, vitality, to enliven
+**The Giver of Life**
+
+زندگی دینے والا
+
+> Name 61 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: not in this form
 >
-> **Category:** Names of Creation · **In the Quran:** not in this form
+> **Root:** ح-ي-و · Life, vitality, to enliven
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/resurrection|Resurrection]] · [[tags/nature_signs|Signs in Creation]] · [[tags/death_reminder|Death & the Grave]]
 
 ---
 

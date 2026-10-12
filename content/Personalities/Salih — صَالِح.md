@@ -4,14 +4,17 @@ name: "Salih / صَالِح / صالح علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Arabia — sent to the people of Thamud"
-order: 4
 tags: ["story_salih", "prophethood", "dawah", "miracles", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Salih — صَالِح
-### صالح علیہ السلام
 
-> **Also known as:** —
+صالح علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Arabia — sent to the people of Thamud · [[#Mentioned in Quran|56 ayaat]]
+>
+> **Themes:** [[tags/story_salih|Prophet Salih]] · [[tags/prophethood|Prophethood]] · [[tags/dawah|Da'wah]] · [[tags/miracles|Miracles]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Ishaq (Isaac) / إِسْحَاق / اسحاق علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Time of Ibrahim and beyond"
-order: 8
 tags: ["story_ishaq", "story_ibrahim", "prophethood", "family", "miracles", "glad_tidings"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ishaq (Isaac) — إِسْحَاق
-### اسحاق علیہ السلام
 
+اسحاق علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Time of Ibrahim and beyond · [[#Mentioned in Quran|16 ayaat]]
+>
 > **Also known as:** Isaac
+>
+> **Themes:** [[tags/story_ishaq|Prophet Ishaq]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/prophethood|Prophethood]] · [[tags/family|Family & Kinship]] · [[tags/miracles|Miracles]] · [[tags/glad_tidings|Glad Tidings]]
 
 ---
 

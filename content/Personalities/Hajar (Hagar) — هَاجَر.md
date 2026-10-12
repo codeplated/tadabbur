@@ -4,14 +4,19 @@ name: "Hajar (Hagar) / هَاجَر / ہاجرہ علیہا السلام"
 type: Person
 path: Straight Path
 era: "Time of Ibrahim, ancient Makkah"
-order: 46
 tags: ["story_ismail", "story_ibrahim", "women", "tawakkul", "hajj", "kaaba"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Hajar (Hagar) — هَاجَر
-### ہاجرہ علیہا السلام
 
+ہاجرہ علیہا السلام
+
+> [[Personalities/index#People|Person]] · Straight Path · Time of Ibrahim, ancient Makkah · [[#Mentioned in Quran|2 ayaat]]
+>
 > **Also known as:** Hagar
+>
+> **Themes:** [[tags/story_ismail|Prophet Ismail]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/women|Women]] · [[tags/tawakkul|Tawakkul]] · [[tags/hajj|Hajj & Umrah]] · [[tags/kaaba|Kaaba & Qiblah]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "Knowledge, awareness, certainty"
 category: "Names of Knowledge"
 quran_occurrences: 157
 tags: ["asma_ul_husna", "knowledge", "qadr", "taqwa"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Alim — ٱلْعَلِيم
-### The All-Knowing
-#### سب کچھ جاننے والا
 
-> **Root:** ع-ل-م — Knowledge, awareness, certainty
+**The All-Knowing**
+
+سب کچھ جاننے والا
+
+> Name 20 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 157 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 157 times
+> **Root:** ع-ل-م · Knowledge, awareness, certainty
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/qadr|Qadr]] · [[tags/taqwa|Taqwa]]
 
 ---
 

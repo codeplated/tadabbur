@@ -9,15 +9,20 @@ root_meaning: "Womb-like tenderness, encompassing mercy"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 57
 tags: ["asma_ul_husna", "rahmah", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Rahman — ٱلرَّحْمَـٰن
-### The Most Gracious
-#### بے حد رحم کرنے والا
 
-> **Root:** ر-ح-م — Womb-like tenderness, encompassing mercy
+**The Most Gracious**
+
+بے حد رحم کرنے والا
+
+> Name 2 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 57 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 57 times
+> **Root:** ر-ح-م · Womb-like tenderness, encompassing mercy
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

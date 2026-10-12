@@ -9,15 +9,20 @@ root_meaning: "Righteousness, right guidance, wisdom in directing"
 category: "Names of Knowledge"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "hidayah", "dua"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Rashid — ٱلرَّشِيد
-### The Guide to the Right Path
-#### راہنما
 
-> **Root:** ر-ش-د — Righteousness, right guidance, wisdom in directing
+**The Guide to the Right Path**
+
+راہنما
+
+> Name 99 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: not in this form
 >
-> **Category:** Names of Knowledge · **In the Quran:** not in this form
+> **Root:** ر-ش-د · Righteousness, right guidance, wisdom in directing
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/hidayah|Guidance]] · [[tags/dua|Dua]]
 
 ---
 

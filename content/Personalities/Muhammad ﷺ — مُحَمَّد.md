@@ -4,14 +4,19 @@ name: "Muhammad ﷺ / مُحَمَّد / محمد ﷺ"
 type: Prophet / Messenger
 path: Straight Path
 era: "570-632 CE, Makkah and Madinah"
-order: 25
 tags: ["story_muhammad", "prophethood", "revelation", "rahmah", "ihsan", "love_of_allah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Muhammad ﷺ — مُحَمَّد
-### محمد ﷺ
 
+محمد ﷺ
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · 570-632 CE, Makkah and Madinah · [[#Mentioned in Quran|5 ayaat]]
+>
 > **Also known as:** Ahmad, Mustafa, Al-Amin, Khatam al-Nabiyyin (Seal of Prophets), Rahmatan lil-Alamin (Mercy to all worlds)
+>
+> **Themes:** [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/prophethood|Prophethood]] · [[tags/revelation|Revelation]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/ihsan|Ihsan]] · [[tags/love_of_allah|Love of Allah]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "To create in a completely unprecedented way"
 category: "Names of Creation"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "nature_signs", "tawheed"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Badi' — ٱلْبَدِيع
-### The Incomparable Originator
-#### انوکھا بنانے والا
 
-> **Root:** ب-د-ع — To create in a completely unprecedented way
+**The Incomparable Originator**
+
+انوکھا بنانے والا
+
+> Name 96 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: 2 times
 >
-> **Category:** Names of Creation · **In the Quran:** 2 times
+> **Root:** ب-د-ع · To create in a completely unprecedented way
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/nature_signs|Signs in Creation]] · [[tags/tawheed|Tawheed]]
 
 ---
 

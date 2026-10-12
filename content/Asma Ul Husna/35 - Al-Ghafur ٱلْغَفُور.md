@@ -9,15 +9,20 @@ root_meaning: "To cover over, to protect with forgiveness"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 91
 tags: ["asma_ul_husna", "rahmah", "tawbah", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Ghafur — ٱلْغَفُور
-### The Most Forgiving
-#### بہت بخشنے والا
 
-> **Root:** غ-ف-ر — To cover over, to protect with forgiveness
+**The Most Forgiving**
+
+بہت بخشنے والا
+
+> Name 35 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 91 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 91 times
+> **Root:** غ-ف-ر · To cover over, to protect with forgiveness
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/tawbah|Tawbah]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

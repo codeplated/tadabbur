@@ -4,14 +4,19 @@ name: "Talut (Saul) / طَالُوت / طالوت"
 type: Person
 path: Straight Path
 era: "Ancient Palestine, before Dawud"
-order: 67
 tags: ["story_bani_israil", "leadership", "trial_test", "iman", "conflict", "sabr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Talut (Saul) — طَالُوت
-### طالوت
 
+طالوت
+
+> [[Personalities/index#People|Person]] · Straight Path · Ancient Palestine, before Dawud · [[#Mentioned in Quran|5 ayaat]]
+>
 > **Also known as:** Saul, King of Bani Israel
+>
+> **Themes:** [[tags/story_bani_israil|Bani Israil]] · [[tags/leadership|Leadership & Authority]] · [[tags/trial_test|Trials & Tests]] · [[tags/iman|Iman]] · [[tags/conflict|War, Ethics & Peace]] · [[tags/sabr|Sabr]]
 
 ---
 

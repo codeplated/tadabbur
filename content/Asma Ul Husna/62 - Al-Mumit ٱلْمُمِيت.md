@@ -9,15 +9,20 @@ root_meaning: "Death, to cause to die"
 category: "Names of the Hereafter"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "death_reminder", "qadr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mumit — ٱلْمُمِيت
-### The Taker of Life · The Giver of Death
-#### موت دینے والا
 
-> **Root:** م-و-ت — Death, to cause to die
+**The Taker of Life · The Giver of Death**
+
+موت دینے والا
+
+> Name 62 of 99 · [[Asma Ul Husna/index#The Hereafter|Names of the Hereafter]] · In the Quran: not in this form
 >
-> **Category:** Names of the Hereafter · **In the Quran:** not in this form
+> **Root:** م-و-ت · Death, to cause to die
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/death_reminder|Death & the Grave]] · [[tags/qadr|Qadr]]
 
 ---
 

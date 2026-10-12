@@ -9,15 +9,20 @@ root_meaning: "To lower, to abase, to humble"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "kibr", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Khafid — ٱلْخَافِض
-### The Reducer · The Abaser
-#### پست کرنے والا
 
-> **Root:** خ-ف-ض — To lower, to abase, to humble
+**The Reducer · The Abaser**
+
+پست کرنے والا
+
+> Name 23 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** خ-ف-ض · To lower, to abase, to humble
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/kibr|Arrogance & Humility]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

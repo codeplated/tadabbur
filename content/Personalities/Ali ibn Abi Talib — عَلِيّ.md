@@ -4,14 +4,19 @@ name: "Ali ibn Abi Talib / عَلِيّ / علی ابن ابی طالب رضی �
 type: Companion
 path: Straight Path
 era: "600-661 CE, Makkah, Madinah, Kufa"
-order: 36
 tags: ["sahabah", "prophets_household", "ihsan", "zakat", "hijrah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ali ibn Abi Talib — عَلِيّ
-### علی ابن ابی طالب رضی اللہ عنہ
 
+علی ابن ابی طالب رضی اللہ عنہ
+
+> [[Personalities/index#Companions|Companion]] · Straight Path · 600-661 CE, Makkah, Madinah, Kufa · [[#Mentioned in Quran|5 ayaat]]
+>
 > **Also known as:** Abu al-Hasan, Al-Murtada, Asadullah (Lion of Allah)
+>
+> **Themes:** [[tags/sahabah|Sahabah]] · [[tags/prophets_household|Prophet's Household]] · [[tags/ihsan|Ihsan]] · [[tags/zakat|Zakat & Sadaqah]] · [[tags/hijrah|Hijrah]]
 
 ---
 

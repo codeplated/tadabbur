@@ -9,15 +9,20 @@ root_meaning: "To hear, to listen, to respond"
 category: "Names of Knowledge"
 quran_occurrences: 45
 tags: ["asma_ul_husna", "dua", "speech_ethics"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # As-Sami' — ٱلسَّمِيع
-### The All-Hearing
-#### سننے والا
 
-> **Root:** س-م-ع — To hear, to listen, to respond
+**The All-Hearing**
+
+سننے والا
+
+> Name 27 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 45 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 45 times
+> **Root:** س-م-ع · To hear, to listen, to respond
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dua|Dua]] · [[tags/speech_ethics|Ethics of Speech]]
 
 ---
 

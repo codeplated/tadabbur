@@ -4,14 +4,19 @@ name: "Zayd ibn Harithah / زَيْد / زید ابن حارثہ رضی اللہ
 type: Companion
 path: Straight Path
 era: "610-629 CE, Arabia"
-order: 40
 tags: ["sahabah", "family", "marriage", "divorce", "prophets_household"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Zayd ibn Harithah — زَيْد
-### زید ابن حارثہ رضی اللہ عنہ
 
+زید ابن حارثہ رضی اللہ عنہ
+
+> [[Personalities/index#Companions|Companion]] · Straight Path · 610-629 CE, Arabia · [[#Mentioned in Quran|1 ayah]]
+>
 > **Also known as:** Zayd ibn Muhammad (before ruling), The only companion named in the Quran
+>
+> **Themes:** [[tags/sahabah|Sahabah]] · [[tags/family|Family & Kinship]] · [[tags/marriage|Marriage & Nikah]] · [[tags/divorce|Divorce & Iddah]] · [[tags/prophets_household|Prophet's Household]]
 
 ---
 

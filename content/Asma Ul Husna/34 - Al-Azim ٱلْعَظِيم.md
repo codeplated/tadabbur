@@ -9,15 +9,20 @@ root_meaning: "Greatness in magnitude beyond comprehension"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 9
 tags: ["asma_ul_husna", "tawheed", "kibr", "dhikr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Azim — ٱلْعَظِيم
-### The Magnificent · The Tremendous
-#### عظیم
 
-> **Root:** ع-ظ-م — Greatness in magnitude beyond comprehension
+**The Magnificent · The Tremendous**
+
+عظیم
+
+> Name 34 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 9 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 9 times
+> **Root:** ع-ظ-م · Greatness in magnitude beyond comprehension
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/kibr|Arrogance & Humility]] · [[tags/dhikr|Dhikr & Tasbih]]
 
 ---
 

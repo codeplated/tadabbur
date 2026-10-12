@@ -9,15 +9,20 @@ root_meaning: "To delay, to defer, to put back"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "time", "tawbah", "sabr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mu'akhkhir — ٱلْمُؤَخِّر
-### The Delayer · The Retarder
-#### پیچھے کرنے والا
 
-> **Root:** أ-خ-ر — To delay, to defer, to put back
+**The Delayer · The Retarder**
+
+پیچھے کرنے والا
+
+> Name 73 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** أ-خ-ر · To delay, to defer, to put back
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/time|Time]] · [[tags/tawbah|Tawbah]] · [[tags/sabr|Sabr]]
 
 ---
 

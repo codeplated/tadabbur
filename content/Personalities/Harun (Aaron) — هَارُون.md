@@ -4,14 +4,19 @@ name: "Harun (Aaron) / هَارُون / ہارون علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Same as Musa, Egypt and Sinai"
-order: 13
 tags: ["story_harun", "story_musa", "prophethood", "family", "leadership", "story_bani_israil"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Harun (Aaron) — هَارُون
-### ہارون علیہ السلام
 
+ہارون علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Same as Musa, Egypt and Sinai · [[#Mentioned in Quran|36 ayaat]]
+>
 > **Also known as:** Aaron
+>
+> **Themes:** [[tags/story_harun|Prophet Harun]] · [[tags/story_musa|Prophet Musa]] · [[tags/prophethood|Prophethood]] · [[tags/family|Family & Kinship]] · [[tags/leadership|Leadership & Authority]] · [[tags/story_bani_israil|Bani Israil]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "Guidance, to lead to the right path"
 category: "Names of Knowledge"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "hidayah", "dua"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hadi — ٱلْهَادِي
-### The Guide
-#### ہدایت دینے والا
 
-> **Root:** ه-د-و — Guidance, to lead to the right path
+**The Guide**
+
+ہدایت دینے والا
+
+> Name 95 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 1 time
 >
-> **Category:** Names of Knowledge · **In the Quran:** 1 time
+> **Root:** ه-د-و · Guidance, to lead to the right path
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/hidayah|Guidance]] · [[tags/dua|Dua]]
 
 ---
 

@@ -1,63 +1,107 @@
 ---
 title: Personalities
+cssclasses: [index-page, people-index]
 ---
-The 79 prophets, angels, companions, groups and other figures the Quran speaks about. Choose a path to narrow the list, or click a column heading to sort by it.
+The 79 prophets, angels, companions, groups and other figures the Quran speaks about. Open one for its story, its lessons and the ayaat that mention it.
 
-```base
-filters:
-  and:
-    - file.hasProperty("path")
-    - file.hasProperty("era")
-views:
-  - type: table
-    name: All
-    groupBy:
-      property: note.type
-      direction: ASC
-    order:
-      - file.name
-      - note.path
-      - note.era
-    sort:
-      - property: note.order
-        direction: ASC
-  - type: table
-    name: Straight Path
-    filters:
-      and:
-        - note.path == "Straight Path"
-    order:
-      - file.name
-      - note.type
-      - note.era
-    sort:
-      - property: note.order
-        direction: ASC
-  - type: table
-    name: Mixed Path
-    filters:
-      and:
-        - note.path == "Mixed — Erred, Repented, or Complex"
-    order:
-      - file.name
-      - note.type
-      - note.era
-    sort:
-      - property: note.order
-        direction: ASC
-  - type: table
-    name: Deviated Path
-    filters:
-      and:
-        - note.path == "Deviated Path"
-    order:
-      - file.name
-      - note.type
-      - note.era
-    sort:
-      - property: note.order
-        direction: ASC
-```
+## Prophets and Messengers
+
+- [[Adam — آدَم|Adam]] <span lang="ar">آدَم</span> <span class="count">21 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Beginning of humanity · <span lang="ur">آدم علیہ السلام</span></small>
+- [[Nuh (Noah) — نُوح|Nuh (Noah)]] <span lang="ar">نُوح</span> <span class="count">96 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Early human history, pre-Ibrahim · <span lang="ur">نوح علیہ السلام</span></small>
+- [[Hud — هُود|Hud]] <span lang="ar">هُود</span> <span class="count">43 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Arabia — sent to the people of Aad · <span lang="ur">ہود علیہ السلام</span></small>
+- [[Salih — صَالِح|Salih]] <span lang="ar">صَالِح</span> <span class="count">56 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Arabia — sent to the people of Thamud · <span lang="ur">صالح علیہ السلام</span></small>
+- [[Ibrahim (Abraham) — إِبْرَاهِيم|Ibrahim (Abraham)]] <span lang="ar">إِبْرَاهِيم</span> <span class="count">169 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Approximately 2000 BCE, Mesopotamia and Arabia · <span lang="ur">ابراہیم علیہ السلام</span></small>
+- [[Ismail (Ishmael) — إِسْمَاعِيل|Ismail (Ishmael)]] <span lang="ar">إِسْمَاعِيل</span> <span class="count">18 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Ibrahim, ancient Makkah · <span lang="ur">اسماعیل علیہ السلام</span></small>
+- [[Lut (Lot) — لُوط|Lut (Lot)]] <span lang="ar">لُوط</span> <span class="count">78 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Ibrahim; the cities of Sodom and Gomorrah · <span lang="ur">لوط علیہ السلام</span></small>
+- [[Ishaq (Isaac) — إِسْحَاق|Ishaq (Isaac)]] <span lang="ar">إِسْحَاق</span> <span class="count">16 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Ibrahim and beyond · <span lang="ur">اسحاق علیہ السلام</span></small>
+- [[Yaqub (Jacob) — يَعْقُوب|Yaqub (Jacob)]] <span lang="ar">يَعْقُوب</span> <span class="count">43 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Patriarch era, Canaan · <span lang="ur">یعقوب علیہ السلام</span></small>
+- [[Yusuf (Joseph) — يُوسُف|Yusuf (Joseph)]] <span lang="ar">يُوسُف</span> <span class="count">100 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Patriarch era, Canaan and Egypt · <span lang="ur">یوسف علیہ السلام</span></small>
+- [[Shuayb (Jethro) — شُعَيْب|Shuayb (Jethro)]] <span lang="ar">شُعَيْب</span> <span class="count">39 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Midian and Aykah, time overlapping with Musa · <span lang="ur">شعیب علیہ السلام</span></small>
+- [[Musa (Moses) — مُوسَى|Musa (Moses)]] <span lang="ar">مُوسَى</span> <span class="count">367 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Egypt, Sinai, approximately 1300 BCE · <span lang="ur">موسیٰ علیہ السلام</span></small>
+- [[Harun (Aaron) — هَارُون|Harun (Aaron)]] <span lang="ar">هَارُون</span> <span class="count">36 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Same as Musa, Egypt and Sinai · <span lang="ur">ہارون علیہ السلام</span></small>
+- [[Dawud (David) — دَاوُود|Dawud (David)]] <span lang="ar">دَاوُود</span> <span class="count">23 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Palestine, approximately 1000 BCE · <span lang="ur">داؤد علیہ السلام</span></small>
+- [[Sulayman (Solomon) — سُلَيْمَان|Sulayman (Solomon)]] <span lang="ar">سُلَيْمَان</span> <span class="count">54 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Palestine, approximately 950 BCE · <span lang="ur">سلیمان علیہ السلام</span></small>
+- [[Ayyub (Job) — أَيُّوب|Ayyub (Job)]] <span lang="ar">أَيُّوب</span> <span class="count">8 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Levant region · <span lang="ur">ایوب علیہ السلام</span></small>
+- [[Yunus (Jonah) — يُونُس|Yunus (Jonah)]] <span lang="ar">يُونُس</span> <span class="count">18 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Nineveh (modern Iraq area) · <span lang="ur">یونس علیہ السلام</span></small>
+- [[Ilyas (Elijah) — إِلْيَاس|Ilyas (Elijah)]] <span lang="ar">إِلْيَاس</span> <span class="count">9 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Levant · <span lang="ur">الیاس علیہ السلام</span></small>
+- [[Al-Yasa' (Elisha) — الْيَسَع|Al-Yasa' (Elisha)]] <span lang="ar">الْيَسَع</span> <span class="count">2 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Levant, successor of Ilyas · <span lang="ur">یسع علیہ السلام</span></small>
+- [[Dhul-Kifl — ذُو الْكِفْل|Dhul-Kifl]] <span lang="ar">ذُو الْكِفْل</span> <span class="count">3 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Levant · <span lang="ur">ذوالکفل علیہ السلام</span></small>
+- [[Idris (Enoch) — إِدْرِيس|Idris (Enoch)]] <span lang="ar">إِدْرِيس</span> <span class="count">4 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Very early human history, before Nuh by some accounts · <span lang="ur">ادریس علیہ السلام</span></small>
+- [[Isa (Jesus) — عِيسَى|Isa (Jesus)]] <span lang="ar">عِيسَى</span> <span class="count">64 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman-era Palestine, approximately 1-33 CE · <span lang="ur">عیسیٰ علیہ السلام</span></small>
+- [[Zakariyya (Zechariah) — زَكَرِيَّا|Zakariyya (Zechariah)]] <span lang="ar">زَكَرِيَّا</span> <span class="count">18 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman-era Palestine, guardian of Maryam · <span lang="ur">زکریا علیہ السلام</span></small>
+- [[Yahya (John the Baptist) — يَحْيَى|Yahya (John the Baptist)]] <span lang="ar">يَحْيَى</span> <span class="count">8 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman-era Palestine, contemporary with Isa · <span lang="ur">یحییٰ علیہ السلام</span></small>
+- [[Muhammad ﷺ — مُحَمَّد|Muhammad ﷺ]] <span lang="ar">مُحَمَّد</span> <span class="count">5 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · 570-632 CE, Makkah and Madinah · <span lang="ur">محمد ﷺ</span></small>
+
+## Angels
+
+- [[Jibreel (Gabriel) — جِبْرِيل|Jibreel (Gabriel)]] <span lang="ar">جِبْرِيل</span> <span class="count">10 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · From the beginning of creation to the end · <span lang="ur">جبریل علیہ السلام</span></small>
+- [[Mikael (Michael) — مِيكَائِيل|Mikael (Michael)]] <span lang="ar">مِيكَائِيل</span> <span class="count">1 <span class="unit">ayah</span></span> <small><span class="path" data-rank="1">Straight Path</span> · From creation to its end · <span lang="ur">میکائیل علیہ السلام</span></small>
+- [[Israfil — إِسْرَافِيل|Israfil]] <span lang="ar">إِسْرَافِيل</span> <span class="count">16 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · From creation, will act at the end of time · <span lang="ur">اسرافیل علیہ السلام</span></small>
+- [[Izraeel (Angel of Death) — عِزْرَائِيل|Izraeel (Angel of Death)]] <span lang="ar">عِزْرَائِيل</span> <span class="count">2 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · From creation to end · <span lang="ur">عزرائیل علیہ السلام</span></small>
+- [[Munkar and Nakeer — مُنكَر وَنَكِير|Munkar and Nakeer]] <span lang="ar">مُنكَر وَنَكِير</span> <small><span class="path" data-rank="1">Straight Path</span> · The realm of the grave (Barzakh) · <span lang="ur">منکر و نکیر</span></small>
+- [[Malik (Keeper of Hell) — مَالِك|Malik (Keeper of Hell)]] <span lang="ar">مَالِك</span> <span class="count">1 <span class="unit">ayah</span></span> <small><span class="path" data-rank="1">Straight Path</span> · The Hereafter · <span lang="ur">مالک — جہنم کا داروغہ</span></small>
+- [[Ridwan (Keeper of Paradise) — رِضْوَان|Ridwan (Keeper of Paradise)]] <span lang="ar">رِضْوَان</span> <span class="count">1 <span class="unit">ayah</span></span> <small><span class="path" data-rank="1">Straight Path</span> · The Hereafter · <span lang="ur">رضوان — جنت کا داروغہ</span></small>
+- [[Harut and Marut — هَارُوت وَمَارُوت|Harut and Marut]] <span lang="ar">هَارُوت وَمَارُوت</span> <span class="count">1 <span class="unit">ayah</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Babylon, time of Sulayman · <span lang="ur">ہاروت و ماروت</span></small>
+
+## Jinn
+
+- [[Iblis (Satan) — إِبْلِيس|Iblis (Satan)]] <span lang="ar">إِبْلِيس</span> <span class="count">51 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Pre-human creation; ongoing until Day of Judgment · <span lang="ur">ابلیس</span></small>
+
+## Companions
+
+- [[Abu Bakr As-Siddiq — أَبُو بَكْر|Abu Bakr As-Siddiq]] <span lang="ar">أَبُو بَكْر</span> <span class="count">6 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · 570-634 CE, Makkah and Madinah · <span lang="ur">ابو بکر صدیق رضی اللہ عنہ</span></small>
+- [[Ali ibn Abi Talib — عَلِيّ|Ali ibn Abi Talib]] <span lang="ar">عَلِيّ</span> <span class="count">5 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · 600-661 CE, Makkah, Madinah, Kufa · <span lang="ur">علی ابن ابی طالب رضی اللہ عنہ</span></small>
+- [[Aisha bint Abi Bakr — عَائِشَة|Aisha bint Abi Bakr]] <span lang="ar">عَائِشَة</span> <span class="count">10 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · 613-678 CE, Makkah and Madinah · <span lang="ur">عائشہ رضی اللہ عنہا</span></small>
+- [[Sumayyah bint Khayyat — سُمَيَّة|Sumayyah bint Khayyat]] <span lang="ar">سُمَيَّة</span> <small><span class="path" data-rank="1">Straight Path</span> · Early Islam, Makkah · <span lang="ur">سمیہ رضی اللہ عنہا</span></small>
+- [[Ammar ibn Yasir — عَمَّار|Ammar ibn Yasir]] <span lang="ar">عَمَّار</span> <span class="count">1 <span class="unit">ayah</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Early Islam, Makkah and Madinah · <span lang="ur">عمار ابن یاسر رضی اللہ عنہ</span></small>
+- [[Zayd ibn Harithah — زَيْد|Zayd ibn Harithah]] <span lang="ar">زَيْد</span> <span class="count">1 <span class="unit">ayah</span></span> <small><span class="path" data-rank="1">Straight Path</span> · 610-629 CE, Arabia · <span lang="ur">زید ابن حارثہ رضی اللہ عنہ</span></small>
+
+## People
+
+- [[Hawwa (Eve) — حَوَّاء|Hawwa (Eve)]] <span lang="ar">حَوَّاء</span> <span class="count">9 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Beginning of humanity · <span lang="ur">حوا علیہا السلام</span></small>
+- [[Wife of Nuh — امرأة نوح|Wife of Nuh]] <span lang="ar">امرأة نوح</span> <span class="count">2 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Nuh · <span lang="ur">نوح کی بیوی</span></small>
+- [[Son of Nuh (Kan'an) — ابن نوح|Son of Nuh (Kan'an)]] <span lang="ar">ابن نوح</span> <span class="count">5 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Nuh, the flood · <span lang="ur">نوح کا بیٹا</span></small>
+- [[Azar (Father of Ibrahim) — آزَر|Azar (Father of Ibrahim)]] <span lang="ar">آزَر</span> <span class="count">17 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Ibrahim · <span lang="ur">آزر</span></small>
+- [[Nimrod (Namrud) — النَّمْرُود|Nimrod (Namrud)]] <span lang="ar">النَّمْرُود</span> <span class="count">3 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Ibrahim, ancient Mesopotamia · <span lang="ur">نمرود</span></small>
+- [[Hajar (Hagar) — هَاجَر|Hajar (Hagar)]] <span lang="ar">هَاجَر</span> <span class="count">2 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Ibrahim, ancient Makkah · <span lang="ur">ہاجرہ علیہا السلام</span></small>
+- [[Sarah — سَارَة|Sarah]] <span lang="ar">سَارَة</span> <span class="count">4 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Ibrahim · <span lang="ur">سارہ علیہا السلام</span></small>
+- [[Wife of Lut — امرأة لوط|Wife of Lut]] <span lang="ar">امرأة لوط</span> <span class="count">9 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Lut · <span lang="ur">لوط کی بیوی</span></small>
+- [[Zulaikha (Wife of Al-Aziz) — زُلَيْخَا|Zulaikha (Wife of Al-Aziz)]] <span lang="ar">زُلَيْخَا</span> <span class="count">11 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="2">Mixed Path</span> · Time of Yusuf, Egypt · <span lang="ur">زلیخا</span></small>
+- [[Fir'awn (Pharaoh) — فِرْعَوْن|Fir'awn (Pharaoh)]] <span lang="ar">فِرْعَوْن</span> <span class="count">129 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Egypt, time of Musa · <span lang="ur">فرعون</span></small>
+- [[Wife of Fir'awn (Asiya) — امرأة فرعون|Wife of Fir'awn (Asiya)]] <span lang="ar">امرأة فرعون</span> <span class="count">2 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Musa, Egypt · <span lang="ur">آسیہ — فرعون کی بیوی</span></small>
+- [[Haman — هَامَان|Haman]] <span lang="ar">هَامَان</span> <span class="count">7 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Musa, Egypt · <span lang="ur">ہامان</span></small>
+- [[Qarun (Korah) — قَارُون|Qarun (Korah)]] <span lang="ar">قَارُون</span> <span class="count">9 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Musa, among Bani Israel · <span lang="ur">قارون</span></small>
+- [[Al-Samiri — السَّامِرِيّ|Al-Samiri]] <span lang="ar">السَّامِرِيّ</span> <span class="count">6 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Musa, Sinai · <span lang="ur">سامری</span></small>
+- [[Al-Khidr — الْخَضِر|Al-Khidr]] <span lang="ar">الْخَضِر</span> <span class="count">18 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Musa (and possibly beyond — debates exist) · <span lang="ur">خضر علیہ السلام</span></small>
+- [[Bilqis (Queen of Sheba) — بِلْقِيس|Bilqis (Queen of Sheba)]] <span lang="ar">بِلْقِيس</span> <span class="count">21 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Time of Sulayman, ancient Yemen · <span lang="ur">بلقیس — ملکہ سبا</span></small>
+- [[Maryam (Mary) — مَرْيَم|Maryam (Mary)]] <span lang="ar">مَرْيَم</span> <span class="count">32 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman-era Palestine · <span lang="ur">مریم علیہا السلام</span></small>
+- [[Abu Lahab — أَبُو لَهَب|Abu Lahab]] <span lang="ar">أَبُو لَهَب</span> <span class="count">5 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Before Islam, Makkah, died 624 CE · <span lang="ur">ابو لہب</span></small>
+- [[Umm Jamil (Wife of Abu Lahab) — أُمّ جَمِيل|Umm Jamil (Wife of Abu Lahab)]] <span lang="ar">أُمّ جَمِيل</span> <span class="count">2 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Makkah, time of early Islam · <span lang="ur">ام جمیل</span></small>
+- [[Abu Jahl — أَبُو جَهْل|Abu Jahl]] <span lang="ar">أَبُو جَهْل</span> <span class="count">10 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Makkah, died 624 CE at Battle of Badr · <span lang="ur">ابو جہل</span></small>
+- [[Luqman — لُقْمَان|Luqman]] <span lang="ar">لُقْمَان</span> <span class="count">8 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient times — scholars debate his identity and era · <span lang="ur">لقمان</span></small>
+- [[Dhul-Qarnayn — ذُو الْقَرْنَيْن|Dhul-Qarnayn]] <span lang="ar">ذُو الْقَرْنَيْن</span> <span class="count">17 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient history — identity debated · <span lang="ur">ذوالقرنین</span></small>
+- [[Imran — عِمْرَان|Imran]] <span lang="ar">عِمْرَان</span> <span class="count">3 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman-era Palestine · <span lang="ur">عمران</span></small>
+- [[Habil (Abel) — هَابِيل|Habil (Abel)]] <span lang="ar">هَابِيل</span> <span class="count">5 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · First generation of humanity · <span lang="ur">ہابیل</span></small>
+- [[Qabil (Cain) — قَابِيل|Qabil (Cain)]] <span lang="ar">قَابِيل</span> <span class="count">6 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · First generation of humanity · <span lang="ur">قابیل</span></small>
+- [[Jalut (Goliath) — جَالُوت|Jalut (Goliath)]] <span lang="ar">جَالُوت</span> <span class="count">3 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Ancient Palestine, time of Dawud · <span lang="ur">جالوت</span></small>
+- [[Talut (Saul) — طَالُوت|Talut (Saul)]] <span lang="ar">طَالُوت</span> <span class="count">5 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Palestine, before Dawud · <span lang="ur">طالوت</span></small>
+
+## Groups and Nations
+
+- [[Brothers of Yusuf — أبناء يعقوب|Brothers of Yusuf]] <span lang="ar">أبناء يعقوب</span> <span class="count">42 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="2">Mixed Path</span> · Time of Yusuf, Canaan and Egypt · <span lang="ur">یوسف کے بھائی</span></small>
+- [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل|Bani Israel (Children of Israel)]] <span lang="ar">بَنُو إِسْرَائِيل</span> <span class="count">14 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="2">Mixed Path</span> · From Yaqub through to the time of Muhammad ﷺ · <span lang="ur">بنی اسرائیل</span></small>
+- [[People of Aad — قَوْم عَاد|People of Aad]] <span lang="ar">قَوْم عَاد</span> <span class="count">33 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Ancient Arabia, pre-Ibrahim · <span lang="ur">قوم عاد</span></small>
+- [[People of Thamud — قَوْم ثَمُود|People of Thamud]] <span lang="ar">قَوْم ثَمُود</span> <span class="count">35 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Ancient Arabia, post-Hud era · <span lang="ur">قوم ثمود</span></small>
+- [[People of Lut — قَوْم لُوط|People of Lut]] <span lang="ar">قَوْم لُوط</span> <span class="count">27 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Time of Ibrahim and Lut · <span lang="ur">قوم لوط</span></small>
+- [[People of Midian — أَهْل مَدْيَن|People of Midian]] <span lang="ar">أَهْل مَدْيَن</span> <span class="count">10 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Ancient Midian (northwest Arabia) · <span lang="ur">اہل مدین</span></small>
+- [[People of the Sabbath — أَصْحَاب السَّبْت|People of the Sabbath]] <span lang="ar">أَصْحَاب السَّبْت</span> <span class="count">7 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Ancient Israelite history · <span lang="ur">اصحاب السبت</span></small>
+- [[People of the Cave — أَصْحَاب الْكَهْف|People of the Cave]] <span lang="ar">أَصْحَاب الْكَهْف</span> <span class="count">18 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman era (Decius persecution, approximately 250 CE — scholarly debate) · <span lang="ur">اصحاب الکہف</span></small>
+- [[People of the Ditch — أَصْحَاب الْأُخْدُود|People of the Ditch]] <span lang="ar">أَصْحَاب الْأُخْدُود</span> <span class="count">7 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="2">Mixed Path</span> · Pre-Islamic Arabia or Yemen, scholars debate · <span lang="ur">اصحاب الاخدود</span></small>
+- [[The Hypocrites — الْمُنَافِقُون|The Hypocrites]] <span lang="ar">الْمُنَافِقُون</span> <span class="count">51 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="3">Deviated Path</span> · Madinah period of early Islam · <span lang="ur">منافقین</span></small>
+- [[The Disciples of Isa — الْحَوَارِيُّون|The Disciples of Isa]] <span lang="ar">الْحَوَارِيُّون</span> <span class="count">8 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Roman-era Palestine, time of Isa · <span lang="ur">حواریون</span></small>
+- [[People of Yunus — قَوْم يُونُس|People of Yunus]] <span lang="ar">قَوْم يُونُس</span> <span class="count">3 <span class="unit">ayaat</span></span> <small><span class="path" data-rank="1">Straight Path</span> · Ancient Nineveh (modern Iraq) · <span lang="ur">قوم یونس</span></small>
+
+The number beside a name is how many ayaat its page lists for it.
 
 **Mixed Path.** These figures fit cleanly into neither the straight path nor the deviated one. Their stories show the complexity of moral life and the power of repentance.
 

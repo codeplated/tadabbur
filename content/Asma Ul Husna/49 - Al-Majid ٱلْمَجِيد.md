@@ -9,15 +9,20 @@ root_meaning: "Glory, honor, nobility of character"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "dhikr", "ihsan"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Majid — ٱلْمَجِيد
-### The Glorious · The Magnificent
-#### بزرگی والا
 
-> **Root:** م-ج-د — Glory, honor, nobility of character
+**The Glorious · The Magnificent**
+
+بزرگی والا
+
+> Name 49 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 2 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 2 times
+> **Root:** م-ج-د · Glory, honor, nobility of character
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dhikr|Dhikr & Tasbih]] · [[tags/ihsan|Ihsan]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "To respond, to answer, to grant"
 category: "Names of Generosity & Provision"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "dua", "hope_raja", "anxiety_fear"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mujib — ٱلْمُجِيب
-### The Responsive · The Answerer of Prayer
-#### قبول کرنے والا
 
-> **Root:** ج-و-ب — To respond, to answer, to grant
+**The Responsive · The Answerer of Prayer**
+
+قبول کرنے والا
+
+> Name 45 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 1 time
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 1 time
+> **Root:** ج-و-ب · To respond, to answer, to grant
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dua|Dua]] · [[tags/hope_raja|Hope & Raja]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Yunus (Jonah) / يُونُس / یونس علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Nineveh (modern Iraq area)"
-order: 17
 tags: ["story_yunus", "prophethood", "dua", "tawbah", "sabr", "anxiety_fear"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Yunus (Jonah) — يُونُس
-### یونس علیہ السلام
 
+یونس علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Nineveh (modern Iraq area) · [[#Mentioned in Quran|18 ayaat]]
+>
 > **Also known as:** Jonah, Dhul-Nun (Companion of the Whale), Sahib al-Hut
+>
+> **Themes:** [[tags/story_yunus|Prophet Yunus]] · [[tags/prophethood|Prophethood]] · [[tags/dua|Dua]] · [[tags/tawbah|Tawbah]] · [[tags/sabr|Sabr]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]]
 
 ---
 

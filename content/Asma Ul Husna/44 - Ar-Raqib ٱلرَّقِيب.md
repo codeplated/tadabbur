@@ -9,15 +9,20 @@ root_meaning: "To watch, to observe, to be on guard"
 category: "Names of Knowledge"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "taqwa", "ihsan"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Raqib — ٱلرَّقِيب
-### The Watchful · The Observer
-#### نگران
 
-> **Root:** ر-ق-ب — To watch, to observe, to be on guard
+**The Watchful · The Observer**
+
+نگران
+
+> Name 44 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 2 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 2 times
+> **Root:** ر-ق-ب · To watch, to observe, to be on guard
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/taqwa|Taqwa]] · [[tags/ihsan|Ihsan]]
 
 ---
 

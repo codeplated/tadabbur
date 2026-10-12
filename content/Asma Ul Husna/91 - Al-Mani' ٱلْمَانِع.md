@@ -9,15 +9,20 @@ root_meaning: "To prevent, to protect, to withhold"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mani' — ٱلْمَانِع
-### The Withholder · The Shielder
-#### روکنے والا
 
-> **Root:** م-ن-ع — To prevent, to protect, to withhold
+**The Withholder · The Shielder**
+
+روکنے والا
+
+> Name 91 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** م-ن-ع · To prevent, to protect, to withhold
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

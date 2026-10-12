@@ -4,14 +4,19 @@ name: "Idris (Enoch) / إِدْرِيس / ادریس علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Very early human history, before Nuh by some accounts"
-order: 21
 tags: ["story_idris", "prophethood", "sabr", "sidq"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Idris (Enoch) — إِدْرِيس
-### ادریس علیہ السلام
 
+ادریس علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Very early human history, before Nuh by some accounts · [[#Mentioned in Quran|4 ayaat]]
+>
 > **Also known as:** Enoch, Raised to a high station
+>
+> **Themes:** [[tags/story_idris|Prophet Idris]] · [[tags/prophethood|Prophethood]] · [[tags/sabr|Sabr]] · [[tags/sidq|Sidq]]
 
 ---
 

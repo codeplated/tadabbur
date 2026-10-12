@@ -4,14 +4,19 @@ name: "Shuayb (Jethro) / شُعَيْب / شعیب علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Midian and Aykah, time overlapping with Musa"
-order: 11
 tags: ["story_shuayb", "prophethood", "dawah", "trade", "adl"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Shuayb (Jethro) — شُعَيْب
-### شعیب علیہ السلام
 
+شعیب علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Midian and Aykah, time overlapping with Musa · [[#Mentioned in Quran|39 ayaat]]
+>
 > **Also known as:** Jethro, Father-in-law of Musa
+>
+> **Themes:** [[tags/story_shuayb|Prophet Shuayb]] · [[tags/prophethood|Prophethood]] · [[tags/dawah|Da'wah]] · [[tags/trade|Trade & Business]] · [[tags/adl|Adl]]
 
 ---
 

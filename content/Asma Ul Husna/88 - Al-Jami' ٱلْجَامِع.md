@@ -9,15 +9,20 @@ root_meaning: "To gather, to collect, to unite"
 category: "Names of the Hereafter"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "akhirah", "resurrection"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Jami' — ٱلْجَامِع
-### The Gatherer · The Uniter
-#### جمع کرنے والا
 
-> **Root:** ج-م-ع — To gather, to collect, to unite
+**The Gatherer · The Uniter**
+
+جمع کرنے والا
+
+> Name 88 of 99 · [[Asma Ul Husna/index#The Hereafter|Names of the Hereafter]] · In the Quran: not in this form
 >
-> **Category:** Names of the Hereafter · **In the Quran:** not in this form
+> **Root:** ج-م-ع · To gather, to collect, to unite
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/resurrection|Resurrection]]
 
 ---
 

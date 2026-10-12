@@ -9,15 +9,20 @@ root_meaning: "To see, to perceive, to have insight"
 category: "Names of Knowledge"
 quran_occurrences: 42
 tags: ["asma_ul_husna", "taqwa", "ihsan"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Basir — ٱلْبَصِير
-### The All-Seeing
-#### دیکھنے والا
 
-> **Root:** ب-ص-ر — To see, to perceive, to have insight
+**The All-Seeing**
+
+دیکھنے والا
+
+> Name 28 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 42 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 42 times
+> **Root:** ب-ص-ر · To see, to perceive, to have insight
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/taqwa|Taqwa]] · [[tags/ihsan|Ihsan]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "People of Aad / قَوْم عَاد / قوم عاد"
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Arabia, pre-Ibrahim"
-order: 70
 tags: ["story_hud", "kibr", "kufr", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # People of Aad — قَوْم عَاد
-### قوم عاد
 
+قوم عاد
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Ancient Arabia, pre-Ibrahim · [[#Mentioned in Quran|33 ayaat]]
+>
 > **Also known as:** Aad
+>
+> **Themes:** [[tags/story_hud|Prophet Hud]] · [[tags/kibr|Arrogance & Humility]] · [[tags/kufr|Kufr]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

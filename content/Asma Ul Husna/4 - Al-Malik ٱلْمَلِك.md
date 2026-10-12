@@ -9,15 +9,20 @@ root_meaning: "To possess, to govern"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 5
 tags: ["asma_ul_husna", "tawheed", "leadership", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Malik — ٱلْمَلِك
-### The Absolute Sovereign
-#### بادشاہ
 
-> **Root:** م-ل-ك — To possess, to govern
+**The Absolute Sovereign**
+
+بادشاہ
+
+> Name 4 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 5 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 5 times
+> **Root:** م-ل-ك · To possess, to govern
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/leadership|Leadership & Authority]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

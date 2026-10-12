@@ -9,15 +9,20 @@ root_meaning: "Deliberate patience, restraint despite having power"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 11
 tags: ["asma_ul_husna", "hilm", "rahmah", "tawbah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Halim — ٱلْحَلِيم
-### The Forbearing · The Clement
-#### بردبار
 
-> **Root:** ح-ل-م — Deliberate patience, restraint despite having power
+**The Forbearing · The Clement**
+
+بردبار
+
+> Name 33 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 11 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 11 times
+> **Root:** ح-ل-م · Deliberate patience, restraint despite having power
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/hilm|Hilm & Afw]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/tawbah|Tawbah]]
 
 ---
 

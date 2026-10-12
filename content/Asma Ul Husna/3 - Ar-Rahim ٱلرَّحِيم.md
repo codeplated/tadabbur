@@ -9,15 +9,20 @@ root_meaning: "Mercy that returns repeatedly"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 95
 tags: ["asma_ul_husna", "rahmah", "tawbah", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Rahim — ٱلرَّحِيم
-### The Most Merciful
-#### بار بار رحم کرنے والا
 
-> **Root:** ر-ح-م — Mercy that returns repeatedly
+**The Most Merciful**
+
+بار بار رحم کرنے والا
+
+> Name 3 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 95 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 95 times
+> **Root:** ر-ح-م · Mercy that returns repeatedly
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/tawbah|Tawbah]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

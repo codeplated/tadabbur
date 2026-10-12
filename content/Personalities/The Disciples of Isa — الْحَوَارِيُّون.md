@@ -4,14 +4,19 @@ name: "The Disciples of Isa / الْحَوَارِيُّون / حواریون"
 type: Group / Nation
 path: Straight Path
 era: "Roman-era Palestine, time of Isa"
-order: 78
 tags: ["story_isa", "dawah", "iman", "miracles"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # The Disciples of Isa — الْحَوَارِيُّون
-### حواریون
 
+حواریون
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Straight Path · Roman-era Palestine, time of Isa · [[#Mentioned in Quran|8 ayaat]]
+>
 > **Also known as:** The Apostles of Jesus, The Disciples
+>
+> **Themes:** [[tags/story_isa|Prophet Isa]] · [[tags/dawah|Da'wah]] · [[tags/iman|Iman]] · [[tags/miracles|Miracles]]
 
 ---
 

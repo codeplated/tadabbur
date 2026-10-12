@@ -4,14 +4,19 @@ name: "Adam / آدَم / آدم علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Beginning of humanity"
-order: 1
 tags: ["story_adam", "prophethood", "human_creation", "purpose_of_life", "shaytan", "tawbah", "qadr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Adam — آدَم
-### آدم علیہ السلام
 
+آدم علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Beginning of humanity · [[#Mentioned in Quran|21 ayaat]]
+>
 > **Also known as:** The First Human, Abu al-Bashar, Khalifah
+>
+> **Themes:** [[tags/story_adam|Prophet Adam]] · [[tags/prophethood|Prophethood]] · [[tags/human_creation|Creation of Mankind]] · [[tags/purpose_of_life|Purpose of Life]] · [[tags/shaytan|Shaytan]] · [[tags/tawbah|Tawbah]] · [[tags/qadr|Qadr]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "To return, to restore, to repeat"
 category: "Names of Creation"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "resurrection", "human_creation"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mu'id — ٱلْمُعِيد
-### The Restorer · The Reproducer
-#### دوبارہ لوٹانے والا
 
-> **Root:** ع-و-د — To return, to restore, to repeat
+**The Restorer · The Reproducer**
+
+دوبارہ لوٹانے والا
+
+> Name 60 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: not in this form
 >
-> **Category:** Names of Creation · **In the Quran:** not in this form
+> **Root:** ع-و-د · To return, to restore, to repeat
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/resurrection|Resurrection]] · [[tags/human_creation|Creation of Mankind]]
 
 ---
 

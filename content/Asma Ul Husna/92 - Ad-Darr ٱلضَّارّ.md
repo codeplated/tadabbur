@@ -9,15 +9,20 @@ root_meaning: "Harm, affliction, distress"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "trial_test", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ad-Darr — ٱلضَّارّ
-### The Distresser · The Afflicter
-#### نقصان دینے والا
 
-> **Root:** ض-ر-ر — Harm, affliction, distress
+**The Distresser · The Afflicter**
+
+نقصان دینے والا
+
+> Name 92 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** ض-ر-ر · Harm, affliction, distress
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/trial_test|Trials & Tests]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

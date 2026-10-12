@@ -9,15 +9,20 @@ root_meaning: "Deep awareness, inner knowledge, expertise"
 category: "Names of Knowledge"
 quran_occurrences: 45
 tags: ["asma_ul_husna", "knowledge", "taqwa", "ikhlas"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Khabir — ٱلْخَبِير
-### The All-Aware
-#### باخبر
 
-> **Root:** خ-ب-ر — Deep awareness, inner knowledge, expertise
+**The All-Aware**
+
+باخبر
+
+> Name 32 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 45 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 45 times
+> **Root:** خ-ب-ر · Deep awareness, inner knowledge, expertise
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/taqwa|Taqwa]] · [[tags/ikhlas|Ikhlas]]
 
 ---
 

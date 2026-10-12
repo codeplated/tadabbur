@@ -9,15 +9,20 @@ root_meaning: "To appear, to be manifest, to prevail"
 category: "Names of Knowledge"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "nature_signs"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Zahir — ٱلظَّاهِر
-### The Manifest · The Evident
-#### ظاہر
 
-> **Root:** ظ-ه-ر — To appear, to be manifest, to prevail
+**The Manifest · The Evident**
+
+ظاہر
+
+> Name 76 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 1 time
 >
-> **Category:** Names of Knowledge · **In the Quran:** 1 time
+> **Root:** ظ-ه-ر · To appear, to be manifest, to prevail
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/nature_signs|Signs in Creation]]
 
 ---
 

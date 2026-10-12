@@ -9,15 +9,20 @@ root_meaning: "To give freely without compensation"
 category: "Names of Generosity & Provision"
 quran_occurrences: 3
 tags: ["asma_ul_husna", "dua", "rizq", "shukr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wahhab — ٱلْوَهَّاب
-### The Bestower · The Giver of Gifts
-#### بے حساب عطا کرنے والا
 
-> **Root:** و-ه-ب — To give freely without compensation
+**The Bestower · The Giver of Gifts**
+
+بے حساب عطا کرنے والا
+
+> Name 17 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 3 times
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 3 times
+> **Root:** و-ه-ب · To give freely without compensation
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dua|Dua]] · [[tags/rizq|Rizq]] · [[tags/shukr|Shukr]]
 
 ---
 

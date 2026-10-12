@@ -4,14 +4,19 @@ name: "Qabil (Cain) / قَابِيل / قابیل"
 type: Person
 path: Deviated Path
 era: "First generation of humanity"
-order: 65
 tags: ["story_adam", "hasad", "criminal_law", "family"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Qabil (Cain) — قَابِيل
-### قابیل
 
+قابیل
+
+> [[Personalities/index#People|Person]] · Deviated Path · First generation of humanity · [[#Mentioned in Quran|6 ayaat]]
+>
 > **Also known as:** Cain
+>
+> **Themes:** [[tags/story_adam|Prophet Adam]] · [[tags/hasad|Hasad]] · [[tags/criminal_law|Crime & Punishment]] · [[tags/family|Family & Kinship]]
 
 ---
 

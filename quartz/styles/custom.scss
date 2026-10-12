@@ -627,21 +627,25 @@ article.home ul > li > a.internal::after {
   border-radius: inherit;
 }
 
-// ── Themes index ────────────────────────────────────────────────────────────
-// The Themes page (/tags). The generator writes every theme as a line in a
-// list under its category's heading: a link, the Urdu name in a span marked
-// lang="ur", a .count and a <small> description, on a page marked
-// `cssclasses: [themes-index]`. Everything below lays those lines out; the
-// filter, the arrangements and the closing categories come from
-// components/scripts/themesIndex.inline.ts, which wraps each list in a
+// ── Listing pages: Themes, Personalities, Asma Ul Husna ─────────────────────
+// The three pages that list a section are built one way. The generator writes
+// every entry as a line in a list under a heading: a link, the name in Urdu or
+// Arabic in a span that says which (lang), a .count and a <small> of details,
+// on a page marked `cssclasses: [index-page, …]`. A Name's line begins with its
+// number (.num). Everything below lays those lines out; the filter, the
+// arrangements and the closing groups come from
+// components/scripts/indexPage.inline.ts, which wraps each list in a
 // <details class="ti-group"> inside .ti-index. Without the script the page is
-// the same lists under plain headings.
+// the same lists under plain headings. (`ti-`: the Themes index came first.)
 //
 // Why an index and not a table: 139 themes as table rows were 10 to 16 screens
 // long, 2 to 6 themes to a screen. As names in columns they are under 3, and
-// on a phone the 13 categories fit one screen.
+// on a phone the 13 categories fit one screen. Personalities was a table with
+// tabs and Asma Ul Husna ten tables until 2026-10-12: 7 to 8 screens on a
+// desktop, 8 to 13 on a phone, where one cut its last column off and the
+// other broke a three-letter root over two lines.
 
-article.themes-index {
+article.index-page {
   // Counts and the status line are small secondary text. --gray is 4.0:1 on
   // the page, under the 4.5:1 that text needs; this is --gray taken a third of
   // the way to --dark, about 6:1 in both themes.
@@ -656,9 +660,9 @@ article.themes-index {
     padding: 0;
   }
 
-  // One theme. The selector repeats :has() only to outrank the rule above
+  // One entry. The selector repeats :has() only to outrank the rule above
   // that gives any line holding an Urdu run a line-height of 2.4.
-  li:has(> span[lang="ur"]) {
+  li:has(> span[lang]) {
     position: relative;
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto 2.4rem;
@@ -680,19 +684,37 @@ article.themes-index {
     line-height: 1.45;
   }
 
-  // The whole row opens the theme, so a finger does not have to find the name.
+  // The whole row opens the entry, so a finger does not have to find the name.
   li > a.internal::after {
     content: "";
     position: absolute;
     inset: 0;
   }
 
-  li > span[lang="ur"] {
+  li > span[lang] {
     direction: rtl;
     color: var(--dark);
     font-size: 0.95rem;
     line-height: 1.5;
     white-space: nowrap;
+  }
+
+  // The Arabic face is drawn smaller than the Urdu one at the same size.
+  li > span[lang="ar"] {
+    font-size: 1.15rem;
+    line-height: 1.25;
+  }
+
+  // A Name's number, in a column of its own before the Name. Both :has() are
+  // there to outrank the rule for an entry, above.
+  li:has(> .num):has(> span[lang]) {
+    grid-template-columns: 1.8rem minmax(0, 1fr) auto 2.4rem;
+  }
+
+  .num {
+    color: var(--ti-faded);
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
   }
 
   .count {
@@ -720,6 +742,46 @@ article.themes-index {
     color: var(--darkgray);
     font-size: 0.8rem;
     line-height: 1.45;
+
+    // Urdu and Arabic inside an English line: each run keeps its own
+    // direction, and the line keeps its height. A run moves to the next line
+    // whole, and only breaks if it is wider than the line; a root (ح-ي-و)
+    // never does.
+    [lang] {
+      display: inline-block;
+      max-width: 100%;
+      direction: rtl;
+      unicode-bidi: isolate;
+      font-size: 1em;
+      line-height: 1.45;
+      vertical-align: baseline;
+    }
+
+    [lang="ar"] {
+      font-size: 1.2em;
+    }
+
+    .root {
+      display: inline-block;
+      white-space: nowrap;
+    }
+  }
+
+  li:has(> .num) > small {
+    grid-column: 2 / -1;
+  }
+
+  // With scripts off there is no switch to show the details, so they show.
+  // A Name's meaning is in its details: on that page they also show if the
+  // script is on but never ran.
+  @media (scripting: none) {
+    li > small {
+      display: block;
+    }
+  }
+
+  &.names-index:not(.ti-ready) li > small {
+    display: block;
   }
 
   // ── Without the script: each category's list in its own columns ─────────
@@ -932,9 +994,42 @@ article.themes-index {
 
   // ── The index ───────────────────────────────────────────────────────────
   .ti-index {
+    container-type: inline-size;
     columns: 18.5rem;
     column-gap: 3rem;
     margin-top: 1.5rem;
+  }
+
+  // Too narrow for a name, its other name and a count side by side: a phone
+  // with the browser's text size doubled. The other name goes under the
+  // name. (The width is in rem, so it grows with the text.)
+  @container (max-width: 17rem) {
+    li:has(> span[lang]),
+    .ti-ranked li:has(> span[lang]) {
+      grid-template-columns: minmax(0, 1fr) auto;
+    }
+
+    li:has(> .num):has(> span[lang]),
+    .ti-ranked li:has(> span[lang]) {
+      grid-template-columns: auto minmax(0, 1fr) auto;
+    }
+
+    li > span[lang] {
+      grid-row: 2;
+      grid-column: 1 / -1;
+      justify-self: start;
+      white-space: normal;
+    }
+
+    li:has(> .num) > span[lang],
+    .ti-ranked li > span[lang] {
+      grid-column: 2 / -1;
+    }
+
+    li > .count {
+      grid-row: 1;
+      grid-column: -2;
+    }
   }
 
   // A category stays in one piece: a column never opens on the tail of the
@@ -1007,7 +1102,7 @@ article.themes-index {
       counter-reset: ti-rank;
     }
 
-    li:has(> span[lang="ur"]) {
+    li:has(> span[lang]) {
       grid-template-columns: 1.8rem minmax(0, 1fr) auto 2.4rem;
       counter-increment: ti-rank;
 
@@ -1021,6 +1116,12 @@ article.themes-index {
       > small {
         grid-column: 2 / -1;
       }
+    }
+
+    // A Name already begins with its own number, which says more than its
+    // place in this list would.
+    li:has(> .num):has(> span[lang])::before {
+      content: none;
     }
   }
 
@@ -1044,14 +1145,14 @@ article.themes-index {
   }
 
   @media (hover: none) {
-    li:has(> span[lang="ur"]),
+    li:has(> span[lang]),
     .ti-group > summary,
     .ti-check {
       min-height: var(--tap-target);
       align-items: center;
     }
 
-    li:has(> span[lang="ur"]) {
+    li:has(> span[lang]) {
       align-content: center;
     }
 
@@ -1089,6 +1190,36 @@ article.themes-index {
       }
     }
   }
+
+  // Four arrangements do not fit one row of a phone ("Most in Quran" alone is
+  // a third of it), so they sit two by two. The lines between them are the
+  // gaps of a grid showing its background.
+  @media all and (max-width: 400px) {
+    .ti-views:has(button:nth-child(4)) {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 1px;
+      overflow: hidden;
+      background: var(--ti-line);
+
+      // Here a label may take a second line, and the button grows for it:
+      // with the browser's text size doubled, "Most in Quran" is wider than
+      // half a phone.
+      button {
+        height: auto;
+        min-height: calc(var(--tap-target) - 2px);
+        padding-block: 0.3rem;
+        border: 0;
+        border-radius: 0;
+        background: var(--light);
+        white-space: normal;
+
+        &[aria-pressed="true"] {
+          background: var(--secondary);
+        }
+      }
+    }
+  }
 }
 
 @keyframes ti-wait {
@@ -1098,16 +1229,17 @@ article.themes-index {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  article.themes-index .ti-chevron {
+  article.index-page .ti-chevron {
     transition: none;
   }
 }
 
-// Neither Themes page has anything for the right-hand column (no table of
-// contents, no backlinks), so on a desktop they take that width. The index
-// gets a third column from it; a theme's page puts its surah index there.
+// A listing page and a theme's page have nothing for the right-hand column (no
+// table of contents, no backlinks), so on a desktop they take that width. A
+// listing gets a third column from it; a theme's page puts its surah index
+// there.
 @media all and ($desktop) {
-  .page:has(article.themes-index, .tt-tag-page) > #quartz-body {
+  .page:has(article.index-page, .tt-tag-page) > #quartz-body {
     grid-template-columns: clamp(#{$sidePanelWidth}, 24vw, 23rem) minmax(0, 1fr);
     grid-template-areas:
       "grid-sidebar-left grid-header"
@@ -1962,26 +2094,88 @@ main#content:focus {
   }
 }
 
-// ── Tables with tabs (Personalities, Themes) ────────────────────────────────
-// Those pages are one table each, written by the generator as a `base` block:
-// the tabs filter it and a click on a column heading sorts it. Squeezed into a
-// phone's width, the Era and Description columns wrapped to five or six lines a
-// row, and Themes has 139 rows. Here the table keeps a readable width and its
-// wrapper, which already scrolls sideways, lets the reader swipe to the rest.
-@media all and ($mobile) {
-  .bases-table {
-    min-width: 34rem;
+// ── A person's page, a Name's page ──────────────────────────────────────────
+// The generator marks both `cssclasses: [profile]` and writes their head into
+// the note: the heading, one or two lines under it (a person's name in Urdu; a
+// Name's meaning in English, then in Urdu), and a quote block that says the
+// fields in lines, with the type or category and each theme as links. The
+// layout conditions keep the stock title, the properties box, the reading time
+// and the tag chips off these pages, which between them put the first section
+// 840 to 1,050px down a desktop screen and showed the fields under their raw
+// names (`root_meaning`) and the themes as keys (`#story_adam`).
+article.profile {
+  // --gray is 4.0:1 on the page, under what small text needs. See the same
+  // variable on the listing pages.
+  --pf-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
+
+  h1 {
+    margin: 2rem 0 0;
   }
 
-  .bases-table-wrapper {
-    overscroll-behavior-x: contain;
+  // The lines under the heading. An Urdu one keeps its direction but starts
+  // at the heading's edge: flush right, it sat a column away from the name it
+  // belongs to.
+  h1 + p,
+  h1 + p + p {
+    margin: 0.35rem 0 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+
+    &[lang] {
+      text-align: left;
+      font-size: 1.15rem;
+      line-height: 1.9;
+    }
+  }
+
+  // The facts. A quote block in the note, because that is what sets them
+  // apart in Obsidian; here they are lines, not a quotation.
+  blockquote:first-of-type {
+    margin: 0.75rem 0 0;
+    padding: 0;
+    border: 0;
+
+    p {
+      margin: 0.3rem 0 0;
+      color: var(--darkgray);
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    p:first-child {
+      color: var(--pf-faded);
+    }
+
+    strong {
+      color: var(--dark);
+      font-weight: 600;
+    }
+
+    a.internal {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+
+    // A root's three letters, at a size they can be told apart.
+    [lang="ar"] {
+      font-size: 1.35em;
+      line-height: 1;
+    }
+  }
+
+  blockquote:first-of-type + hr {
+    margin: 1.5rem 0 2rem;
   }
 }
 
 @media (hover: none) {
-  .bases-view-tabs button {
-    min-height: 2.35rem;
-    padding: 0 0.9rem;
+  // Links in a line of text may be 24px tall (WCAG 2.5.8); these are the way
+  // to every theme a person or a Name carries, so they get the room a finger
+  // needs, without the lines moving apart.
+  article.profile blockquote:first-of-type a.internal {
+    display: inline-block;
+    padding-block: 0.35rem;
   }
 }
 

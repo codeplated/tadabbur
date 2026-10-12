@@ -9,15 +9,20 @@ root_meaning: "King, dominion, possession"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "leadership", "qadr", "tawheed"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Malik-ul-Mulk — مَالِكُ ٱلْمُلْكِ
-### The Owner of All Sovereignty
-#### ملک کا مالک
 
-> **Root:** م-ل-ك — King, dominion, possession
+**The Owner of All Sovereignty**
+
+ملک کا مالک
+
+> Name 85 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** م-ل-ك · King, dominion, possession
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/leadership|Leadership & Authority]] · [[tags/qadr|Qadr]] · [[tags/tawheed|Tawheed]]
 
 ---
 

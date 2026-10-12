@@ -1,155 +1,136 @@
-# Asma ul Husna — The 99 Names
+---
+title: Asma Ul Husna
+cssclasses: [index-page, names-index]
+---
+The 99 Names of Allah, grouped by what they tell us. Open a Name for its meaning in English and Urdu, the root it grows from and the ayaat it appears in.
 
-**Total: 99**
+## Essential Nature
 
-The Names in their traditional order, grouped by what they tell us. Each links to its own note: the meaning in English and Urdu, the root it grows from, and the ayaat it appears in.
+- <span class="num">1</span> [[1 - Allah ٱللَّه|Allah]] <span lang="ar">ٱللَّه</span> <span class="count">2,699 <span class="unit">times</span></span> <small>The One God · <span lang="ur">اللہ</span> · <span class="root">root <span lang="ar">أ-ل-ه</span></span></small>
+- <span class="num">63</span> [[63 - Al-Hayy ٱلْحَيّ|Al-Hayy]] <span lang="ar">ٱلْحَيّ</span> <span class="count">5 <span class="unit">times</span></span> <small>The Ever-Living · <span lang="ur">زندہ</span> · <span class="root">root <span lang="ar">ح-ي-و</span></span></small>
+- <span class="num">64</span> [[64 - Al-Qayyum ٱلْقَيُّوم|Al-Qayyum]] <span lang="ar">ٱلْقَيُّوم</span> <span class="count">3 <span class="unit">times</span></span> <small>The Self-Sustaining, The Sustainer of All · <span lang="ur">قائم رہنے والا</span> · <span class="root">root <span lang="ar">ق-و-م</span></span></small>
+- <span class="num">67</span> [[67 - Al-Wahid ٱلْوَاحِد|Al-Wahid]] <span lang="ar">ٱلْوَاحِد</span> <span class="count">22 <span class="unit">times</span></span> <small>The One, The Unique · <span lang="ur">یکتا</span> · <span class="root">root <span lang="ar">و-ح-د</span></span></small>
+- <span class="num">68</span> [[68 - Al-Ahad ٱلْأَحَد|Al-Ahad]] <span lang="ar">ٱلْأَحَد</span> <span class="count">1 <span class="unit">time</span></span> <small>The Indivisible One · <span lang="ur">اکیلا، اکلوتا</span> · <span class="root">root <span lang="ar">و-ح-د</span></span></small>
+- <span class="num">69</span> [[69 - As-Samad ٱلصَّمَد|As-Samad]] <span lang="ar">ٱلصَّمَد</span> <span class="count">1 <span class="unit">time</span></span> <small>The Eternal Refuge, The Self-Sufficient Master · <span lang="ur">بے نیاز</span> · <span class="root">root <span lang="ar">ص-م-د</span></span></small>
+- <span class="num">74</span> [[74 - Al-Awwal ٱلْأَوَّل|Al-Awwal]] <span lang="ar">ٱلْأَوَّل</span> <span class="count">1 <span class="unit">time</span></span> <small>The First · <span lang="ur">اول</span> · <span class="root">root <span lang="ar">أ-و-ل</span></span></small>
+- <span class="num">75</span> [[75 - Al-Akhir ٱلْآخِر|Al-Akhir]] <span lang="ar">ٱلْآخِر</span> <span class="count">1 <span class="unit">time</span></span> <small>The Last · <span lang="ur">آخر</span> · <span class="root">root <span lang="ar">أ-خ-ر</span></span></small>
+- <span class="num">89</span> [[89 - Al-Ghani ٱلْغَنِيّ|Al-Ghani]] <span lang="ar">ٱلْغَنِيّ</span> <span class="count">18 <span class="unit">times</span></span> <small>The Self-Sufficient, The Rich · <span lang="ur">بے نیاز، غنی</span> · <span class="root">root <span lang="ar">غ-ن-ي</span></span></small>
+- <span class="num">97</span> [[97 - Al-Baqi ٱلْبَاقِي|Al-Baqi]] <span lang="ar">ٱلْبَاقِي</span> <small>The Everlasting · <span lang="ur">باقی رہنے والا</span> · <span class="root">root <span lang="ar">ب-ق-و</span></span></small>
 
+## Power & Sovereignty
 
-## Names of Essential Nature — 10
+- <span class="num">4</span> [[4 - Al-Malik ٱلْمَلِك|Al-Malik]] <span lang="ar">ٱلْمَلِك</span> <span class="count">5 <span class="unit">times</span></span> <small>The Absolute Sovereign · <span lang="ur">بادشاہ</span> · <span class="root">root <span lang="ar">م-ل-ك</span></span></small>
+- <span class="num">8</span> [[8 - Al-Muhaymin ٱلْمُهَيْمِن|Al-Muhaymin]] <span lang="ar">ٱلْمُهَيْمِن</span> <span class="count">1 <span class="unit">time</span></span> <small>The Guardian, The Overseer · <span lang="ur">نگہبان</span> · <span class="root">root <span lang="ar">ه-ي-م-ن</span></span></small>
+- <span class="num">9</span> [[9 - Al-Aziz ٱلْعَزِيز|Al-Aziz]] <span lang="ar">ٱلْعَزِيز</span> <span class="count">92 <span class="unit">times</span></span> <small>The Almighty, The Invincible · <span lang="ur">غالب</span> · <span class="root">root <span lang="ar">ع-ز-ز</span></span></small>
+- <span class="num">10</span> [[10 - Al-Jabbar ٱلْجَبَّار|Al-Jabbar]] <span lang="ar">ٱلْجَبَّار</span> <span class="count">1 <span class="unit">time</span></span> <small>The Compeller, The Restorer · <span lang="ur">جبر کرنے والا، ٹوٹے کو جوڑنے والا</span> · <span class="root">root <span lang="ar">ج-ب-ر</span></span></small>
+- <span class="num">11</span> [[11 - Al-Mutakabbir ٱلْمُتَكَبِّر|Al-Mutakabbir]] <span lang="ar">ٱلْمُتَكَبِّر</span> <span class="count">1 <span class="unit">time</span></span> <small>The Supremely Great · <span lang="ur">بڑائی والا</span> · <span class="root">root <span lang="ar">ك-ب-ر</span></span></small>
+- <span class="num">16</span> [[16 - Al-Qahhar ٱلْقَهَّار|Al-Qahhar]] <span lang="ar">ٱلْقَهَّار</span> <span class="count">6 <span class="unit">times</span></span> <small>The Subduer, The Dominant · <span lang="ur">زبردست غالب</span> · <span class="root">root <span lang="ar">ق-ه-ر</span></span></small>
+- <span class="num">21</span> [[21 - Al-Qabid ٱلْقَابِض|Al-Qabid]] <span lang="ar">ٱلْقَابِض</span> <span class="count">1 <span class="unit">time</span></span> <small>The Withholder, The Constrictor · <span lang="ur">روکنے والا</span> · <span class="root">root <span lang="ar">ق-ب-ض</span></span></small>
+- <span class="num">23</span> [[23 - Al-Khafid ٱلْخَافِض|Al-Khafid]] <span lang="ar">ٱلْخَافِض</span> <small>The Reducer, The Abaser · <span lang="ur">پست کرنے والا</span> · <span class="root">root <span lang="ar">خ-ف-ض</span></span></small>
+- <span class="num">24</span> [[24 - Ar-Rafi' ٱلرَّافِع|Ar-Rafi']] <span lang="ar">ٱلرَّافِع</span> <small>The Exalter, The Elevator · <span lang="ur">بلند کرنے والا</span> · <span class="root">root <span lang="ar">ر-ف-ع</span></span></small>
+- <span class="num">25</span> [[25 - Al-Mu'izz ٱلْمُعِزّ|Al-Mu'izz]] <span lang="ar">ٱلْمُعِزّ</span> <span class="count">1 <span class="unit">time</span></span> <small>The Bestower of Honor · <span lang="ur">عزت دینے والا</span> · <span class="root">root <span lang="ar">ع-ز-ز</span></span></small>
+- <span class="num">26</span> [[26 - Al-Mudhill ٱلْمُذِلّ|Al-Mudhill]] <span lang="ar">ٱلْمُذِلّ</span> <span class="count">1 <span class="unit">time</span></span> <small>The Humiliator · <span lang="ur">ذلیل کرنے والا</span> · <span class="root">root <span lang="ar">ذ-ل-ل</span></span></small>
+- <span class="num">34</span> [[34 - Al-Azim ٱلْعَظِيم|Al-Azim]] <span lang="ar">ٱلْعَظِيم</span> <span class="count">9 <span class="unit">times</span></span> <small>The Magnificent, The Tremendous · <span lang="ur">عظیم</span> · <span class="root">root <span lang="ar">ع-ظ-م</span></span></small>
+- <span class="num">37</span> [[37 - Al-Ali ٱلْعَلِيّ|Al-Ali]] <span lang="ar">ٱلْعَلِيّ</span> <span class="count">8 <span class="unit">times</span></span> <small>The Most High, The Sublime · <span lang="ur">بلند و بالا</span> · <span class="root">root <span lang="ar">ع-ل-و</span></span></small>
+- <span class="num">38</span> [[38 - Al-Kabir ٱلْكَبِير|Al-Kabir]] <span lang="ar">ٱلْكَبِير</span> <span class="count">6 <span class="unit">times</span></span> <small>The Great · <span lang="ur">بڑا</span> · <span class="root">root <span lang="ar">ك-ب-ر</span></span></small>
+- <span class="num">39</span> [[39 - Al-Hafiz ٱلْحَفِيظ|Al-Hafiz]] <span lang="ar">ٱلْحَفِيظ</span> <span class="count">4 <span class="unit">times</span></span> <small>The Preserver, The Guardian · <span lang="ur">حفاظت کرنے والا</span> · <span class="root">root <span lang="ar">ح-ف-ظ</span></span></small>
+- <span class="num">42</span> [[42 - Al-Jalil ٱلْجَلِيل|Al-Jalil]] <span lang="ar">ٱلْجَلِيل</span> <span class="count">2 <span class="unit">times</span></span> <small>The Majestic, The Glorious · <span lang="ur">جلیل القدر</span> · <span class="root">root <span lang="ar">ج-ل-ل</span></span></small>
+- <span class="num">49</span> [[49 - Al-Majid ٱلْمَجِيد|Al-Majid]] <span lang="ar">ٱلْمَجِيد</span> <span class="count">2 <span class="unit">times</span></span> <small>The Glorious, The Magnificent · <span lang="ur">بزرگی والا</span> · <span class="root">root <span lang="ar">م-ج-د</span></span></small>
+- <span class="num">52</span> [[52 - Al-Haqq ٱلْحَقّ|Al-Haqq]] <span lang="ar">ٱلْحَقّ</span> <span class="count">10 <span class="unit">times</span></span> <small>The Truth, The Reality · <span lang="ur">حق، سچ</span> · <span class="root">root <span lang="ar">ح-ق-ق</span></span></small>
+- <span class="num">53</span> [[53 - Al-Wakil ٱلْوَكِيل|Al-Wakil]] <span lang="ar">ٱلْوَكِيل</span> <span class="count">14 <span class="unit">times</span></span> <small>The Trustee, The Disposer of Affairs · <span lang="ur">کارساز</span> · <span class="root">root <span lang="ar">و-ك-ل</span></span></small>
+- <span class="num">54</span> [[54 - Al-Qawi ٱلْقَوِيّ|Al-Qawi]] <span lang="ar">ٱلْقَوِيّ</span> <span class="count">9 <span class="unit">times</span></span> <small>The All-Strong · <span lang="ur">قوت والا</span> · <span class="root">root <span lang="ar">ق-و-و</span></span></small>
+- <span class="num">55</span> [[55 - Al-Matin ٱلْمَتِين|Al-Matin]] <span lang="ar">ٱلْمَتِين</span> <span class="count">1 <span class="unit">time</span></span> <small>The Firm, The Steadfast · <span lang="ur">مضبوط</span> · <span class="root">root <span lang="ar">م-ت-ن</span></span></small>
+- <span class="num">57</span> [[57 - Al-Hamid ٱلْحَمِيد|Al-Hamid]] <span lang="ar">ٱلْحَمِيد</span> <span class="count">17 <span class="unit">times</span></span> <small>The Praiseworthy · <span lang="ur">لائق تعریف</span> · <span class="root">root <span lang="ar">ح-م-د</span></span></small>
+- <span class="num">66</span> [[66 - Al-Majid ٱلْمَاجِد|Al-Majid]] <span lang="ar">ٱلْمَاجِد</span> <small>The Glorious, The Noble · <span lang="ur">بزرگ</span> · <span class="root">root <span lang="ar">م-ج-د</span></span></small>
+- <span class="num">70</span> [[70 - Al-Qadir ٱلْقَادِر|Al-Qadir]] <span lang="ar">ٱلْقَادِر</span> <span class="count">12 <span class="unit">times</span></span> <small>The Capable, The Powerful · <span lang="ur">قادر</span> · <span class="root">root <span lang="ar">ق-د-ر</span></span></small>
+- <span class="num">71</span> [[71 - Al-Muqtadir ٱلْمُقْتَدِر|Al-Muqtadir]] <span lang="ar">ٱلْمُقْتَدِر</span> <span class="count">4 <span class="unit">times</span></span> <small>The All-Determining, The Prevailing · <span lang="ur">غالب قدرت والا</span> · <span class="root">root <span lang="ar">ق-د-ر</span></span></small>
+- <span class="num">72</span> [[72 - Al-Muqaddim ٱلْمُقَدِّم|Al-Muqaddim]] <span lang="ar">ٱلْمُقَدِّم</span> <small>The Expediter, The Bringer Forward · <span lang="ur">آگے کرنے والا</span> · <span class="root">root <span lang="ar">ق-د-م</span></span></small>
+- <span class="num">73</span> [[73 - Al-Mu'akhkhir ٱلْمُؤَخِّر|Al-Mu'akhkhir]] <span lang="ar">ٱلْمُؤَخِّر</span> <small>The Delayer, The Retarder · <span lang="ur">پیچھے کرنے والا</span> · <span class="root">root <span lang="ar">أ-خ-ر</span></span></small>
+- <span class="num">78</span> [[78 - Al-Wali ٱلْوَالِي|Al-Wali]] <span lang="ar">ٱلْوَالِي</span> <span class="count">1 <span class="unit">time</span></span> <small>The Governor, The Ruler · <span lang="ur">حاکم</span> · <span class="root">root <span lang="ar">و-ل-ي</span></span></small>
+- <span class="num">79</span> [[79 - Al-Muta'ali ٱلْمُتَعَالِي|Al-Muta'ali]] <span lang="ar">ٱلْمُتَعَالِي</span> <span class="count">1 <span class="unit">time</span></span> <small>The Most Exalted, The Self-Exalted · <span lang="ur">بلند تر</span> · <span class="root">root <span lang="ar">ع-ل-و</span></span></small>
+- <span class="num">85</span> [[85 - Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ|Malik-ul-Mulk]] <span lang="ar">مَالِكُ ٱلْمُلْكِ</span> <span class="count">1 <span class="unit">time</span></span> <small>The Owner of All Sovereignty · <span lang="ur">ملک کا مالک</span> · <span class="root">root <span lang="ar">م-ل-ك</span></span></small>
+- <span class="num">86</span> [[86 - Dhul-Jalali wal-Ikram ذُو ٱلْجَلَالِ وَٱلْإِكْرَام|Dhul-Jalali wal-Ikram]] <span lang="ar">ذُو ٱلْجَلَالِ وَٱلْإِكْرَام</span> <span class="count">2 <span class="unit">times</span></span> <small>The Lord of Majesty and Generosity · <span lang="ur">جلال و کرم والا</span> · <span class="root">root <span lang="ar">ج-ل-ل</span> and <span lang="ar">ك-ر-م</span></span></small>
+- <span class="num">91</span> [[91 - Al-Mani' ٱلْمَانِع|Al-Mani']] <span lang="ar">ٱلْمَانِع</span> <small>The Withholder, The Shielder · <span lang="ur">روکنے والا</span> · <span class="root">root <span lang="ar">م-ن-ع</span></span></small>
+- <span class="num">92</span> [[92 - Ad-Darr ٱلضَّارّ|Ad-Darr]] <span lang="ar">ٱلضَّارّ</span> <small>The Distresser, The Afflicter · <span lang="ur">نقصان دینے والا</span> · <span class="root">root <span lang="ar">ض-ر-ر</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 1 | [[1 - Allah ٱللَّه\|Allah ٱللَّه]] | The One God | أ-ل-ه |
-| 63 | [[63 - Al-Hayy ٱلْحَيّ\|Al-Hayy ٱلْحَيّ]] | The Ever-Living | ح-ي-و |
-| 64 | [[64 - Al-Qayyum ٱلْقَيُّوم\|Al-Qayyum ٱلْقَيُّوم]] | The Self-Sustaining · The Sustainer of All | ق-و-م |
-| 67 | [[67 - Al-Wahid ٱلْوَاحِد\|Al-Wahid ٱلْوَاحِد]] | The One · The Unique | و-ح-د |
-| 68 | [[68 - Al-Ahad ٱلْأَحَد\|Al-Ahad ٱلْأَحَد]] | The Indivisible One | و-ح-د |
-| 69 | [[69 - As-Samad ٱلصَّمَد\|As-Samad ٱلصَّمَد]] | The Eternal Refuge · The Self-Sufficient Master | ص-م-د |
-| 74 | [[74 - Al-Awwal ٱلْأَوَّل\|Al-Awwal ٱلْأَوَّل]] | The First | أ-و-ل |
-| 75 | [[75 - Al-Akhir ٱلْآخِر\|Al-Akhir ٱلْآخِر]] | The Last | أ-خ-ر |
-| 89 | [[89 - Al-Ghani ٱلْغَنِيّ\|Al-Ghani ٱلْغَنِيّ]] | The Self-Sufficient · The Rich | غ-ن-ي |
-| 97 | [[97 - Al-Baqi ٱلْبَاقِي\|Al-Baqi ٱلْبَاقِي]] | The Everlasting | ب-ق-و |
+## Creation
 
-## Names of Power & Sovereignty — 33
+- <span class="num">12</span> [[12 - Al-Khaliq ٱلْخَالِق|Al-Khaliq]] <span lang="ar">ٱلْخَالِق</span> <span class="count">8 <span class="unit">times</span></span> <small>The Creator · <span lang="ur">پیدا کرنے والا</span> · <span class="root">root <span lang="ar">خ-ل-ق</span></span></small>
+- <span class="num">13</span> [[13 - Al-Bari' ٱلْبَارِئ|Al-Bari']] <span lang="ar">ٱلْبَارِئ</span> <span class="count">2 <span class="unit">times</span></span> <small>The Originator, The Evolver · <span lang="ur">بنانے والا</span> · <span class="root">root <span lang="ar">ب-ر-أ</span></span></small>
+- <span class="num">14</span> [[14 - Al-Musawwir ٱلْمُصَوِّر|Al-Musawwir]] <span lang="ar">ٱلْمُصَوِّر</span> <span class="count">1 <span class="unit">time</span></span> <small>The Fashioner of Forms · <span lang="ur">صورت بنانے والا</span> · <span class="root">root <span lang="ar">ص-و-ر</span></span></small>
+- <span class="num">59</span> [[59 - Al-Mubdi' ٱلْمُبْدِئ|Al-Mubdi']] <span lang="ar">ٱلْمُبْدِئ</span> <small>The Originator, The Initiator · <span lang="ur">شروع کرنے والا</span> · <span class="root">root <span lang="ar">ب-د-أ</span></span></small>
+- <span class="num">60</span> [[60 - Al-Mu'id ٱلْمُعِيد|Al-Mu'id]] <span lang="ar">ٱلْمُعِيد</span> <small>The Restorer, The Reproducer · <span lang="ur">دوبارہ لوٹانے والا</span> · <span class="root">root <span lang="ar">ع-و-د</span></span></small>
+- <span class="num">61</span> [[61 - Al-Muhyi ٱلْمُحْيِي|Al-Muhyi]] <span lang="ar">ٱلْمُحْيِي</span> <small>The Giver of Life · <span lang="ur">زندگی دینے والا</span> · <span class="root">root <span lang="ar">ح-ي-و</span></span></small>
+- <span class="num">96</span> [[96 - Al-Badi' ٱلْبَدِيع|Al-Badi']] <span lang="ar">ٱلْبَدِيع</span> <span class="count">2 <span class="unit">times</span></span> <small>The Incomparable Originator · <span lang="ur">انوکھا بنانے والا</span> · <span class="root">root <span lang="ar">ب-د-ع</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 4 | [[4 - Al-Malik ٱلْمَلِك\|Al-Malik ٱلْمَلِك]] | The Absolute Sovereign | م-ل-ك |
-| 8 | [[8 - Al-Muhaymin ٱلْمُهَيْمِن\|Al-Muhaymin ٱلْمُهَيْمِن]] | The Guardian · The Overseer | ه-ي-م-ن |
-| 9 | [[9 - Al-Aziz ٱلْعَزِيز\|Al-Aziz ٱلْعَزِيز]] | The Almighty · The Invincible | ع-ز-ز |
-| 10 | [[10 - Al-Jabbar ٱلْجَبَّار\|Al-Jabbar ٱلْجَبَّار]] | The Compeller · The Restorer | ج-ب-ر |
-| 11 | [[11 - Al-Mutakabbir ٱلْمُتَكَبِّر\|Al-Mutakabbir ٱلْمُتَكَبِّر]] | The Supremely Great | ك-ب-ر |
-| 16 | [[16 - Al-Qahhar ٱلْقَهَّار\|Al-Qahhar ٱلْقَهَّار]] | The Subduer · The Dominant | ق-ه-ر |
-| 21 | [[21 - Al-Qabid ٱلْقَابِض\|Al-Qabid ٱلْقَابِض]] | The Withholder · The Constrictor | ق-ب-ض |
-| 23 | [[23 - Al-Khafid ٱلْخَافِض\|Al-Khafid ٱلْخَافِض]] | The Reducer · The Abaser | خ-ف-ض |
-| 24 | [[24 - Ar-Rafi' ٱلرَّافِع\|Ar-Rafi' ٱلرَّافِع]] | The Exalter · The Elevator | ر-ف-ع |
-| 25 | [[25 - Al-Mu'izz ٱلْمُعِزّ\|Al-Mu'izz ٱلْمُعِزّ]] | The Bestower of Honor | ع-ز-ز |
-| 26 | [[26 - Al-Mudhill ٱلْمُذِلّ\|Al-Mudhill ٱلْمُذِلّ]] | The Humiliator | ذ-ل-ل |
-| 34 | [[34 - Al-Azim ٱلْعَظِيم\|Al-Azim ٱلْعَظِيم]] | The Magnificent · The Tremendous | ع-ظ-م |
-| 37 | [[37 - Al-Ali ٱلْعَلِيّ\|Al-Ali ٱلْعَلِيّ]] | The Most High · The Sublime | ع-ل-و |
-| 38 | [[38 - Al-Kabir ٱلْكَبِير\|Al-Kabir ٱلْكَبِير]] | The Great | ك-ب-ر |
-| 39 | [[39 - Al-Hafiz ٱلْحَفِيظ\|Al-Hafiz ٱلْحَفِيظ]] | The Preserver · The Guardian | ح-ف-ظ |
-| 42 | [[42 - Al-Jalil ٱلْجَلِيل\|Al-Jalil ٱلْجَلِيل]] | The Majestic · The Glorious | ج-ل-ل |
-| 49 | [[49 - Al-Majid ٱلْمَجِيد\|Al-Majid ٱلْمَجِيد]] | The Glorious · The Magnificent | م-ج-د |
-| 52 | [[52 - Al-Haqq ٱلْحَقّ\|Al-Haqq ٱلْحَقّ]] | The Truth · The Reality | ح-ق-ق |
-| 53 | [[53 - Al-Wakil ٱلْوَكِيل\|Al-Wakil ٱلْوَكِيل]] | The Trustee · The Disposer of Affairs | و-ك-ل |
-| 54 | [[54 - Al-Qawi ٱلْقَوِيّ\|Al-Qawi ٱلْقَوِيّ]] | The All-Strong | ق-و-و |
-| 55 | [[55 - Al-Matin ٱلْمَتِين\|Al-Matin ٱلْمَتِين]] | The Firm · The Steadfast | م-ت-ن |
-| 57 | [[57 - Al-Hamid ٱلْحَمِيد\|Al-Hamid ٱلْحَمِيد]] | The Praiseworthy | ح-م-د |
-| 66 | [[66 - Al-Majid ٱلْمَاجِد\|Al-Majid ٱلْمَاجِد]] | The Glorious · The Noble | م-ج-د |
-| 70 | [[70 - Al-Qadir ٱلْقَادِر\|Al-Qadir ٱلْقَادِر]] | The Capable · The Powerful | ق-د-ر |
-| 71 | [[71 - Al-Muqtadir ٱلْمُقْتَدِر\|Al-Muqtadir ٱلْمُقْتَدِر]] | The All-Determining · The Prevailing | ق-د-ر |
-| 72 | [[72 - Al-Muqaddim ٱلْمُقَدِّم\|Al-Muqaddim ٱلْمُقَدِّم]] | The Expediter · The Bringer Forward | ق-د-م |
-| 73 | [[73 - Al-Mu'akhkhir ٱلْمُؤَخِّر\|Al-Mu'akhkhir ٱلْمُؤَخِّر]] | The Delayer · The Retarder | أ-خ-ر |
-| 78 | [[78 - Al-Wali ٱلْوَالِي\|Al-Wali ٱلْوَالِي]] | The Governor · The Ruler | و-ل-ي |
-| 79 | [[79 - Al-Muta'ali ٱلْمُتَعَالِي\|Al-Muta'ali ٱلْمُتَعَالِي]] | The Most Exalted · The Self-Exalted | ع-ل-و |
-| 85 | [[85 - Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ\|Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ]] | The Owner of All Sovereignty | م-ل-ك |
-| 86 | [[86 - Dhul-Jalali wal-Ikram ذُو ٱلْجَلَالِ وَٱلْإِكْرَام\|Dhul-Jalali wal-Ikram ذُو ٱلْجَلَالِ وَٱلْإِكْرَام]] | The Lord of Majesty and Generosity | ج-ل-ل and ك-ر-م |
-| 91 | [[91 - Al-Mani' ٱلْمَانِع\|Al-Mani' ٱلْمَانِع]] | The Withholder · The Shielder | م-ن-ع |
-| 92 | [[92 - Ad-Darr ٱلضَّارّ\|Ad-Darr ٱلضَّارّ]] | The Distresser · The Afflicter | ض-ر-ر |
+## Knowledge
 
-## Names of Creation — 7
+- <span class="num">20</span> [[20 - Al-Alim ٱلْعَلِيم|Al-Alim]] <span lang="ar">ٱلْعَلِيم</span> <span class="count">157 <span class="unit">times</span></span> <small>The All-Knowing · <span lang="ur">سب کچھ جاننے والا</span> · <span class="root">root <span lang="ar">ع-ل-م</span></span></small>
+- <span class="num">27</span> [[27 - As-Sami' ٱلسَّمِيع|As-Sami']] <span lang="ar">ٱلسَّمِيع</span> <span class="count">45 <span class="unit">times</span></span> <small>The All-Hearing · <span lang="ur">سننے والا</span> · <span class="root">root <span lang="ar">س-م-ع</span></span></small>
+- <span class="num">28</span> [[28 - Al-Basir ٱلْبَصِير|Al-Basir]] <span lang="ar">ٱلْبَصِير</span> <span class="count">42 <span class="unit">times</span></span> <small>The All-Seeing · <span lang="ur">دیکھنے والا</span> · <span class="root">root <span lang="ar">ب-ص-ر</span></span></small>
+- <span class="num">31</span> [[31 - Al-Latif ٱللَّطِيف|Al-Latif]] <span lang="ar">ٱللَّطِيف</span> <span class="count">7 <span class="unit">times</span></span> <small>The Subtle, The Gentle · <span lang="ur">باریک بین، مہربان</span> · <span class="root">root <span lang="ar">ل-ط-ف</span></span></small>
+- <span class="num">32</span> [[32 - Al-Khabir ٱلْخَبِير|Al-Khabir]] <span lang="ar">ٱلْخَبِير</span> <span class="count">45 <span class="unit">times</span></span> <small>The All-Aware · <span lang="ur">باخبر</span> · <span class="root">root <span lang="ar">خ-ب-ر</span></span></small>
+- <span class="num">44</span> [[44 - Ar-Raqib ٱلرَّقِيب|Ar-Raqib]] <span lang="ar">ٱلرَّقِيب</span> <span class="count">2 <span class="unit">times</span></span> <small>The Watchful, The Observer · <span lang="ur">نگران</span> · <span class="root">root <span lang="ar">ر-ق-ب</span></span></small>
+- <span class="num">46</span> [[46 - Al-Wasi' ٱلْوَاسِع|Al-Wasi']] <span lang="ar">ٱلْوَاسِع</span> <span class="count">9 <span class="unit">times</span></span> <small>The All-Encompassing, The Vast · <span lang="ur">وسعت والا</span> · <span class="root">root <span lang="ar">و-س-ع</span></span></small>
+- <span class="num">47</span> [[47 - Al-Hakim ٱلْحَكِيم|Al-Hakim]] <span lang="ar">ٱلْحَكِيم</span> <span class="count">97 <span class="unit">times</span></span> <small>The All-Wise · <span lang="ur">حکیم، دانا</span> · <span class="root">root <span lang="ar">ح-ك-م</span></span></small>
+- <span class="num">51</span> [[51 - Ash-Shahid ٱلشَّهِيد|Ash-Shahid]] <span lang="ar">ٱلشَّهِيد</span> <span class="count">5 <span class="unit">times</span></span> <small>The Witness · <span lang="ur">گواہ</span> · <span class="root">root <span lang="ar">ش-ه-د</span></span></small>
+- <span class="num">58</span> [[58 - Al-Muhsi ٱلْمُحْصِي|Al-Muhsi]] <span lang="ar">ٱلْمُحْصِي</span> <small>The Reckoner, The Counter · <span lang="ur">گننے والا</span> · <span class="root">root <span lang="ar">ح-ص-و</span></span></small>
+- <span class="num">65</span> [[65 - Al-Wajid ٱلْوَاجِد|Al-Wajid]] <span lang="ar">ٱلْوَاجِد</span> <small>The Finder, The Resourceful · <span lang="ur">پانے والا</span> · <span class="root">root <span lang="ar">و-ج-د</span></span></small>
+- <span class="num">76</span> [[76 - Al-Zahir ٱلظَّاهِر|Al-Zahir]] <span lang="ar">ٱلظَّاهِر</span> <span class="count">1 <span class="unit">time</span></span> <small>The Manifest, The Evident · <span lang="ur">ظاہر</span> · <span class="root">root <span lang="ar">ظ-ه-ر</span></span></small>
+- <span class="num">77</span> [[77 - Al-Batin ٱلْبَاطِن|Al-Batin]] <span lang="ar">ٱلْبَاطِن</span> <span class="count">1 <span class="unit">time</span></span> <small>The Hidden, The Innermost · <span lang="ur">باطن</span> · <span class="root">root <span lang="ar">ب-ط-ن</span></span></small>
+- <span class="num">94</span> [[94 - An-Nur ٱلنُّور|An-Nur]] <span lang="ar">ٱلنُّور</span> <span class="count">1 <span class="unit">time</span></span> <small>The Light · <span lang="ur">نور</span> · <span class="root">root <span lang="ar">ن-و-ر</span></span></small>
+- <span class="num">95</span> [[95 - Al-Hadi ٱلْهَادِي|Al-Hadi]] <span lang="ar">ٱلْهَادِي</span> <span class="count">1 <span class="unit">time</span></span> <small>The Guide · <span lang="ur">ہدایت دینے والا</span> · <span class="root">root <span lang="ar">ه-د-و</span></span></small>
+- <span class="num">99</span> [[99 - Ar-Rashid ٱلرَّشِيد|Ar-Rashid]] <span lang="ar">ٱلرَّشِيد</span> <small>The Guide to the Right Path · <span lang="ur">راہنما</span> · <span class="root">root <span lang="ar">ر-ش-د</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 12 | [[12 - Al-Khaliq ٱلْخَالِق\|Al-Khaliq ٱلْخَالِق]] | The Creator | خ-ل-ق |
-| 13 | [[13 - Al-Bari' ٱلْبَارِئ\|Al-Bari' ٱلْبَارِئ]] | The Originator · The Evolver | ب-ر-أ |
-| 14 | [[14 - Al-Musawwir ٱلْمُصَوِّر\|Al-Musawwir ٱلْمُصَوِّر]] | The Fashioner of Forms | ص-و-ر |
-| 59 | [[59 - Al-Mubdi' ٱلْمُبْدِئ\|Al-Mubdi' ٱلْمُبْدِئ]] | The Originator · The Initiator | ب-د-أ |
-| 60 | [[60 - Al-Mu'id ٱلْمُعِيد\|Al-Mu'id ٱلْمُعِيد]] | The Restorer · The Reproducer | ع-و-د |
-| 61 | [[61 - Al-Muhyi ٱلْمُحْيِي\|Al-Muhyi ٱلْمُحْيِي]] | The Giver of Life | ح-ي-و |
-| 96 | [[96 - Al-Badi' ٱلْبَدِيع\|Al-Badi' ٱلْبَدِيع]] | The Incomparable Originator | ب-د-ع |
+## Forgiveness & Mercy
 
-## Names of Knowledge — 16
+- <span class="num">2</span> [[2 - Ar-Rahman ٱلرَّحْمَـٰن|Ar-Rahman]] <span lang="ar">ٱلرَّحْمَـٰن</span> <span class="count">57 <span class="unit">times</span></span> <small>The Most Gracious · <span lang="ur">بے حد رحم کرنے والا</span> · <span class="root">root <span lang="ar">ر-ح-م</span></span></small>
+- <span class="num">3</span> [[3 - Ar-Rahim ٱلرَّحِيم|Ar-Rahim]] <span lang="ar">ٱلرَّحِيم</span> <span class="count">95 <span class="unit">times</span></span> <small>The Most Merciful · <span lang="ur">بار بار رحم کرنے والا</span> · <span class="root">root <span lang="ar">ر-ح-م</span></span></small>
+- <span class="num">15</span> [[15 - Al-Ghaffar ٱلْغَفَّار|Al-Ghaffar]] <span lang="ar">ٱلْغَفَّار</span> <span class="count">5 <span class="unit">times</span></span> <small>The Repeatedly Forgiving · <span lang="ur">بار بار بخشنے والا</span> · <span class="root">root <span lang="ar">غ-ف-ر</span></span></small>
+- <span class="num">33</span> [[33 - Al-Halim ٱلْحَلِيم|Al-Halim]] <span lang="ar">ٱلْحَلِيم</span> <span class="count">11 <span class="unit">times</span></span> <small>The Forbearing, The Clement · <span lang="ur">بردبار</span> · <span class="root">root <span lang="ar">ح-ل-م</span></span></small>
+- <span class="num">35</span> [[35 - Al-Ghafur ٱلْغَفُور|Al-Ghafur]] <span lang="ar">ٱلْغَفُور</span> <span class="count">91 <span class="unit">times</span></span> <small>The Most Forgiving · <span lang="ur">بہت بخشنے والا</span> · <span class="root">root <span lang="ar">غ-ف-ر</span></span></small>
+- <span class="num">36</span> [[36 - Ash-Shakur ٱلشَّكُور|Ash-Shakur]] <span lang="ar">ٱلشَّكُور</span> <span class="count">4 <span class="unit">times</span></span> <small>The Appreciative, The Grateful · <span lang="ur">قدردان</span> · <span class="root">root <span lang="ar">ش-ك-ر</span></span></small>
+- <span class="num">48</span> [[48 - Al-Wadud ٱلْوَدُود|Al-Wadud]] <span lang="ar">ٱلْوَدُود</span> <span class="count">2 <span class="unit">times</span></span> <small>The Loving, The Affectionate · <span lang="ur">محبت کرنے والا</span> · <span class="root">root <span lang="ar">و-د-د</span></span></small>
+- <span class="num">56</span> [[56 - Al-Wali ٱلْوَلِيّ|Al-Wali]] <span lang="ar">ٱلْوَلِيّ</span> <span class="count">12 <span class="unit">times</span></span> <small>The Protecting Friend, The Guardian · <span lang="ur">دوست، سرپرست</span> · <span class="root">root <span lang="ar">و-ل-و</span></span></small>
+- <span class="num">80</span> [[80 - Al-Barr ٱلْبَرّ|Al-Barr]] <span lang="ar">ٱلْبَرّ</span> <span class="count">1 <span class="unit">time</span></span> <small>The Source of All Goodness · <span lang="ur">نیکی کا سرچشمہ</span> · <span class="root">root <span lang="ar">ب-ر-ر</span></span></small>
+- <span class="num">81</span> [[81 - At-Tawwab ٱلتَّوَّاب|At-Tawwab]] <span lang="ar">ٱلتَّوَّاب</span> <span class="count">11 <span class="unit">times</span></span> <small>The Acceptor of Repentance · <span lang="ur">توبہ قبول کرنے والا</span> · <span class="root">root <span lang="ar">ت-و-ب</span></span></small>
+- <span class="num">83</span> [[83 - Al-Afuww ٱلْعَفُوّ|Al-Afuww]] <span lang="ar">ٱلْعَفُوّ</span> <span class="count">5 <span class="unit">times</span></span> <small>The Pardoner, The Effacer of Sins · <span lang="ur">معاف کرنے والا</span> · <span class="root">root <span lang="ar">ع-ف-و</span></span></small>
+- <span class="num">84</span> [[84 - Ar-Ra'uf ٱلرَّءُوف|Ar-Ra'uf]] <span lang="ar">ٱلرَّءُوف</span> <span class="count">10 <span class="unit">times</span></span> <small>The Compassionate, The Most Kind · <span lang="ur">نہایت مہربان</span> · <span class="root">root <span lang="ar">ر-أ-ف</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 20 | [[20 - Al-Alim ٱلْعَلِيم\|Al-Alim ٱلْعَلِيم]] | The All-Knowing | ع-ل-م |
-| 27 | [[27 - As-Sami' ٱلسَّمِيع\|As-Sami' ٱلسَّمِيع]] | The All-Hearing | س-م-ع |
-| 28 | [[28 - Al-Basir ٱلْبَصِير\|Al-Basir ٱلْبَصِير]] | The All-Seeing | ب-ص-ر |
-| 31 | [[31 - Al-Latif ٱللَّطِيف\|Al-Latif ٱللَّطِيف]] | The Subtle · The Gentle | ل-ط-ف |
-| 32 | [[32 - Al-Khabir ٱلْخَبِير\|Al-Khabir ٱلْخَبِير]] | The All-Aware | خ-ب-ر |
-| 44 | [[44 - Ar-Raqib ٱلرَّقِيب\|Ar-Raqib ٱلرَّقِيب]] | The Watchful · The Observer | ر-ق-ب |
-| 46 | [[46 - Al-Wasi' ٱلْوَاسِع\|Al-Wasi' ٱلْوَاسِع]] | The All-Encompassing · The Vast | و-س-ع |
-| 47 | [[47 - Al-Hakim ٱلْحَكِيم\|Al-Hakim ٱلْحَكِيم]] | The All-Wise | ح-ك-م |
-| 51 | [[51 - Ash-Shahid ٱلشَّهِيد\|Ash-Shahid ٱلشَّهِيد]] | The Witness | ش-ه-د |
-| 58 | [[58 - Al-Muhsi ٱلْمُحْصِي\|Al-Muhsi ٱلْمُحْصِي]] | The Reckoner · The Counter | ح-ص-و |
-| 65 | [[65 - Al-Wajid ٱلْوَاجِد\|Al-Wajid ٱلْوَاجِد]] | The Finder · The Resourceful | و-ج-د |
-| 76 | [[76 - Al-Zahir ٱلظَّاهِر\|Al-Zahir ٱلظَّاهِر]] | The Manifest · The Evident | ظ-ه-ر |
-| 77 | [[77 - Al-Batin ٱلْبَاطِن\|Al-Batin ٱلْبَاطِن]] | The Hidden · The Innermost | ب-ط-ن |
-| 94 | [[94 - An-Nur ٱلنُّور\|An-Nur ٱلنُّور]] | The Light | ن-و-ر |
-| 95 | [[95 - Al-Hadi ٱلْهَادِي\|Al-Hadi ٱلْهَادِي]] | The Guide | ه-د-و |
-| 99 | [[99 - Ar-Rashid ٱلرَّشِيد\|Ar-Rashid ٱلرَّشِيد]] | The Guide to the Right Path | ر-ش-د |
+## Generosity & Provision
 
-## Names of Forgiveness & Mercy — 12
+- <span class="num">17</span> [[17 - Al-Wahhab ٱلْوَهَّاب|Al-Wahhab]] <span lang="ar">ٱلْوَهَّاب</span> <span class="count">3 <span class="unit">times</span></span> <small>The Bestower, The Giver of Gifts · <span lang="ur">بے حساب عطا کرنے والا</span> · <span class="root">root <span lang="ar">و-ه-ب</span></span></small>
+- <span class="num">18</span> [[18 - Ar-Razzaq ٱلرَّزَّاق|Ar-Razzaq]] <span lang="ar">ٱلرَّزَّاق</span> <span class="count">1 <span class="unit">time</span></span> <small>The Provider, The Sustainer · <span lang="ur">روزی دینے والا</span> · <span class="root">root <span lang="ar">ر-ز-ق</span></span></small>
+- <span class="num">19</span> [[19 - Al-Fattah ٱلْفَتَّاح|Al-Fattah]] <span lang="ar">ٱلْفَتَّاح</span> <span class="count">1 <span class="unit">time</span></span> <small>The Opener, The Judge · <span lang="ur">کھولنے والا، فیصلہ کرنے والا</span> · <span class="root">root <span lang="ar">ف-ت-ح</span></span></small>
+- <span class="num">22</span> [[22 - Al-Basit ٱلْبَاسِط|Al-Basit]] <span lang="ar">ٱلْبَاسِط</span> <span class="count">1 <span class="unit">time</span></span> <small>The Expander, The Reliever · <span lang="ur">کشادہ کرنے والا</span> · <span class="root">root <span lang="ar">ب-س-ط</span></span></small>
+- <span class="num">40</span> [[40 - Al-Muqit ٱلْمُقِيت|Al-Muqit]] <span lang="ar">ٱلْمُقِيت</span> <span class="count">1 <span class="unit">time</span></span> <small>The Sustainer, The Nourisher · <span lang="ur">پالنے والا</span> · <span class="root">root <span lang="ar">ق-و-ت</span></span></small>
+- <span class="num">43</span> [[43 - Al-Karim ٱلْكَرِيم|Al-Karim]] <span lang="ar">ٱلْكَرِيم</span> <span class="count">2 <span class="unit">times</span></span> <small>The Generous, The Noble · <span lang="ur">کریم، سخی</span> · <span class="root">root <span lang="ar">ك-ر-م</span></span></small>
+- <span class="num">45</span> [[45 - Al-Mujib ٱلْمُجِيب|Al-Mujib]] <span lang="ar">ٱلْمُجِيب</span> <span class="count">1 <span class="unit">time</span></span> <small>The Responsive, The Answerer of Prayer · <span lang="ur">قبول کرنے والا</span> · <span class="root">root <span lang="ar">ج-و-ب</span></span></small>
+- <span class="num">90</span> [[90 - Al-Mughni ٱلْمُغْنِي|Al-Mughni]] <span lang="ar">ٱلْمُغْنِي</span> <small>The Enricher · <span lang="ur">غنی کرنے والا</span> · <span class="root">root <span lang="ar">غ-ن-ي</span></span></small>
+- <span class="num">93</span> [[93 - An-Nafi' ٱلنَّافِع|An-Nafi']] <span lang="ar">ٱلنَّافِع</span> <small>The Benefiter, The Creator of Good · <span lang="ur">نفع دینے والا</span> · <span class="root">root <span lang="ar">ن-ف-ع</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 2 | [[2 - Ar-Rahman ٱلرَّحْمَـٰن\|Ar-Rahman ٱلرَّحْمَـٰن]] | The Most Gracious | ر-ح-م |
-| 3 | [[3 - Ar-Rahim ٱلرَّحِيم\|Ar-Rahim ٱلرَّحِيم]] | The Most Merciful | ر-ح-م |
-| 15 | [[15 - Al-Ghaffar ٱلْغَفَّار\|Al-Ghaffar ٱلْغَفَّار]] | The Repeatedly Forgiving | غ-ف-ر |
-| 33 | [[33 - Al-Halim ٱلْحَلِيم\|Al-Halim ٱلْحَلِيم]] | The Forbearing · The Clement | ح-ل-م |
-| 35 | [[35 - Al-Ghafur ٱلْغَفُور\|Al-Ghafur ٱلْغَفُور]] | The Most Forgiving | غ-ف-ر |
-| 36 | [[36 - Ash-Shakur ٱلشَّكُور\|Ash-Shakur ٱلشَّكُور]] | The Appreciative · The Grateful | ش-ك-ر |
-| 48 | [[48 - Al-Wadud ٱلْوَدُود\|Al-Wadud ٱلْوَدُود]] | The Loving · The Affectionate | و-د-د |
-| 56 | [[56 - Al-Wali ٱلْوَلِيّ\|Al-Wali ٱلْوَلِيّ]] | The Protecting Friend · The Guardian | و-ل-و |
-| 80 | [[80 - Al-Barr ٱلْبَرّ\|Al-Barr ٱلْبَرّ]] | The Source of All Goodness | ب-ر-ر |
-| 81 | [[81 - At-Tawwab ٱلتَّوَّاب\|At-Tawwab ٱلتَّوَّاب]] | The Acceptor of Repentance | ت-و-ب |
-| 83 | [[83 - Al-Afuww ٱلْعَفُوّ\|Al-Afuww ٱلْعَفُوّ]] | The Pardoner · The Effacer of Sins | ع-ف-و |
-| 84 | [[84 - Ar-Ra'uf ٱلرَّءُوف\|Ar-Ra'uf ٱلرَّءُوف]] | The Compassionate · The Most Kind | ر-أ-ف |
+## Justice
 
-## Names of Generosity & Provision — 9
+- <span class="num">29</span> [[29 - Al-Hakam ٱلْحَكَم|Al-Hakam]] <span lang="ar">ٱلْحَكَم</span> <span class="count">1 <span class="unit">time</span></span> <small>The Judge, The Arbitrator · <span lang="ur">فیصلہ کرنے والا</span> · <span class="root">root <span lang="ar">ح-ك-م</span></span></small>
+- <span class="num">30</span> [[30 - Al-Adl ٱلْعَدْل|Al-Adl]] <span lang="ar">ٱلْعَدْل</span> <small>The Just, The Equitable · <span lang="ur">عادل</span> · <span class="root">root <span lang="ar">ع-د-ل</span></span></small>
+- <span class="num">41</span> [[41 - Al-Hasib ٱلْحَسِيب|Al-Hasib]] <span lang="ar">ٱلْحَسِيب</span> <span class="count">3 <span class="unit">times</span></span> <small>The Reckoner, The Sufficient · <span lang="ur">حساب لینے والا، کافی</span> · <span class="root">root <span lang="ar">ح-س-ب</span></span></small>
+- <span class="num">82</span> [[82 - Al-Muntaqim ٱلْمُنْتَقِم|Al-Muntaqim]] <span lang="ar">ٱلْمُنْتَقِم</span> <span class="count">3 <span class="unit">times</span></span> <small>The Avenger, The Retributor · <span lang="ur">انتقام لینے والا</span> · <span class="root">root <span lang="ar">ن-ق-م</span></span></small>
+- <span class="num">87</span> [[87 - Al-Muqsit ٱلْمُقْسِط|Al-Muqsit]] <span lang="ar">ٱلْمُقْسِط</span> <small>The Equitable, The Just · <span lang="ur">انصاف کرنے والا</span> · <span class="root">root <span lang="ar">ق-س-ط</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 17 | [[17 - Al-Wahhab ٱلْوَهَّاب\|Al-Wahhab ٱلْوَهَّاب]] | The Bestower · The Giver of Gifts | و-ه-ب |
-| 18 | [[18 - Ar-Razzaq ٱلرَّزَّاق\|Ar-Razzaq ٱلرَّزَّاق]] | The Provider · The Sustainer | ر-ز-ق |
-| 19 | [[19 - Al-Fattah ٱلْفَتَّاح\|Al-Fattah ٱلْفَتَّاح]] | The Opener · The Judge | ف-ت-ح |
-| 22 | [[22 - Al-Basit ٱلْبَاسِط\|Al-Basit ٱلْبَاسِط]] | The Expander · The Reliever | ب-س-ط |
-| 40 | [[40 - Al-Muqit ٱلْمُقِيت\|Al-Muqit ٱلْمُقِيت]] | The Sustainer · The Nourisher | ق-و-ت |
-| 43 | [[43 - Al-Karim ٱلْكَرِيم\|Al-Karim ٱلْكَرِيم]] | The Generous · The Noble | ك-ر-م |
-| 45 | [[45 - Al-Mujib ٱلْمُجِيب\|Al-Mujib ٱلْمُجِيب]] | The Responsive · The Answerer of Prayer | ج-و-ب |
-| 90 | [[90 - Al-Mughni ٱلْمُغْنِي\|Al-Mughni ٱلْمُغْنِي]] | The Enricher | غ-ن-ي |
-| 93 | [[93 - An-Nafi' ٱلنَّافِع\|An-Nafi' ٱلنَّافِع]] | The Benefiter · The Creator of Good | ن-ف-ع |
+## Peace & Security
 
-## Names of Justice — 5
+- <span class="num">6</span> [[6 - As-Salam ٱلسَّلَام|As-Salam]] <span lang="ar">ٱلسَّلَام</span> <span class="count">1 <span class="unit">time</span></span> <small>The Source of Peace · <span lang="ur">سلامتی دینے والا</span> · <span class="root">root <span lang="ar">س-ل-م</span></span></small>
+- <span class="num">7</span> [[7 - Al-Mu'min ٱلْمُؤْمِن|Al-Mu'min]] <span lang="ar">ٱلْمُؤْمِن</span> <span class="count">1 <span class="unit">time</span></span> <small>The Granter of Security · <span lang="ur">امان دینے والا</span> · <span class="root">root <span lang="ar">أ-م-ن</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 29 | [[29 - Al-Hakam ٱلْحَكَم\|Al-Hakam ٱلْحَكَم]] | The Judge · The Arbitrator | ح-ك-م |
-| 30 | [[30 - Al-Adl ٱلْعَدْل\|Al-Adl ٱلْعَدْل]] | The Just · The Equitable | ع-د-ل |
-| 41 | [[41 - Al-Hasib ٱلْحَسِيب\|Al-Hasib ٱلْحَسِيب]] | The Reckoner · The Sufficient | ح-س-ب |
-| 82 | [[82 - Al-Muntaqim ٱلْمُنْتَقِم\|Al-Muntaqim ٱلْمُنْتَقِم]] | The Avenger · The Retributor | ن-ق-م |
-| 87 | [[87 - Al-Muqsit ٱلْمُقْسِط\|Al-Muqsit ٱلْمُقْسِط]] | The Equitable · The Just | ق-س-ط |
+## Holiness
 
-## Names of Peace & Security — 2
+- <span class="num">5</span> [[5 - Al-Quddus ٱلْقُدُّوس|Al-Quddus]] <span lang="ar">ٱلْقُدُّوس</span> <span class="count">2 <span class="unit">times</span></span> <small>The Most Pure, The Holy · <span lang="ur">پاک ذات</span> · <span class="root">root <span lang="ar">ق-د-س</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 6 | [[6 - As-Salam ٱلسَّلَام\|As-Salam ٱلسَّلَام]] | The Source of Peace | س-ل-م |
-| 7 | [[7 - Al-Mu'min ٱلْمُؤْمِن\|Al-Mu'min ٱلْمُؤْمِن]] | The Granter of Security | أ-م-ن |
+## The Hereafter
 
-## Names of Holiness — 1
+- <span class="num">50</span> [[50 - Al-Ba'ith ٱلْبَاعِث|Al-Ba'ith]] <span lang="ar">ٱلْبَاعِث</span> <small>The Resurrector, The Raiser · <span lang="ur">اٹھانے والا</span> · <span class="root">root <span lang="ar">ب-ع-ث</span></span></small>
+- <span class="num">62</span> [[62 - Al-Mumit ٱلْمُمِيت|Al-Mumit]] <span lang="ar">ٱلْمُمِيت</span> <small>The Taker of Life, The Giver of Death · <span lang="ur">موت دینے والا</span> · <span class="root">root <span lang="ar">م-و-ت</span></span></small>
+- <span class="num">88</span> [[88 - Al-Jami' ٱلْجَامِع|Al-Jami']] <span lang="ar">ٱلْجَامِع</span> <small>The Gatherer, The Uniter · <span lang="ur">جمع کرنے والا</span> · <span class="root">root <span lang="ar">ج-م-ع</span></span></small>
+- <span class="num">98</span> [[98 - Al-Warith ٱلْوَارِث|Al-Warith]] <span lang="ar">ٱلْوَارِث</span> <small>The Inheritor of All · <span lang="ur">وارث</span> · <span class="root">root <span lang="ar">و-ر-ث</span></span></small>
 
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 5 | [[5 - Al-Quddus ٱلْقُدُّوس\|Al-Quddus ٱلْقُدُّوس]] | The Most Pure · The Holy | ق-د-س |
-
-## Names of the Hereafter — 4
-
-| # | Name | Meaning | Root |
-|---|------|---------|------|
-| 50 | [[50 - Al-Ba'ith ٱلْبَاعِث\|Al-Ba'ith ٱلْبَاعِث]] | The Resurrector · The Raiser | ب-ع-ث |
-| 62 | [[62 - Al-Mumit ٱلْمُمِيت\|Al-Mumit ٱلْمُمِيت]] | The Taker of Life · The Giver of Death | م-و-ت |
-| 88 | [[88 - Al-Jami' ٱلْجَامِع\|Al-Jami' ٱلْجَامِع]] | The Gatherer · The Uniter | ج-م-ع |
-| 98 | [[98 - Al-Warith ٱلْوَارِث\|Al-Warith ٱلْوَارِث]] | The Inheritor of All | و-ر-ث |
+The number at the end of a line is how many times the Name appears in the Quran in this form. A Name with no number does not appear in this form.

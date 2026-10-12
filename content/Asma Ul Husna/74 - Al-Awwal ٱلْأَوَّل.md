@@ -9,15 +9,20 @@ root_meaning: "First, the beginning"
 category: "Names of Essential Nature"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "time"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Awwal — ٱلْأَوَّل
-### The First
-#### اول
 
-> **Root:** أ-و-ل — First, the beginning
+**The First**
+
+اول
+
+> Name 74 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 1 time
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 1 time
+> **Root:** أ-و-ل · First, the beginning
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/time|Time]]
 
 ---
 

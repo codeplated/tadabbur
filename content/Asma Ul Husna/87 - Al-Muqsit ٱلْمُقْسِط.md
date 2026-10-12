@@ -9,15 +9,20 @@ root_meaning: "Justice, equity, balance"
 category: "Names of Justice"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "adl", "akhirah", "love_of_allah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muqsit — ٱلْمُقْسِط
-### The Equitable · The Just
-#### انصاف کرنے والا
 
-> **Root:** ق-س-ط — Justice, equity, balance
+**The Equitable · The Just**
+
+انصاف کرنے والا
+
+> Name 87 of 99 · [[Asma Ul Husna/index#Justice|Names of Justice]] · In the Quran: not in this form
 >
-> **Category:** Names of Justice · **In the Quran:** not in this form
+> **Root:** ق-س-ط · Justice, equity, balance
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/adl|Adl]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/love_of_allah|Love of Allah]]
 
 ---
 

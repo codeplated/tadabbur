@@ -9,15 +9,20 @@ root_meaning: "To make rich, to enrich, to suffice"
 category: "Names of Generosity & Provision"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "rizq", "wealth", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mughni — ٱلْمُغْنِي
-### The Enricher
-#### غنی کرنے والا
 
-> **Root:** غ-ن-ي — To make rich, to enrich, to suffice
+**The Enricher**
+
+غنی کرنے والا
+
+> Name 90 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: not in this form
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** not in this form
+> **Root:** غ-ن-ي · To make rich, to enrich, to suffice
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/wealth|Wealth & Spending]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

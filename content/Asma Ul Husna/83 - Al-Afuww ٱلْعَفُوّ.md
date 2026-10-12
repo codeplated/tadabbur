@@ -9,15 +9,20 @@ root_meaning: "To erase, to efface, to obliterate"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 5
 tags: ["asma_ul_husna", "tawbah", "hilm", "rahmah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Afuww — ٱلْعَفُوّ
-### The Pardoner · The Effacer of Sins
-#### معاف کرنے والا
 
-> **Root:** ع-ف-و — To erase, to efface, to obliterate
+**The Pardoner · The Effacer of Sins**
+
+معاف کرنے والا
+
+> Name 83 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 5 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 5 times
+> **Root:** ع-ف-و · To erase, to efface, to obliterate
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawbah|Tawbah]] · [[tags/hilm|Hilm & Afw]] · [[tags/rahmah|Mercy & Forgiveness]]
 
 ---
 

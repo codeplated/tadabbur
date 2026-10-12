@@ -9,15 +9,20 @@ root_meaning: "Wealth, self-sufficiency, freedom from need"
 category: "Names of Essential Nature"
 quran_occurrences: 18
 tags: ["asma_ul_husna", "wealth", "zakat", "tawheed"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Ghani — ٱلْغَنِيّ
-### The Self-Sufficient · The Rich
-#### بے نیاز · غنی
 
-> **Root:** غ-ن-ي — Wealth, self-sufficiency, freedom from need
+**The Self-Sufficient · The Rich**
+
+بے نیاز، غنی
+
+> Name 89 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 18 times
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 18 times
+> **Root:** غ-ن-ي · Wealth, self-sufficiency, freedom from need
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/wealth|Wealth & Spending]] · [[tags/zakat|Zakat & Sadaqah]] · [[tags/tawheed|Tawheed]]
 
 ---
 

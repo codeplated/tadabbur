@@ -9,15 +9,20 @@ root_meaning: "To count precisely, to enumerate exhaustively"
 category: "Names of Knowledge"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "akhirah", "knowledge", "taqwa"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muhsi — ٱلْمُحْصِي
-### The Reckoner · The Counter
-#### گننے والا
 
-> **Root:** ح-ص-و — To count precisely, to enumerate exhaustively
+**The Reckoner · The Counter**
+
+گننے والا
+
+> Name 58 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: not in this form
 >
-> **Category:** Names of Knowledge · **In the Quran:** not in this form
+> **Root:** ح-ص-و · To count precisely, to enumerate exhaustively
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/taqwa|Taqwa]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "Food, sustenance, strength, to nourish"
 category: "Names of Generosity & Provision"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Muqit — ٱلْمُقِيت
-### The Sustainer · The Nourisher
-#### پالنے والا
 
-> **Root:** ق-و-ت — Food, sustenance, strength, to nourish
+**The Sustainer · The Nourisher**
+
+پالنے والا
+
+> Name 40 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 1 time
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 1 time
+> **Root:** ق-و-ت · Food, sustenance, strength, to nourish
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

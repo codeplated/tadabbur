@@ -6,16 +6,35 @@ export type ConditionPredicate = (props: QuartzComponentProps) => boolean
 const isThemePage = (slug?: string) =>
   slug !== undefined && slug.startsWith("tags/") && slug !== "tags/index"
 
+// Tadabbur: the generator says what kind of page a note is with a class.
+// `index-page` is a listing (Themes, Personalities, Asma Ul Husna); `profile`
+// is a person's or a Name's page, which draws its own heading and says its
+// fields in lines under it, as a theme's page does.
+const hasClass = (props: QuartzComponentProps, name: string) => {
+  const classes = props.fileData.frontmatter?.cssclasses
+  return Array.isArray(classes) ? classes.includes(name) : classes === name
+}
+
+const drawsOwnHead = (props: QuartzComponentProps) =>
+  isThemePage(props.fileData.slug) || hasClass(props, "profile")
+
 const builtinConditions: Record<string, ConditionPredicate> = {
   "not-index": (props) => props.fileData.slug !== "index",
-  // A theme's page draws its own heading, with the Urdu name beside it, and
-  // says what its properties box held in a line under that (tag-page patch).
-  "not-index-or-theme": (props) =>
-    props.fileData.slug !== "index" && !isThemePage(props.fileData.slug),
-  // Reading time means nothing on a list: the Themes page is an index, and a
-  // theme's page is its ayaat, which "1 min read" got wrong by an hour.
-  "not-index-or-tags": (props) =>
-    props.fileData.slug !== "index" && !(props.fileData.slug ?? "").startsWith("tags/"),
+  // The stock title and the properties box stay off the home page and off any
+  // page that draws its own heading: a theme's page (tag-page patch), a
+  // person's page and a Name's page (written into the note by the generator).
+  "stock-head": (props) => props.fileData.slug !== "index" && !drawsOwnHead(props),
+  // Reading time means nothing on a list (the listing pages; a theme's page is
+  // its ayaat, which "1 min read" got wrong by an hour), and on a person's or
+  // a Name's page it stood between the heading and the first line.
+  "reading-time": (props) =>
+    props.fileData.slug !== "index" &&
+    !(props.fileData.slug ?? "").startsWith("tags/") &&
+    !hasClass(props, "index-page") &&
+    !hasClass(props, "profile"),
+  // The tag chips show keys (`story_adam`). A person's and a Name's page list
+  // their themes by name in their head instead.
+  "tag-chips": (props) => !hasClass(props, "profile"),
   "has-tags": (props) => {
     const tags = props.fileData.frontmatter?.tags
     return Array.isArray(tags) && tags.length > 0

@@ -4,14 +4,19 @@ name: "Lut (Lot) / لُوط / لوط علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Time of Ibrahim; the cities of Sodom and Gomorrah"
-order: 7
 tags: ["story_lut", "prophethood", "dawah", "haya", "family", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Lut (Lot) — لُوط
-### لوط علیہ السلام
 
+لوط علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Time of Ibrahim; the cities of Sodom and Gomorrah · [[#Mentioned in Quran|78 ayaat]]
+>
 > **Also known as:** Lot
+>
+> **Themes:** [[tags/story_lut|Prophet Lut]] · [[tags/prophethood|Prophethood]] · [[tags/dawah|Da'wah]] · [[tags/haya|Haya]] · [[tags/family|Family & Kinship]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

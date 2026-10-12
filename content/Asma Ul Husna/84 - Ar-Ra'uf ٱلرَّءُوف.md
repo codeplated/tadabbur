@@ -9,15 +9,20 @@ root_meaning: "Deep compassion, tender pity"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 10
 tags: ["asma_ul_husna", "rahmah", "ihsan"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Ra'uf — ٱلرَّءُوف
-### The Compassionate · The Most Kind
-#### نہایت مہربان
 
-> **Root:** ر-أ-ف — Deep compassion, tender pity
+**The Compassionate · The Most Kind**
+
+نہایت مہربان
+
+> Name 84 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 10 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 10 times
+> **Root:** ر-أ-ف · Deep compassion, tender pity
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/ihsan|Ihsan]]
 
 ---
 

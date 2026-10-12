@@ -9,15 +9,20 @@ root_meaning: "To be pure, free of all defect"
 category: "Names of Holiness"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "tawheed", "dhikr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Quddus — ٱلْقُدُّوس
-### The Most Pure · The Holy
-#### پاک ذات
 
-> **Root:** ق-د-س — To be pure, free of all defect
+**The Most Pure · The Holy**
+
+پاک ذات
+
+> Name 5 of 99 · [[Asma Ul Husna/index#Holiness|Names of Holiness]] · In the Quran: 2 times
 >
-> **Category:** Names of Holiness · **In the Quran:** 2 times
+> **Root:** ق-د-س · To be pure, free of all defect
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/dhikr|Dhikr & Tasbih]]
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Themes
-cssclasses: [themes-index]
+cssclasses: [index-page, themes-index]
 ---
 The 139 themes of the Quran, in 13 categories. Open a theme for every ayah that carries it.
 

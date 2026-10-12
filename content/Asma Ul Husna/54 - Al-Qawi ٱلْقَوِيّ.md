@@ -9,15 +9,20 @@ root_meaning: "Strength, power, capability"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 9
 tags: ["asma_ul_husna", "tawakkul", "conflict"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Qawi — ٱلْقَوِيّ
-### The All-Strong
-#### قوت والا
 
-> **Root:** ق-و-و — Strength, power, capability
+**The All-Strong**
+
+قوت والا
+
+> Name 54 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 9 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 9 times
+> **Root:** ق-و-و · Strength, power, capability
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]] · [[tags/conflict|War, Ethics & Peace]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "Peace, wholeness, freedom from defect"
 category: "Names of Peace & Security"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "anxiety_fear", "jannah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # As-Salam — ٱلسَّلَام
-### The Source of Peace
-#### سلامتی دینے والا
 
-> **Root:** س-ل-م — Peace, wholeness, freedom from defect
+**The Source of Peace**
+
+سلامتی دینے والا
+
+> Name 6 of 99 · [[Asma Ul Husna/index#Peace & Security|Names of Peace & Security]] · In the Quran: 1 time
 >
-> **Category:** Names of Peace & Security · **In the Quran:** 1 time
+> **Root:** س-ل-م · Peace, wholeness, freedom from defect
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/anxiety_fear|Anxiety, Fear & Sakinah]] · [[tags/jannah|Jannah]]
 
 ---
 

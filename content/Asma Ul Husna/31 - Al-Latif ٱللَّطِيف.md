@@ -9,15 +9,20 @@ root_meaning: "Subtle, gentle, so fine it cannot be perceived"
 category: "Names of Knowledge"
 quran_occurrences: 7
 tags: ["asma_ul_husna", "rahmah", "qadr", "knowledge"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Latif — ٱللَّطِيف
-### The Subtle · The Gentle
-#### باریک بین · مہربان
 
-> **Root:** ل-ط-ف — Subtle, gentle, so fine it cannot be perceived
+**The Subtle · The Gentle**
+
+باریک بین، مہربان
+
+> Name 31 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 7 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 7 times
+> **Root:** ل-ط-ف · Subtle, gentle, so fine it cannot be perceived
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/qadr|Qadr]] · [[tags/knowledge|Knowledge & Wisdom]]
 
 ---
 

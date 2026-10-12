@@ -9,15 +9,20 @@ root_meaning: "Benefit, profit, good"
 category: "Names of Generosity & Provision"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "qadr", "tawakkul", "shirk"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # An-Nafi' — ٱلنَّافِع
-### The Benefiter · The Creator of Good
-#### نفع دینے والا
 
-> **Root:** ن-ف-ع — Benefit, profit, good
+**The Benefiter · The Creator of Good**
+
+نفع دینے والا
+
+> Name 93 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: not in this form
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** not in this form
+> **Root:** ن-ف-ع · Benefit, profit, good
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/tawakkul|Tawakkul]] · [[tags/shirk|Shirk]]
 
 ---
 

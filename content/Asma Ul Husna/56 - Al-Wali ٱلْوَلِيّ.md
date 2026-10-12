@@ -9,15 +9,20 @@ root_meaning: "Closeness, friendship, guardianship, support"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 12
 tags: ["asma_ul_husna", "wala_bara", "tawakkul", "love_of_allah", "hidayah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wali — ٱلْوَلِيّ
-### The Protecting Friend · The Guardian
-#### دوست · سرپرست
 
-> **Root:** و-ل-و — Closeness, friendship, guardianship, support
+**The Protecting Friend · The Guardian**
+
+دوست، سرپرست
+
+> Name 56 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 12 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 12 times
+> **Root:** و-ل-و · Closeness, friendship, guardianship, support
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/wala_bara|Alliances & Loyalty]] · [[tags/tawakkul|Tawakkul]] · [[tags/love_of_allah|Love of Allah]] · [[tags/hidayah|Guidance]]
 
 ---
 

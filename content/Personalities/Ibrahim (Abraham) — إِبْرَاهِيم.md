@@ -4,14 +4,19 @@ name: "Ibrahim (Abraham) / إِبْرَاهِيم / ابراہیم علیہ ال
 type: Prophet / Messenger
 path: Straight Path
 era: "Approximately 2000 BCE, Mesopotamia and Arabia"
-order: 5
 tags: ["story_ibrahim", "prophethood", "tawheed", "trial_test", "kaaba", "hajj", "dawah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ibrahim (Abraham) — إِبْرَاهِيم
-### ابراہیم علیہ السلام
 
+ابراہیم علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Approximately 2000 BCE, Mesopotamia and Arabia · [[#Mentioned in Quran|169 ayaat]]
+>
 > **Also known as:** Abraham, Khalilullah (Friend of Allah), Abu al-Anbiya (Father of Prophets)
+>
+> **Themes:** [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/prophethood|Prophethood]] · [[tags/tawheed|Tawheed]] · [[tags/trial_test|Trials & Tests]] · [[tags/kaaba|Kaaba & Qiblah]] · [[tags/hajj|Hajj & Umrah]] · [[tags/dawah|Da'wah]]
 
 ---
 

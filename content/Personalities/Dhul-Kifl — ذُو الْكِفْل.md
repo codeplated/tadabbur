@@ -4,14 +4,19 @@ name: "Dhul-Kifl / ذُو الْكِفْل / ذوالکفل علیہ السلا�
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant"
-order: 20
 tags: ["story_dhulkifl", "prophethood", "sabr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Dhul-Kifl — ذُو الْكِفْل
-### ذوالکفل علیہ السلام
 
+ذوالکفل علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Levant · [[#Mentioned in Quran|3 ayaat]]
+>
 > **Also known as:** Possibly Ezekiel or Elijah (scholarly debate)
+>
+> **Themes:** [[tags/story_dhulkifl|Prophet Dhul-Kifl]] · [[tags/prophethood|Prophethood]] · [[tags/sabr|Sabr]]
 
 ---
 

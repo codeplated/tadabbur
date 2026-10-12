@@ -9,15 +9,20 @@ root_meaning: "Justice, balance, straightness"
 category: "Names of Justice"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "adl", "akhirah", "oppression"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Adl — ٱلْعَدْل
-### The Just · The Equitable
-#### عادل
 
-> **Root:** ع-د-ل — Justice, balance, straightness
+**The Just · The Equitable**
+
+عادل
+
+> Name 30 of 99 · [[Asma Ul Husna/index#Justice|Names of Justice]] · In the Quran: not in this form
 >
-> **Category:** Names of Justice · **In the Quran:** not in this form
+> **Root:** ع-د-ل · Justice, balance, straightness
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/adl|Adl]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/oppression|Oppression]]
 
 ---
 

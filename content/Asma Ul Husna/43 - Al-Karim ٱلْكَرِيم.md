@@ -9,15 +9,20 @@ root_meaning: "Nobility, generosity, honor"
 category: "Names of Generosity & Provision"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "ihsan", "rizq", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Karim — ٱلْكَرِيم
-### The Generous · The Noble
-#### کریم · سخی
 
-> **Root:** ك-ر-م — Nobility, generosity, honor
+**The Generous · The Noble**
+
+کریم، سخی
+
+> Name 43 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 2 times
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 2 times
+> **Root:** ك-ر-م · Nobility, generosity, honor
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/ihsan|Ihsan]] · [[tags/rizq|Rizq]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

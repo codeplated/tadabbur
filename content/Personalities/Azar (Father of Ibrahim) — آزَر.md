@@ -4,14 +4,19 @@ name: "Azar (Father of Ibrahim) / آزَر / آزر"
 type: Person
 path: Deviated Path
 era: "Time of Ibrahim"
-order: 44
 tags: ["story_ibrahim", "shirk", "parents", "family", "dawah", "kufr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Azar (Father of Ibrahim) — آزَر
-### آزر
 
+آزر
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Ibrahim · [[#Mentioned in Quran|17 ayaat]]
+>
 > **Also known as:** Terah (in some traditions)
+>
+> **Themes:** [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/shirk|Shirk]] · [[tags/parents|Parents & Elders]] · [[tags/family|Family & Kinship]] · [[tags/dawah|Da'wah]] · [[tags/kufr|Kufr]]
 
 ---
 

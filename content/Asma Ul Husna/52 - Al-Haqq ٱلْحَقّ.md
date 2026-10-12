@@ -9,15 +9,20 @@ root_meaning: "Truth, reality, that which is established and permanent"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 10
 tags: ["asma_ul_husna", "tawheed", "hidayah", "shirk"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Haqq — ٱلْحَقّ
-### The Truth · The Reality
-#### حق · سچ
 
-> **Root:** ح-ق-ق — Truth, reality, that which is established and permanent
+**The Truth · The Reality**
+
+حق، سچ
+
+> Name 52 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 10 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 10 times
+> **Root:** ح-ق-ق · Truth, reality, that which is established and permanent
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/hidayah|Guidance]] · [[tags/shirk|Shirk]]
 
 ---
 

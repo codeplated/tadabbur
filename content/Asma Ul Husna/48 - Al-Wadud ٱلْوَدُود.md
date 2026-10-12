@@ -9,15 +9,20 @@ root_meaning: "Love, affection, tenderness, warmth"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "love_of_allah", "rahmah", "tawbah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Wadud — ٱلْوَدُود
-### The Loving · The Affectionate
-#### محبت کرنے والا
 
-> **Root:** و-د-د — Love, affection, tenderness, warmth
+**The Loving · The Affectionate**
+
+محبت کرنے والا
+
+> Name 48 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 2 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 2 times
+> **Root:** و-د-د · Love, affection, tenderness, warmth
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/love_of_allah|Love of Allah]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/tawbah|Tawbah]]
 
 ---
 

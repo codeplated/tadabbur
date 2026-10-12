@@ -9,15 +9,20 @@ root_meaning: "To humiliate, to make submissive, to abase"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "qadr", "kibr", "oppression"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mudhill — ٱلْمُذِلّ
-### The Humiliator
-#### ذلیل کرنے والا
 
-> **Root:** ذ-ل-ل — To humiliate, to make submissive, to abase
+**The Humiliator**
+
+ذلیل کرنے والا
+
+> Name 26 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ذ-ل-ل · To humiliate, to make submissive, to abase
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/kibr|Arrogance & Humility]] · [[tags/oppression|Oppression]]
 
 ---
 

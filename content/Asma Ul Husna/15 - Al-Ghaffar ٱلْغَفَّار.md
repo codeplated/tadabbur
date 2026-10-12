@@ -9,15 +9,20 @@ root_meaning: "To cover, to conceal, to forgive"
 category: "Names of Forgiveness & Mercy"
 quran_occurrences: 5
 tags: ["asma_ul_husna", "rahmah", "tawbah", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Ghaffar — ٱلْغَفَّار
-### The Repeatedly Forgiving
-#### بار بار بخشنے والا
 
-> **Root:** غ-ف-ر — To cover, to conceal, to forgive
+**The Repeatedly Forgiving**
+
+بار بار بخشنے والا
+
+> Name 15 of 99 · [[Asma Ul Husna/index#Forgiveness & Mercy|Names of Forgiveness & Mercy]] · In the Quran: 5 times
 >
-> **Category:** Names of Forgiveness & Mercy · **In the Quran:** 5 times
+> **Root:** غ-ف-ر · To cover, to conceal, to forgive
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/tawbah|Tawbah]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

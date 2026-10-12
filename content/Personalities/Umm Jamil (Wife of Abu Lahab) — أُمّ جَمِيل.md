@@ -4,14 +4,19 @@ name: "Umm Jamil (Wife of Abu Lahab) / أُمّ جَمِيل / ام جمیل"
 type: Person
 path: Deviated Path
 era: "Makkah, time of early Islam"
-order: 59
 tags: ["story_muhammad", "women", "oppression", "kufr", "jahannam"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Umm Jamil (Wife of Abu Lahab) — أُمّ جَمِيل
-### ام جمیل
 
+ام جمیل
+
+> [[Personalities/index#People|Person]] · Deviated Path · Makkah, time of early Islam · [[#Mentioned in Quran|2 ayaat]]
+>
 > **Also known as:** Arwa bint Harb, Carrier of thorns
+>
+> **Themes:** [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/women|Women]] · [[tags/oppression|Oppression]] · [[tags/kufr|Kufr]] · [[tags/jahannam|Jahannam]]
 
 ---
 

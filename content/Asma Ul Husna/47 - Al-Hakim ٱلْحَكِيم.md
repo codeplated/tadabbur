@@ -9,15 +9,20 @@ root_meaning: "Wisdom, precision, placing things in their right place"
 category: "Names of Knowledge"
 quran_occurrences: 97
 tags: ["asma_ul_husna", "knowledge", "qadr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hakim — ٱلْحَكِيم
-### The All-Wise
-#### حکیم · دانا
 
-> **Root:** ح-ك-م — Wisdom, precision, placing things in their right place
+**The All-Wise**
+
+حکیم، دانا
+
+> Name 47 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 97 times
 >
-> **Category:** Names of Knowledge · **In the Quran:** 97 times
+> **Root:** ح-ك-م · Wisdom, precision, placing things in their right place
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/qadr|Qadr]]
 
 ---
 

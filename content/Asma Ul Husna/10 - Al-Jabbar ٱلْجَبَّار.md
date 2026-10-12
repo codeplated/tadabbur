@@ -9,15 +9,20 @@ root_meaning: "To compel, to set broken bones, to restore"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "grief_loss", "hope_raja", "oppression"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Jabbar — ٱلْجَبَّار
-### The Compeller · The Restorer
-#### جبر کرنے والا · ٹوٹے کو جوڑنے والا
 
-> **Root:** ج-ب-ر — To compel, to set broken bones, to restore
+**The Compeller · The Restorer**
+
+جبر کرنے والا، ٹوٹے کو جوڑنے والا
+
+> Name 10 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ج-ب-ر · To compel, to set broken bones, to restore
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/grief_loss|Grief & Loss]] · [[tags/hope_raja|Hope & Raja]] · [[tags/oppression|Oppression]]
 
 ---
 

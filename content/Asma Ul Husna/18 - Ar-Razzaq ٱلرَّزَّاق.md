@@ -9,15 +9,20 @@ root_meaning: "To provide sustenance, to supply what is needed"
 category: "Names of Generosity & Provision"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "tawakkul", "work_ethics"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Razzaq — ٱلرَّزَّاق
-### The Provider · The Sustainer
-#### روزی دینے والا
 
-> **Root:** ر-ز-ق — To provide sustenance, to supply what is needed
+**The Provider · The Sustainer**
+
+روزی دینے والا
+
+> Name 18 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 1 time
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 1 time
+> **Root:** ر-ز-ق · To provide sustenance, to supply what is needed
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/tawakkul|Tawakkul]] · [[tags/work_ethics|Work & Effort]]
 
 ---
 

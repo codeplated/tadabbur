@@ -9,15 +9,20 @@ root_meaning: "Majesty/Glory + Generosity/Honor"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 2
 tags: ["asma_ul_husna", "tawheed", "dhikr", "death_reminder"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Dhul-Jalali wal-Ikram — ذُو ٱلْجَلَالِ وَٱلْإِكْرَام
-### The Lord of Majesty and Generosity
-#### جلال و کرم والا
 
-> **Root:** ج-ل-ل and ك-ر-م — Majesty/Glory + Generosity/Honor
+**The Lord of Majesty and Generosity**
+
+جلال و کرم والا
+
+> Name 86 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 2 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 2 times
+> **Root:** ج-ل-ل and ك-ر-م · Majesty/Glory + Generosity/Honor
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/dhikr|Dhikr & Tasbih]] · [[tags/death_reminder|Death & the Grave]]
 
 ---
 

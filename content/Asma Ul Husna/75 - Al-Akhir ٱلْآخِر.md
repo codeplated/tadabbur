@@ -9,15 +9,20 @@ root_meaning: "Last, the end"
 category: "Names of Essential Nature"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "time", "death_reminder"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Akhir — ٱلْآخِر
-### The Last
-#### آخر
 
-> **Root:** أ-خ-ر — Last, the end
+**The Last**
+
+آخر
+
+> Name 75 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 1 time
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 1 time
+> **Root:** أ-خ-ر · Last, the end
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/time|Time]] · [[tags/death_reminder|Death & the Grave]]
 
 ---
 

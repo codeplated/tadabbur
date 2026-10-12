@@ -9,15 +9,20 @@ root_meaning: "To stand, to maintain, to sustain"
 category: "Names of Essential Nature"
 quran_occurrences: 3
 tags: ["asma_ul_husna", "tawheed", "tawakkul"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Qayyum — ٱلْقَيُّوم
-### The Self-Sustaining · The Sustainer of All
-#### قائم رہنے والا
 
-> **Root:** ق-و-م — To stand, to maintain, to sustain
+**The Self-Sustaining · The Sustainer of All**
+
+قائم رہنے والا
+
+> Name 64 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 3 times
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 3 times
+> **Root:** ق-و-م · To stand, to maintain, to sustain
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/tawakkul|Tawakkul]]
 
 ---
 

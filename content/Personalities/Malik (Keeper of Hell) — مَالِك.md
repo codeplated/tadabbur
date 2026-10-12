@@ -4,14 +4,19 @@ name: "Malik (Keeper of Hell) / مَالِك / مالک — جہنم کا دار
 type: Angel
 path: Straight Path
 era: "The Hereafter"
-order: 31
 tags: ["angels", "jahannam", "akhirah", "adl"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Malik (Keeper of Hell) — مَالِك
-### مالک — جہنم کا داروغہ
 
+مالک — جہنم کا داروغہ
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · The Hereafter · [[#Mentioned in Quran|1 ayah]]
+>
 > **Also known as:** Keeper of Jahannam
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/jahannam|Jahannam]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/adl|Adl]]
 
 ---
 

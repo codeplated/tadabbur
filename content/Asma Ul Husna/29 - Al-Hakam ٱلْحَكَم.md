@@ -9,15 +9,20 @@ root_meaning: "To judge, to rule, to prevent harm through wisdom"
 category: "Names of Justice"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "adl", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Hakam — ٱلْحَكَم
-### The Judge · The Arbitrator
-#### فیصلہ کرنے والا
 
-> **Root:** ح-ك-م — To judge, to rule, to prevent harm through wisdom
+**The Judge · The Arbitrator**
+
+فیصلہ کرنے والا
+
+> Name 29 of 99 · [[Asma Ul Husna/index#Justice|Names of Justice]] · In the Quran: 1 time
 >
-> **Category:** Names of Justice · **In the Quran:** 1 time
+> **Root:** ح-ك-م · To judge, to rule, to prevent harm through wisdom
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/adl|Adl]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

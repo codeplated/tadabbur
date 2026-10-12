@@ -9,15 +9,20 @@ root_meaning: "To send, to raise, to awaken, to dispatch"
 category: "Names of the Hereafter"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "resurrection", "akhirah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Ba'ith — ٱلْبَاعِث
-### The Resurrector · The Raiser
-#### اٹھانے والا
 
-> **Root:** ب-ع-ث — To send, to raise, to awaken, to dispatch
+**The Resurrector · The Raiser**
+
+اٹھانے والا
+
+> Name 50 of 99 · [[Asma Ul Husna/index#The Hereafter|Names of the Hereafter]] · In the Quran: not in this form
 >
-> **Category:** Names of the Hereafter · **In the Quran:** not in this form
+> **Root:** ب-ع-ث · To send, to raise, to awaken, to dispatch
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/resurrection|Resurrection]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 ---
 

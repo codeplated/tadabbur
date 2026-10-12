@@ -4,14 +4,19 @@ name: "Qarun (Korah) / قَارُون / قارون"
 type: Person
 path: Deviated Path
 era: "Time of Musa, among Bani Israel"
-order: 53
 tags: ["story_musa", "wealth", "kibr", "shukr", "dunya", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Qarun (Korah) — قَارُون
-### قارون
 
+قارون
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Musa, among Bani Israel · [[#Mentioned in Quran|9 ayaat]]
+>
 > **Also known as:** Korah
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/wealth|Wealth & Spending]] · [[tags/kibr|Arrogance & Humility]] · [[tags/shukr|Shukr]] · [[tags/dunya|Dunya]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

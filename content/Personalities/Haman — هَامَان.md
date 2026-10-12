@@ -4,14 +4,17 @@ name: "Haman / هَامَان / ہامان"
 type: Person
 path: Deviated Path
 era: "Time of Musa, Egypt"
-order: 52
 tags: ["story_musa", "oppression", "leadership", "kibr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Haman — هَامَان
-### ہامان
 
-> **Also known as:** —
+ہامان
+
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Musa, Egypt · [[#Mentioned in Quran|7 ayaat]]
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/oppression|Oppression]] · [[tags/leadership|Leadership & Authority]] · [[tags/kibr|Arrogance & Humility]]
 
 ---
 

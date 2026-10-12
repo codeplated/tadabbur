@@ -9,15 +9,20 @@ root_meaning: "Power, capability, to measure precisely"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 12
 tags: ["asma_ul_husna", "qadr", "tawakkul", "resurrection"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Qadir — ٱلْقَادِر
-### The Capable · The Powerful
-#### قادر
 
-> **Root:** ق-د-ر — Power, capability, to measure precisely
+**The Capable · The Powerful**
+
+قادر
+
+> Name 70 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 12 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 12 times
+> **Root:** ق-د-ر · Power, capability, to measure precisely
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/qadr|Qadr]] · [[tags/tawakkul|Tawakkul]] · [[tags/resurrection|Resurrection]]
 
 ---
 

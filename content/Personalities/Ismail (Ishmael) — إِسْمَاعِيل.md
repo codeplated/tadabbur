@@ -4,14 +4,19 @@ name: "Ismail (Ishmael) / إِسْمَاعِيل / اسماعیل علیہ ال�
 type: Prophet / Messenger
 path: Straight Path
 era: "Time of Ibrahim, ancient Makkah"
-order: 6
 tags: ["story_ismail", "story_ibrahim", "prophethood", "trial_test", "sabr", "kaaba", "amanah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ismail (Ishmael) — إِسْمَاعِيل
-### اسماعیل علیہ السلام
 
+اسماعیل علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Time of Ibrahim, ancient Makkah · [[#Mentioned in Quran|18 ayaat]]
+>
 > **Also known as:** Ishmael, Dhbihullah (the one to be sacrificed)
+>
+> **Themes:** [[tags/story_ismail|Prophet Ismail]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/prophethood|Prophethood]] · [[tags/trial_test|Trials & Tests]] · [[tags/sabr|Sabr]] · [[tags/kaaba|Kaaba & Qiblah]] · [[tags/amanah|Amanah & Promises]]
 
 ---
 

@@ -9,15 +9,20 @@ root_meaning: "Hidden, interior, innermost"
 category: "Names of Knowledge"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "knowledge"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Batin — ٱلْبَاطِن
-### The Hidden · The Innermost
-#### باطن
 
-> **Root:** ب-ط-ن — Hidden, interior, innermost
+**The Hidden · The Innermost**
+
+باطن
+
+> Name 77 of 99 · [[Asma Ul Husna/index#Knowledge|Names of Knowledge]] · In the Quran: 1 time
 >
-> **Category:** Names of Knowledge · **In the Quran:** 1 time
+> **Root:** ب-ط-ن · Hidden, interior, innermost
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/knowledge|Knowledge & Wisdom]]
 
 ---
 

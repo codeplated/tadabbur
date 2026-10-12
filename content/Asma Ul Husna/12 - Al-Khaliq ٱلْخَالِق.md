@@ -9,15 +9,20 @@ root_meaning: "To create from nothing, to measure precisely"
 category: "Names of Creation"
 quran_occurrences: 8
 tags: ["asma_ul_husna", "nature_signs", "human_creation", "tawheed"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Khaliq — ٱلْخَالِق
-### The Creator
-#### پیدا کرنے والا
 
-> **Root:** خ-ل-ق — To create from nothing, to measure precisely
+**The Creator**
+
+پیدا کرنے والا
+
+> Name 12 of 99 · [[Asma Ul Husna/index#Creation|Names of Creation]] · In the Quran: 8 times
 >
-> **Category:** Names of Creation · **In the Quran:** 8 times
+> **Root:** خ-ل-ق · To create from nothing, to measure precisely
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/nature_signs|Signs in Creation]] · [[tags/human_creation|Creation of Mankind]] · [[tags/tawheed|Tawheed]]
 
 ---
 

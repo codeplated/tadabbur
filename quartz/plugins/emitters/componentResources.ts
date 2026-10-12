@@ -7,7 +7,7 @@ import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
 // @ts-ignore
-import themesIndexScript from "../../components/scripts/themesIndex.inline"
+import indexPageScript from "../../components/scripts/indexPage.inline"
 // @ts-ignore
 import themePageScript from "../../components/scripts/themePage.inline"
 // @ts-ignore
@@ -96,11 +96,12 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     componentResources.css.push(popoverStyle)
   }
 
-  // The Themes page's filter, arrangements and closing categories. It goes to
-  // every page, as the scripts above do: the Themes page is usually reached by
-  // a link from another one, and SPA navigation runs the scripts already
-  // loaded rather than fetching new ones. It does nothing anywhere else.
-  componentResources.afterDOMLoaded.push(themesIndexScript)
+  // The listing pages (Themes, Personalities, Asma Ul Husna): their filter,
+  // arrangements and closing groups. It goes to every page, as the scripts
+  // above do: a listing is usually reached by a link from another page, and
+  // SPA navigation runs the scripts already loaded rather than fetching new
+  // ones. It does nothing anywhere else.
+  componentResources.afterDOMLoaded.push(indexPageScript)
   // A theme's own page: marks the surah being read in its surah index.
   componentResources.afterDOMLoaded.push(themePageScript)
   // The site menu: its lists, the mark on the page being read, the drawer.

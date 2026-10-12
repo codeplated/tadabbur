@@ -9,15 +9,20 @@ root_meaning: "Greatness, magnitude"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "tawheed", "kibr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Mutakabbir — ٱلْمُتَكَبِّر
-### The Supremely Great
-#### بڑائی والا
 
-> **Root:** ك-ب-ر — Greatness, magnitude
+**The Supremely Great**
+
+بڑائی والا
+
+> Name 11 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 1 time
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 1 time
+> **Root:** ك-ب-ر · Greatness, magnitude
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/kibr|Arrogance & Humility]]
 
 ---
 

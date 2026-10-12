@@ -4,14 +4,19 @@ name: "Wife of Fir'awn (Asiya) / امرأة فرعون / آسیہ — فرعون
 type: Person
 path: Straight Path
 era: "Time of Musa, Egypt"
-order: 51
 tags: ["story_musa", "women", "iman", "oppression", "sabr", "jannah", "parables"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Wife of Fir'awn (Asiya) — امرأة فرعون
-### آسیہ — فرعون کی بیوی
 
+آسیہ — فرعون کی بیوی
+
+> [[Personalities/index#People|Person]] · Straight Path · Time of Musa, Egypt · [[#Mentioned in Quran|2 ayaat]]
+>
 > **Also known as:** Asiya bint Muzahim, One of the four greatest women in Islam
+>
+> **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/women|Women]] · [[tags/iman|Iman]] · [[tags/oppression|Oppression]] · [[tags/sabr|Sabr]] · [[tags/jannah|Jannah]] · [[tags/parables|Parables & Amthal]]
 
 ---
 

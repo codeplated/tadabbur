@@ -9,15 +9,20 @@ root_meaning: "To remain, to last, to endure"
 category: "Names of Essential Nature"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "death_reminder", "dunya"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Baqi — ٱلْبَاقِي
-### The Everlasting
-#### باقی رہنے والا
 
-> **Root:** ب-ق-و — To remain, to last, to endure
+**The Everlasting**
+
+باقی رہنے والا
+
+> Name 97 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: not in this form
 >
-> **Category:** Names of Essential Nature · **In the Quran:** not in this form
+> **Root:** ب-ق-و · To remain, to last, to endure
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/death_reminder|Death & the Grave]] · [[tags/dunya|Dunya]]
 
 ---
 

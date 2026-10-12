@@ -4,14 +4,19 @@ name: "Sumayyah bint Khayyat / سُمَيَّة / سمیہ رضی اللہ عن�
 type: Companion
 path: Straight Path
 era: "Early Islam, Makkah"
-order: 38
 tags: ["sahabah", "women", "sabr", "oppression", "iman"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Sumayyah bint Khayyat — سُمَيَّة
-### سمیہ رضی اللہ عنہا
 
+سمیہ رضی اللہ عنہا
+
+> [[Personalities/index#Companions|Companion]] · Straight Path · Early Islam, Makkah
+>
 > **Also known as:** First Martyr of Islam, Umm Ammar
+>
+> **Themes:** [[tags/sahabah|Sahabah]] · [[tags/women|Women]] · [[tags/sabr|Sabr]] · [[tags/oppression|Oppression]] · [[tags/iman|Iman]]
 
 ---
 

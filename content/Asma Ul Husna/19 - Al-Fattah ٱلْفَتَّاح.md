@@ -9,15 +9,20 @@ root_meaning: "To open, to grant victory, to judge"
 category: "Names of Generosity & Provision"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "hope_raja", "rahmah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Fattah — ٱلْفَتَّاح
-### The Opener · The Judge
-#### کھولنے والا · فیصلہ کرنے والا
 
-> **Root:** ف-ت-ح — To open, to grant victory, to judge
+**The Opener · The Judge**
+
+کھولنے والا، فیصلہ کرنے والا
+
+> Name 19 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 1 time
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 1 time
+> **Root:** ف-ت-ح · To open, to grant victory, to judge
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/hope_raja|Hope & Raja]] · [[tags/rahmah|Mercy & Forgiveness]]
 
 ---
 

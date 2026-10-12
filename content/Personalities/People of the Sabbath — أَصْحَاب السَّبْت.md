@@ -4,14 +4,19 @@ name: "People of the Sabbath / أَصْحَاب السَّبْت / اصحاب ا
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Israelite history"
-order: 74
 tags: ["story_bani_israil", "trial_test", "dawah", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # People of the Sabbath — أَصْحَاب السَّبْت
-### اصحاب السبت
 
+اصحاب السبت
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Ancient Israelite history · [[#Mentioned in Quran|7 ayaat]]
+>
 > **Also known as:** Companions of the Sabbath
+>
+> **Themes:** [[tags/story_bani_israil|Bani Israil]] · [[tags/trial_test|Trials & Tests]] · [[tags/dawah|Da'wah]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

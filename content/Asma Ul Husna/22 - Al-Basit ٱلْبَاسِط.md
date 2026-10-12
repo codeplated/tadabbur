@@ -9,15 +9,20 @@ root_meaning: "To expand, to extend, to open wide"
 category: "Names of Generosity & Provision"
 quran_occurrences: 1
 tags: ["asma_ul_husna", "rizq", "zakat", "hope_raja"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Basit — ٱلْبَاسِط
-### The Expander · The Reliever
-#### کشادہ کرنے والا
 
-> **Root:** ب-س-ط — To expand, to extend, to open wide
+**The Expander · The Reliever**
+
+کشادہ کرنے والا
+
+> Name 22 of 99 · [[Asma Ul Husna/index#Generosity & Provision|Names of Generosity & Provision]] · In the Quran: 1 time
 >
-> **Category:** Names of Generosity & Provision · **In the Quran:** 1 time
+> **Root:** ب-س-ط · To expand, to extend, to open wide
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rizq|Rizq]] · [[tags/zakat|Zakat & Sadaqah]] · [[tags/hope_raja|Hope & Raja]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Yusuf (Joseph) / يُوسُف / یوسف علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Patriarch era, Canaan and Egypt"
-order: 10
 tags: ["story_yusuf", "prophethood", "sabr", "haya", "hilm", "leadership", "knowledge"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Yusuf (Joseph) — يُوسُف
-### یوسف علیہ السلام
 
+یوسف علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Patriarch era, Canaan and Egypt · [[#Mentioned in Quran|100 ayaat]]
+>
 > **Also known as:** Joseph, Ahsanul Qasas (Best of Stories)
+>
+> **Themes:** [[tags/story_yusuf|Prophet Yusuf]] · [[tags/prophethood|Prophethood]] · [[tags/sabr|Sabr]] · [[tags/haya|Haya]] · [[tags/hilm|Hilm & Afw]] · [[tags/leadership|Leadership & Authority]] · [[tags/knowledge|Knowledge & Wisdom]]
 
 ---
 

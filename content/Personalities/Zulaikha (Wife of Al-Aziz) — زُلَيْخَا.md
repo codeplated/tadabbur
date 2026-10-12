@@ -4,14 +4,19 @@ name: "Zulaikha (Wife of Al-Aziz) / زُلَيْخَا / زلیخا"
 type: Person
 path: Mixed — Erred, Repented, or Complex
 era: "Time of Yusuf, Egypt"
-order: 49
 tags: ["story_yusuf", "women", "tazkiyah", "haya", "sidq", "tawbah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Zulaikha (Wife of Al-Aziz) — زُلَيْخَا
-### زلیخا
 
+زلیخا
+
+> [[Personalities/index#People|Person]] · Mixed Path · Time of Yusuf, Egypt · [[#Mentioned in Quran|11 ayaat]]
+>
 > **Also known as:** Wife of Al-Aziz, Imra'at al-Aziz
+>
+> **Themes:** [[tags/story_yusuf|Prophet Yusuf]] · [[tags/women|Women]] · [[tags/tazkiyah|Tazkiyah]] · [[tags/haya|Haya]] · [[tags/sidq|Sidq]] · [[tags/tawbah|Tawbah]]
 
 ---
 

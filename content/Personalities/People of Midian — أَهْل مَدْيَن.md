@@ -4,14 +4,19 @@ name: "People of Midian / أَهْل مَدْيَن / اہل مدین"
 type: Group / Nation
 path: Deviated Path
 era: "Ancient Midian (northwest Arabia)"
-order: 73
 tags: ["story_shuayb", "trade", "kufr", "history_lessons"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # People of Midian — أَهْل مَدْيَن
-### اہل مدین
 
+اہل مدین
+
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Ancient Midian (northwest Arabia) · [[#Mentioned in Quran|10 ayaat]]
+>
 > **Also known as:** Midianites
+>
+> **Themes:** [[tags/story_shuayb|Prophet Shuayb]] · [[tags/trade|Trade & Business]] · [[tags/kufr|Kufr]] · [[tags/history_lessons|Lessons from History]]
 
 ---
 

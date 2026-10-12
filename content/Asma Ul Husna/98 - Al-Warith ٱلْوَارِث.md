@@ -9,15 +9,20 @@ root_meaning: "To inherit, to remain after others"
 category: "Names of the Hereafter"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "death_reminder", "dunya", "wealth"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Warith — ٱلْوَارِث
-### The Inheritor of All
-#### وارث
 
-> **Root:** و-ر-ث — To inherit, to remain after others
+**The Inheritor of All**
+
+وارث
+
+> Name 98 of 99 · [[Asma Ul Husna/index#The Hereafter|Names of the Hereafter]] · In the Quran: not in this form
 >
-> **Category:** Names of the Hereafter · **In the Quran:** not in this form
+> **Root:** و-ر-ث · To inherit, to remain after others
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/death_reminder|Death & the Grave]] · [[tags/dunya|Dunya]] · [[tags/wealth|Wealth & Spending]]
 
 ---
 

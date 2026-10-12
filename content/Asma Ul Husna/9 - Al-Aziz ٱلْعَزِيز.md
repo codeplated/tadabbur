@@ -9,15 +9,20 @@ root_meaning: "To be mighty, rare, precious, unconquerable"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 92
 tags: ["asma_ul_husna", "tawakkul", "oppression"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Aziz — ٱلْعَزِيز
-### The Almighty · The Invincible
-#### غالب
 
-> **Root:** ع-ز-ز — To be mighty, rare, precious, unconquerable
+**The Almighty · The Invincible**
+
+غالب
+
+> Name 9 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 92 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 92 times
+> **Root:** ع-ز-ز · To be mighty, rare, precious, unconquerable
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]] · [[tags/oppression|Oppression]]
 
 ---
 

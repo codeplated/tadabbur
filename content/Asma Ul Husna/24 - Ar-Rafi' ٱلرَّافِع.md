@@ -9,15 +9,20 @@ root_meaning: "To raise, to elevate, to honor"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 0
 tags: ["asma_ul_husna", "kibr", "akhirah", "qadr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ar-Rafi' — ٱلرَّافِع
-### The Exalter · The Elevator
-#### بلند کرنے والا
 
-> **Root:** ر-ف-ع — To raise, to elevate, to honor
+**The Exalter · The Elevator**
+
+بلند کرنے والا
+
+> Name 24 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: not in this form
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** not in this form
+> **Root:** ر-ف-ع · To raise, to elevate, to honor
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/kibr|Arrogance & Humility]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/qadr|Qadr]]
 
 ---
 

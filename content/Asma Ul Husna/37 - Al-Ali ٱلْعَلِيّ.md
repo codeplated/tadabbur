@@ -9,15 +9,20 @@ root_meaning: "To be high, above, transcendent"
 category: "Names of Power & Sovereignty"
 quran_occurrences: 8
 tags: ["asma_ul_husna", "tawheed", "kibr", "salah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Al-Ali — ٱلْعَلِيّ
-### The Most High · The Sublime
-#### بلند و بالا
 
-> **Root:** ع-ل-و — To be high, above, transcendent
+**The Most High · The Sublime**
+
+بلند و بالا
+
+> Name 37 of 99 · [[Asma Ul Husna/index#Power & Sovereignty|Names of Power & Sovereignty]] · In the Quran: 8 times
 >
-> **Category:** Names of Power & Sovereignty · **In the Quran:** 8 times
+> **Root:** ع-ل-و · To be high, above, transcendent
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/kibr|Arrogance & Humility]] · [[tags/salah|Salah]]
 
 ---
 

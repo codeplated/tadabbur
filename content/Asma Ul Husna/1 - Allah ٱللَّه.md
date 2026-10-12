@@ -9,15 +9,20 @@ root_meaning: "To be worshipped"
 category: "Names of Essential Nature"
 quran_occurrences: 2699
 tags: ["asma_ul_husna", "tawheed", "dhikr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Allah — ٱللَّه
-### The One God
-#### اللہ
 
-> **Root:** أ-ل-ه — To be worshipped
+**The One God**
+
+اللہ
+
+> Name 1 of 99 · [[Asma Ul Husna/index#Essential Nature|Names of Essential Nature]] · In the Quran: 2699 times
 >
-> **Category:** Names of Essential Nature · **In the Quran:** 2699 times
+> **Root:** أ-ل-ه · To be worshipped
+>
+> **Themes:** [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]] · [[tags/dhikr|Dhikr & Tasbih]]
 
 ---
 

@@ -4,14 +4,19 @@ name: "Jibreel (Gabriel) / جِبْرِيل / جبریل علیہ السلام"
 type: Angel
 path: Straight Path
 era: "From the beginning of creation to the end"
-order: 26
 tags: ["angels", "revelation", "amanah", "story_muhammad", "story_maryam", "isra_miraj"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Jibreel (Gabriel) — جِبْرِيل
-### جبریل علیہ السلام
 
+جبریل علیہ السلام
+
+> [[Personalities/index#Angels|Angel]] · Straight Path · From the beginning of creation to the end · [[#Mentioned in Quran|10 ayaat]]
+>
 > **Also known as:** Gabriel, Ruh al-Qudus (Holy Spirit), Ruh al-Amin (Trustworthy Spirit), Al-Namus (according to Waraqa)
+>
+> **Themes:** [[tags/angels|Angels]] · [[tags/revelation|Revelation]] · [[tags/amanah|Amanah & Promises]] · [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/story_maryam|Maryam]] · [[tags/isra_miraj|Isra & Mi'raj]]
 
 ---
 

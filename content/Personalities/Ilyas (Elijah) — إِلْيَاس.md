@@ -4,14 +4,19 @@ name: "Ilyas (Elijah) / إِلْيَاس / الیاس علیہ السلام"
 type: Prophet / Messenger
 path: Straight Path
 era: "Ancient Levant"
-order: 18
 tags: ["story_ilyas", "prophethood", "shirk", "dawah"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Ilyas (Elijah) — إِلْيَاس
-### الیاس علیہ السلام
 
+الیاس علیہ السلام
+
+> [[Personalities/index#Prophets and Messengers|Prophet / Messenger]] · Straight Path · Ancient Levant · [[#Mentioned in Quran|9 ayaat]]
+>
 > **Also known as:** Elijah
+>
+> **Themes:** [[tags/story_ilyas|Prophet Ilyas]] · [[tags/prophethood|Prophethood]] · [[tags/shirk|Shirk]] · [[tags/dawah|Da'wah]]
 
 ---
 

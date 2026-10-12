@@ -4,14 +4,19 @@ name: "Abu Bakr As-Siddiq / أَبُو بَكْر / ابو بکر صدیق رض�
 type: Companion
 path: Straight Path
 era: "570-634 CE, Makkah and Madinah"
-order: 35
 tags: ["sahabah", "hijrah", "sidq", "tawakkul", "wealth", "zakat", "story_muhammad"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Abu Bakr As-Siddiq — أَبُو بَكْر
-### ابو بکر صدیق رضی اللہ عنہ
 
+ابو بکر صدیق رضی اللہ عنہ
+
+> [[Personalities/index#Companions|Companion]] · Straight Path · 570-634 CE, Makkah and Madinah · [[#Mentioned in Quran|6 ayaat]]
+>
 > **Also known as:** As-Siddiq (The Truthful), Second of Two (in the cave), Atiq (freed by Allah from Fire)
+>
+> **Themes:** [[tags/sahabah|Sahabah]] · [[tags/hijrah|Hijrah]] · [[tags/sidq|Sidq]] · [[tags/tawakkul|Tawakkul]] · [[tags/wealth|Wealth & Spending]] · [[tags/zakat|Zakat & Sadaqah]] · [[tags/story_muhammad|Prophet Muhammad ﷺ]]
 
 ---
 

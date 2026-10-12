@@ -4,14 +4,19 @@ name: "Iblis (Satan) / إِبْلِيس / ابلیس"
 type: Jinn
 path: Deviated Path
 era: "Pre-human creation; ongoing until Day of Judgment"
-order: 34
 tags: ["shaytan", "jinn", "story_adam", "kibr"]
+cssclasses: [profile]
 ---
 <!-- GENERATED:START -->
 # Iblis (Satan) — إِبْلِيس
-### ابلیس
 
+ابلیس
+
+> [[Personalities/index#Jinn|Jinn]] · Deviated Path · Pre-human creation; ongoing until Day of Judgment · [[#Mentioned in Quran|51 ayaat]]
+>
 > **Also known as:** Shaytan, Satan, Al-Aduw (The Enemy), Al-Waswas
+>
+> **Themes:** [[tags/shaytan|Shaytan]] · [[tags/jinn|Jinn]] · [[tags/story_adam|Prophet Adam]] · [[tags/kibr|Arrogance & Humility]]
 
 ---
 
