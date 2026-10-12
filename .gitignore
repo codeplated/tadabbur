@@ -14,3 +14,6 @@ tsconfig.tsbuildinfo
 .claude/
 .impeccable/*
 !.impeccable/design.json
+
+# The task board, opened in Obsidian with the Kanban plugin. Local working notes.
+TASKBOARD.md
