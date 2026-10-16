@@ -47,7 +47,7 @@ best possible UI and UX, where nothing looks broken and nothing is a guess.
 ## Positioning
 
 Every one of the 6,236 ayaat is tagged with themes drawn from one curated set
-of 139, in 13 categories. So a theme's page is the complete set of ayaat on
+of 140, in 13 categories. So a theme's page is the complete set of ayaat on
 it, in Quran order, each shown with its translation, and the same tags tie in
 the 99 Names of Allah and the 79 personalities the Quran speaks about. A
 reader moves from a verse to an idea to every other verse on that idea.
@@ -78,11 +78,21 @@ reader moves from a verse to an idea to every other verse on that idea.
 - **A person's page and a Name's page** open with the heading, a line or two
   under it (the name in Urdu; a Name's meaning in English and Urdu) and the
   facts in lines, with the type or category and every theme as a link.
-- **An ayah's page** holds, in order: recitation, Arabic, Urdu translation,
-  English translation, two Urdu tafsirs, and its connections. It still shows
-  the stock properties box and tag chips.
-- **The Quran page** is 114 surah cards with thumbnails; a surah's page lists
-  its ayaat in order.
+- **An ayah's page** is the verse first: a head that says where it is (its
+  surah's name links back to it in the surah's text), the player between the
+  steps to the ayaat either side, the Arabic, English and Urdu, its themes by
+  name, then the two Urdu tafsirs, folded.
+- **The Quran page** is a listing like the other three: the 114 surahs in
+  order, which can be filtered and arranged (Meccan / Medinan, A to Z,
+  longest). Its filter also takes a reference such as 2:255 and goes there.
+- **A surah's page** is the surah: a short head (names, place, its most
+  frequent themes, each leading to this surah's ayaat on that theme), then
+  every ayah in Arabic, English and Urdu with its themes. A bar stays at the
+  top with a field that goes to any ayah and the number of the ayah being
+  read; switches show or hide each language.
+- **Reaching an ayah** takes one step from anywhere a reader can type: 2:255
+  (or Baqarah 255) in the Quran page's filter, a surah's go-to field, or
+  search.
 - Researchers and writers move between a listing and the ayaat behind each
   entry, and back. A listing keeps its arrangement, its filter and its open
   groups when the reader returns to it.
@@ -106,12 +116,13 @@ reader moves from a verse to an idea to every other verse on that idea.
   script of our own (2026-10-11 for Themes, 2026-10-12 for the other two); a
   theme's page is a patch to the tag-page plugin with a script of our own
   (2026-10-11); the menu is our own component and the explorer plugin is gone
-  (2026-10-12). Still drawn by a plugin: search, the graph, the surah cards,
-  backlinks, and on an ayah's page the properties box and the tag chips.
+  (2026-10-12); a surah's page and an ayah's page are written by the generator
+  with a script of our own (2026-10-16). Still drawn by a plugin: search, the
+  graph and backlinks.
 - **Page addresses may change** when the structure improves; no redirects are
   kept.
 - Recitation audio is streamed from a CDN, not hosted here.
-- Scale: 6,236 ayah pages, 114 surahs, 139 themes, 99 Names, 79 personalities.
+- Scale: 6,236 ayah pages, 114 surahs, 140 themes, 99 Names, 79 personalities.
 - Terminology readers see: surah, ayah (plural ayaat), tafsir, Themes (served
   at `/tags`), Personalities, Asma Ul Husna, Straight / Mixed / Deviated Path.
   On a listing: Filter, Details (Descriptions on Themes), and the arrangement
@@ -204,11 +215,15 @@ every page.
   for a focus ring, under the 4.5:1 that hovered text needs.
 - With the text size doubled on a phone, the bar at the top loses the site's
   name.
-- Tag chips on an ayah's page show a theme's key (`nature_signs`), not its
-  name.
-- The feedback button floats over the page's content.
+- On a tablet and a desktop the feedback button floats over the page's
+  content. (On a phone it is in the thumb bar.)
 
-**Not measured.** An ayah's page, a surah's page, The Quran page, a theme's
-page against this standard, search, the graph and the feedback form. Nothing
+**Measured 2026-10-16** (headless Chrome, a build of the site, 344px to
+1920px, touch and mouse): a surah's page, an ayah's page and The Quran page.
+No sideways scroll at any width; the go-to bar one row at every width; a link
+to an ayah lands under the bar; every control reachable by keyboard.
+
+**Not measured.** A theme's page against this standard, the new pages' contrast
+in numbers, search, the graph and the feedback form. Nothing
 has been tried with a real screen reader, in Safari or Firefox, on a real
 phone, or at 400% zoom.

@@ -10,6 +10,8 @@
 // The file is about 150 KB for the whole site and is fetched once. Nothing is
 // built for a section until it is opened.
 
+import { loadMenu } from "./ayahRef"
+
 type Leaf = [string, string]
 type Item = { href: string; title: string; leaves?: Leaf[] }
 type Section = { slug: string; href: string; title: string; items: Item[] }
@@ -27,12 +29,15 @@ let menu: Promise<Menu> | undefined
 // redrawn on every page, so these carry it across.
 let chosen: string | null = null
 const scrolled = new Map<string, number>()
+// Surahs whose ayah numbers the reader folded away, by path.
+const folded = new Set<string>()
 
 const base = () => document.body.dataset.basepath ?? ""
 const trim = (path: string) => path.replace(/\/index$/, "").replace(/\/$/, "")
 
+// Shared with the go-to fields (ayahRef.ts), so the file is fetched once.
 function load(): Promise<Menu> {
-  menu ??= fetch(`${base()}/static/menu.json`).then((response) => response.json() as Promise<Menu>)
+  menu ??= loadMenu() as Promise<Menu>
   return menu
 }
 
@@ -88,6 +93,13 @@ function row(item: Item, here: string): HTMLLIElement {
     }
     const first = current ?? grid.querySelector("a")
     if (first) first.tabIndex = 0
+    grid.hidden = folded.has(path)
+    // On the surah's own page its name has nowhere else to go, so a click on
+    // it folds the numbers away and the next one brings them back.
+    if (here === path) {
+      link.setAttribute("aria-expanded", String(!grid.hidden))
+      link.dataset.fold = path
+    }
     li.append(grid)
   }
   return li
@@ -201,6 +213,19 @@ document.addEventListener("nav", () => {
   }
   const onPanelClick = (event: Event) => {
     const target = event.target as HTMLElement
+    const fold = target.closest<HTMLAnchorElement>("a[data-fold]")
+    if (fold && !(event as MouseEvent).ctrlKey && !(event as MouseEvent).metaKey) {
+      // Kept from the site's own link handling, which would load the page again.
+      event.preventDefault()
+      event.stopPropagation()
+      const grid = fold.parentElement!.querySelector<HTMLElement>(".sm-grid")
+      if (!grid) return
+      grid.hidden = !grid.hidden
+      fold.setAttribute("aria-expanded", String(!grid.hidden))
+      if (grid.hidden) folded.add(fold.dataset.fold!)
+      else folded.delete(fold.dataset.fold!)
+      return
+    }
     const twist = target.closest<HTMLElement>(".sm-twist")
     if (twist) {
       const slug = twist.closest<HTMLElement>(".sm-section")!.dataset.section ?? null
@@ -222,6 +247,13 @@ document.addEventListener("nav", () => {
     }
   }
   const onResize = () => setOpen(false)
+  // On a phone the menu is a sheet over the lower part of the screen; a tap on
+  // the page above it puts it away.
+  const onOutside = (event: Event) => {
+    const target = event.target as Node
+    if (!narrow.matches || !isOpen() || nav.contains(target) || toggle?.contains(target)) return
+    setOpen(false)
+  }
 
   toggle?.addEventListener("click", onToggle)
   nav.addEventListener("click", onPanelClick)
@@ -229,6 +261,7 @@ document.addEventListener("nav", () => {
   nav.addEventListener("scroll", onListScroll, true)
   document.addEventListener("keydown", onKey)
   narrow.addEventListener("change", onResize)
+  document.addEventListener("click", onOutside)
   // All of them come off again. SPA navigation keeps the button and the menu
   // in the page and runs this once more: a second click listener on the same
   // button would open the drawer and shut it in one tap.
@@ -239,6 +272,7 @@ document.addEventListener("nav", () => {
     nav.removeEventListener("scroll", onListScroll, true)
     document.removeEventListener("keydown", onKey)
     narrow.removeEventListener("change", onResize)
+    document.removeEventListener("click", onOutside)
     document.documentElement.classList.remove("sm-lock")
   })
 

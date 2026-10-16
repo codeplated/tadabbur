@@ -7,34 +7,38 @@ const isThemePage = (slug?: string) =>
   slug !== undefined && slug.startsWith("tags/") && slug !== "tags/index"
 
 // Tadabbur: the generator says what kind of page a note is with a class.
-// `index-page` is a listing (Themes, Personalities, Asma Ul Husna); `profile`
-// is a person's or a Name's page, which draws its own heading and says its
-// fields in lines under it, as a theme's page does.
+// `index-page` is a listing (The Quran, Themes, Personalities, Asma Ul Husna);
+// `profile` is a person's or a Name's page, `surah` a surah's and `ayah` an
+// ayah's. Those three draw their own heading and say their fields in lines
+// under it, as a theme's page does.
 const hasClass = (props: QuartzComponentProps, name: string) => {
   const classes = props.fileData.frontmatter?.cssclasses
   return Array.isArray(classes) ? classes.includes(name) : classes === name
 }
 
+const OWN_HEAD = ["profile", "surah", "ayah"]
+
 const drawsOwnHead = (props: QuartzComponentProps) =>
-  isThemePage(props.fileData.slug) || hasClass(props, "profile")
+  isThemePage(props.fileData.slug) || OWN_HEAD.some((name) => hasClass(props, name))
 
 const builtinConditions: Record<string, ConditionPredicate> = {
   "not-index": (props) => props.fileData.slug !== "index",
   // The stock title and the properties box stay off the home page and off any
-  // page that draws its own heading: a theme's page (tag-page patch), a
-  // person's page and a Name's page (written into the note by the generator).
+  // page that draws its own heading: a theme's page (tag-page patch), and a
+  // person's, a Name's, a surah's and an ayah's page (written into the note by
+  // the generator).
   "stock-head": (props) => props.fileData.slug !== "index" && !drawsOwnHead(props),
   // Reading time means nothing on a list (the listing pages; a theme's page is
-  // its ayaat, which "1 min read" got wrong by an hour), and on a person's or
-  // a Name's page it stood between the heading and the first line.
+  // its ayaat, which "1 min read" got wrong by an hour), and on a page with its
+  // own head it stood between the heading and the first line.
   "reading-time": (props) =>
     props.fileData.slug !== "index" &&
     !(props.fileData.slug ?? "").startsWith("tags/") &&
     !hasClass(props, "index-page") &&
-    !hasClass(props, "profile"),
-  // The tag chips show keys (`story_adam`). A person's and a Name's page list
-  // their themes by name in their head instead.
-  "tag-chips": (props) => !hasClass(props, "profile"),
+    !drawsOwnHead(props),
+  // The tag chips show keys (`story_adam`). A person's, a Name's and an
+  // ayah's page name their themes in the note instead.
+  "tag-chips": (props) => !hasClass(props, "profile") && !hasClass(props, "ayah"),
   "has-tags": (props) => {
     const tags = props.fileData.frontmatter?.tags
     return Array.isArray(tags) && tags.length > 0

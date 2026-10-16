@@ -11,18 +11,24 @@
    olive of the Send button inside the form. The icon takes --light, the page
    background, so it stays readable against the teal in both themes (dark
    teal + light icon, light teal + dark icon). */
+/* It says what it is: a round envelope alone sat in the corner and was taken
+   for decoration. */
 #fb-btn {
   position: fixed;
   right: 1.25rem;
   bottom: 1.25rem;
   z-index: 40;
-  display: grid;
-  place-items: center;
-  width: 3.25rem;
-  height: 3.25rem;
-  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-sizing: border-box;
+  height: 3rem;
+  padding: 0 1.15rem 0 1rem;
   border: none;
-  border-radius: 50%;
+  border-radius: 16px;
+  font-family: var(--bodyFont);
+  font-size: 0.95rem;
+  font-weight: 600;
   background: var(--secondary);
   color: var(--light);
   cursor: pointer;
@@ -50,8 +56,106 @@
 }
 
 #fb-btn svg {
-  width: 1.4rem;
-  height: 1.4rem;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+/* The one time it asks (feedback.js): a line over the button, pointing at
+   it. */
+#fb-nudge {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 4.9rem;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-sizing: border-box;
+  max-width: calc(100vw - 2rem);
+  padding: 0.45rem 0.4rem 0.45rem 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  background: var(--light);
+  color: var(--dark);
+  font-family: var(--bodyFont);
+  font-size: 0.9rem;
+  box-shadow:
+    0 2px 6px rgba(0, 0, 0, 0.06),
+    0 10px 28px rgba(0, 0, 0, 0.14);
+  animation: fb-nudge-in 0.35s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+#fb-nudge[hidden] {
+  display: none;
+}
+
+#fb-nudge::after {
+  content: "";
+  position: absolute;
+  right: 2.25rem;
+  bottom: -6px;
+  width: 10px;
+  height: 10px;
+  border-right: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+  background: var(--light);
+  transform: rotate(45deg);
+}
+
+#fb-nudge-open {
+  padding: 0.35rem 0.7rem;
+  border: 0;
+  border-radius: 8px;
+  background: var(--secondary);
+  color: var(--light);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#fb-nudge-open:hover {
+  background: var(--tertiary);
+  color: #fff;
+}
+
+#fb-nudge-close {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  background: none;
+  color: var(--darkgray);
+  cursor: pointer;
+}
+
+#fb-nudge-close svg {
+  width: 1rem;
+  height: 1rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+#fb-nudge-close:hover {
+  color: var(--tertiary);
+}
+
+@keyframes fb-nudge-in {
+  from {
+    opacity: 0;
+    transform: translateY(0.5rem);
+  }
+}
+
+#fb-about {
+  margin: 0.35rem 0 0;
+  color: var(--dark);
+  font-size: 0.85rem;
+  font-weight: 600;
 }
 
 /* White on hover, not --light: --tertiary is the same olive in both themes,
@@ -324,19 +428,72 @@
   color: var(--tertiary);
 }
 
-/* Phones: full width, same breakpoint as the site's $mobile layout. */
+/* Phones (the site's $mobile layout): the button is one of the four places in
+   the bar along the foot of the screen (custom.scss, "The phone's thumb
+   bar"), with its word under it. Above the bar, which is drawn at z-index 50
+   in the left sidebar's layer, so it comes to 60. The form and the nudge open
+   over the bar, full width. */
 @media (max-width: 800px) {
   #fb-btn {
-    right: 1rem;
-    bottom: 1rem;
+    right: auto;
+    bottom: env(safe-area-inset-bottom, 0px);
+    left: 25%;
+    z-index: 60;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.2rem;
+    width: 25%;
+    height: var(--thumb-bar, 3.75rem);
+    padding: 0;
+    border-radius: 0;
+    background: none;
+    color: var(--secondary);
+    font-size: 0.7rem;
+    line-height: 1;
+    box-shadow: none;
+    transform: none;
+  }
+
+  #fb-btn:hover {
+    background: none;
+    color: var(--tertiary);
+    box-shadow: none;
+    transform: none;
+  }
+
+  #fb-btn svg {
+    width: 1.4rem;
+    height: 1.4rem;
+  }
+
+  /* Open, it stays in its place in the bar and reads as on. */
+  #fb-btn[aria-expanded="true"] {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    background: var(--highlight);
   }
 
   #fb-panel {
     right: 0.5rem;
     left: 0.5rem;
-    bottom: 0.5rem;
+    bottom: calc(var(--thumb-bar, 3.75rem) + env(safe-area-inset-bottom, 0px) + 0.5rem);
+    z-index: 60;
     width: auto;
-    max-height: calc(100dvh - 1rem);
+    max-height: calc(100dvh - var(--thumb-bar, 3.75rem) - 1.5rem);
+  }
+
+  #fb-nudge {
+    right: 0.75rem;
+    bottom: calc(var(--thumb-bar, 3.75rem) + env(safe-area-inset-bottom, 0px) + 0.6rem);
+    left: 0.75rem;
+    z-index: 60;
+  }
+
+  /* Pointing down at the button, the second of four places from the left
+     (its middle is 37.5% across the screen). */
+  #fb-nudge::after {
+    right: calc(62.5vw - 0.75rem - 5px);
   }
 }
 
@@ -362,11 +519,16 @@
   #fb-panel.fb-open {
     transition: none;
   }
+
+  #fb-nudge {
+    animation: none;
+  }
 }
 
 @media print {
   #fb-btn,
-  #fb-panel {
+  #fb-panel,
+  #fb-nudge {
     display: none;
   }
 }

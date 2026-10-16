@@ -21,6 +21,8 @@ export type MenuItem = {
   /** Site path without a leading slash; a folder's ends in "/". */
   href: string
   title: string
+  /** The name readers cite it by, when the note gives one (`transliteration`). */
+  aka?: string
   /** A folder's notes that carry an `ayah` number, in order. */
   leaves?: MenuLeaf[]
 }
@@ -98,9 +100,11 @@ export function buildMenu(allFiles: QuartzPluginData[]): Menu {
           String(number),
           (file.slug as string).split("/").pop()!,
         ])
+      const aka = index.frontmatter?.transliteration
       items.push({
         href: folder + "/",
         title: titleOf(index),
+        ...(typeof aka === "string" && aka ? { aka } : {}),
         ...(leaves.length ? { leaves } : {}),
       })
     }

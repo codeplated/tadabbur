@@ -27,12 +27,26 @@ export default (() => {
             <rect x="3" y="5" width="18" height="14" rx="2.5" />
             <path d="m3.5 7 8.5 6 8.5-6" />
           </svg>
+          <span class="fb-label">Feedback</span>
         </button>
+        {/* Asked once, after a few pages (feedback.js). */}
+        <div id="fb-nudge" role="note" hidden>
+          <span>Finding what you need?</span>
+          <button id="fb-nudge-open" type="button">
+            Tell us
+          </button>
+          <button id="fb-nudge-close" type="button" aria-label="Not now">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6 6l12 12M18 6 6 18" />
+            </svg>
+          </button>
+        </div>
         <div id="fb-panel" role="dialog" aria-modal="true" aria-labelledby="fb-title">
           <div id="fb-header">
             <div>
               <h2 id="fb-title">Noticed something?</h2>
               <p id="fb-subtitle">A correction, a connection or an idea: every note helps.</p>
+              <p id="fb-about" hidden></p>
             </div>
             <button id="fb-close" type="button" aria-label="Close">
               <svg viewBox="0 0 24 24" aria-hidden="true">

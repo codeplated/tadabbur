@@ -36,6 +36,30 @@ html {
   scrollbar-gutter: stable;
 }
 
+// ── Scrollbars ──────────────────────────────────────────────────────────────
+// One look for every scrollbar on the site, the page's and those inside it:
+// a thumb in faded ink on a clear track. Until 2026-10-16 each scrolling area
+// had whatever was written for it, or nothing: the menu a pale thumb, the
+// surah panel's themes the browser's grey track, the page, the contents and
+// search the system's own. The colour is inherited, so this one rule reaches
+// them all. --lightgray (1.2:1 on the page) was too faint to show that a list
+// goes on; this is about 2:1, a mark rather than text.
+//
+// Inside the page they are thin, so a list beside the text does not take a
+// column's worth of its width; the page's own stays full width, where it is
+// easiest to take hold of.
+:root {
+  --scroll-thumb: color-mix(in srgb, var(--gray) 55%, var(--light));
+}
+
+html {
+  scrollbar-color: var(--scroll-thumb) transparent;
+}
+
+body * {
+  scrollbar-width: thin;
+}
+
 // ── Interaction colour ──────────────────────────────────────────────────────
 // One colour for every hover, focus, pressed and selected/current state, on
 // every page: --tertiary (quartz.config.yaml, the same in both themes). Links
@@ -380,89 +404,6 @@ article {
   :is(p, li, h1, h2, h3, h4, h5, h6, td, th, dd)[lang] {
     direction: rtl;
     text-align: right;
-  }
-
-  // The verse itself gets extra size; same font as all other Arabic.
-  h2#arabic + p[lang="ar"] {
-    font-size: 1.9rem;
-    line-height: 2.2;
-    color: var(--dark);
-  }
-}
-
-// ── Ayah Next / Prev buttons ────────────────────────────────────────────────
-// Under the recitation the generator writes the player, then a Next link, then
-// a Prev link, all in one paragraph, with an empty <span> standing in for
-// whichever neighbour an ayah lacks. So the paragraph's children are always
-// player, Next slot, Prev slot, and the buttons can be told apart by position.
-// Next sits on the left with its arrow after it, Prev on the right with its
-// arrow before it: "Next 11:8 >   < Prev 11:6".
-$chevron-left: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M15 18l-6-6 6-6'/%3E%3C/svg%3E";
-$chevron-right: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9 18l6-6-6-6'/%3E%3C/svg%3E";
-
-article h2[id^="recitation"] + p {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
-  gap: 0.3rem 0.5rem;
-
-  // Full width, as base.scss has it; a replaced element in a grid otherwise
-  // shrinks to its intrinsic 300px. The fixed height is for Firefox, which
-  // scales the player's height with its width and pads the controls with
-  // empty space above and below.
-  > audio {
-    grid-column: 1 / -1;
-    display: block;
-    width: 100%;
-    height: var(--tap-target);
-    margin: 0;
-  }
-
-  > :nth-child(2) {
-    justify-self: start;
-  }
-
-  > :nth-child(3) {
-    justify-self: end;
-  }
-
-  > a.internal {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    min-height: var(--tap-target);
-    padding: 0 0.85rem;
-    border: 1px solid var(--lightgray);
-    border-radius: var(--radius);
-    background: none;
-    font-weight: 600;
-    white-space: nowrap;
-
-    &:hover,
-    &:active {
-      border-color: var(--tertiary);
-    }
-  }
-
-  > a.internal:nth-child(2)::after,
-  > a.internal:nth-child(3)::before {
-    content: "";
-    width: 1.1em;
-    height: 1.1em;
-    background: currentColor;
-    mask: url($chevron-right) center / contain no-repeat;
-  }
-
-  > a.internal:nth-child(3)::before {
-    mask-image: url($chevron-left);
-  }
-
-  > a.internal:nth-child(2) {
-    padding-right: 0.55rem;
-  }
-
-  > a.internal:nth-child(3) {
-    padding-left: 0.55rem;
   }
 }
 
@@ -897,8 +838,28 @@ article.index-page {
     }
   }
 
-  &.names-index:not(.ti-ready) li > small {
+  &:is(.names-index, .surahs-index):not(.ti-ready) li > small {
     display: block;
+  }
+
+  // On the Quran's page, where a reference typed into the filter leads.
+  .ti-go {
+    margin: 0.75rem 0 0;
+    font-size: 0.95rem;
+
+    a.internal {
+      font-weight: 600;
+    }
+
+    kbd {
+      margin-left: 0.4rem;
+      padding: 0.1rem 0.4rem;
+      border: 1px solid var(--ti-line);
+      border-radius: var(--radius-sm);
+      color: var(--ti-faded);
+      font-family: var(--bodyFont);
+      font-size: 0.75rem;
+    }
   }
 
   // ── Without the script: each category's list in its own columns ─────────
@@ -1392,9 +1353,13 @@ article.index-page {
 //                            controls, which is why these are kept apart.
 
 :root {
-  // The height of the phone app bar. Everything that has to sit clear of it —
-  // scroll anchors, the menu's drawer — measures from this.
+  // The height of the phone's top row (logo and name). It scrolls away with
+  // the page.
   --mobile-bar-height: 3.5rem;
+  // The phone's thumb bar along the foot of the screen (menu, search,
+  // feedback, theme), not counting the home indicator's inset. The menu's
+  // sheet and the feedback form open above it.
+  --thumb-bar: 3.75rem;
   // Comfortable minimum for anything a finger has to hit.
   --tap-target: 2.75rem;
 }
@@ -1436,9 +1401,11 @@ article.index-page {
 
 @media all and ($mobile) {
   html {
-    // Heading links, the tag-page jump bar and the table of contents all jump
-    // to an anchor; without this they land underneath the bar.
-    scroll-padding-top: calc(var(--mobile-bar-height) + 0.75rem);
+    // The top row scrolls away, so an anchor needs only a little air above
+    // it; the thumb bar covers the foot of the screen, so a target is kept
+    // clear of that.
+    scroll-padding-top: 0.75rem;
+    scroll-padding-bottom: calc(var(--thumb-bar) + 0.75rem);
   }
 
   // Stock Quartz sizes the phone's one column `auto`, which is as wide as its
@@ -1693,8 +1660,6 @@ article.index-page {
   padding: 0 0.25rem 0.5rem 0;
   overflow-y: auto;
   overscroll-behavior: contain;
-  scrollbar-width: thin;
-  scrollbar-color: var(--lightgray) transparent;
 
   &[hidden] {
     display: none;
@@ -1793,6 +1758,11 @@ article.index-page {
     color: var(--light);
     font-weight: 600;
   }
+
+  // Folded away by a click on the surah's name (siteMenu.inline.ts).
+  &[hidden] {
+    display: none;
+  }
 }
 
 // Narrow screens: the menu is a drawer under the bar, opened by the button at
@@ -1855,6 +1825,195 @@ article.index-page {
   html.sm-lock,
   html.sm-lock body {
     overflow: hidden;
+  }
+}
+
+// ── The phone's thumb bar ───────────────────────────────────────────────────
+// On a phone the controls live along the foot of the screen, where a thumb
+// is, and stay there: Menu, Search, Feedback, Theme, each an icon over its
+// word. They were a row at the top left of the page, the farthest corner from
+// the thumb, and scrolled away with it. The top keeps the logo and the name.
+//
+// The four are the same elements as on a wider screen (the menu button, the
+// search plugin, Feedback.tsx's button, the theme switch), each fixed to a
+// quarter of the bar; the bar itself is the left sidebar's ::after. The menu
+// opens as a sheet that rises from behind the bar.
+@media all and ($mobile) {
+  body {
+    padding-bottom: calc(var(--thumb-bar) + env(safe-area-inset-bottom, 0px));
+  }
+
+  .page > #quartz-body > .sidebar.left::after {
+    content: "";
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 45;
+    height: calc(var(--thumb-bar) + env(safe-area-inset-bottom, 0px));
+    border-top: 1px solid var(--lightgray);
+    background: var(--light);
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.06);
+  }
+
+  .sm-toggle,
+  .sidebar.left .search,
+  .sidebar.left .darkmode {
+    position: fixed;
+    bottom: env(safe-area-inset-bottom, 0px);
+    z-index: 46;
+    width: 25%;
+    height: var(--thumb-bar);
+  }
+
+  // From the right, where a right thumb rests: Menu, Search, Feedback, Theme.
+  .sm-toggle {
+    left: 75%;
+  }
+
+  .sidebar.left .search {
+    left: 50%;
+    // Above the other places, so its panel, which it holds, covers them.
+    z-index: 47;
+  }
+
+  .sidebar.left .darkmode {
+    left: 0;
+    margin: 0;
+  }
+
+  // Icon over word, in all four.
+  .sm-toggle,
+  .sidebar.left .search > .search-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2rem;
+    border-radius: 0;
+    color: var(--darkgray);
+    font-family: var(--bodyFont);
+    font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .sm-toggle::after {
+    content: "Menu";
+  }
+
+  .sm-toggle svg,
+  .sidebar.left .search > .search-button svg {
+    width: 1.4rem;
+    min-width: 0;
+    height: 1.4rem;
+  }
+
+  .sidebar.left .search > .search-button {
+    width: 100%;
+    height: 100%;
+    background: none;
+
+    // One line of the word's own height, as in the other three: in a
+    // paragraph's line box it stood 26px tall and lifted the icon 7px.
+    > p {
+      display: block;
+      margin: 0;
+      color: inherit;
+      font-size: inherit;
+      font-weight: inherit;
+      line-height: 1;
+    }
+  }
+
+  // The theme switch draws its sun and moon on top of each other in the
+  // middle of the button; they move up to leave room for the word.
+  .sidebar.left .darkmode {
+    color: var(--darkgray);
+
+    // Where the other three put theirs: the icon's middle 23px down the bar,
+    // the word's 43px.
+    svg {
+      top: calc(50% - 0.45rem);
+      left: 50%;
+      width: 1.4rem;
+      height: 1.4rem;
+      translate: -50% -50%;
+    }
+
+    &::after {
+      content: "Theme";
+      position: absolute;
+      right: 0;
+      bottom: calc(50% - 1.13rem);
+      left: 0;
+      font-family: var(--bodyFont);
+      font-size: 0.7rem;
+      font-weight: 600;
+      line-height: 1;
+      text-align: center;
+    }
+  }
+
+  // The sheet: from the bar up to most of the screen, behind the bar while it
+  // moves.
+  .site-menu {
+    top: auto;
+    bottom: calc(var(--thumb-bar) + env(safe-area-inset-bottom, 0px));
+    z-index: 44;
+    height: min(80dvh, calc(100dvh - var(--thumb-bar) - 3rem));
+    padding-top: 1.25rem;
+    border: 1px solid var(--lightgray);
+    border-bottom: 0;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    box-shadow: 0 -10px 32px rgba(0, 0, 0, 0.18);
+    transform: translateY(calc(100% + var(--thumb-bar)));
+    transition:
+      transform 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+      visibility 0s 0.28s;
+
+    // A handle, so it reads as a sheet.
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0.5rem;
+      left: 50%;
+      width: 2.5rem;
+      height: 4px;
+      border-radius: 2px;
+      background: var(--lightgray);
+      translate: -50% 0;
+    }
+  }
+
+  .site-menu.sm-open {
+    transform: none;
+    transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  // The page behind it dims; a tap on it puts the sheet away
+  // (siteMenu.inline.ts).
+  html.sm-lock body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 30;
+    background: rgba(0, 0, 0, 0.35);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-menu,
+  .site-menu.sm-open {
+    transition: none;
+  }
+}
+
+// Search covers the whole screen on a phone, the bar included; the feedback
+// button, drawn in a layer above the bar, goes too.
+@media all and ($mobile) {
+  html:has(.search-container.active) #fb-btn {
+    visibility: hidden;
   }
 }
 
@@ -2130,85 +2289,6 @@ main#content:focus {
   article h2 {
     font-size: 1.25rem;
   }
-
-  // The verse is the reason for the page; it keeps its size while the chrome
-  // around it shrinks.
-  article h2#arabic + p[lang="ar"] {
-    font-size: 1.75rem;
-  }
-}
-
-@media (hover: none) {
-  // A surah index lists its ayaat as a run of numbers separated by "·" —
-  // 286 of them for al-Baqarah, each about 12px wide. It is the way into every
-  // ayah of the surah, so on touch it becomes a grid of chips. Zeroing the
-  // paragraph's font size collapses the separators and the whitespace around
-  // them; the links set their own size back.
-  article h2#ayaat + p {
-    font-size: 0;
-    line-height: 0;
-
-    a.internal {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      min-width: var(--tap-target);
-      min-height: var(--tap-target);
-      margin: 0.15rem;
-      padding: 0 0.35rem;
-      font-size: 0.95rem;
-      line-height: 1;
-    }
-  }
-
-  // Previous / next between ayaat at the foot of the note. The ones under the
-  // recitation are full buttons already (see "Ayah Next / Prev buttons").
-  article h2#connections + ul a.internal {
-    display: inline-flex;
-    align-items: center;
-    min-height: 2.35rem;
-    padding: 0 0.4rem;
-  }
-}
-
-// ── Cards (the surah cards on The Quran page) ───────────────────────────────
-// One card per row turned 114 surahs into a 48,000px scroll.
-
-@media all and ($mobile) {
-  // `cardSize: 270` in the base file becomes an inline
-  // `repeat(auto-fit, minmax(270px, 1fr))` on the grid, which no stylesheet
-  // rule can outrank — same as `imageAspectRatio` above. A phone is narrower
-  // than one 270px card, so without this every surah gets a row to itself.
-  .bases-cards {
-    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-    gap: 0.75rem;
-  }
-
-  .bases-card-body {
-    padding: 0.6rem;
-  }
-
-  .bases-card-title {
-    font-size: 0.85rem;
-    line-height: 1.3;
-  }
-}
-
-// Three across an iPad held upright, five across it held sideways — rather
-// than the one or two a 270px minimum gives.
-@media all and ($tablet) {
-  .bases-cards {
-    grid-template-columns: repeat(auto-fit, minmax(min(165px, 100%), 1fr)) !important;
-  }
-}
-
-// On a desktop the cards share the row with both side columns, and the left
-// one is wide enough for the surah names. At the base's 270px minimum only two
-// cards fitted in what was left, each most of a screen tall; this fits three.
-@media all and ($desktop) {
-  .bases-cards {
-    grid-template-columns: repeat(auto-fit, minmax(min(200px, 100%), 1fr)) !important;
-  }
 }
 
 // ── A person's page, a Name's page ──────────────────────────────────────────
@@ -2293,6 +2373,1276 @@ article.profile {
   article.profile blockquote:first-of-type a.internal {
     display: inline-block;
     padding-block: 0.35rem;
+  }
+}
+
+$chevron-left: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M15 18l-6-6 6-6'/%3E%3C/svg%3E";
+$chevron-right: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9 18l6-6-6-6'/%3E%3C/svg%3E";
+
+// ── A surah's page, an ayah's page ──────────────────────────────────────────
+// The generator marks them `cssclasses: [surah]` and `[ayah]` and writes each
+// one's head into the note, so the layout conditions keep the stock title, the
+// properties box and the reading time off both, and the tag chips off an
+// ayah.
+//
+// Until 2026-10-16 a surah's page was a heading, a 640px picture, a table of
+// themes and a run of ayah numbers: the first number was 2.3 phone screens
+// down and none of the surah's words were on its page. An ayah's page opened
+// with a box of raw fields; on a phone the English began 2,052px down and the
+// page was 8.5 screens, 3.5 of them the first tafsir.
+//
+// A surah's page is now a short head and the whole surah (Arabic, English,
+// Urdu and themes, each ayah numbered and linked to its own page) under a bar
+// that goes to any ayah and says which is being read
+// (components/scripts/surahPage.inline.ts). An ayah's page is the verse first:
+// a head, the player between the ayaat either side, the three texts, its
+// themes, and the two tafsirs folded.
+article.surah,
+article.ayah {
+  // --gray is 4.0:1 on the page, under what small text needs. See the same
+  // variable on the listing pages.
+  --qp-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
+  --qp-line: var(--gray);
+
+  h1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.75rem;
+    margin: 2rem 0 0;
+
+    [lang="ar"] {
+      font-size: 1.35em;
+      font-weight: 400;
+      line-height: 1.3;
+    }
+  }
+
+  // The line under the heading.
+  h1 + p {
+    margin: 0.35rem 0 0;
+    color: var(--darkgray);
+    font-size: 1.1rem;
+    line-height: 1.6;
+
+    a.internal {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+  }
+
+  // The facts and the themes. A quote block in the note, because that is what
+  // sets them apart in Obsidian; here they are lines, not a quotation.
+  blockquote:first-of-type {
+    margin: 0.6rem 0 0;
+    padding: 0;
+    border: 0;
+
+    p {
+      margin: 0.3rem 0 0;
+      color: var(--qp-faded);
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }
+
+    strong {
+      color: var(--dark);
+      font-weight: 600;
+    }
+
+    a.internal {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+
+    .count {
+      font-size: 0.8rem;
+      font-variant-numeric: tabular-nums;
+    }
+  }
+
+  // The line names the surah in two scripts side by side. Each name is a run
+  // of its own: left to the browser, two right-to-left runs with a dot between
+  // them read as one, and swap places. Taller than the Latin text around it
+  // only by what the Nastaliq needs.
+  h1 + p:has([lang]) {
+    line-height: 1.9;
+
+    [lang] {
+      unicode-bidi: isolate;
+    }
+  }
+
+  // A heading the reader owns ("Surah Notes", "Tafsir Notes") with nothing
+  // written under it yet says nothing to anyone else.
+  h2:last-child:is(#surah-notes, #tafsir-notes) {
+    display: none;
+  }
+}
+
+// ── A surah's page ──────────────────────────────────────────────────────────
+article.surah {
+  // The surah's picture, small, beside its name. 1280×720 at full width it
+  // pushed everything else a screen down.
+  p:has(> img) {
+    float: right;
+    width: clamp(6.5rem, 26%, 12rem);
+    margin: 2.2rem 0 0.75rem 1.25rem;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0;
+      border-radius: var(--radius);
+    }
+  }
+
+  // All of a busy surah's themes (Al-Baqarah has over a hundred), folded under
+  // the head.
+  details.surah-themes {
+    margin: 0.5rem 0 0;
+
+    summary {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      min-height: 2.25rem;
+      color: var(--secondary);
+      font-size: 0.95rem;
+      font-weight: 600;
+      list-style: none;
+      cursor: pointer;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::after {
+        content: "";
+        width: 0.45rem;
+        height: 0.45rem;
+        margin: 0 0.2rem 0.2rem;
+        border: solid currentColor;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
+        transition: transform 0.15s ease-out;
+      }
+
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+
+    &[open] summary::after {
+      margin-bottom: -0.15rem;
+      transform: rotate(-135deg);
+    }
+
+    ul {
+      columns: 15rem;
+      column-gap: 2.5rem;
+      margin: 0.5rem 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto 2rem;
+      gap: 0 0.6rem;
+      align-items: baseline;
+      margin: 0;
+      padding: 4px 0;
+      border-bottom: 1px solid var(--lightgray);
+      font-size: 0.9rem;
+      line-height: 1.45;
+      break-inside: avoid;
+    }
+
+    li > a.internal {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+
+    li > [lang="ur"] {
+      color: var(--darkgray);
+      font-size: 0.9rem;
+      line-height: 1.6;
+      white-space: nowrap;
+    }
+
+    .count {
+      color: var(--qp-faded);
+      font-size: 0.8rem;
+      font-variant-numeric: tabular-nums;
+      text-align: right;
+    }
+
+    .unit {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip-path: inset(50%);
+      white-space: nowrap;
+    }
+  }
+
+  // ── The bar: go to an ayah, the ayah being read ─────────────────────────
+  .sp-bar {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 0.75rem;
+    margin: 1.5rem 0 0;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--lightgray);
+    background: var(--light);
+  }
+
+  .sp-goto {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    border: 1px solid var(--qp-line);
+    border-radius: var(--radius);
+
+    &:focus-within {
+      border-color: var(--secondary);
+    }
+
+    label {
+      padding: 0 0.25rem 0 0.75rem;
+      color: var(--darkgray);
+      font-size: 0.9rem;
+      white-space: nowrap;
+    }
+
+    // 1rem and no smaller: under 16px, iOS zooms the page when it is tapped.
+    input {
+      width: 8.5rem;
+      min-width: 0;
+      height: calc(2.5rem - 2px);
+      padding: 0 0.5rem;
+      border: 0;
+      background: transparent;
+      color: var(--dark);
+      font-family: var(--bodyFont);
+      font-size: 1rem;
+      font-variant-numeric: tabular-nums;
+
+      &:focus {
+        outline: none;
+      }
+
+      &::placeholder {
+        color: var(--qp-faded);
+        opacity: 1;
+      }
+    }
+
+    button {
+      display: grid;
+      place-items: center;
+      width: calc(2.5rem - 2px);
+      height: calc(2.5rem - 2px);
+      padding: 0;
+      border: 0;
+      border-left: 1px solid var(--qp-line);
+      border-radius: 0 calc(var(--radius) - 1px) calc(var(--radius) - 1px) 0;
+      background: transparent;
+      color: var(--secondary);
+      cursor: pointer;
+
+      &:hover {
+        color: var(--tertiary);
+      }
+
+      svg {
+        width: 1.1rem;
+        height: 1.1rem;
+      }
+    }
+  }
+
+  // The ayah being read, which is also the way back to the top. Above the
+  // text it only says how many ayaat there are.
+  .sp-top {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    box-sizing: border-box;
+    height: 2.5rem;
+    margin-left: auto;
+    padding: 0 0.75rem;
+    border: 1px solid transparent;
+    border-radius: var(--radius);
+    background: none;
+    color: var(--qp-faded);
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    pointer-events: none;
+
+    svg {
+      display: none;
+      width: 1rem;
+      height: 1rem;
+    }
+  }
+
+  .sp-reading .sp-top {
+    border-color: var(--qp-line);
+    color: var(--darkgray);
+    pointer-events: auto;
+
+    &:hover {
+      border-color: var(--tertiary);
+    }
+
+    svg {
+      display: block;
+    }
+  }
+
+  .sp-msg {
+    flex-basis: 100%;
+    margin: 0;
+    color: var(--dark);
+    font-size: 0.9rem;
+    line-height: 1.4;
+
+    &:empty {
+      display: none;
+    }
+  }
+
+  // ── What the text shows ─────────────────────────────────────────────────
+  // "Ayaat" is for a screen reader and the contents: on the page the bar
+  // above and the text below say it.
+  h2#ayaat {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  // The switches sit in the controls' row where it has room for them, and
+  // fold behind a "Show" button where it does not (a phone, a tablet's
+  // column): either way the row stays one row.
+  .sp-bar {
+    container-type: inline-size;
+  }
+
+  // The fold opens centred under the whole row, not the button, so on a
+  // 344px screen it still fits.
+  .sp-show-wrap {
+    position: static;
+  }
+
+  .sp-show-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    box-sizing: border-box;
+    height: 2.5rem;
+    padding: 0 0.75rem;
+    border: 1px solid var(--qp-line);
+    border-radius: var(--radius);
+    background: transparent;
+    color: var(--darkgray);
+    font-family: var(--bodyFont);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+
+    svg {
+      width: 1.1rem;
+      height: 1.1rem;
+    }
+
+    &:hover {
+      border-color: var(--tertiary);
+    }
+
+    &[aria-expanded="true"] {
+      background: var(--highlight);
+      color: var(--dark);
+    }
+  }
+
+  .sp-show-wrap > .sp-show {
+    position: absolute;
+    top: calc(100% + 0.25rem);
+    left: 50%;
+    z-index: 6;
+    display: none;
+    width: max-content;
+    translate: -50% 0;
+    background: var(--light);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.14);
+  }
+
+  .sp-show-open .sp-show-wrap > .sp-show {
+    display: inline-flex;
+  }
+
+  @container (min-width: 40rem) {
+    .sp-show-toggle {
+      display: none;
+    }
+
+    .sp-show-wrap > .sp-show {
+      position: static;
+      display: inline-flex;
+      translate: none;
+      box-shadow: none;
+    }
+  }
+
+  .sp-show {
+    display: inline-flex;
+    margin: 0;
+    border: 1px solid var(--qp-line);
+    border-radius: var(--radius);
+
+    button {
+      height: calc(2.5rem - 2px);
+      padding: 0 0.75rem;
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+      color: var(--darkgray);
+      font-family: var(--bodyFont);
+      font-size: 0.9rem;
+      font-weight: 600;
+      white-space: nowrap;
+      cursor: pointer;
+
+      &:first-child {
+        border-radius: calc(var(--radius) - 1px) 0 0 calc(var(--radius) - 1px);
+      }
+
+      &:last-child {
+        border-radius: 0 calc(var(--radius) - 1px) calc(var(--radius) - 1px) 0;
+      }
+
+      & + button {
+        border-left: 1px solid var(--qp-line);
+      }
+
+      &:hover {
+        color: var(--tertiary);
+      }
+
+      &[aria-pressed="true"] {
+        background: var(--secondary);
+        color: var(--light);
+      }
+
+      // The last language left: it stays on, and looks it.
+      &:disabled {
+        cursor: default;
+      }
+    }
+  }
+
+  .bismillah {
+    margin: 1rem 0 0;
+    color: var(--dark);
+    font-size: 1.75rem;
+    line-height: 2;
+    text-align: center;
+  }
+
+  // ── The surah, ayah by ayah ─────────────────────────────────────────────
+  // The number sits in a gutter of its own, so the three texts share one left
+  // edge and the number is a target of its own: it opens the ayah's page.
+  h2#ayaat ~ ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  h2#ayaat ~ ul > li {
+    position: relative;
+    isolation: isolate;
+    margin: 0;
+    // Room inside the separators for the wash (below) to frame the text.
+    padding: 1.1rem 0.75rem 1.2rem 3.75rem;
+    border-bottom: 1px solid var(--lightgray);
+    // The themes are the only loose text in a line; everything else sets its
+    // own size. Hiding them drops this to 0, which takes the dots between
+    // them too.
+    color: var(--qp-faded);
+    font-size: 0.85rem;
+    line-height: 1.7;
+    unicode-bidi: normal;
+    direction: ltr;
+    text-align: left;
+
+    > a.internal {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+
+    // The number.
+    > a.internal:first-child {
+      position: absolute;
+      top: 1.45rem;
+      left: 0.6rem;
+      display: grid;
+      place-items: center;
+      box-sizing: border-box;
+      min-width: 2.25rem;
+      height: 2.25rem;
+      padding: 0 0.3rem;
+      border: 1px solid var(--lightgray);
+      border-radius: var(--radius-sm);
+      color: var(--secondary);
+      font-size: 0.85rem;
+      font-variant-numeric: tabular-nums;
+      line-height: 1;
+
+      &:hover {
+        border-color: var(--tertiary);
+      }
+    }
+
+    > span[lang] {
+      display: block;
+    }
+
+    > span[lang="ar"] {
+      color: var(--dark);
+      font-size: 1.65rem;
+      line-height: 2.1;
+      direction: rtl;
+      text-align: right;
+      // Lands below the bar, not under it.
+      scroll-margin-top: 5rem;
+    }
+
+    > span[lang="en"] {
+      margin-top: 0.35rem;
+      color: var(--darkgray);
+      font-size: 1.05rem;
+      line-height: 1.7;
+    }
+
+    > span[lang="ur"] {
+      margin-top: 0.35rem;
+      color: var(--darkgray);
+      font-size: 1.15rem;
+      line-height: 2.3;
+      direction: rtl;
+      text-align: right;
+    }
+
+    > span[lang] + a.internal {
+      margin-top: 0.4rem;
+    }
+  }
+
+  // The wash behind an ayah that is pointed at, pressed, or reached by a link
+  // to it (#255, from its own page): a rounded card exactly as wide as the
+  // separators, a little clear of the one above and the one below.
+  h2#ayaat ~ ul > li::before {
+    content: "";
+    position: absolute;
+    inset: 0.3rem 0;
+    z-index: -1;
+    border-radius: var(--radius);
+    background: var(--highlight);
+    opacity: 0;
+    transition: opacity 0.15s ease-out;
+  }
+
+  h2#ayaat ~ ul > li:has(> span:target)::before {
+    opacity: 1;
+  }
+
+  &.sp-no-ar h2#ayaat ~ ul > li > span[lang="ar"],
+  &.sp-no-en h2#ayaat ~ ul > li > span[lang="en"],
+  &.sp-no-ur h2#ayaat ~ ul > li > span[lang="ur"],
+  &.sp-no-themes h2#ayaat ~ ul > li > a.internal:not(:first-child) {
+    display: none;
+  }
+
+  &.sp-no-themes h2#ayaat ~ ul > li {
+    font-size: 0;
+  }
+
+  // Without the Arabic, the number would sit beside the English's first line
+  // at a different height.
+  &.sp-no-ar h2#ayaat ~ ul > li > a.internal:first-child {
+    top: 1.05rem;
+  }
+}
+
+// How far through the surah the ayah being read is: a line along the foot of
+// the controls.
+article.surah .sp-progress {
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  height: 2px;
+  pointer-events: none;
+
+  > span {
+    display: block;
+    width: 0;
+    height: 100%;
+    background: var(--secondary);
+    transition: width 0.2s ease-out;
+  }
+}
+
+article.surah .sp-bar {
+  position: sticky;
+}
+
+// Every ayah opens its own page (surahPage.inline.ts). The number says so
+// with a chevron; the whole ayah answers a pointer with a wash, and a finger
+// with the same wash while it presses.
+article.surah.sp-ready h2#ayaat ~ ul > li {
+  cursor: pointer;
+
+  > a.internal:first-child {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.1rem;
+    padding: 0 0.25rem 0 0.4rem;
+
+    &::after {
+      content: "";
+      width: 0.7em;
+      height: 0.7em;
+      background: currentColor;
+      mask: url($chevron-right) center / contain no-repeat;
+    }
+  }
+
+  &:active::before {
+    opacity: 1;
+  }
+}
+
+@media (hover: hover) {
+  article.surah.sp-ready h2#ayaat ~ ul > li:hover {
+    &::before {
+      opacity: 1;
+    }
+
+    > a.internal:first-child {
+      border-color: var(--secondary);
+      background: var(--light);
+    }
+  }
+}
+
+// ── The panel: what is about the surah ──────────────────────────────────────
+// surahPage.inline.ts gathers the picture, the facts and the full list of
+// themes into an <aside>. Below a desktop's width the aside is not a box at
+// all: its parts stay in the page's flow, the picture beside the facts.
+article.surah .sp-aside {
+  display: contents;
+}
+
+@media all and ($desktop) {
+  // A surah's page has nothing else for the right-hand column (no contents,
+  // no backlinks); it takes the column's width and puts its panel there.
+  .page:has(article.surah) > #quartz-body {
+    grid-template-columns: clamp(#{$sidePanelWidth}, 24vw, 23rem) minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+
+    > .sidebar.right {
+      display: none;
+    }
+
+    > .center {
+      box-sizing: border-box;
+      padding-right: 2rem;
+    }
+  }
+
+  // The text in one column, the panel in the other. The panel spans the rows
+  // the text takes, so it can stay in view beside all of them.
+  article.surah.sp-ready > div {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 17.5rem;
+    column-gap: 3rem;
+
+    > * {
+      grid-column: 1;
+    }
+
+    > .sp-aside {
+      display: flex;
+      flex-direction: column;
+      grid-row: 1 / span 12;
+      grid-column: 2;
+      align-self: start;
+      padding-top: 2rem;
+    }
+  }
+
+  article.surah .sp-aside {
+    p:has(> img) {
+      float: none;
+      width: 100%;
+      margin: 0 0 0.75rem;
+    }
+
+    blockquote:first-of-type {
+      margin: 0;
+
+      p {
+        font-size: 0.9rem;
+      }
+    }
+
+    // The head names the surah's eight most frequent themes, which is all of
+    // them where there is no full list, and what a phone shows. Beside the
+    // full list, open in the panel, they would be the same themes twice.
+    &:has(details.surah-themes) blockquote:first-of-type p + p {
+      display: none;
+    }
+
+    details.surah-themes ul {
+      columns: auto;
+    }
+  }
+
+  // ── The panel stays in view, and holds the controls ─────────────────────
+  article.surah .sp-aside {
+    position: sticky;
+    top: 1.5rem;
+    box-sizing: border-box;
+    // It ends above the Feedback button (3rem tall, 1.25rem off the foot of
+    // the screen), which otherwise sat over the end of the list.
+    max-height: calc(100dvh - 1.5rem - 5.25rem);
+    // Only the list of themes scrolls (below). The panel itself would only on
+    // a screen too short for the rest and 9rem of list, where it may.
+    overflow: hidden;
+
+    @media (max-height: 620px) {
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      scrollbar-width: thin;
+    }
+
+    // Everything in the panel keeps its height but the list of themes, which
+    // takes what is left and scrolls by itself: Al-Baqarah has 106.
+    > * {
+      flex: none;
+    }
+
+    .sp-bar {
+      position: relative;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin: 1rem 0 0;
+      padding: 0 0 0.9rem;
+      border-bottom: 1px solid var(--lightgray);
+      background: none;
+    }
+
+    .sp-goto {
+      flex: 1 1 100%;
+
+      input {
+        flex: 1;
+        width: auto;
+      }
+    }
+
+    // Room for the switches in a column of their own: no fold.
+    .sp-show-toggle {
+      display: none;
+    }
+
+    .sp-show-wrap {
+      flex: 1 1 100%;
+      order: 3;
+    }
+
+    .sp-show-wrap > .sp-show {
+      position: static;
+      display: flex;
+      width: auto;
+      translate: none;
+      box-shadow: none;
+
+      button {
+        flex: 1;
+        padding: 0 0.4rem;
+      }
+    }
+
+    // Where the reader is, said in words beside the field.
+    .sp-top {
+      flex: 1 1 100%;
+      justify-content: flex-start;
+      order: 2;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      height: auto;
+      color: var(--darkgray);
+      pointer-events: auto;
+    }
+
+    .sp-reading .sp-top:hover {
+      color: var(--tertiary);
+    }
+
+    .sp-word {
+      position: static;
+      width: auto;
+      height: auto;
+      clip-path: none;
+    }
+
+    .sp-progress {
+      bottom: 0;
+      background: var(--lightgray);
+    }
+
+    details.surah-themes {
+      flex: 1 1 auto;
+      min-height: 9rem;
+      margin-top: 0.9rem;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      // The scrollbar keeps its own lane, clear of the counts.
+      padding-right: 0.75rem;
+      scrollbar-gutter: stable;
+
+      // The list's name stays over it while it scrolls.
+      summary {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        display: flex;
+        background: var(--light);
+      }
+    }
+  }
+}
+
+// ── An ayah's page ──────────────────────────────────────────────────────────
+article.ayah {
+  // The ayah before, the player, the ayah after. The generator writes them in
+  // that order with an empty <span> for a missing neighbour, so the three are
+  // told apart by position.
+  h1 + p + p {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 1.25rem 0 0;
+
+    // Full width, as base.scss has it; a replaced element in a grid otherwise
+    // shrinks to its intrinsic 300px. The fixed height is for Firefox, which
+    // scales the player's height with its width.
+    > audio {
+      display: block;
+      width: 100%;
+      height: var(--tap-target);
+      margin: 0;
+    }
+
+    > a.internal {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+      box-sizing: border-box;
+      min-height: var(--tap-target);
+      padding: 0 0.8rem;
+      border: 1px solid var(--qp-line);
+      border-radius: var(--radius);
+      background: none;
+      font-weight: 600;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+
+      &:hover,
+      &:active {
+        border-color: var(--tertiary);
+      }
+    }
+
+    > a.internal:first-child {
+      padding-left: 0.5rem;
+    }
+
+    > a.internal:last-child {
+      padding-right: 0.5rem;
+    }
+
+    > a.internal:first-child::before,
+    > a.internal:last-child::after {
+      content: "";
+      width: 1.1em;
+      height: 1.1em;
+      background: currentColor;
+      mask: url($chevron-right) center / contain no-repeat;
+    }
+
+    > a.internal:first-child::before {
+      mask-image: url($chevron-left);
+    }
+  }
+
+  p:has(> small.reciter) {
+    margin: 0.3rem 0 0;
+    color: var(--qp-faded);
+    font-size: 0.8rem;
+    line-height: 1.4;
+    text-align: center;
+
+    small {
+      font-size: 1em;
+    }
+  }
+
+  // The texts. "Arabic" is for a screen reader and the contents; on the page
+  // the script says what it is. The translations name their translator.
+  h2#arabic {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  h2#arabic + p[lang="ar"] {
+    margin: 2rem 0 0;
+    color: var(--dark);
+    font-size: 1.9rem;
+    line-height: 2.2;
+  }
+
+  h2[id^="english"],
+  h2[id^="urdu"],
+  h2#themes {
+    margin: 2rem 0 0.25rem;
+    color: var(--qp-faded);
+    font-family: var(--bodyFont);
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+
+  h2[id^="english"] + p {
+    margin: 0;
+    color: var(--dark);
+    font-size: 1.15rem;
+    line-height: 1.75;
+  }
+
+  h2[id^="urdu"] + p[lang="ur"] {
+    margin: 0;
+    color: var(--dark);
+    font-size: 1.3rem;
+    line-height: 2.4;
+  }
+
+  // Themes as chips. Zeroing the line's size drops the dots between them; the
+  // chips set their own.
+  h2#themes + p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.25rem 0 0;
+    font-size: 0;
+    line-height: 0;
+
+    a.internal {
+      display: inline-flex;
+      align-items: center;
+      min-height: 2rem;
+      padding: 0 0.65rem;
+      border-radius: var(--radius-sm);
+      background: var(--highlight);
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1.3;
+
+      &:hover {
+        background: var(--tertiary);
+        color: var(--light);
+      }
+    }
+  }
+
+  // ── The tafsirs, folded ─────────────────────────────────────────────────
+  details.tafsir {
+    margin: 0;
+    border-bottom: 1px solid var(--lightgray);
+
+    &:first-of-type {
+      margin-top: 2.25rem;
+      border-top: 1px solid var(--lightgray);
+    }
+
+    summary {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0 0.6rem;
+      position: relative;
+      padding: 0.85rem 2rem 0.85rem 0;
+      color: var(--dark);
+      font-family: var(--headerFont);
+      font-size: 1.1rem;
+      font-weight: 600;
+      line-height: 1.5;
+      list-style: none;
+      cursor: pointer;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        right: 0.6rem;
+        width: 0.5rem;
+        height: 0.5rem;
+        border: solid var(--darkgray);
+        border-width: 0 2px 2px 0;
+        transform: translateY(-75%) rotate(45deg);
+        transition: transform 0.15s ease-out;
+      }
+
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+
+    &[open] summary::after {
+      transform: translateY(-25%) rotate(-135deg);
+    }
+
+    .by {
+      color: var(--qp-faded);
+      font-family: var(--bodyFont);
+      font-size: 0.85rem;
+      font-weight: 400;
+    }
+
+    > p {
+      margin: 0 0 1rem;
+    }
+  }
+
+  .ap-report {
+    margin: 1.5rem 0 0;
+    color: var(--qp-faded);
+    font-size: 0.9rem;
+    line-height: 1.6;
+
+    button {
+      padding: 0;
+      border: 0;
+      background: none;
+      color: var(--secondary);
+      font: inherit;
+      font-weight: 600;
+      text-decoration: underline;
+      text-underline-offset: 0.2em;
+      cursor: pointer;
+
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    details.tafsir summary::after {
+      transition: none;
+    }
+  }
+}
+
+// An empty heading of the reader's own is hidden (above); so is its line in
+// the contents.
+body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
+  .toc
+  li:has(> a:is([data-for="surah-notes"], [data-for="tafsir-notes"])) {
+  display: none;
+}
+
+// A phone: the bar keeps one row. "Go to" and "255" say enough beside the
+// field and the text; "Go to ayah, 255 of 286" took a second row at 390px.
+@media all and (max-width: 440px) {
+  article.surah {
+    // Out of sight, not out of the label: a screen reader still says "Go to
+    // ayah".
+    .sp-word {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip-path: inset(50%);
+      white-space: nowrap;
+    }
+  }
+}
+
+// A closed foldable (344px): a narrower field and no arrow by the number keep
+// the row on one line.
+// (Doubled classes outrank the phone rules further down.)
+@media all and (max-width: 380px) {
+  article.surah .sp-bar {
+    .sp-goto input {
+      width: 5rem;
+    }
+
+    .sp-top {
+      padding: 0 0.5rem;
+    }
+
+    .sp-top svg,
+    &.sp-reading .sp-top svg {
+      display: none;
+    }
+  }
+}
+
+// A phone: "Show" folds to its icon, so the row keeps one line.
+@media all and (max-width: 440px) {
+  article.surah .sp-show-toggle span {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}
+
+// A phone: the player takes its own row, with the two steps under it at
+// either end. Three in one row left the player too narrow for its time.
+@media all and (max-width: 600px) {
+  article.ayah h1 + p + p {
+    grid-template-columns: 1fr 1fr;
+
+    > audio {
+      grid-row: 1;
+      grid-column: 1 / -1;
+    }
+
+    > :first-child {
+      justify-self: start;
+    }
+
+    > :last-child {
+      justify-self: end;
+    }
+  }
+
+  article.surah {
+    h2#ayaat ~ ul > li {
+      padding-right: 0.5rem;
+      padding-left: 3.25rem;
+
+      > a.internal:first-child {
+        left: 0.4rem;
+      }
+
+      > span[lang="ar"] {
+        font-size: 1.5rem;
+      }
+    }
+
+    .sp-goto label {
+      padding-left: 0.6rem;
+    }
+
+    .sp-goto input {
+      width: 6.25rem;
+    }
+
+    .sp-top {
+      padding: 0 0.6rem;
+    }
+  }
+}
+
+@media all and ($mobile) {
+  article.ayah h2#arabic + p[lang="ar"] {
+    font-size: 1.75rem;
+  }
+
+  // The app bar scrolls away with the page (base.scss leaves the phone's
+  // sidebar unpositioned), so the bar sticks to the very top. Under a 56px
+  // offset it left a strip of the text showing above it. A link to an ayah
+  // already clears the app bar's height (html's scroll-padding-top); this is
+  // the rest of the room the bar takes.
+  article.surah h2#ayaat ~ ul > li > span[lang="ar"] {
+    scroll-margin-top: 4.5rem;
+  }
+}
+
+@media (hover: none) {
+  // The number is the way to the ayah's tafsir and recitation.
+  article.surah h2#ayaat ~ ul > li {
+    padding-left: calc(var(--tap-target) + 0.9rem);
+
+    > a.internal:first-child {
+      left: 0.4rem;
+      min-width: var(--tap-target);
+      height: var(--tap-target);
+      top: 1.2rem;
+    }
+  }
+
+  article.surah .sp-show button,
+  article.surah .sp-show-toggle,
+  article.surah .sp-goto input,
+  article.surah .sp-goto button {
+    height: calc(var(--tap-target) - 2px);
+  }
+
+  article.surah .sp-goto button {
+    width: calc(var(--tap-target) - 2px);
+  }
+
+  article.surah .sp-top {
+    height: var(--tap-target);
+  }
+
+  article.ayah h2#themes + p a.internal {
+    min-height: var(--tap-target);
+  }
+
+  article.ayah details.tafsir summary {
+    min-height: var(--tap-target);
+    box-sizing: border-box;
   }
 }
 
@@ -2580,8 +3930,6 @@ article.profile {
       margin-top: 2rem;
       overflow-y: auto;
       overscroll-behavior: contain;
-      scrollbar-width: thin;
-      scrollbar-color: var(--lightgray) transparent;
     }
 
     // The heading of the surah being read stays at the top of the column.
@@ -2620,11 +3968,8 @@ article.profile {
     }
   }
 
-  @media all and ($mobile) {
-    .tt-bar {
-      top: var(--mobile-bar-height);
-    }
-  }
+  // The top row scrolls away with the page, so the select sticks to the very
+  // top; 56px down, it left a strip of the page showing above it.
 
   @media (hover: none) {
     .tt-select,

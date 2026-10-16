@@ -1,4 +1,5 @@
-// The listing pages: Themes (/tags), Personalities and Asma Ul Husna. The
+// The listing pages: The Quran, Themes (/tags), Personalities and Asma Ul
+// Husna. The
 // generator writes each entry as a line in a plain list under a heading: a
 // link, the name in Arabic or Urdu, a count and some details. This script
 // reads those lines and adds what a list cannot do alone: a filter, several
@@ -9,7 +10,9 @@
 // The same <li> the generator wrote is moved between groups, never rebuilt,
 // so its link keeps working as every other link on the site does.
 //
-// Class names begin `ti-` because the Themes index was the first of the three.
+// Class names begin `ti-` because the Themes index was the first of them.
+
+import { Found, go, loadSurahs, Refused, resolve, Surah } from "./ayahRef"
 
 // How one arrangement groups the entries:
 //   heading  the groups the generator wrote, in its order
@@ -28,12 +31,28 @@ type Page = {
   hint: string
   // One of them, several of them: "1 of 139 themes", "No theme matches".
   noun: [string, string]
+  // The filter also takes an ayah reference (2:255) and offers to go there.
+  references?: boolean
 }
 
 const AZ: View = { key: "az", label: "A–Z", by: "letter" }
 
 // Keyed by the class the generator gives the page beside `index-page`.
 const PAGES: Record<string, Page> = {
+  // The surahs' details hold the English name, so they start shown.
+  "surahs-index": {
+    views: [
+      { key: "order", label: "In Order", by: "number" },
+      { key: "revelation", label: "Meccan / Medinan", by: ".rev" },
+      AZ,
+      { key: "longest", label: "Longest", by: "count" },
+    ],
+    details: "Details",
+    detailsOn: true,
+    hint: "Filter by name, or go to 2:255",
+    noun: ["surah", "surahs"],
+    references: true,
+  },
   "themes-index": {
     views: [
       { key: "topic", label: "By Topic", by: "heading" },
@@ -230,7 +249,13 @@ function setup(article: HTMLElement, page: Page, pageKey: string) {
     `<strong>No ${page.noun[0]} matches “<span></span>”.</strong> Try another word, in English or Urdu, or ` +
     `<button type="button" class="ti-link">clear the filter</button>.`
 
-  firstHeading.before(toolbar, index, empty)
+  // Where a reference in the filter leads: "Go to Al-Baqarah 2:255", or why
+  // it leads nowhere. Enter in the filter follows it.
+  const goRow = document.createElement("p")
+  goRow.className = "ti-go"
+  goRow.hidden = true
+
+  firstHeading.before(toolbar, goRow, index, empty)
   const { entries, headings } = readEntries(host)
 
   const input = toolbar.querySelector<HTMLInputElement>("input[type=search]")!
@@ -241,6 +266,31 @@ function setup(article: HTMLElement, page: Page, pageKey: string) {
 
   const state = readState()
   const opened = readOpen()
+
+  let surahs: Surah[] | undefined
+  let reference: Found | Refused | null = null
+  if (page.references) {
+    loadSurahs().then((all) => {
+      surahs = all
+      if (state.q.trim()) render()
+    })
+  }
+
+  function showReference() {
+    reference = surahs && page.references ? resolve(surahs, state.q) : null
+    goRow.hidden = reference === null
+    if (reference === null) return goRow.replaceChildren()
+    if ("error" in reference) return goRow.replaceChildren(reference.error)
+    const link = document.createElement("a")
+    link.href = reference.href
+    link.className = "internal"
+    link.textContent = `Go to ${reference.label}`
+    goRow.replaceChildren(
+      link,
+      " ",
+      Object.assign(document.createElement("kbd"), { textContent: "Enter" }),
+    )
+  }
   const isOneColumn = () => index.clientWidth <= ONE_COLUMN
   let oneColumn = isOneColumn()
 
@@ -336,7 +386,9 @@ function setup(article: HTMLElement, page: Page, pageKey: string) {
     status.textContent = filtering
       ? `${hits.length} of ${entries.length} ${page.noun[1]}`
       : `${entries.length} ${page.noun[1]}`
-    empty.hidden = hits.length > 0
+    showReference()
+    // A reference is not a name, so no surah matches it; that is not news.
+    empty.hidden = hits.length > 0 || (reference !== null && "href" in reference)
     empty.querySelector("span")!.textContent = state.q.trim()
     clear.hidden = state.q === ""
     about.checked = state.about === "1"
@@ -375,7 +427,23 @@ function setup(article: HTMLElement, page: Page, pageKey: string) {
     writeOpen(opened)
   }
 
+  // Enter follows a reference, or opens the one entry the filter left.
+  const onKey = (event: KeyboardEvent) => {
+    if (event.key !== "Enter" || !page.references) return
+    if (reference && "href" in reference) {
+      event.preventDefault()
+      go(reference)
+      return
+    }
+    const only = index.querySelectorAll<HTMLAnchorElement>("li > a.internal")
+    if (state.q.trim() && only.length === 1) {
+      event.preventDefault()
+      only[0].click()
+    }
+  }
+
   input.addEventListener("input", onInput)
+  input.addEventListener("keydown", onKey)
   toolbar.querySelector(".ti-views")!.addEventListener("click", onView)
   about.addEventListener("change", onAbout)
   clear.addEventListener("click", reset)

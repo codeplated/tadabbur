@@ -301,9 +301,9 @@ spacing scale: values are set per component.
 
 Left undecided by the owner on 2026-10-11, so this is a description and not a
 rule. The site is almost flat. Containers are marked by a 1px Parchment Edge
-line. One faint shadow exists in the page, on the surah cards
-(`0 2px 8px rgba(0, 0, 0, 0.08)`). The feedback button, which floats over the
-page, carries its own. Nothing else is lifted.
+line. The feedback button, which floats over the page, carries a shadow.
+Nothing else is lifted. (The surah cards, which carried the page's one other
+shadow, were replaced by a listing on 2026-10-16.)
 
 ## Shapes
 
@@ -378,22 +378,34 @@ it is.
 - **Style:** Ink Teal text on Ink Teal Wash, 6px corners, weight 600.
 - **Hover:** fills with Olive Leaf, text turns Parchment.
 
-### Step buttons (Next and Prev under the recitation)
+### Step buttons (an ayah's page)
 
-- **Style:** outlined, 10px corners, Ink Teal text at weight 600, a chevron on
-  the outer side. Next sits left, Prev sits right.
+- **Style:** outlined in Faded Ink, 10px corners, Ink Teal text at weight 600,
+  a chevron on the outer side. Prev sits left of the player, Next right, in
+  reading order; on a phone the player takes its own row and the two sit
+  under it at either end.
 - **Hover:** Olive Leaf.
 
-### Surah cards
+### A surah's text
 
-- **Style:** a thumbnail over a title, 16px corners, Ink Teal Wash fill, 1px
-  line and the page's one shadow. Three across on a wide screen and a tablet,
-  two on a phone.
+- **Ayah:** a number in a 6px box in its own gutter (Ink Teal, Count size; the
+  link to the ayah's page), then the Arabic (1.65rem, flush right), the English
+  (1.05rem), the Urdu (1.15rem, flush right) and the themes as small links,
+  each ayah over a 1px Parchment Edge line. An ayah reached by a link to it
+  sits on an Ink Teal Wash.
+- **Go-to bar:** stuck to the top of the screen; a field outlined in Faded Ink
+  ("Go to ayah", a 2.5rem field and a go button) and, at the other end, the
+  number of the ayah being read, which is also the way back to the top.
+- **Switches:** Arabic, English, Urdu, Themes as joined buttons, styled as a
+  listing's arrangements; a shown part is filled Ink Teal.
 
-### Properties box (an ayah's page)
+### An ayah's page
 
-- **Style:** outlined, 16px corners, label-size text, one row per field,
-  collapsible.
+- **Texts:** the Arabic at 1.9rem with no visible label; the English (1.15rem)
+  and the Urdu (1.3rem) under small Faded Ink Strong labels that name the
+  translator; the themes as tag chips.
+- **Tafsirs:** folded, one per row between 1px lines, a Lora title with the
+  author in Faded Ink Strong and a chevron at the end.
 
 ### Search field
 
@@ -427,15 +439,18 @@ mask so it takes the theme's colour.
 - **Do** list things as an index (names in columns, count at the end of the
   row), with a filter and arrangements where the list is long.
 - **Do** use `dvh`, never `vh`, for anything that fills a phone screen.
+- **Do** leave scrollbars to the one rule in `custom.scss` ("Scrollbars"): a
+  thumb in faded ink (`--scroll-thumb`, about 2:1) on a clear track,
+  thin inside the page and full width for the page itself. Don't give a new
+  scrolling area a colour of its own.
 
 ### Don't:
 
 - **Don't** treat these present faults as part of the system. They are
   recorded so they are not copied: hovered text in Olive Leaf is 3.2:1 on the
   dark page; the
-  feedback button floats over the page's content; the phone's bar loses the
-  site's name when the text size is doubled; tag chips on an ayah's page show a
-  theme's key and not its name.
+  feedback button floats over the page's content on a tablet and a desktop; the phone's bar loses the
+  site's name when the text size is doubled.
 - **Don't** bring back a table with tabs for a list of entries. Three of them
   were replaced by indexes in October 2026, after being 7 to 16 screens long.
 - **Don't** read the Elevation and Components sections as rules. The owner

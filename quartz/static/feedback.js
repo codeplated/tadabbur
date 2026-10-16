@@ -13,6 +13,11 @@ const WORKER_URL = "https://tadabbur-feedback.tadabbur-feedback.workers.dev"
   const THANKS = "JazakAllah khair. Your feedback has been received."
   const FAILED = "Something went wrong. Please try again."
   const THANKS_MS = 2500
+  // The button asks once, on the page where a reader reaches this many.
+  const ASK_AFTER = 5
+  const PAGES = "tadabbur:fb-pages"
+  const ASKED = "tadabbur:fb-asked"
+  const PLACEHOLDER = "What did you notice?"
 
   const $ = (id) => document.getElementById(id)
   const isOpen = () => $("fb-panel")?.classList.contains("fb-open") ?? false
@@ -39,10 +44,44 @@ const WORKER_URL = "https://tadabbur-feedback.tadabbur-feedback.workers.dev"
     setStatus("")
   }
 
-  function open() {
+  // Storage can be refused (private browsing): then the button never asks.
+  const store = {
+    get(key) {
+      try {
+        return localStorage.getItem(key)
+      } catch {
+        return "1"
+      }
+    },
+    set(key, value) {
+      try {
+        localStorage.setItem(key, value)
+      } catch {}
+    },
+  }
+
+  function hideNudge() {
+    const nudge = $("fb-nudge")
+    if (nudge) nudge.hidden = true
+  }
+
+  // `about` names what the message is about ("Al-Baqarah 2:255") when the
+  // form was opened from a page's own "Tell us".
+  function open(about) {
     const panel = $("fb-panel")
     if (!panel) return
     reset()
+    hideNudge()
+    store.set(ASKED, "1")
+    const aboutLine = $("fb-about")
+    if (aboutLine) {
+      aboutLine.textContent = about ? `About ${about}` : ""
+      aboutLine.hidden = !about
+    }
+    const message = $("fb-message")
+    if (message) {
+      message.placeholder = about ? "What is wrong or missing here?" : PLACEHOLDER
+    }
     panel.classList.add("fb-open")
     $("fb-btn")?.setAttribute("aria-expanded", "true")
     // The panel becomes visible on the next frame; focus fails before that.
@@ -145,6 +184,21 @@ const WORKER_URL = "https://tadabbur-feedback.tadabbur-feedback.workers.dev"
       isOpen() ? close() : open()
       return
     }
+    if (target.closest("#fb-nudge-open")) {
+      open()
+      return
+    }
+    if (target.closest("#fb-nudge-close")) {
+      hideNudge()
+      store.set(ASKED, "1")
+      $("fb-btn")?.focus()
+      return
+    }
+    const asked = target.closest("[data-feedback]")
+    if (asked) {
+      open(asked.getAttribute("data-feedback") || "")
+      return
+    }
     if (target.closest("#fb-close")) {
       close()
       return
@@ -197,5 +251,18 @@ const WORKER_URL = "https://tadabbur-feedback.tadabbur-feedback.workers.dev"
   // SPA navigation: leave the next page with the panel closed.
   document.addEventListener("prenav", () => {
     if (isOpen()) close(false)
+    hideNudge()
+  })
+
+  // Every page counts towards the one time the button asks.
+  document.addEventListener("nav", () => {
+    if (store.get(ASKED)) return
+    const pages = (parseInt(store.get(PAGES) || "0", 10) || 0) + 1
+    store.set(PAGES, String(pages))
+    if (pages < ASK_AFTER) return
+    const nudge = $("fb-nudge")
+    if (!nudge) return
+    nudge.hidden = false
+    store.set(ASKED, "1")
   })
 })()
