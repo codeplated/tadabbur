@@ -6,41 +6,52 @@ transliteration: "Al-'Asr"
 type: meccan
 ayaat: 3
 image: "/attachments/surah_103.png"
+cssclasses: [surah]
 ---
 <!-- GENERATED:START -->
-# 103 — Al-'Asr · The Declining Day · العصر
-### زمانہ
+![[surah_103.png|320]]
 
-![[surah_103.png|640]]
+# Al-'Asr العصر
 
-> **Revealed:** Meccan · **Ayaat:** 3 · **Surah 103 of 114**
+The Declining Day · <span lang="ur">زمانہ</span>
 
----
+> Surah 103 of 114 · Meccan · 3 ayaat · [[The Quran/102 - The Rivalry in world increase/index|← At-Takathur]] · [[The Quran/104 - The Traducer/index|Al-Humazah →]]
+>
+> **Themes:** [[tags/success_failure#surah-103|Success & Failure]] <span class="count">2</span> · [[tags/akhirah#surah-103|Akhirah & Judgment Day]] <span class="count">1</span> · [[tags/community#surah-103|Ummah & Brotherhood]] <span class="count">1</span> · [[tags/dawah#surah-103|Da'wah]] <span class="count">1</span> · [[tags/dunya#surah-103|Dunya]] <span class="count">1</span> · [[tags/iman#surah-103|Iman]] <span class="count">1</span> · [[tags/oaths#surah-103|Divine Oaths]] <span class="count">1</span> · [[tags/sabr#surah-103|Sabr]] <span class="count">1</span>
 
-## Themes in this surah
+<details class="surah-themes">
+<summary>All 11 themes in this surah</summary>
 
-| Theme | Ayaat |
-|-------|-------|
-| **Akhirah & Judgment Day** آخرت و یوم الحساب [#akhirah](tags/akhirah) | 1 |
-| **Ummah & Brotherhood** امت و اخوت [#community](tags/community) | 1 |
-| **Da'wah** دعوت و تبلیغ [#dawah](tags/dawah) | 1 |
-| **Dunya** دنیا [#dunya](tags/dunya) | 1 |
-| **Iman** ایمان [#iman](tags/iman) | 1 |
-| **Divine Oaths** قسمیں [#oaths](tags/oaths) | 1 |
-| **Sabr** صبر [#sabr](tags/sabr) | 1 |
-| **Sidq** صدق [#sidq](tags/sidq) | 1 |
-| **Time** وقت [#time](tags/time) | 1 |
-| **Warnings** تنبیہ [#warnings](tags/warnings) | 1 |
+- [[tags/success_failure#surah-103|Success & Failure]] <span lang="ur">کامیابی و ناکامی</span> <span class="count">2 <span class="unit">ayaat</span></span>
+- [[tags/akhirah#surah-103|Akhirah & Judgment Day]] <span lang="ur">آخرت و یوم الحساب</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/community#surah-103|Ummah & Brotherhood]] <span lang="ur">امت و اخوت</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/dawah#surah-103|Da'wah]] <span lang="ur">دعوت و تبلیغ</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/dunya#surah-103|Dunya]] <span lang="ur">دنیا</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/iman#surah-103|Iman]] <span lang="ur">ایمان</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/oaths#surah-103|Divine Oaths]] <span lang="ur">قسمیں</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/sabr#surah-103|Sabr]] <span lang="ur">صبر</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/sidq#surah-103|Sidq]] <span lang="ur">صدق</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/time#surah-103|Time]] <span lang="ur">وقت</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/warnings#surah-103|Warnings]] <span lang="ur">تنبیہ</span> <span class="count">1 <span class="unit">ayah</span></span>
 
----
+</details>
 
 ## Ayaat
 
-[[103_1|1]] · [[103_2|2]] · [[103_3|3]]
+<p class="bismillah" lang="ar">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</p>
 
----
-
-[[The Quran/102 - The Rivalry in world increase/index|← 102 · The Rivalry in world increase]] · [[The Quran/104 - The Traducer/index|104 · The Traducer →]]
+- [[103_1|1]] <span lang="ar" id="1">وَٱلۡعَصۡرِ</span>
+  <span lang="en">By time</span>
+  <span lang="ur">زمانے کی قسم</span>
+  [[tags/oaths|Divine Oaths]] · [[tags/time|Time]]
+- [[103_2|2]] <span lang="ar" id="2">إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ</span>
+  <span lang="en">Indeed, mankind is in loss</span>
+  <span lang="ur">انسان درحقیقت بڑے خسارے میں ہے</span>
+  [[tags/success_failure|Success & Failure]] · [[tags/dunya|Dunya]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/warnings|Warnings]]
+- [[103_3|3]] <span lang="ar" id="3">إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ</span>
+  <span lang="en">Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience</span>
+  <span lang="ur">سوائے اُن لوگوں کے جو ایمان لائے، اور نیک اعمال کرتے رہے، اور ایک دوسرے کو حق کی نصیحت اور صبر کی تلقین کرتے رہے</span>
+  [[tags/iman|Iman]] · [[tags/sabr|Sabr]] · [[tags/sidq|Sidq]] · [[tags/dawah|Da'wah]] · [[tags/community|Ummah & Brotherhood]] · [[tags/success_failure|Success & Failure]]
 
 <!-- GENERATED:END -->
 ## Surah Notes

@@ -4,7 +4,7 @@ cssclasses: [home]
 ---
 The whole Quran, ayah by ayah: recitation, translation and tafsir for each one, and themes that link every verse to the others on the same idea.
 
-- [[The Quran/index|The Quran]] <small>All 114 surahs and 6,236 ayaat. Each ayah has its recitation, Arabic text, Urdu and English translations and two Urdu tafsirs.</small>
+- [[The Quran/index|The Quran]] <small>All 114 surahs and 6,236 ayaat, each surah readable through in Arabic, English and Urdu. Filter by name, or type a reference such as 2:255 to go to an ayah.</small>
     - [[The Quran/1 - The Opener/index|Al-Fatihah]] <span class="count">7 <span class="unit">ayaat</span></span>
     - [[The Quran/36 - Ya Sin/index|Ya-Sin]] <span class="count">83 <span class="unit">ayaat</span></span>
     - [[2_255|Ayat al-Kursi]] <span class="count">2:255</span>
@@ -16,7 +16,7 @@ The whole Quran, ayah by ayah: recitation, translation and tafsir for each one, 
     - [[2 - Ar-Rahman ٱلرَّحْمَـٰن|Ar-Rahman]] <span class="count">57 <span class="unit">times</span></span>
     - [[20 - Al-Alim ٱلْعَلِيم|Al-Alim]] <span class="count">157 <span class="unit">times</span></span>
     - [[35 - Al-Ghafur ٱلْغَفُور|Al-Ghafur]] <span class="count">91 <span class="unit">times</span></span>
-- [[tags/index|Themes]] <small>139 themes in 13 categories, each listing every ayah that carries it, in Quran order. Filter by name, or arrange by topic, A–Z or most ayaat.</small>
+- [[tags/index|Themes]] <small>140 themes in 13 categories, each listing every ayah that carries it, in Quran order. Filter by name, or arrange by topic, A–Z or most ayaat.</small>
     - [[tags/tawheed|Tawheed]] <span class="count">381 <span class="unit">ayaat</span></span>
     - [[tags/sabr|Sabr]] <span class="count">112 <span class="unit">ayaat</span></span>
     - [[tags/akhirah|Akhirah & Judgment Day]] <span class="count">794 <span class="unit">ayaat</span></span>

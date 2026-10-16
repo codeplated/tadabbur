@@ -6,39 +6,55 @@ transliteration: "Az-Zalzalah"
 type: medinan
 ayaat: 8
 image: "/attachments/surah_099.png"
+cssclasses: [surah]
 ---
 <!-- GENERATED:START -->
-# 99 — Az-Zalzalah · The Earthquake · الزلزلة
-### زلزلہ
+![[surah_099.png|320]]
 
-![[surah_099.png|640]]
+# Az-Zalzalah الزلزلة
 
-> **Revealed:** Medinan · **Ayaat:** 8 · **Surah 99 of 114**
+The Earthquake · <span lang="ur">زلزلہ</span>
 
----
-
-## Themes in this surah
-
-| Theme | Ayaat |
-|-------|-------|
-| **Akhirah & Judgment Day** آخرت و یوم الحساب [#akhirah](tags/akhirah) | 8 |
-| **Adl** عدل [#adl](tags/adl) | 3 |
-| **Qadr** تقدیر [#qadr](tags/qadr) | 2 |
-| **Resurrection** بعث بعد الموت [#resurrection](tags/resurrection) | 2 |
-| **Creation of Mankind** تخلیقِ انسان [#human_creation](tags/human_creation) | 1 |
-| **Ihsan** احسان [#ihsan](tags/ihsan) | 1 |
-| **Signs in Creation** قدرت کی نشانیاں [#nature_signs](tags/nature_signs) | 1 |
-| **Warnings** تنبیہ [#warnings](tags/warnings) | 1 |
-
----
+> Surah 99 of 114 · Medinan · 8 ayaat · [[The Quran/98 - The Clear Proof/index|← Al-Bayyinah]] · [[The Quran/100 - The Courser/index|Al-'Adiyat →]]
+>
+> **Themes:** [[tags/akhirah#surah-99|Akhirah & Judgment Day]] <span class="count">8</span> · [[tags/adl#surah-99|Adl]] <span class="count">3</span> · [[tags/qadr#surah-99|Qadr]] <span class="count">2</span> · [[tags/resurrection#surah-99|Resurrection]] <span class="count">2</span> · [[tags/human_creation#surah-99|Creation of Mankind]] <span class="count">1</span> · [[tags/ihsan#surah-99|Ihsan]] <span class="count">1</span> · [[tags/nature_signs#surah-99|Signs in Creation]] <span class="count">1</span> · [[tags/warnings#surah-99|Warnings]] <span class="count">1</span>
 
 ## Ayaat
 
-[[99_1|1]] · [[99_2|2]] · [[99_3|3]] · [[99_4|4]] · [[99_5|5]] · [[99_6|6]] · [[99_7|7]] · [[99_8|8]]
+<p class="bismillah" lang="ar">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</p>
 
----
-
-[[The Quran/98 - The Clear Proof/index|← 98 · The Clear Proof]] · [[The Quran/100 - The Courser/index|100 · The Courser →]]
+- [[99_1|1]] <span lang="ar" id="1">إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا</span>
+  <span lang="en">When the earth is shaken with its [final] earthquake</span>
+  <span lang="ur">جب زمین اپنی پوری شدت کے ساتھ ہلا ڈالی جائے گی</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/resurrection|Resurrection]] · [[tags/nature_signs|Signs in Creation]]
+- [[99_2|2]] <span lang="ar" id="2">وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا</span>
+  <span lang="en">And the earth discharges its burdens</span>
+  <span lang="ur">اور زمین اپنے اندر کے سارے بوجھ نکال کر باہر ڈال دے گی</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/resurrection|Resurrection]]
+- [[99_3|3]] <span lang="ar" id="3">وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا</span>
+  <span lang="en">And man says, "What is [wrong] with it</span>
+  <span lang="ur">اور انسان کہے گا کہ یہ اِس کو کیا ہو رہا ہے</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/human_creation|Creation of Mankind]]
+- [[99_4|4]] <span lang="ar" id="4">يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا</span>
+  <span lang="en">That Day, it will report its news</span>
+  <span lang="ur">اُس روز وہ اپنے (اوپر گزرے ہوئے) حالات بیان کرے گی</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/qadr|Qadr]]
+- [[99_5|5]] <span lang="ar" id="5">بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا</span>
+  <span lang="en">Because your Lord has commanded it</span>
+  <span lang="ur">کیونکہ تیرے رب نے اُسے (ایساکرنے کا) حکم دیا ہوگا</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/qadr|Qadr]]
+- [[99_6|6]] <span lang="ar" id="6">يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ</span>
+  <span lang="en">That Day, the people will depart separated [into categories] to be shown [the result of] their deeds</span>
+  <span lang="ur">اُس روز لوگ متفرق حالت میں پلٹیں گے تاکہ اُن کے اعمال اُن کو دکھائے جائیں</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/adl|Adl]]
+- [[99_7|7]] <span lang="ar" id="7">فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ</span>
+  <span lang="en">So whoever does an atom's weight of good will see it</span>
+  <span lang="ur">پھر جس نے ذرہ برابر نیکی کی ہوگی وہ اس کو دیکھ لے گا</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/adl|Adl]] · [[tags/ihsan|Ihsan]]
+- [[99_8|8]] <span lang="ar" id="8">وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ</span>
+  <span lang="en">And whoever does an atom's weight of evil will see it</span>
+  <span lang="ur">اور جس نے ذرہ برابر بدی کی ہوگی وہ اس کو دیکھ لے گا</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/adl|Adl]] · [[tags/warnings|Warnings]]
 
 <!-- GENERATED:END -->
 ## Surah Notes

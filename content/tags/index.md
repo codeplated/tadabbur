@@ -2,7 +2,7 @@
 title: Themes
 cssclasses: [index-page, themes-index]
 ---
-The 139 themes of the Quran, in 13 categories. Open a theme for every ayah that carries it.
+The 140 themes of the Quran, in 13 categories. Open a theme for every ayah that carries it.
 
 ## Belief
 
@@ -116,6 +116,7 @@ The 139 themes of the Quran, in 13 categories. Open a theme for every ayah that 
 - [[tags/tazkiyah|Tazkiyah]] <span lang="ur">تزکیۂ نفس</span> <span class="count">127 <span class="unit">ayaat</span></span> <small>Purifying the soul: the nafs, desires & hearts sealed or softened</small>
 - [[tags/dunya|Dunya]] <span lang="ur">دنیا</span> <span class="count">184 <span class="unit">ayaat</span></span> <small>The worldly life: its reality, allure & heedlessness</small>
 - [[tags/purpose_of_life|Purpose of Life]] <span lang="ur">مقصدِ حیات</span> <span class="count">26 <span class="unit">ayaat</span></span> <small>Why we exist: worship, vicegerency & the test</small>
+- [[tags/success_failure|Success & Failure]] <span lang="ur">کامیابی و ناکامی</span> <span class="count">196 <span class="unit">ayaat</span></span> <small>Falah, fawz & khusran: who truly succeeds, who is the loser & deeds that come to nothing</small>
 - [[tags/love_of_allah|Love of Allah]] <span lang="ur">محبتِ الٰہی</span> <span class="count">48 <span class="unit">ayaat</span></span> <small>Whom Allah loves, whom He does not & loving Him</small>
 - [[tags/hope_raja|Hope & Raja]] <span lang="ur">امید</span> <span class="count">47 <span class="unit">ayaat</span></span> <small>Hope in Allah & never despairing of His mercy</small>
 - [[tags/anxiety_fear|Anxiety, Fear & Sakinah]] <span lang="ur">خوف و سکینت</span> <span class="count">89 <span class="unit">ayaat</span></span> <small>Worry, fear & finding tranquility of heart</small>

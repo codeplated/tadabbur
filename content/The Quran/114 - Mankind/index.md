@@ -6,39 +6,47 @@ transliteration: "An-Nas"
 type: meccan
 ayaat: 6
 image: "/attachments/surah_114.png"
+cssclasses: [surah]
 ---
 <!-- GENERATED:START -->
-# 114 — An-Nas · Mankind · الناس
-### انسان
+![[surah_114.png|320]]
 
-![[surah_114.png|640]]
+# An-Nas الناس
 
-> **Revealed:** Meccan · **Ayaat:** 6 · **Surah 114 of 114**
+Mankind · <span lang="ur">انسان</span>
 
----
-
-## Themes in this surah
-
-| Theme | Ayaat |
-|-------|-------|
-| **Dua** دعا [#dua](tags/dua) | 4 |
-| **Shaytan** شیطان [#shaytan](tags/shaytan) | 3 |
-| **Asma ul Husna** اسماء الحسنیٰ [#asma_ul_husna](tags/asma_ul_husna) | 2 |
-| **Tawheed** توحید [#tawheed](tags/tawheed) | 2 |
-| **Tazkiyah** تزکیۂ نفس [#tazkiyah](tags/tazkiyah) | 2 |
-| **Direct Commands** اوامر [#commands](tags/commands) | 1 |
-| **Dhikr & Tasbih** ذکر و تسبیح [#dhikr](tags/dhikr) | 1 |
-| **Jinn** جنات [#jinn](tags/jinn) | 1 |
-
----
+> Surah 114 of 114 · Meccan · 6 ayaat · [[The Quran/113 - The Daybreak/index|← Al-Falaq]]
+>
+> **Themes:** [[tags/dua#surah-114|Dua]] <span class="count">4</span> · [[tags/shaytan#surah-114|Shaytan]] <span class="count">3</span> · [[tags/asma_ul_husna#surah-114|Asma ul Husna]] <span class="count">2</span> · [[tags/tawheed#surah-114|Tawheed]] <span class="count">2</span> · [[tags/tazkiyah#surah-114|Tazkiyah]] <span class="count">2</span> · [[tags/commands#surah-114|Direct Commands]] <span class="count">1</span> · [[tags/dhikr#surah-114|Dhikr & Tasbih]] <span class="count">1</span> · [[tags/jinn#surah-114|Jinn]] <span class="count">1</span>
 
 ## Ayaat
 
-[[114_1|1]] · [[114_2|2]] · [[114_3|3]] · [[114_4|4]] · [[114_5|5]] · [[114_6|6]]
+<p class="bismillah" lang="ar">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</p>
 
----
-
-[[The Quran/113 - The Daybreak/index|← 113 · The Daybreak]]
+- [[114_1|1]] <span lang="ar" id="1">قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ</span>
+  <span lang="en">Say, "I seek refuge in the Lord of mankind</span>
+  <span lang="ur">کہو، میں پناہ مانگتا ہوں انسانوں کے رب</span>
+  [[tags/dua|Dua]] · [[tags/dhikr|Dhikr & Tasbih]] · [[tags/commands|Direct Commands]]
+- [[114_2|2]] <span lang="ar" id="2">مَلِكِ ٱلنَّاسِ</span>
+  <span lang="en">The Sovereign of mankind</span>
+  <span lang="ur">انسانوں کے بادشاہ</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]]
+- [[114_3|3]] <span lang="ar" id="3">إِلَٰهِ ٱلنَّاسِ</span>
+  <span lang="en">The God of mankind</span>
+  <span lang="ur">انسانوں کے حقیقی معبود کی</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]]
+- [[114_4|4]] <span lang="ar" id="4">مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ</span>
+  <span lang="en">From the evil of the retreating whisperer</span>
+  <span lang="ur">اُس وسوسہ ڈالنے والے کے شر سے جو بار بار پلٹ کر آتا ہے</span>
+  [[tags/shaytan|Shaytan]] · [[tags/dua|Dua]] · [[tags/tazkiyah|Tazkiyah]]
+- [[114_5|5]] <span lang="ar" id="5">ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ</span>
+  <span lang="en">Who whispers [evil] into the breasts of mankind</span>
+  <span lang="ur">جو لوگوں کے دلوں میں وسوسے ڈالتا ہے</span>
+  [[tags/shaytan|Shaytan]] · [[tags/tazkiyah|Tazkiyah]] · [[tags/dua|Dua]]
+- [[114_6|6]] <span lang="ar" id="6">مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ</span>
+  <span lang="en">From among the jinn and mankind</span>
+  <span lang="ur">خواہ وہ جنوں میں سے ہو یا انسانوں میں سے</span>
+  [[tags/shaytan|Shaytan]] · [[tags/jinn|Jinn]] · [[tags/dua|Dua]]
 
 <!-- GENERATED:END -->
 ## Surah Notes

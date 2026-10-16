@@ -6,41 +6,51 @@ transliteration: "An-Nasr"
 type: medinan
 ayaat: 3
 image: "/attachments/surah_110.png"
+cssclasses: [surah]
 ---
 <!-- GENERATED:START -->
-# 110 — An-Nasr · The Divine Support · النصر
-### نصرت
+![[surah_110.png|320]]
 
-![[surah_110.png|640]]
+# An-Nasr النصر
 
-> **Revealed:** Medinan · **Ayaat:** 3 · **Surah 110 of 114**
+The Divine Support · <span lang="ur">نصرت</span>
 
----
+> Surah 110 of 114 · Medinan · 3 ayaat · [[The Quran/109 - The Disbelievers/index|← Al-Kafirun]] · [[The Quran/111 - The Palm Fiber/index|Al-Masad →]]
+>
+> **Themes:** [[tags/story_muhammad#surah-110|Prophet Muhammad ﷺ]] <span class="count">2</span> · [[tags/commands#surah-110|Direct Commands]] <span class="count">1</span> · [[tags/community#surah-110|Ummah & Brotherhood]] <span class="count">1</span> · [[tags/conflict#surah-110|War, Ethics & Peace]] <span class="count">1</span> · [[tags/dawah#surah-110|Da'wah]] <span class="count">1</span> · [[tags/dhikr#surah-110|Dhikr & Tasbih]] <span class="count">1</span> · [[tags/glad_tidings#surah-110|Glad Tidings]] <span class="count">1</span> · [[tags/hidayah#surah-110|Guidance]] <span class="count">1</span>
 
-## Themes in this surah
+<details class="surah-themes">
+<summary>All 10 themes in this surah</summary>
 
-| Theme | Ayaat |
-|-------|-------|
-| **Prophet Muhammad ﷺ** محمد ﷺ [#story_muhammad](tags/story_muhammad) | 2 |
-| **Direct Commands** اوامر [#commands](tags/commands) | 1 |
-| **Ummah & Brotherhood** امت و اخوت [#community](tags/community) | 1 |
-| **War, Ethics & Peace** جنگ و صلح [#conflict](tags/conflict) | 1 |
-| **Da'wah** دعوت و تبلیغ [#dawah](tags/dawah) | 1 |
-| **Dhikr & Tasbih** ذکر و تسبیح [#dhikr](tags/dhikr) | 1 |
-| **Glad Tidings** بشارت [#glad_tidings](tags/glad_tidings) | 1 |
-| **Guidance** ہدایت و ضلالت [#hidayah](tags/hidayah) | 1 |
-| **Shukr** شکر [#shukr](tags/shukr) | 1 |
-| **Tawbah** توبہ و استغفار [#tawbah](tags/tawbah) | 1 |
+- [[tags/story_muhammad#surah-110|Prophet Muhammad ﷺ]] <span lang="ur">محمد ﷺ</span> <span class="count">2 <span class="unit">ayaat</span></span>
+- [[tags/commands#surah-110|Direct Commands]] <span lang="ur">اوامر</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/community#surah-110|Ummah & Brotherhood]] <span lang="ur">امت و اخوت</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/conflict#surah-110|War, Ethics & Peace]] <span lang="ur">جنگ و صلح</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/dawah#surah-110|Da'wah]] <span lang="ur">دعوت و تبلیغ</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/dhikr#surah-110|Dhikr & Tasbih]] <span lang="ur">ذکر و تسبیح</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/glad_tidings#surah-110|Glad Tidings]] <span lang="ur">بشارت</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/hidayah#surah-110|Guidance]] <span lang="ur">ہدایت و ضلالت</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/shukr#surah-110|Shukr]] <span lang="ur">شکر</span> <span class="count">1 <span class="unit">ayah</span></span>
+- [[tags/tawbah#surah-110|Tawbah]] <span lang="ur">توبہ و استغفار</span> <span class="count">1 <span class="unit">ayah</span></span>
 
----
+</details>
 
 ## Ayaat
 
-[[110_1|1]] · [[110_2|2]] · [[110_3|3]]
+<p class="bismillah" lang="ar">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</p>
 
----
-
-[[The Quran/109 - The Disbelievers/index|← 109 · The Disbelievers]] · [[The Quran/111 - The Palm Fiber/index|111 · The Palm Fiber →]]
+- [[110_1|1]] <span lang="ar" id="1">إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ</span>
+  <span lang="en">When the victory of Allah has come and the conquest</span>
+  <span lang="ur">جب اللہ کی مدد آ جائے اور فتح نصیب ہو جائے</span>
+  [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/conflict|War, Ethics & Peace]] · [[tags/glad_tidings|Glad Tidings]]
+- [[110_2|2]] <span lang="ar" id="2">وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا</span>
+  <span lang="en">And you see the people entering into the religion of Allah in multitudes</span>
+  <span lang="ur">اور (اے نبیؐ) تم دیکھ لو کہ لوگ فوج در فوج اللہ کے دین میں داخل ہو رہے ہیں</span>
+  [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/dawah|Da'wah]] · [[tags/community|Ummah & Brotherhood]] · [[tags/hidayah|Guidance]]
+- [[110_3|3]] <span lang="ar" id="3">فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا</span>
+  <span lang="en">Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance</span>
+  <span lang="ur">تو اپنے رب کی حمد کے ساتھ اُس کی تسبیح کرو، اور اُس سے مغفرت کی دعا مانگو، بے شک وہ بڑا توبہ قبول کرنے والا ہے</span>
+  [[tags/dhikr|Dhikr & Tasbih]] · [[tags/tawbah|Tawbah]] · [[tags/shukr|Shukr]] · [[tags/commands|Direct Commands]]
 
 <!-- GENERATED:END -->
 ## Surah Notes
