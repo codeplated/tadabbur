@@ -290,6 +290,17 @@ Existing patches:
   by Belambo" (links to https://belambo.com). The `footer` option links sit
   on the same row, open in a new tab, and a link named `GitHub` renders as
   the GitHub icon instead of text.
+- `@quartz-community+search+0.1.0.patch` — the search button worked only
+  once the whole search index was built. On every page load the plugin
+  fetched `contentIndex.json` and indexed all 6,700 pages before it bound the
+  button's click, so on a phone a tap did nothing for 10 to 19 seconds (390px,
+  touch, CPU slowed 4 to 6 times; a desktop does it in about a second, which is
+  why a narrow desktop window never showed it). The patch binds the button and
+  the field first and builds the index behind the page, once (one shared
+  promise). A query typed before the index is ready shows "Getting search
+  ready…" and runs when it is. The script is one minified line inside a
+  template literal, twice (see above), so the patch file is large; an edit to it
+  must not add a backtick, `${` or a backslash.
 
 ### Local changes to Quartz core
 
