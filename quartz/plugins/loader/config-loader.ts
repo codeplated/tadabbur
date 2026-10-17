@@ -493,6 +493,9 @@ export async function loadQuartzConfig(
   // Import built-in plugins
   const builtinPlugins = await import("../index")
   const builtinTransformers = [builtinPlugins.ScriptLang()]
+  // Run after the configured transformers: SearchText trims the text the
+  // description plugin sets.
+  const builtinLateTransformers = [builtinPlugins.SearchText()]
   const builtinEmitters = [
     builtinPlugins.ComponentResources(),
     builtinPlugins.Assets(),
@@ -502,7 +505,11 @@ export async function loadQuartzConfig(
   const builtinPageTypes = [builtinPlugins.PageTypes.NotFoundPageType()]
 
   const plugins: PluginTypes = {
-    transformers: [...builtinTransformers, ...(await instantiate(transformers, "transformer"))],
+    transformers: [
+      ...builtinTransformers,
+      ...(await instantiate(transformers, "transformer")),
+      ...builtinLateTransformers,
+    ],
     filters: await instantiate(filters, "filter"),
     emitters: [...builtinEmitters, ...(await instantiate(emitters, "emitter"))],
     pageTypes: [...(await instantiate(pageTypes, "pageType")), ...builtinPageTypes],
