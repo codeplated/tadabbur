@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 سامری
 
-> [[Personalities/index#People|Person]] · Deviated Path · Time of Musa, Sinai · [[#Mentioned in Quran|6 ayaat]]
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Musa, Sinai · [[#Mentioned in Quran|6 ayaat in 1 surah]]
 >
 > **Themes:** [[tags/story_musa|Prophet Musa]] · [[tags/story_bani_israil|Bani Israil]] · [[tags/shirk|Shirk]] · [[tags/trial_test|Trials & Tests]]
 
@@ -45,22 +45,30 @@ A man among Bani Israel who, during Musa's absence to receive the Torah, collect
 
 ---
 
-## Mentioned in Quran
-
-- [[20_85]]
-- [[20_87]]
-- [[20_88]]
-- [[20_95]]
-- [[20_96]]
-- [[20_97]]
-
----
-
 ## Connected Personalities
 
 - [[Musa (Moses) — مُوسَى]]
 - [[Harun (Aaron) — هَارُون]]
 - [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">20</span> Ta-Ha <span lang="ar">طه</span> <span class="count">6 <span class="unit">ayaat</span></span>
+
+- [[20_85|20:85]] <span lang="en">[Allah] said, "But indeed, We have tried your people after you [departed], and the Samiri has led them astray</span>
+  [[tags/story_musa|Prophet Musa]] · [[tags/story_bani_israil|Bani Israil]] · [[tags/trial_test|Trials & Tests]] · [[tags/shirk|Shirk]]
+- [[20_87|20:87]] <span lang="en">They said, "We did not break our promise to you by our will, but we were made to carry burdens from the ornaments of the people [of Pharaoh], so we threw them [into the fire], and thus did the Samiri throw</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/shirk|Shirk]]
+- [[20_88|20:88]] <span lang="en">And he extracted for them [the statue of] a calf which had a lowing sound, and they said, "This is your god and the god of Moses, but he forgot</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/shirk|Shirk]]
+- [[20_95|20:95]] <span lang="en">[Moses] said, "And what is your case, O Samiri</span>
+  [[tags/story_musa|Prophet Musa]]
+- [[20_96|20:96]] <span lang="en">He said, "I saw what they did not see, so I took a handful [of dust] from the track of the messenger and threw it, and thus did my soul entice me</span>
+  [[tags/story_musa|Prophet Musa]] · [[tags/tazkiyah|Tazkiyah]]
+- [[20_97|20:97]] <span lang="en">[Moses] said, "Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it into the sea with a blast</span>
+  [[tags/story_musa|Prophet Musa]] · [[tags/shirk|Shirk]] · [[tags/warnings|Warnings]]
 
 <!-- GENERATED:END -->
 ## Study Notes

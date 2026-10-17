@@ -44,13 +44,6 @@ When you feel stuck in conventional thinking about your problem, Al-Badi' can cr
 
 ---
 
-## Key Ayaat
-
-- [[2_117]]
-- [[6_101]]
-
----
-
 ## Related Names
 
 - [[12 - Al-Khaliq ٱلْخَالِق]]
@@ -59,6 +52,20 @@ When you feel stuck in conventional thinking about your problem, Al-Badi' can cr
 - [[59 - Al-Mubdi' ٱلْمُبْدِئ]]
 - [[60 - Al-Mu'id ٱلْمُعِيد]]
 - [[61 - Al-Muhyi ٱلْمُحْيِي]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_117|2:117]] <span lang="en">Originator of the heavens and the earth. When He decrees a matter, He only says to it, "Be," and it is</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/nature_signs|Signs in Creation]] · [[tags/qadr|Qadr]]
+
+### <span class="num">6</span> The Cattle <span lang="ar">الأنعام</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[6_101|6:101]] <span lang="en">[He is] Originator of the heavens and the earth. How could He have a son when He does not have a companion and He created all things? And He is, of all things, Knowing</span>
+  [[tags/tawheed|Tawheed]] · [[tags/shirk|Shirk]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

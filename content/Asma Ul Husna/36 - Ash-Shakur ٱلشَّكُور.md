@@ -44,16 +44,6 @@ When you feel your good deeds are too small to matter, Ash-Shakur notices every 
 
 ---
 
-## Key Ayaat
-
-- [[2_158]]
-- [[35_30]]
-- [[35_34]]
-- [[42_23]]
-- [[64_17]]
-
----
-
 ## Related Names
 
 - [[3 - Ar-Rahim ٱلرَّحِيم]]
@@ -64,6 +54,32 @@ When you feel your good deeds are too small to matter, Ash-Shakur notices every 
 - [[56 - Al-Wali ٱلْوَلِيّ]]
 - [[80 - Al-Barr ٱلْبَرّ]]
 - [[81 - At-Tawwab ٱلتَّوَّاب]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_158|2:158]] <span lang="en">Indeed, as-Safa and al-Marwah are among the symbols of Allah. So whoever makes Hajj to the House or performs 'umrah - there is no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and Knowing</span>
+  [[tags/hajj|Hajj & Umrah]] · [[tags/kaaba|Kaaba & Qiblah]] · [[tags/ihsan|Ihsan]]
+
+### <span class="num">35</span> Originator <span lang="ar">فاطر</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[35_30|35:30]] <span lang="en">That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative</span>
+  [[tags/glad_tidings|Glad Tidings]] · [[tags/shukr|Shukr]]
+- [[35_34|35:34]] <span lang="en">And they will say, "Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative</span>
+  [[tags/jannah|Jannah]] · [[tags/dhikr|Dhikr & Tasbih]] · [[tags/grief_loss|Grief & Loss]]
+
+### <span class="num">42</span> The Consultation <span lang="ar">الشورى</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[42_23|42:23]] <span lang="en">It is that of which Allah gives good tidings to His servants who believe and do righteous deeds. Say, [O Muhammad], "I do not ask you for this message any payment [but] only good will through kinship." And whoever commits a good deed - We will increase for him good therein. Indeed, Allah is Forgiving and Appreciative</span>
+  [[tags/glad_tidings|Glad Tidings]] · [[tags/family|Family & Kinship]] · [[tags/ihsan|Ihsan]] · [[tags/shukr|Shukr]]
+
+### <span class="num">64</span> The Mutual Disillusion <span lang="ar">التغابن</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[64_17|64:17]] <span lang="en">If you loan Allah a goodly loan, He will multiply it for you and forgive you. And Allah is Most Appreciative and Forbearing</span>
+  [[tags/zakat|Zakat & Sadaqah]] · [[tags/glad_tidings|Glad Tidings]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

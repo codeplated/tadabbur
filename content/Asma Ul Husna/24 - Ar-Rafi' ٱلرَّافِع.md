@@ -44,16 +44,6 @@ When you work hard and feel overlooked, Ar-Rafi' is the One who actually elevate
 
 ---
 
-## Key Ayaat
-
-- [[3_55]]
-- [[4_158]]
-- [[6_83]]
-- [[19_57]]
-- [[56_3]]
-
----
-
 ## Related Names
 
 - [[11 - Al-Mutakabbir ٱلْمُتَكَبِّر]]
@@ -64,6 +54,35 @@ When you work hard and feel overlooked, Ar-Rafi' is the One who actually elevate
 - [[26 - Al-Mudhill ٱلْمُذِلّ]]
 - [[34 - Al-Azim ٱلْعَظِيم]]
 - [[37 - Al-Ali ٱلْعَلِيّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">3</span> Family of Imran <span lang="ar">آل عمران</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[3_55|3:55]] <span lang="en">[Mention] when Allah said, "O Jesus, indeed I will take you and raise you to Myself and purify you from those who disbelieve and make those who follow you [in submission to Allah alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ</span>
+  [[tags/story_isa|Prophet Isa]] · [[tags/miracles|Miracles]] · [[tags/akhirah|Akhirah & Judgment Day]]
+
+### <span class="num">4</span> The Women <span lang="ar">النساء</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[4_158|4:158]] <span lang="en">Rather, Allah raised him to Himself. And ever is Allah Exalted in Might and Wise</span>
+  [[tags/story_isa|Prophet Isa]] · [[tags/miracles|Miracles]]
+
+### <span class="num">6</span> The Cattle <span lang="ar">الأنعام</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[6_83|6:83]] <span lang="en">And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/knowledge|Knowledge & Wisdom]]
+
+### <span class="num">19</span> Mary <span lang="ar">مريم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[19_57|19:57]] <span lang="en">And We raised him to a high station</span>
+  [[tags/story_idris|Prophet Idris]]
+
+### <span class="num">56</span> The Inevitable <span lang="ar">الواقعة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[56_3|56:3]] <span lang="en">It will bring down [some] and raise up [others]</span>
+  [[tags/akhirah|Akhirah & Judgment Day]]
 
 <!-- GENERATED:END -->
 ## Study Notes

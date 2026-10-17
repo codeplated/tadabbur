@@ -44,12 +44,6 @@ When the world feels unstable — relationships, institutions, economies all shi
 
 ---
 
-## Key Ayaat
-
-- [[51_58]]
-
----
-
 ## Related Names
 
 - [[49 - Al-Majid ٱلْمَجِيد]]
@@ -60,6 +54,15 @@ When the world feels unstable — relationships, institutions, economies all shi
 - [[66 - Al-Majid ٱلْمَاجِد]]
 - [[70 - Al-Qadir ٱلْقَادِر]]
 - [[71 - Al-Muqtadir ٱلْمُقْتَدِر]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">51</span> The Winnowing Winds <span lang="ar">الذاريات</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[51_58|51:58]] <span lang="en">Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength</span>
+  [[tags/rizq|Rizq]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]]
 
 <!-- GENERATED:END -->
 ## Study Notes

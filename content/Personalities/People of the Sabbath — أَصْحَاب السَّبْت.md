@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 اصحاب السبت
 
-> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Ancient Israelite history · [[#Mentioned in Quran|7 ayaat]]
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Deviated Path · Ancient Israelite history · [[#Mentioned in Quran|7 ayaat in 3 surahs]]
 >
 > **Also known as:** Companions of the Sabbath
 >
@@ -47,21 +47,36 @@ A community by the sea who were forbidden from fishing on the Sabbath (Saturday)
 
 ---
 
-## Mentioned in Quran
-
-- [[2_65]]
-- [[4_47]]
-- [[4_154]]
-- [[7_163]]
-- [[7_164]]
-- [[7_165]]
-- [[7_166]]
-
----
-
 ## Connected Personalities
 
 - [[Bani Israel (Children of Israel) — بَنُو إِسْرَائِيل]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_65|2:65]] <span lang="en">And you had already known about those who transgressed among you concerning the sabbath, and We said to them, "Be apes, despised</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/history_lessons|Lessons from History]] · [[tags/warnings|Warnings]]
+
+### <span class="num">4</span> The Women <span lang="ar">النساء</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[4_47|4:47]] <span lang="en">O you who were given the Scripture, believe in what We have sent down [to Muhammad], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers. And ever is the decree of Allah accomplished</span>
+  [[tags/ahl_al_kitab|People of the Book]] · [[tags/revelation|Revelation]] · [[tags/warnings|Warnings]]
+- [[4_154|4:154]] <span lang="en">And We raised over them the mount for [refusal of] their covenant; and We said to them, "Enter the gate bowing humbly", and We said to them, "Do not transgress on the sabbath", and We took from them a solemn covenant</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/amanah|Amanah & Promises]]
+
+### <span class="num">7</span> The Heights <span lang="ar">الأعراف</span> <span class="count">4 <span class="unit">ayaat</span></span>
+
+- [[7_163|7:163]] <span lang="en">And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/trial_test|Trials & Tests]]
+- [[7_164|7:164]] <span lang="en">And when a community among them said, "Why do you advise [or warn] a people whom Allah is [about] to destroy or to punish with a severe punishment?" they [the advisors] said, "To be absolved before your Lord and perhaps they may fear Him</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/dawah|Da'wah]] · [[tags/taqwa|Taqwa]]
+- [[7_165|7:165]] <span lang="en">And when they forgot that by which they had been reminded, We saved those who had forbidden evil and seized those who wronged, with a wretched punishment, because they were defiantly disobeying</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/dawah|Da'wah]] · [[tags/history_lessons|Lessons from History]]
+- [[7_166|7:166]] <span lang="en">So when they were insolent about that which they had been forbidden, We said to them, "Be apes, despised</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/history_lessons|Lessons from History]]
 
 <!-- GENERATED:END -->
 ## Study Notes

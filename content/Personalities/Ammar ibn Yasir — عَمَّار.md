@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 عمار ابن یاسر رضی اللہ عنہ
 
-> [[Personalities/index#Companions|Companion]] · Straight Path · Early Islam, Makkah and Madinah · [[#Mentioned in Quran|1 ayah]]
+> [[Personalities/index#Companions|Companion]] · Straight Path · Early Islam, Makkah and Madinah · [[#Mentioned in Quran|1 ayah in 1 surah]]
 >
 > **Themes:** [[tags/sahabah|Sahabah]] · [[tags/oppression|Oppression]] · [[tags/iman|Iman]] · [[tags/sabr|Sabr]]
 
@@ -44,17 +44,20 @@ Son of Yasir and Sumayyah. Tortured in Makkah. Under extreme duress he verbally 
 
 ---
 
-## Mentioned in Quran
-
-- [[16_106]]
-
----
-
 ## Connected Personalities
 
 - [[Sumayyah bint Khayyat — سُمَيَّة]]
 - [[Abu Jahl — أَبُو جَهْل]]
 - [[Muhammad ﷺ — مُحَمَّد]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">16</span> The Bee <span lang="ar">النحل</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[16_106|16:106]] <span lang="en">Whoever disbelieves in Allah after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allah, and for them is a great punishment</span>
+  [[tags/kufr|Kufr]] · [[tags/iman|Iman]] · [[tags/oppression|Oppression]]
 
 <!-- GENERATED:END -->
 ## Study Notes

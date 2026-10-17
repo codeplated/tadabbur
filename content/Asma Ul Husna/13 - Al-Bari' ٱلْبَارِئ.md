@@ -44,13 +44,6 @@ You were created distinct from every other human who has ever lived. Al-Bari' di
 
 ---
 
-## Key Ayaat
-
-- [[2_54]]
-- [[59_24]]
-
----
-
 ## Related Names
 
 - [[12 - Al-Khaliq ٱلْخَالِق]]
@@ -59,6 +52,20 @@ You were created distinct from every other human who has ever lived. Al-Bari' di
 - [[60 - Al-Mu'id ٱلْمُعِيد]]
 - [[61 - Al-Muhyi ٱلْمُحْيِي]]
 - [[96 - Al-Badi' ٱلْبَدِيع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_54|2:54]] <span lang="en">And [recall] when Moses said to his people, "O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves. That is best for [all of] you in the sight of your Creator." Then He accepted your repentance; indeed, He is the Accepting of repentance, the Merciful</span>
+  [[tags/story_musa|Prophet Musa]] · [[tags/story_bani_israil|Bani Israil]] · [[tags/tawbah|Tawbah]] · [[tags/shirk|Shirk]]
+
+### <span class="num">59</span> The Exile <span lang="ar">الحشر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[59_24|59:24]] <span lang="en">He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dhikr|Dhikr & Tasbih]] · [[tags/nature_signs|Signs in Creation]]
 
 <!-- GENERATED:END -->
 ## Study Notes

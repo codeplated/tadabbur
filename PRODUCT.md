@@ -55,8 +55,8 @@ reader moves from a verse to an idea to every other verse on that idea.
 ## Operating Context
 
 - The site has four sections, shown the same way as four cards on the front
-  page and four parents in the menu, in this order: **The Quran,
-  Personalities, Asma Ul Husna, Themes.**
+  page and four parents in the menu, in this order: **The Quran, Themes,
+  Asma Ul Husna, Personalities** (owner's order, 2026-10-17).
 - **The front page** is a heading over a band of pattern, one line saying what
   the site is, the four cards, then what the word Tadabbur means. A card says
   what its section holds and how its page can be arranged, and shows three
@@ -77,7 +77,10 @@ reader moves from a verse to an idea to every other verse on that idea.
   the screen anywhere narrower.
 - **A person's page and a Name's page** open with the heading, a line or two
   under it (the name in Urdu; a Name's meaning in English and Urdu) and the
-  facts in lines, with the type or category and every theme as a link.
+  facts in lines, with the type or category and every theme as a link. Their
+  ayaat close the page as a theme's page shows its own: grouped by surah, each
+  with its English and its themes, with the same surah index beside them (and
+  the page's sections over it on a desktop).
 - **An ayah's page** is the verse first: a head that says where it is (its
   surah's name links back to it in the surah's text), the player between the
   steps to the ayaat either side, the Arabic, English and Urdu, its themes by

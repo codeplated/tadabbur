@@ -44,14 +44,6 @@ When you feel your small acts of goodness don't add up, Al-Muhsi's count include
 
 ---
 
-## Key Ayaat
-
-- [[19_94]]
-- [[36_12]]
-- [[72_28]]
-
----
-
 ## Related Names
 
 - [[44 - Ar-Raqib ٱلرَّقِيب]]
@@ -62,6 +54,25 @@ When you feel your small acts of goodness don't add up, Al-Muhsi's count include
 - [[76 - Al-Zahir ٱلظَّاهِر]]
 - [[77 - Al-Batin ٱلْبَاطِن]]
 - [[94 - An-Nur ٱلنُّور]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">19</span> Mary <span lang="ar">مريم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[19_94|19:94]] <span lang="en">He has enumerated them and counted them a [full] counting</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/akhirah|Akhirah & Judgment Day]]
+
+### <span class="num">36</span> Ya Sin <span lang="ar">يس</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[36_12|36:12]] <span lang="en">Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register</span>
+  [[tags/resurrection|Resurrection]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/qadr|Qadr]]
+
+### <span class="num">72</span> The Jinn <span lang="ar">الجن</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[72_28|72:28]] <span lang="en">That he may know that they have conveyed the messages of their Lord; and He has encompassed whatever is with them and has enumerated all things in number</span>
+  [[tags/prophethood|Prophethood]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/amanah|Amanah & Promises]]
 
 <!-- GENERATED:END -->
 ## Study Notes

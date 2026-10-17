@@ -44,13 +44,6 @@ When you struggle with your appearance, Al-Musawwir shaped you deliberately, wit
 
 ---
 
-## Key Ayaat
-
-- [[3_6]]
-- [[59_24]]
-
----
-
 ## Related Names
 
 - [[12 - Al-Khaliq ٱلْخَالِق]]
@@ -59,6 +52,20 @@ When you struggle with your appearance, Al-Musawwir shaped you deliberately, wit
 - [[60 - Al-Mu'id ٱلْمُعِيد]]
 - [[61 - Al-Muhyi ٱلْمُحْيِي]]
 - [[96 - Al-Badi' ٱلْبَدِيع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">3</span> Family of Imran <span lang="ar">آل عمران</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[3_6|3:6]] <span lang="en">It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise</span>
+  [[tags/human_creation|Creation of Mankind]] · [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]]
+
+### <span class="num">59</span> The Exile <span lang="ar">الحشر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[59_24|59:24]] <span lang="en">He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dhikr|Dhikr & Tasbih]] · [[tags/nature_signs|Signs in Creation]]
 
 <!-- GENERATED:END -->
 ## Study Notes

@@ -44,17 +44,6 @@ Every time something seems overpowering — a problem, an enemy, a system — Al
 
 ---
 
-## Key Ayaat
-
-- [[4_34]]
-- [[13_9]]
-- [[22_62]]
-- [[31_30]]
-- [[34_23]]
-- [[40_12]]
-
----
-
 ## Related Names
 
 - [[25 - Al-Mu'izz ٱلْمُعِزّ]]
@@ -65,6 +54,40 @@ Every time something seems overpowering — a problem, an enemy, a system — Al
 - [[42 - Al-Jalil ٱلْجَلِيل]]
 - [[49 - Al-Majid ٱلْمَجِيد]]
 - [[52 - Al-Haqq ٱلْحَقّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">4</span> The Women <span lang="ar">النساء</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[4_34|4:34]] <span lang="en">Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them. Indeed, Allah is ever Exalted and Grand</span>
+  [[tags/marriage|Marriage & Nikah]] · [[tags/women|Women]] · [[tags/family|Family & Kinship]]
+
+### <span class="num">13</span> The Thunder <span lang="ar">الرعد</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[13_9|13:9]] <span lang="en">[He is] Knower of the unseen and the witnessed, the Grand, the Exalted</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]]
+
+### <span class="num">22</span> The Pilgrimage <span lang="ar">الحج</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[22_62|22:62]] <span lang="en">That is because Allah is the Truth, and that which they call upon other than Him is falsehood, and because Allah is the Most High, the Grand</span>
+  [[tags/tawheed|Tawheed]] · [[tags/shirk|Shirk]] · [[tags/asma_ul_husna|Asma ul Husna]]
+
+### <span class="num">31</span> Luqman <span lang="ar">لقمان</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[31_30|31:30]] <span lang="en">That is because Allah is the Truth, and that what they call upon other than Him is falsehood, and because Allah is the Most High, the Grand</span>
+  [[tags/tawheed|Tawheed]] · [[tags/shirk|Shirk]] · [[tags/asma_ul_husna|Asma ul Husna]]
+
+### <span class="num">34</span> Sheba <span lang="ar">سبإ</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[34_23|34:23]] <span lang="en">And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts, they will say [to one another], "What has your Lord said?" They will say, "The truth." And He is the Most High, the Grand</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/angels|Angels]] · [[tags/asma_ul_husna|Asma ul Husna]]
+
+### <span class="num">40</span> The Forgiver <span lang="ar">غافر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[40_12|40:12]] <span lang="en">[They will be told], "That is because, when Allah was called upon alone, you disbelieved; but if others were associated with Him, you believed. So the judgement is with Allah, the Most High, the Grand</span>
+  [[tags/shirk|Shirk]] · [[tags/tawheed|Tawheed]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 <!-- GENERATED:END -->
 ## Study Notes

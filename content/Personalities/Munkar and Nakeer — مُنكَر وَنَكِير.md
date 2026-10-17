@@ -44,15 +44,15 @@ Referenced in hadith rather than named in the Quran, but connected to Quranic ay
 
 ---
 
-## Mentioned in Quran
-
-_No specific ayaat recorded._
-
----
-
 ## Connected Personalities
 
 _No connections recorded._
+
+---
+
+## Mentioned in Quran
+
+_No specific ayaat recorded._
 
 <!-- GENERATED:END -->
 ## Study Notes

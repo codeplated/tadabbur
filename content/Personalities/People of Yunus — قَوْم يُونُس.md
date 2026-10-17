@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 قوم یونس
 
-> [[Personalities/index#Groups and Nations|Group / Nation]] · Straight Path · Ancient Nineveh (modern Iraq) · [[#Mentioned in Quran|3 ayaat]]
+> [[Personalities/index#Groups and Nations|Group / Nation]] · Straight Path · Ancient Nineveh (modern Iraq) · [[#Mentioned in Quran|3 ayaat in 2 surahs]]
 >
 > **Also known as:** People of Nineveh
 >
@@ -46,17 +46,25 @@ The people of Yunus (Nineveh). When Yunus left them, punishment signs appeared. 
 
 ---
 
-## Mentioned in Quran
-
-- [[10_98]]
-- [[37_147]]
-- [[37_148]]
-
----
-
 ## Connected Personalities
 
 - [[Yunus (Jonah) — يُونُس]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">10</span> Jonah <span lang="ar">يونس</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[10_98|10:98]] <span lang="en">Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment for a time</span>
+  [[tags/story_yunus|Prophet Yunus]] · [[tags/tawbah|Tawbah]] · [[tags/iman|Iman]] · [[tags/rahmah|Mercy & Forgiveness]]
+
+### <span class="num">37</span> Those who set the Ranks <span lang="ar">الصافات</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[37_147|37:147]] <span lang="en">And We sent him to [his people of] a hundred thousand or more</span>
+  [[tags/story_yunus|Prophet Yunus]] · [[tags/dawah|Da'wah]]
+- [[37_148|37:148]] <span lang="en">And they believed, so We gave them enjoyment [of life] for a time</span>
+  [[tags/story_yunus|Prophet Yunus]] · [[tags/iman|Iman]] · [[tags/tawbah|Tawbah]]
 
 <!-- GENERATED:END -->
 ## Study Notes

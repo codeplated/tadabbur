@@ -44,13 +44,6 @@ What you think is lost or inaccessible is found by Al-Wajid. When you cannot fin
 
 ---
 
-## Key Ayaat
-
-- [[93_7]]
-- [[93_8]]
-
----
-
 ## Related Names
 
 - [[46 - Al-Wasi' ٱلْوَاسِع]]
@@ -61,6 +54,17 @@ What you think is lost or inaccessible is found by Al-Wajid. When you cannot fin
 - [[77 - Al-Batin ٱلْبَاطِن]]
 - [[94 - An-Nur ٱلنُّور]]
 - [[95 - Al-Hadi ٱلْهَادِي]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">93</span> The Morning Hours <span lang="ar">الضحى</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[93_7|93:7]] <span lang="en">And He found you lost and guided [you]</span>
+  [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/hidayah|Guidance]] · [[tags/rahmah|Mercy & Forgiveness]]
+- [[93_8|93:8]] <span lang="en">And He found you poor and made [you] self-sufficient</span>
+  [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/rizq|Rizq]] · [[tags/rahmah|Mercy & Forgiveness]]
 
 <!-- GENERATED:END -->
 ## Study Notes

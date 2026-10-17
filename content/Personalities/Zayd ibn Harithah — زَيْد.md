@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 زید ابن حارثہ رضی اللہ عنہ
 
-> [[Personalities/index#Companions|Companion]] · Straight Path · 610-629 CE, Arabia · [[#Mentioned in Quran|1 ayah]]
+> [[Personalities/index#Companions|Companion]] · Straight Path · 610-629 CE, Arabia · [[#Mentioned in Quran|1 ayah in 1 surah]]
 >
 > **Also known as:** Zayd ibn Muhammad (before ruling), The only companion named in the Quran
 >
@@ -47,15 +47,18 @@ The freed slave and adopted son of the Prophet ﷺ. The only companion mentioned
 
 ---
 
-## Mentioned in Quran
-
-- [[33_37]]
-
----
-
 ## Connected Personalities
 
 - [[Muhammad ﷺ — مُحَمَّد]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">33</span> The Combined Forces <span lang="ar">الأحزاب</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[33_37|33:37]] <span lang="en">And [remember, O Muhammad], when you said to the one on whom Allah bestowed favor and you bestowed favor, "Keep your wife and fear Allah," while you concealed within yourself that which Allah is to disclose. And you feared the people, while Allah has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort concerning the wives of their adopted sons when they no longer have need of them. And ever is the command of Allah accomplished</span>
+  [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/prophets_household|Prophet's Household]] · [[tags/marriage|Marriage & Nikah]] · [[tags/divorce|Divorce & Iddah]] · [[tags/family|Family & Kinship]] · [[tags/taqwa|Taqwa]]
 
 <!-- GENERATED:END -->
 ## Study Notes

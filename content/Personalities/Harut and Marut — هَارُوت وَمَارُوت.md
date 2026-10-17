@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 ہاروت و ماروت
 
-> [[Personalities/index#Angels|Angel]] · Straight Path · Ancient Babylon, time of Sulayman · [[#Mentioned in Quran|1 ayah]]
+> [[Personalities/index#Angels|Angel]] · Straight Path · Ancient Babylon, time of Sulayman · [[#Mentioned in Quran|1 ayah in 1 surah]]
 >
 > **Themes:** [[tags/angels|Angels]] · [[tags/shaytan|Shaytan]] · [[tags/trial_test|Trials & Tests]] · [[tags/ahl_al_kitab|People of the Book]]
 
@@ -45,15 +45,18 @@ Mentioned in 2:102 in the context of correcting the falsehood that Sulayman prac
 
 ---
 
-## Mentioned in Quran
-
-- [[2_102]]
-
----
-
 ## Connected Personalities
 
 - [[Sulayman (Solomon) — سُلَيْمَان]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_102|2:102]] <span lang="en">And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah. And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew</span>
+  [[tags/shaytan|Shaytan]] · [[tags/story_sulayman|Prophet Sulayman]] · [[tags/angels|Angels]] · [[tags/ahl_al_kitab|People of the Book]] · [[tags/trial_test|Trials & Tests]] · [[tags/marriage|Marriage & Nikah]]
 
 <!-- GENERATED:END -->
 ## Study Notes

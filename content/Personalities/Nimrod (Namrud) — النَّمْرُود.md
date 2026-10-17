@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 نمرود
 
-> [[Personalities/index#People|Person]] · Deviated Path · Time of Ibrahim, ancient Mesopotamia · [[#Mentioned in Quran|3 ayaat]]
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Ibrahim, ancient Mesopotamia · [[#Mentioned in Quran|3 ayaat in 2 surahs]]
 >
 > **Also known as:** Namrud
 >
@@ -47,18 +47,26 @@ The king of the time of Ibrahim who claimed to be a god. The Quran records his d
 
 ---
 
-## Mentioned in Quran
-
-- [[2_258]]
-- [[21_68]]
-- [[21_69]]
-
----
-
 ## Connected Personalities
 
 - [[Ibrahim (Abraham) — إِبْرَاهِيم]]
 - [[Azar (Father of Ibrahim) — آزَر]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_258|2:258]] <span lang="en">Have you not considered the one who argued with Abraham about his Lord [merely] because Allah had given him kingship? When Abraham said, "My Lord is the one who gives life and causes death," he said, "I give life and cause death." Abraham said, "Indeed, Allah brings up the sun from the east, so bring it up from the west." So the disbeliever was overwhelmed [by astonishment], and Allah does not guide the wrongdoing people</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/tawheed|Tawheed]] · [[tags/kibr|Arrogance & Humility]] · [[tags/leadership|Leadership & Authority]]
+
+### <span class="num">21</span> The Prophets <span lang="ar">الأنبياء</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[21_68|21:68]] <span lang="en">They said, "Burn him and support your gods - if you are to act</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/oppression|Oppression]]
+- [[21_69|21:69]] <span lang="en">Allah said, "O fire, be coolness and safety upon Abraham</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/miracles|Miracles]] · [[tags/tawakkul|Tawakkul]]
 
 <!-- GENERATED:END -->
 ## Study Notes

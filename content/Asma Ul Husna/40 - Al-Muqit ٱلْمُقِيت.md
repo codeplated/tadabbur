@@ -44,12 +44,6 @@ The specific form of sustenance you need — the exact nourishment your soul, bo
 
 ---
 
-## Key Ayaat
-
-- [[4_85]]
-
----
-
 ## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
@@ -60,6 +54,15 @@ The specific form of sustenance you need — the exact nourishment your soul, bo
 - [[45 - Al-Mujib ٱلْمُجِيب]]
 - [[90 - Al-Mughni ٱلْمُغْنِي]]
 - [[93 - An-Nafi' ٱلنَّافِع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">4</span> The Women <span lang="ar">النساء</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[4_85|4:85]] <span lang="en">Whoever intercedes for a good cause will have a reward therefrom; and whoever intercedes for an evil cause will have a burden therefrom. And ever is Allah, over all things, a Keeper</span>
+  [[tags/community|Ummah & Brotherhood]] · [[tags/ihsan|Ihsan]]
 
 <!-- GENERATED:END -->
 ## Study Notes

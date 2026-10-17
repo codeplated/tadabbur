@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 نوح کی بیوی
 
-> [[Personalities/index#People|Person]] · Deviated Path · Time of Nuh · [[#Mentioned in Quran|2 ayaat]]
+> [[Personalities/index#People|Person]] · Deviated Path · Time of Nuh · [[#Mentioned in Quran|2 ayaat in 2 surahs]]
 >
 > **Also known as:** Waila (according to some traditions)
 >
@@ -46,17 +46,24 @@ The Quran presents her as one of two women cited as warnings (66:10) — alongsi
 
 ---
 
-## Mentioned in Quran
-
-- [[11_27]]
-- [[66_10]]
-
----
-
 ## Connected Personalities
 
 - [[Nuh (Noah) — نُوح]]
 - [[Wife of Lut — امرأة لوط]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">11</span> Hud <span lang="ar">هود</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[11_27|11:27]] <span lang="en">So the eminent among those who disbelieved from his people said, "We do not see you but as a man like ourselves, and we do not see you followed except by those who are the lowest of us [and] at first suggestion. And we do not see in you over us any merit; rather, we think you are liars</span>
+  [[tags/story_nuh|Prophet Nuh]] · [[tags/kibr|Arrogance & Humility]] · [[tags/prophethood|Prophethood]]
+
+### <span class="num">66</span> The Prohibition <span lang="ar">التحريم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[66_10|66:10]] <span lang="en">Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so those prophets did not avail them from Allah at all, and it was said, "Enter the Fire with those who enter</span>
+  [[tags/story_nuh|Prophet Nuh]] · [[tags/story_lut|Prophet Lut]] · [[tags/women|Women]] · [[tags/parables|Parables & Amthal]] · [[tags/amanah|Amanah & Promises]] · [[tags/family|Family & Kinship]]
 
 <!-- GENERATED:END -->
 ## Study Notes

@@ -8,7 +8,9 @@ import { QuartzTransformerPlugin } from "../types"
 //   - an ayah's page keeps everything up to its tafsirs (head, Arabic,
 //     English, Urdu, themes) and leaves the tafsirs out;
 //   - a surah's page keeps its head (names, place, themes) and leaves out its
-//     text, which is each of its ayaat's own pages over again.
+//     text, which is each of its ayaat's own pages over again;
+//   - a person's page and a Name's page keep everything up to their ayaat,
+//     whose text (since 2026-10-17) is again their own pages' text.
 //
 // Since 2026-10-16 every ayah a tafsir passage covers carries the whole
 // passage, and each surah's page the whole surah. Indexed in full that came to
@@ -17,9 +19,10 @@ import { QuartzTransformerPlugin } from "../types"
 // English or Urdu text and every surah by name; the tafsirs are not searched
 // (owner's choice, 2026-10-17).
 //
-// The cuts go by lines the generator writes, the summary of the first tafsir
-// ("Tafsir: Bayan ul Quran …") and the "Ayaat" heading. If those change, the
-// page is indexed whole again and the size comes back: check the file.
+// The cuts go by lines the generator writes: the summary of the first tafsir
+// ("Tafsir: Bayan ul Quran …"), the "Ayaat" heading, and a profile's "Mentioned
+// in Quran" or "Key Ayaat" heading. If those change, the page is indexed whole
+// again and the size comes back: check the file.
 //
 // Registered after the configured transformers (config-loader.ts), so it runs
 // once description has set the text.
@@ -30,6 +33,7 @@ const hasClass = (classes: unknown, name: string) =>
 const CUTS: [string, RegExp][] = [
   ["ayah", /\n[ \t]*Tafsir: /],
   ["surah", /\n[ \t]*Ayaat[ \t]*\n/],
+  ["profile", /\n[ \t]*(?:Mentioned in Quran|Key Ayaat)[ \t]*\n/],
 ]
 
 export const SearchText: QuartzTransformerPlugin = () => ({

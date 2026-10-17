@@ -44,14 +44,6 @@ The contentment you seek through accumulating more is actually given by Al-Mughn
 
 ---
 
-## Key Ayaat
-
-- [[9_28]]
-- [[53_48]]
-- [[93_8]]
-
----
-
 ## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
@@ -62,6 +54,25 @@ The contentment you seek through accumulating more is actually given by Al-Mughn
 - [[43 - Al-Karim ٱلْكَرِيم]]
 - [[45 - Al-Mujib ٱلْمُجِيب]]
 - [[93 - An-Nafi' ٱلنَّافِع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">9</span> The Repentance <span lang="ar">التوبة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[9_28|9:28]] <span lang="en">O you who have believed, indeed the polytheists are unclean, so let them not approach al-Masjid al-Haram after this, their [final] year. And if you fear privation, Allah will enrich you from His bounty if He wills. Indeed, Allah is Knowing and Wise</span>
+  [[tags/o_believers|O You Who Believe]] · [[tags/kaaba|Kaaba & Qiblah]] · [[tags/shirk|Shirk]] · [[tags/rizq|Rizq]] · [[tags/tawakkul|Tawakkul]]
+
+### <span class="num">53</span> The Star <span lang="ar">النجم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[53_48|53:48]] <span lang="en">And that it is He who enriches and suffices</span>
+  [[tags/rizq|Rizq]] · [[tags/wealth|Wealth & Spending]] · [[tags/qadr|Qadr]]
+
+### <span class="num">93</span> The Morning Hours <span lang="ar">الضحى</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[93_8|93:8]] <span lang="en">And He found you poor and made [you] self-sufficient</span>
+  [[tags/story_muhammad|Prophet Muhammad ﷺ]] · [[tags/rizq|Rizq]] · [[tags/rahmah|Mercy & Forgiveness]]
 
 <!-- GENERATED:END -->
 ## Study Notes

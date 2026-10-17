@@ -44,14 +44,6 @@ Approach Al-Majid in dua with high expectations — His glory demands generosity
 
 ---
 
-## Key Ayaat
-
-- [[11_73]]
-- [[85_15]]
-- [[85_21]]
-
----
-
 ## Related Names
 
 - [[53 - Al-Wakil ٱلْوَكِيل]]
@@ -62,6 +54,22 @@ Approach Al-Majid in dua with high expectations — His glory demands generosity
 - [[71 - Al-Muqtadir ٱلْمُقْتَدِر]]
 - [[72 - Al-Muqaddim ٱلْمُقَدِّم]]
 - [[73 - Al-Mu'akhkhir ٱلْمُؤَخِّر]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">11</span> Hud <span lang="ar">هود</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[11_73|11:73]] <span lang="en">They said, "Are you amazed at the decree of Allah? May the mercy of Allah and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/family|Family & Kinship]]
+
+### <span class="num">85</span> The Mansions of the Stars <span lang="ar">البروج</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[85_15|85:15]] <span lang="en">Honorable Owner of the Throne</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
+- [[85_21|85:21]] <span lang="en">But this is an honored Qur'an</span>
+  [[tags/revelation|Revelation]] · [[tags/quran_recitation|Tilawah & Tadabbur]]
 
 <!-- GENERATED:END -->
 ## Study Notes

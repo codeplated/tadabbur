@@ -44,16 +44,6 @@ Anxiety about income is addressed directly by this name. Ar-Razzaq has never fai
 
 ---
 
-## Key Ayaat
-
-- [[51_58]]
-- [[11_6]]
-- [[29_60]]
-- [[34_24]]
-- [[35_3]]
-
----
-
 ## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
@@ -64,6 +54,35 @@ Anxiety about income is addressed directly by this name. Ar-Razzaq has never fai
 - [[45 - Al-Mujib ٱلْمُجِيب]]
 - [[90 - Al-Mughni ٱلْمُغْنِي]]
 - [[93 - An-Nafi' ٱلنَّافِع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">11</span> Hud <span lang="ar">هود</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[11_6|11:6]] <span lang="en">And there is no creature on earth but that upon Allah is its provision, and He knows its place of dwelling and place of storage. All is in a clear register</span>
+  [[tags/rizq|Rizq]] · [[tags/tawakkul|Tawakkul]] · [[tags/tawheed|Tawheed]] · [[tags/animals|Animals]]
+
+### <span class="num">29</span> The Spider <span lang="ar">العنكبوت</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[29_60|29:60]] <span lang="en">And how many a creature carries not its [own] provision. Allah provides for it and for you. And He is the Hearing, the Knowing</span>
+  [[tags/rizq|Rizq]] · [[tags/animals|Animals]] · [[tags/tawakkul|Tawakkul]]
+
+### <span class="num">34</span> Sheba <span lang="ar">سبإ</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[34_24|34:24]] <span lang="en">Say, "Who provides for you from the heavens and the earth?" Say, "Allah. And indeed, we or you are either upon guidance or in clear error</span>
+  [[tags/rizq|Rizq]] · [[tags/tawheed|Tawheed]] · [[tags/hidayah|Guidance]]
+
+### <span class="num">35</span> Originator <span lang="ar">فاطر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[35_3|35:3]] <span lang="en">O mankind, remember the favor of Allah upon you. Is there any creator other than Allah who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded</span>
+  [[tags/o_mankind|O Mankind]] · [[tags/shukr|Shukr]] · [[tags/rizq|Rizq]] · [[tags/tawheed|Tawheed]]
+
+### <span class="num">51</span> The Winnowing Winds <span lang="ar">الذاريات</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[51_58|51:58]] <span lang="en">Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength</span>
+  [[tags/rizq|Rizq]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]]
 
 <!-- GENERATED:END -->
 ## Study Notes

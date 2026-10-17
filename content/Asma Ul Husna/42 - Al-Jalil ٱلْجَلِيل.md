@@ -44,13 +44,6 @@ Awe of Al-Jalil is the antidote to petty fears. When His majesty fills your hear
 
 ---
 
-## Key Ayaat
-
-- [[55_27]]
-- [[55_78]]
-
----
-
 ## Related Names
 
 - [[34 - Al-Azim ٱلْعَظِيم]]
@@ -61,6 +54,17 @@ Awe of Al-Jalil is the antidote to petty fears. When His majesty fills your hear
 - [[52 - Al-Haqq ٱلْحَقّ]]
 - [[53 - Al-Wakil ٱلْوَكِيل]]
 - [[54 - Al-Qawi ٱلْقَوِيّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">55</span> The Beneficent <span lang="ar">الرحمن</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[55_27|55:27]] <span lang="en">And there will remain the Face of your Lord, Owner of Majesty and Honor</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/death_reminder|Death & the Grave]]
+- [[55_78|55:78]] <span lang="en">Blessed is the name of your Lord, Owner of Majesty and Honor</span>
+  [[tags/dhikr|Dhikr & Tasbih]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
 
 <!-- GENERATED:END -->
 ## Study Notes

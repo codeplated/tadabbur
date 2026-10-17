@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 رضوان — جنت کا داروغہ
 
-> [[Personalities/index#Angels|Angel]] · Straight Path · The Hereafter · [[#Mentioned in Quran|1 ayah]]
+> [[Personalities/index#Angels|Angel]] · Straight Path · The Hereafter · [[#Mentioned in Quran|1 ayah in 1 surah]]
 >
 > **Also known as:** Keeper of Jannah
 >
@@ -44,15 +44,18 @@ Referenced in 39:73: 'And those who feared their Lord will be led to Paradise in
 
 ---
 
-## Mentioned in Quran
-
-- [[39_73]]
-
----
-
 ## Connected Personalities
 
 _No connections recorded._
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">39</span> The Troops <span lang="ar">الزمر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[39_73|39:73]] <span lang="en">But those who feared their Lord will be driven to Paradise in groups until, when they reach it while its gates have been opened and its keepers say, "Peace be upon you; you have become pure; so enter it to abide eternally therein," [they will enter]</span>
+  [[tags/jannah|Jannah]] · [[tags/taqwa|Taqwa]] · [[tags/angels|Angels]]
 
 <!-- GENERATED:END -->
 ## Study Notes

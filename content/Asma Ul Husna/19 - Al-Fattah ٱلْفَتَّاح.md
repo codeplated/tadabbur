@@ -44,13 +44,6 @@ When every door seems closed — a job, a relationship, a solution — Al-Fattah
 
 ---
 
-## Key Ayaat
-
-- [[34_26]]
-- [[35_2]]
-
----
-
 ## Related Names
 
 - [[17 - Al-Wahhab ٱلْوَهَّاب]]
@@ -61,6 +54,20 @@ When every door seems closed — a job, a relationship, a solution — Al-Fattah
 - [[45 - Al-Mujib ٱلْمُجِيب]]
 - [[90 - Al-Mughni ٱلْمُغْنِي]]
 - [[93 - An-Nafi' ٱلنَّافِع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">34</span> Sheba <span lang="ar">سبإ</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[34_26|34:26]] <span lang="en">Say, "Our Lord will bring us together; then He will judge between us in truth. And He is the Knowing Judge</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/asma_ul_husna|Asma ul Husna]]
+
+### <span class="num">35</span> Originator <span lang="ar">فاطر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[35_2|35:2]] <span lang="en">Whatever Allah grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise</span>
+  [[tags/rahmah|Mercy & Forgiveness]] · [[tags/qadr|Qadr]] · [[tags/tawakkul|Tawakkul]]
 
 <!-- GENERATED:END -->
 ## Study Notes

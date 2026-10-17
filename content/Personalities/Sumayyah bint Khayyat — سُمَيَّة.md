@@ -46,16 +46,16 @@ Though not named in the Quran directly, she is the first martyr of Islam — an 
 
 ---
 
-## Mentioned in Quran
-
-_No specific ayaat recorded._
-
----
-
 ## Connected Personalities
 
 - [[Abu Jahl — أَبُو جَهْل]]
 - [[Ammar ibn Yasir — عَمَّار]]
+
+---
+
+## Mentioned in Quran
+
+_No specific ayaat recorded._
 
 <!-- GENERATED:END -->
 ## Study Notes

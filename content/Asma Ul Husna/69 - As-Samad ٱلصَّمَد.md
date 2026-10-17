@@ -44,12 +44,6 @@ Every need — spiritual, emotional, material — ultimately resolves only at As
 
 ---
 
-## Key Ayaat
-
-- [[112_2]]
-
----
-
 ## Related Names
 
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -60,6 +54,15 @@ Every need — spiritual, emotional, material — ultimately resolves only at As
 - [[75 - Al-Akhir ٱلْآخِر]]
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
 - [[97 - Al-Baqi ٱلْبَاقِي]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">112</span> The Sincerity <span lang="ar">الإخلاص</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[112_2|112:2]] <span lang="en">Allah, the Eternal Refuge</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawakkul|Tawakkul]]
 
 <!-- GENERATED:END -->
 ## Study Notes

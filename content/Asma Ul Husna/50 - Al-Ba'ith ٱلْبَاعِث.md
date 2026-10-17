@@ -44,22 +44,45 @@ Every morning when you wake from sleep is a small reminder that resurrection is 
 
 ---
 
-## Key Ayaat
-
-- [[2_56]]
-- [[4_87]]
-- [[6_36]]
-- [[16_38]]
-- [[22_7]]
-- [[30_56]]
-
----
-
 ## Related Names
 
 - [[62 - Al-Mumit ٱلْمُمِيت]]
 - [[88 - Al-Jami' ٱلْجَامِع]]
 - [[98 - Al-Warith ٱلْوَارِث]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_56|2:56]] <span lang="en">Then We revived you after your death that perhaps you would be grateful</span>
+  [[tags/story_bani_israil|Bani Israil]] · [[tags/resurrection|Resurrection]] · [[tags/shukr|Shukr]]
+
+### <span class="num">4</span> The Women <span lang="ar">النساء</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[4_87|4:87]] <span lang="en">Allah - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allah in statement</span>
+  [[tags/tawheed|Tawheed]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/sidq|Sidq]]
+
+### <span class="num">6</span> The Cattle <span lang="ar">الأنعام</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[6_36|6:36]] <span lang="en">Only those who hear will respond. But the dead - Allah will resurrect them; then to Him they will be returned</span>
+  [[tags/hidayah|Guidance]] · [[tags/resurrection|Resurrection]]
+
+### <span class="num">16</span> The Bee <span lang="ar">النحل</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[16_38|16:38]] <span lang="en">And they swear by Allah their strongest oaths [that] Allah will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know</span>
+  [[tags/resurrection|Resurrection]] · [[tags/kufr|Kufr]]
+
+### <span class="num">22</span> The Pilgrimage <span lang="ar">الحج</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[22_7|22:7]] <span lang="en">And [that they may know] that the Hour is coming - no doubt about it - and that Allah will resurrect those in the graves</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/resurrection|Resurrection]]
+
+### <span class="num">30</span> The Romans <span lang="ar">الروم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[30_56|30:56]] <span lang="en">But those who were given knowledge and faith will say, "You remained the extent of Allah 's decree until the Day of Resurrection, and this is the Day of Resurrection, but you did not used to know</span>
+  [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/iman|Iman]]
 
 <!-- GENERATED:END -->
 ## Study Notes

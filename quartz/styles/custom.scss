@@ -1315,9 +1315,9 @@ article.index-page {
 // A listing page and a theme's page have nothing for the right-hand column (no
 // table of contents, no backlinks), so on a desktop they take that width. A
 // listing gets a third column from it; a theme's page puts its surah index
-// there.
+// there, and so do a person's page and a Name's, with their sections over it.
 @media all and ($desktop) {
-  .page:has(article.index-page, .tt-tag-page) > #quartz-body {
+  .page:has(article.index-page, article.profile, .tt-tag-page) > #quartz-body {
     grid-template-columns: clamp(#{$sidePanelWidth}, 24vw, 23rem) minmax(0, 1fr);
     grid-template-areas:
       "grid-sidebar-left grid-header"
@@ -3646,101 +3646,27 @@ body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
   }
 }
 
-// ── A theme's page ──────────────────────────────────────────────────────────
-// /tags/<key>, drawn by the tag-page patch: a head (the theme's name in both
-// languages, its description, one line of facts), the surah index, then the
-// ayaat grouped by surah. The first ayah has to be on the first screen: the
-// page used to open with a properties box and up to 77 surah chips, and the
-// ayaat began one to two screens down.
+// ── The surah index: a theme's page, a person's, a Name's ─────────────────
+// Ayaat grouped by surah come with an index of those surahs: a list in the
+// right-hand column on a desktop, a select stuck under the top of the screen
+// anywhere narrower. The tag-page patch draws a theme's; profilePage.inline.ts
+// builds a person's and a Name's from their headings. surahIndex.ts marks the
+// surah being read in both.
 //
-// The surah index is in the page twice. Where there is a column for it (a
-// desktop) it is a list that stays beside the ayaat; anywhere narrower it is
-// one select that stays under the top of the screen. A busy theme is 60
-// screens long on a desktop and over 100 on a phone, so both also say which
-// surah is being read (components/scripts/themePage.inline.ts marks it).
-//
-// `.page` leads every selector so these outrank the patch's own stylesheet,
-// which loads separately.
-.page .tt-tag-page {
+// Before a theme's page's own rules, which place the list on a desktop: both
+// selectors weigh the same, so the later one wins.
+.page :is(.tt-tag-page, .profile) {
   // --gray is 4.0:1 on the page, under what small text needs. See the same
   // variable on the Themes index.
   --tt-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
   --tt-line: var(--gray);
 
-  .tt-head {
-    margin: 0 0 1.5rem;
-  }
-
-  // The name, and its Urdu name at the other end of the same line.
-  .tt-heading {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0 1.5rem;
-    margin: 2rem 0 0;
-  }
-
-  .tt-urdu {
-    direction: rtl;
-    font-size: 1.5rem;
-    font-weight: 400;
-    line-height: 1.8;
-  }
-
-  .tt-head article p {
-    margin: 0.4rem 0 0;
-  }
-
-  .tt-summary {
-    margin: 0.35rem 0 0;
-    color: var(--tt-faded);
-    font-size: 0.95rem;
-
-    a {
-      padding: 0;
-      background: none;
-      font-weight: 600;
-    }
-  }
-
-  .tt-count,
-  .tt-sub {
-    color: var(--tt-faded);
-  }
-
   .tt-count {
+    color: var(--tt-faded);
     font-variant-numeric: tabular-nums;
   }
 
-  // ── A surah's heading ─────────────────────────────────────────────────────
-  .tt-group {
-    margin-bottom: 2rem;
-  }
-
-  .tt-group > h2 {
-    gap: 0 0.5rem;
-    font-size: 1.15rem;
-  }
-
-  .tt-surah-num {
-    min-width: 1.5rem;
-    margin: 0;
-    font-variant-numeric: tabular-nums;
-  }
-
-  .tt-surah-ar {
-    font-size: 1.25rem;
-    font-weight: 400;
-    line-height: 1.4;
-  }
-
-  .tt-group > h2 .tt-count {
-    margin-left: auto;
-    font-size: 0.8rem;
-  }
-
-  // ── The surah index as one control (no column for a list) ─────────────────
+  // As one control (no column for a list).
   .tt-bar {
     position: sticky;
     top: 0;
@@ -3815,25 +3741,14 @@ body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
     }
   }
 
-  // ── The surah index as a list (a desktop's right-hand column) ─────────────
+  // As a list (a desktop's right-hand column).
   .tt-jump {
     display: none;
   }
 
-  .tt-jump-head {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    padding: 0 0.5rem 0.4rem;
-    border-bottom: 1px solid var(--tt-line);
-    color: var(--dark);
-    font-family: var(--headerFont);
-    font-weight: 600;
-
-    .tt-top {
-      font-family: var(--bodyFont);
-      font-size: 0.85rem;
-    }
+  .tt-jump-head .tt-top {
+    font-family: var(--bodyFont);
+    font-size: 0.85rem;
   }
 
   .tt-jump ul {
@@ -3886,6 +3801,118 @@ body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
     font-weight: 600;
   }
 
+  @media all and ($desktop) {
+    .tt-bar {
+      display: none;
+    }
+  }
+
+  @media (hover: none) {
+    .tt-select,
+    .tt-bar .tt-top {
+      height: var(--tap-target);
+    }
+
+    .tt-bar .tt-top {
+      width: var(--tap-target);
+    }
+
+    .tt-jump li > a {
+      min-height: 2.5rem;
+      align-items: center;
+    }
+  }
+}
+
+// ── A theme's page ──────────────────────────────────────────────────────────
+// /tags/<key>, drawn by the tag-page patch: a head (the theme's name in both
+// languages, its description, one line of facts), the surah index, then the
+// ayaat grouped by surah. The first ayah has to be on the first screen: the
+// page used to open with a properties box and up to 77 surah chips, and the
+// ayaat began one to two screens down.
+//
+// The surah index is in the page twice. Where there is a column for it (a
+// desktop) it is a list that stays beside the ayaat; anywhere narrower it is
+// one select that stays under the top of the screen. A busy theme is 60
+// screens long on a desktop and over 100 on a phone, so both also say which
+// surah is being read (components/scripts/themePage.inline.ts marks it).
+//
+// `.page` leads every selector so these outrank the patch's own stylesheet,
+// which loads separately.
+.page .tt-tag-page {
+  // --gray is 4.0:1 on the page, under what small text needs. See the same
+  // variable on the Themes index.
+  --tt-faded: color-mix(in srgb, var(--gray), var(--dark) 35%);
+  --tt-line: var(--gray);
+
+  .tt-head {
+    margin: 0 0 1.5rem;
+  }
+
+  // The name, and its Urdu name at the other end of the same line.
+  .tt-heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0 1.5rem;
+    margin: 2rem 0 0;
+  }
+
+  .tt-urdu {
+    direction: rtl;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.8;
+  }
+
+  .tt-head article p {
+    margin: 0.4rem 0 0;
+  }
+
+  .tt-summary {
+    margin: 0.35rem 0 0;
+    color: var(--tt-faded);
+    font-size: 0.95rem;
+
+    a {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+  }
+
+  .tt-sub {
+    color: var(--tt-faded);
+  }
+
+  // ── A surah's heading ─────────────────────────────────────────────────────
+  .tt-group {
+    margin-bottom: 2rem;
+  }
+
+  .tt-group > h2 {
+    gap: 0 0.5rem;
+    font-size: 1.15rem;
+  }
+
+  .tt-surah-num {
+    min-width: 1.5rem;
+    margin: 0;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .tt-surah-ar {
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.4;
+  }
+
+  .tt-group > h2 .tt-count {
+    margin-left: auto;
+    font-size: 0.8rem;
+  }
+
   .tt-jump-related {
     margin-top: 0.4rem;
     padding-top: 0.4rem;
@@ -3908,10 +3935,6 @@ body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
     .tt-groups {
       grid-column: 1;
       grid-row: 2;
-    }
-
-    .tt-bar {
-      display: none;
     }
 
     // It scrolls by itself, so the page can be 60 screens long and the list
@@ -3970,17 +3993,6 @@ body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
 
   // The top row scrolls away with the page, so the select sticks to the very
   // top; 56px down, it left a strip of the page showing above it.
-
-  @media (hover: none) {
-    .tt-select,
-    .tt-bar .tt-top {
-      height: var(--tap-target);
-    }
-
-    .tt-bar .tt-top {
-      width: var(--tap-target);
-    }
-  }
 }
 
 @media (hover: none) {
@@ -3989,11 +4001,254 @@ body:has(article :is(h2#surah-notes, h2#tafsir-notes):last-child)
     align-items: center;
     min-height: 2.5rem;
   }
+}
 
-  .page .tt-tag-page .tt-jump li > a {
-    min-height: 2.5rem;
-    align-items: center;
+// ── A person's ayaat, a Name's ayaat ────────────────────────────────────────
+// The generator lists them last, under "Mentioned in Quran" (a person) or "Key
+// Ayaat" (a Name), as a theme's page shows its own: a heading per surah, then
+// each ayah's reference, its English and its themes. Until 2026-10-17 they were
+// bare numbers ("2_51"), and every one had to be opened to learn what it said.
+//
+// The selectors go by those two headings, so the list looks the same with
+// scripts off. A reader's own notes under "Study Notes" are left as they are.
+// profilePage.inline.ts adds the surah index (see "The surah index" below) and
+// makes a click anywhere on an ayah open it.
+$pf-surah: "h2:is(#mentioned-in-quran, #key-ayaat) ~ h3:not(h2#study-notes ~ *)";
+
+article.profile {
+  // A surah's heading: its number, its names, how many ayaat.
+  #{$pf-surah} {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.5rem;
+    margin: 2.25rem 0 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--lightgray);
+    font-size: 1.15rem;
+    line-height: 1.4;
+
+    .num {
+      min-width: 1.5rem;
+      color: var(--secondary);
+      font-variant-numeric: tabular-nums;
+    }
+
+    [lang="ar"] {
+      font-size: 1.25rem;
+      font-weight: 400;
+    }
+
+    .count {
+      margin-left: auto;
+      color: var(--pf-faded);
+      font-family: var(--bodyFont);
+      font-size: 0.8rem;
+      font-weight: 400;
+      font-variant-numeric: tabular-nums;
+    }
   }
+
+  h2:is(#mentioned-in-quran, #key-ayaat) + h3,
+  .tt-bar + h3 {
+    margin-top: 0.75rem;
+  }
+
+  // An ayah: the reference in a gutter of its own, as on a theme's page, so
+  // the English and the themes share one left edge.
+  #{$pf-surah} + ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  #{$pf-surah} + ul > li {
+    position: relative;
+    isolation: isolate;
+    margin: 0;
+    padding: 0.85rem 0 0.9rem 4.5rem;
+    border-bottom: 1px solid var(--lightgray);
+    // The themes are the only loose text in an ayah; this sets them, and the
+    // dots between them, small and faded.
+    color: var(--pf-faded);
+    font-size: 0.85rem;
+    line-height: 1.7;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+
+    > a.internal {
+      padding: 0;
+      background: none;
+      font-weight: 600;
+    }
+
+    // The reference: the way to the ayah's page, its tafsir and recitation.
+    > a.internal:first-child {
+      position: absolute;
+      top: 0.85rem;
+      left: 0;
+      color: var(--secondary);
+      font-family: var(--headerFont);
+      font-size: 1rem;
+      font-variant-numeric: tabular-nums;
+    }
+
+    > span[lang="en"] {
+      display: block;
+      margin-bottom: 0.25rem;
+      color: var(--darkgray);
+      font-size: 1.05rem;
+      line-height: 1.7;
+    }
+  }
+
+  // The wash behind the ayah a pointer is on or a finger presses: the whole
+  // ayah opens its page (profilePage.inline.ts).
+  &.pf-ready #{$pf-surah} + ul > li {
+    cursor: pointer;
+
+    &::before {
+      content: "";
+      position: absolute;
+      inset: 0.25rem -0.6rem;
+      z-index: -1;
+      border-radius: var(--radius);
+      background: var(--highlight);
+      opacity: 0;
+      transition: opacity 0.15s ease-out;
+    }
+
+    &:active::before {
+      opacity: 1;
+    }
+  }
+
+  @media (hover: hover) {
+    &.pf-ready #{$pf-surah} + ul > li:hover::before {
+      opacity: 1;
+    }
+  }
+
+  @media all and ($mobile) {
+    #{$pf-surah} + ul > li {
+      padding-left: 3.6rem;
+    }
+  }
+
+  // Narrower than a desktop, the surah select is stuck to the top, so a surah
+  // has to land below it.
+  @media all and ($mobile), all and ($tablet) {
+    #{$pf-surah} {
+      scroll-margin-top: 4rem;
+    }
+  }
+}
+
+@media (hover: none) {
+  // A theme under an ayah is a way on; a finger needs the room.
+  article.profile #{$pf-surah} + ul > li > a.internal:not(:first-child) {
+    display: inline-block;
+    padding-block: 0.3rem;
+  }
+}
+
+// The column beside the page (profilePage.inline.ts): the page's sections,
+// then its surahs. Only on a desktop, where the stock column (contents, graph,
+// backlinks) gives up its place for it, as on a theme's page; anywhere
+// narrower the page keeps that column under it and gets the surah select.
+article.profile .pf-aside {
+  display: none;
+}
+
+@media all and ($desktop) {
+  article.profile.pf-ready > div {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 16rem;
+    column-gap: 3rem;
+    align-items: start;
+
+    > .pf-main {
+      grid-column: 1;
+      grid-row: 1;
+      min-width: 0;
+    }
+
+    > .pf-aside {
+      position: sticky;
+      top: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.75rem;
+      grid-column: 2;
+      grid-row: 1;
+      // It ends above the feedback button, which floats in the same corner,
+      // also at the top of the page, where it has not stuck yet and starts
+      // about 10.5rem down (as a theme's surah index does).
+      max-height: calc(100dvh - 15.5rem);
+      margin-top: 2.6rem;
+    }
+  }
+
+  // The surah being read stays at the top of the page's column.
+  article.profile.pf-ready #{$pf-surah} {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding-top: 0.6rem;
+    background: var(--light);
+  }
+
+  // Its surahs scroll by themselves, so a long list is all there.
+  article.profile .pf-aside .tt-jump {
+    display: block;
+    flex: 0 1 auto;
+    min-height: 6rem;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
+
+article.profile .pf-contents {
+  flex: none;
+
+  ul {
+    margin: 0.3rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: block;
+    padding: 0.2rem 0.5rem;
+    border-radius: var(--radius-sm);
+    background: none;
+    color: var(--darkgray);
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.4;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+
+// The two headings over the column's lists.
+article.profile .pf-rail-head,
+.page :is(.tt-tag-page, .profile) .tt-jump-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 0 0.5rem 0.4rem;
+  border-bottom: 1px solid var(--tt-line, var(--gray));
+  color: var(--dark);
+  font-family: var(--headerFont);
+  font-weight: 600;
 }
 
 // ── Lists and links outside the article ─────────────────────────────────────

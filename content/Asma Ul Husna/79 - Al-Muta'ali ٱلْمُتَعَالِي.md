@@ -44,12 +44,6 @@ Intellectual humility before Al-Muta'ali: your understanding, your mental image 
 
 ---
 
-## Key Ayaat
-
-- [[13_9]]
-
----
-
 ## Related Names
 
 - [[71 - Al-Muqtadir ٱلْمُقْتَدِر]]
@@ -60,6 +54,15 @@ Intellectual humility before Al-Muta'ali: your understanding, your mental image 
 - [[86 - Dhul-Jalali wal-Ikram ذُو ٱلْجَلَالِ وَٱلْإِكْرَام]]
 - [[91 - Al-Mani' ٱلْمَانِع]]
 - [[92 - Ad-Darr ٱلضَّارّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">13</span> The Thunder <span lang="ar">الرعد</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[13_9|13:9]] <span lang="en">[He is] Knower of the unseen and the witnessed, the Grand, the Exalted</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]]
 
 <!-- GENERATED:END -->
 ## Study Notes

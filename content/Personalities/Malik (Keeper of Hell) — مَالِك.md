@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 مالک — جہنم کا داروغہ
 
-> [[Personalities/index#Angels|Angel]] · Straight Path · The Hereafter · [[#Mentioned in Quran|1 ayah]]
+> [[Personalities/index#Angels|Angel]] · Straight Path · The Hereafter · [[#Mentioned in Quran|1 ayah in 1 surah]]
 >
 > **Also known as:** Keeper of Jahannam
 >
@@ -44,15 +44,18 @@ Named in the Quran in 43:77 where the people of Hell will call out to him: 'O Ma
 
 ---
 
-## Mentioned in Quran
-
-- [[43_77]]
-
----
-
 ## Connected Personalities
 
 _No connections recorded._
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">43</span> The Ornaments of Gold <span lang="ar">الزخرف</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[43_77|43:77]] <span lang="en">And they will call, "O Malik, let your Lord put an end to us!" He will say, "Indeed, you will remain</span>
+  [[tags/jahannam|Jahannam]] · [[tags/angels|Angels]] · [[tags/dua|Dua]]
 
 <!-- GENERATED:END -->
 ## Study Notes

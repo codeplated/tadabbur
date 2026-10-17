@@ -44,13 +44,6 @@ When worship becomes only fear or only familiarity, Dhul-Jalali wal-Ikram calls 
 
 ---
 
-## Key Ayaat
-
-- [[55_27]]
-- [[55_78]]
-
----
-
 ## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
@@ -61,6 +54,17 @@ When worship becomes only fear or only familiarity, Dhul-Jalali wal-Ikram calls 
 - [[85 - Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ]]
 - [[91 - Al-Mani' ٱلْمَانِع]]
 - [[92 - Ad-Darr ٱلضَّارّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">55</span> The Beneficent <span lang="ar">الرحمن</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[55_27|55:27]] <span lang="en">And there will remain the Face of your Lord, Owner of Majesty and Honor</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/death_reminder|Death & the Grave]]
+- [[55_78|55:78]] <span lang="en">Blessed is the name of your Lord, Owner of Majesty and Honor</span>
+  [[tags/dhikr|Dhikr & Tasbih]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
 
 <!-- GENERATED:END -->
 ## Study Notes

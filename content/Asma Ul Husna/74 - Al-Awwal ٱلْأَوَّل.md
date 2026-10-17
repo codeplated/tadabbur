@@ -44,12 +44,6 @@ Before every relationship, every possession, every opportunity — Al-Awwal was 
 
 ---
 
-## Key Ayaat
-
-- [[57_3]]
-
----
-
 ## Related Names
 
 - [[1 - Allah ٱللَّه]]
@@ -60,6 +54,15 @@ Before every relationship, every possession, every opportunity — Al-Awwal was 
 - [[75 - Al-Akhir ٱلْآخِر]]
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
 - [[97 - Al-Baqi ٱلْبَاقِي]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">57</span> The Iron <span lang="ar">الحديد</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[57_3|57:3]] <span lang="en">He is the First and the Last, the Ascendant and the Intimate, and He is, of all things, Knowing</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
 
 <!-- GENERATED:END -->
 ## Study Notes

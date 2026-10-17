@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 ہاجرہ علیہا السلام
 
-> [[Personalities/index#People|Person]] · Straight Path · Time of Ibrahim, ancient Makkah · [[#Mentioned in Quran|2 ayaat]]
+> [[Personalities/index#People|Person]] · Straight Path · Time of Ibrahim, ancient Makkah · [[#Mentioned in Quran|2 ayaat in 2 surahs]]
 >
 > **Also known as:** Hagar
 >
@@ -47,17 +47,24 @@ Wife of Ibrahim and mother of Ismail. Left with her infant in the barren, uninha
 
 ---
 
-## Mentioned in Quran
-
-- [[2_158]]
-- [[14_37]]
-
----
-
 ## Connected Personalities
 
 - [[Ibrahim (Abraham) — إِبْرَاهِيم]]
 - [[Ismail (Ishmael) — إِسْمَاعِيل]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_158|2:158]] <span lang="en">Indeed, as-Safa and al-Marwah are among the symbols of Allah. So whoever makes Hajj to the House or performs 'umrah - there is no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and Knowing</span>
+  [[tags/hajj|Hajj & Umrah]] · [[tags/kaaba|Kaaba & Qiblah]] · [[tags/ihsan|Ihsan]]
+
+### <span class="num">14</span> Abraham <span lang="ar">ابراهيم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[14_37|14:37]] <span lang="en">Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/story_ismail|Prophet Ismail]] · [[tags/dua|Dua]] · [[tags/kaaba|Kaaba & Qiblah]] · [[tags/salah|Salah]] · [[tags/rizq|Rizq]]
 
 <!-- GENERATED:END -->
 ## Study Notes

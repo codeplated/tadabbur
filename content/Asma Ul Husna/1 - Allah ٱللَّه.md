@@ -44,15 +44,6 @@ When you say 'Bismillah' before any action, you invoke the complete reality of G
 
 ---
 
-## Key Ayaat
-
-- [[2_255]]
-- [[59_22]]
-- [[59_23]]
-- [[112_1]]
-
----
-
 ## Related Names
 
 - [[63 - Al-Hayy ٱلْحَيّ]]
@@ -63,6 +54,27 @@ When you say 'Bismillah' before any action, you invoke the complete reality of G
 - [[75 - Al-Akhir ٱلْآخِر]]
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
 - [[97 - Al-Baqi ٱلْبَاقِي]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_255|2:255]] <span lang="en">Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]]
+
+### <span class="num">59</span> The Exile <span lang="ar">الحشر</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[59_22|59:22]] <span lang="en">He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/rahmah|Mercy & Forgiveness]]
+- [[59_23|59:23]] <span lang="en">He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/shirk|Shirk]]
+
+### <span class="num">112</span> The Sincerity <span lang="ar">الإخلاص</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[112_1|112:1]] <span lang="en">Say, "He is Allah, [who is] One</span>
+  [[tags/tawheed|Tawheed]] · [[tags/ikhlas|Ikhlas]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

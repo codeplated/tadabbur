@@ -44,15 +44,6 @@ When you feel you have nothing to offer Allah in exchange for what you need, Al-
 
 ---
 
-## Key Ayaat
-
-- [[3_8]]
-- [[3_38]]
-- [[38_9]]
-- [[38_35]]
-
----
-
 ## Related Names
 
 - [[18 - Ar-Razzaq ٱلرَّزَّاق]]
@@ -63,6 +54,24 @@ When you feel you have nothing to offer Allah in exchange for what you need, Al-
 - [[45 - Al-Mujib ٱلْمُجِيب]]
 - [[90 - Al-Mughni ٱلْمُغْنِي]]
 - [[93 - An-Nafi' ٱلنَّافِع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">3</span> Family of Imran <span lang="ar">آل عمران</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[3_8|3:8]] <span lang="en">[Who say], "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower</span>
+  [[tags/dua|Dua]] · [[tags/hidayah|Guidance]] · [[tags/tazkiyah|Tazkiyah]] · [[tags/rahmah|Mercy & Forgiveness]]
+- [[3_38|3:38]] <span lang="en">At that, Zechariah called upon his Lord, saying, "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication</span>
+  [[tags/story_zakariya|Prophet Zakariya]] · [[tags/dua|Dua]] · [[tags/parenting|Parenting & Children]]
+
+### <span class="num">38</span> The Letter "Saad" <span lang="ar">ص</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[38_9|38:9]] <span lang="en">Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower</span>
+  [[tags/rahmah|Mercy & Forgiveness]] · [[tags/asma_ul_husna|Asma ul Husna]]
+- [[38_35|38:35]] <span lang="en">He said, "My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower</span>
+  [[tags/story_sulayman|Prophet Sulayman]] · [[tags/dua|Dua]] · [[tags/tawbah|Tawbah]] · [[tags/leadership|Leadership & Authority]]
 
 <!-- GENERATED:END -->
 ## Study Notes

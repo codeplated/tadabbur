@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 میکائیل علیہ السلام
 
-> [[Personalities/index#Angels|Angel]] · Straight Path · From creation to its end · [[#Mentioned in Quran|1 ayah]]
+> [[Personalities/index#Angels|Angel]] · Straight Path · From creation to its end · [[#Mentioned in Quran|1 ayah in 1 surah]]
 >
 > **Also known as:** Michael, Angel of Provision
 >
@@ -44,15 +44,18 @@ Named alongside Jibreel in Surah Al-Baqarah (2:98): 'Whoever is an enemy to Alla
 
 ---
 
-## Mentioned in Quran
-
-- [[2_98]]
-
----
-
 ## Connected Personalities
 
 - [[Jibreel (Gabriel) — جِبْرِيل]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_98|2:98]] <span lang="en">Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah is an enemy to the disbelievers</span>
+  [[tags/angels|Angels]] · [[tags/kufr|Kufr]] · [[tags/prophethood|Prophethood]]
 
 <!-- GENERATED:END -->
 ## Study Notes

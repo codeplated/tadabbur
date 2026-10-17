@@ -44,16 +44,6 @@ Every act of worship, every sadaqah jariyah, every prayer for others — these '
 
 ---
 
-## Key Ayaat
-
-- [[19_76]]
-- [[20_73]]
-- [[28_60]]
-- [[55_26]]
-- [[55_27]]
-
----
-
 ## Related Names
 
 - [[1 - Allah ٱللَّه]]
@@ -64,6 +54,32 @@ Every act of worship, every sadaqah jariyah, every prayer for others — these '
 - [[74 - Al-Awwal ٱلْأَوَّل]]
 - [[75 - Al-Akhir ٱلْآخِر]]
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">19</span> Mary <span lang="ar">مريم</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[19_76|19:76]] <span lang="en">And Allah increases those who were guided, in guidance, and the enduring good deeds are better to your Lord for reward and better for recourse</span>
+  [[tags/hidayah|Guidance]] · [[tags/ihsan|Ihsan]] · [[tags/glad_tidings|Glad Tidings]]
+
+### <span class="num">20</span> Ta-Ha <span lang="ar">طه</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[20_73|20:73]] <span lang="en">Indeed, we have believed in our Lord that He may forgive us our sins and what you compelled us [to do] of magic. And Allah is better and more enduring</span>
+  [[tags/story_musa|Prophet Musa]] · [[tags/iman|Iman]] · [[tags/tawbah|Tawbah]] · [[tags/akhirah|Akhirah & Judgment Day]]
+
+### <span class="num">28</span> The Stories <span lang="ar">القصص</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[28_60|28:60]] <span lang="en">And whatever thing you [people] have been given - it is [only for] the enjoyment of worldly life and its adornment. And what is with Allah is better and more lasting; so will you not use reason</span>
+  [[tags/dunya|Dunya]] · [[tags/akhirah|Akhirah & Judgment Day]]
+
+### <span class="num">55</span> The Beneficent <span lang="ar">الرحمن</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[55_26|55:26]] <span lang="en">Everyone upon the earth will perish</span>
+  [[tags/death_reminder|Death & the Grave]] · [[tags/dunya|Dunya]]
+- [[55_27|55:27]] <span lang="en">And there will remain the Face of your Lord, Owner of Majesty and Honor</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/death_reminder|Death & the Grave]]
 
 <!-- GENERATED:END -->
 ## Study Notes

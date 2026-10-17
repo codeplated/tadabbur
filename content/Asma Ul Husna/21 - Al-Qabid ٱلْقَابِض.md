@@ -44,12 +44,6 @@ When you are in a period of constriction — financially, emotionally, spiritual
 
 ---
 
-## Key Ayaat
-
-- [[2_245]]
-
----
-
 ## Related Names
 
 - [[9 - Al-Aziz ٱلْعَزِيز]]
@@ -60,6 +54,15 @@ When you are in a period of constriction — financially, emotionally, spiritual
 - [[24 - Ar-Rafi' ٱلرَّافِع]]
 - [[25 - Al-Mu'izz ٱلْمُعِزّ]]
 - [[26 - Al-Mudhill ٱلْمُذِلّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_245|2:245]] <span lang="en">Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned</span>
+  [[tags/zakat|Zakat & Sadaqah]] · [[tags/rizq|Rizq]] · [[tags/glad_tidings|Glad Tidings]]
 
 <!-- GENERATED:END -->
 ## Study Notes

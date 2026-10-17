@@ -44,13 +44,6 @@ Ar-Raqib is the answer to loneliness. You are never truly alone — the most att
 
 ---
 
-## Key Ayaat
-
-- [[4_1]]
-- [[5_117]]
-
----
-
 ## Related Names
 
 - [[27 - As-Sami' ٱلسَّمِيع]]
@@ -61,6 +54,20 @@ Ar-Raqib is the answer to loneliness. You are never truly alone — the most att
 - [[47 - Al-Hakim ٱلْحَكِيم]]
 - [[51 - Ash-Shahid ٱلشَّهِيد]]
 - [[58 - Al-Muhsi ٱلْمُحْصِي]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">4</span> The Women <span lang="ar">النساء</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[4_1|4:1]] <span lang="en">O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allah, through whom you ask one another, and the wombs. Indeed Allah is ever, over you, an Observer</span>
+  [[tags/o_mankind|O Mankind]] · [[tags/human_creation|Creation of Mankind]] · [[tags/family|Family & Kinship]] · [[tags/taqwa|Taqwa]] · [[tags/commands|Direct Commands]] · [[tags/tawheed|Tawheed]]
+
+### <span class="num">5</span> The Table Spread <span lang="ar">المائدة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[5_117|5:117]] <span lang="en">I said not to them except what You commanded me - to worship Allah, my Lord and your Lord. And I was a witness over them as long as I was among them; but when You took me up, You were the Observer over them, and You are, over all things, Witness</span>
+  [[tags/story_isa|Prophet Isa]] · [[tags/tawheed|Tawheed]] · [[tags/akhirah|Akhirah & Judgment Day]]
 
 <!-- GENERATED:END -->
 ## Study Notes

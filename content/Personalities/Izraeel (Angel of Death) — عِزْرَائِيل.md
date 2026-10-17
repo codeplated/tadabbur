@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 عزرائیل علیہ السلام
 
-> [[Personalities/index#Angels|Angel]] · Straight Path · From creation to end · [[#Mentioned in Quran|2 ayaat]]
+> [[Personalities/index#Angels|Angel]] · Straight Path · From creation to end · [[#Mentioned in Quran|2 ayaat in 2 surahs]]
 >
 > **Also known as:** Malak al-Mawt (Angel of Death), Izrael
 >
@@ -44,16 +44,23 @@ Referenced in the Quran as 'the Angel of Death who has been entrusted with you' 
 
 ---
 
-## Mentioned in Quran
-
-- [[6_61]]
-- [[32_11]]
-
----
-
 ## Connected Personalities
 
 _No connections recorded._
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">6</span> The Cattle <span lang="ar">الأنعام</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[6_61|6:61]] <span lang="en">And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers take him, and they do not fail [in their duties]</span>
+  [[tags/angels|Angels]] · [[tags/death_reminder|Death & the Grave]]
+
+### <span class="num">32</span> The Prostration <span lang="ar">السجدة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[32_11|32:11]] <span lang="en">Say, "The angel of death will take you who has been entrusted with you. Then to your Lord you will be returned</span>
+  [[tags/death_reminder|Death & the Grave]] · [[tags/angels|Angels]]
 
 <!-- GENERATED:END -->
 ## Study Notes

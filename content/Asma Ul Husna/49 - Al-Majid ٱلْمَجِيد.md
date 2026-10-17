@@ -44,13 +44,6 @@ Al-Majid's glory is the ultimate standard of nobility. The closer you draw to Hi
 
 ---
 
-## Key Ayaat
-
-- [[11_73]]
-- [[85_15]]
-
----
-
 ## Related Names
 
 - [[37 - Al-Ali ٱلْعَلِيّ]]
@@ -61,6 +54,20 @@ Al-Majid's glory is the ultimate standard of nobility. The closer you draw to Hi
 - [[53 - Al-Wakil ٱلْوَكِيل]]
 - [[54 - Al-Qawi ٱلْقَوِيّ]]
 - [[55 - Al-Matin ٱلْمَتِين]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">11</span> Hud <span lang="ar">هود</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[11_73|11:73]] <span lang="en">They said, "Are you amazed at the decree of Allah? May the mercy of Allah and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable</span>
+  [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/family|Family & Kinship]]
+
+### <span class="num">85</span> The Mansions of the Stars <span lang="ar">البروج</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[85_15|85:15]] <span lang="en">Honorable Owner of the Throne</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
 
 <!-- GENERATED:END -->
 ## Study Notes

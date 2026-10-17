@@ -44,12 +44,6 @@ The simplicity of Al-Ahad is the greatest gift: one God, one direction, one ulti
 
 ---
 
-## Key Ayaat
-
-- [[112_1]]
-
----
-
 ## Related Names
 
 - [[1 - Allah ٱللَّه]]
@@ -60,6 +54,15 @@ The simplicity of Al-Ahad is the greatest gift: one God, one direction, one ulti
 - [[74 - Al-Awwal ٱلْأَوَّل]]
 - [[75 - Al-Akhir ٱلْآخِر]]
 - [[89 - Al-Ghani ٱلْغَنِيّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">112</span> The Sincerity <span lang="ar">الإخلاص</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[112_1|112:1]] <span lang="en">Say, "He is Allah, [who is] One</span>
+  [[tags/tawheed|Tawheed]] · [[tags/ikhlas|Ikhlas]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

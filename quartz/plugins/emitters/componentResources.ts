@@ -11,6 +11,8 @@ import indexPageScript from "../../components/scripts/indexPage.inline"
 // @ts-ignore
 import themePageScript from "../../components/scripts/themePage.inline"
 // @ts-ignore
+import profilePageScript from "../../components/scripts/profilePage.inline"
+// @ts-ignore
 import surahPageScript from "../../components/scripts/surahPage.inline"
 // @ts-ignore
 import ayahPageScript from "../../components/scripts/ayahPage.inline"
@@ -108,6 +110,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   componentResources.afterDOMLoaded.push(indexPageScript)
   // A theme's own page: marks the surah being read in its surah index.
   componentResources.afterDOMLoaded.push(themePageScript)
+  // A person's page and a Name's page: the same surah index beside their ayaat.
+  componentResources.afterDOMLoaded.push(profilePageScript)
   // A surah's page: the go-to bar, the ayah being read, the language switches.
   componentResources.afterDOMLoaded.push(surahPageScript)
   // An ayah's page: tafsirs open as the reader left them. And everywhere, a

@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 ابو جہل
 
-> [[Personalities/index#People|Person]] · Deviated Path · Makkah, died 624 CE at Battle of Badr · [[#Mentioned in Quran|10 ayaat]]
+> [[Personalities/index#People|Person]] · Deviated Path · Makkah, died 624 CE at Battle of Badr · [[#Mentioned in Quran|10 ayaat in 1 surah]]
 >
 > **Also known as:** Amr ibn Hisham, Father of Ignorance (nickname given by Muslims)
 >
@@ -46,25 +46,37 @@ One of the chieftains of Quraysh and the most vicious persecutor of the Prophet 
 
 ---
 
-## Mentioned in Quran
-
-- [[96_9]]
-- [[96_10]]
-- [[96_11]]
-- [[96_12]]
-- [[96_13]]
-- [[96_14]]
-- [[96_15]]
-- [[96_16]]
-- [[96_17]]
-- [[96_18]]
-
----
-
 ## Connected Personalities
 
 - [[Muhammad ﷺ — مُحَمَّد]]
 - [[Sumayyah bint Khayyat — سُمَيَّة]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">96</span> The Clot <span lang="ar">العلق</span> <span class="count">10 <span class="unit">ayaat</span></span>
+
+- [[96_9|96:9]] <span lang="en">Have you seen the one who forbids</span>
+  [[tags/oppression|Oppression]] · [[tags/salah|Salah]] · [[tags/kufr|Kufr]]
+- [[96_10|96:10]] <span lang="en">A servant when he prays</span>
+  [[tags/salah|Salah]] · [[tags/oppression|Oppression]]
+- [[96_11|96:11]] <span lang="en">Have you seen if he is upon guidance</span>
+  [[tags/hidayah|Guidance]] · [[tags/salah|Salah]]
+- [[96_12|96:12]] <span lang="en">Or enjoins righteousness</span>
+  [[tags/taqwa|Taqwa]] · [[tags/dawah|Da'wah]]
+- [[96_13|96:13]] <span lang="en">Have you seen if he denies and turns away</span>
+  [[tags/kufr|Kufr]] · [[tags/kibr|Arrogance & Humility]]
+- [[96_14|96:14]] <span lang="en">Does he not know that Allah sees</span>
+  [[tags/taqwa|Taqwa]] · [[tags/knowledge|Knowledge & Wisdom]]
+- [[96_15|96:15]] <span lang="en">No! If he does not desist, We will surely drag him by the forelock</span>
+  [[tags/jahannam|Jahannam]] · [[tags/warnings|Warnings]] · [[tags/kibr|Arrogance & Humility]]
+- [[96_16|96:16]] <span lang="en">A lying, sinning forelock</span>
+  [[tags/sidq|Sidq]] · [[tags/kufr|Kufr]] · [[tags/jahannam|Jahannam]]
+- [[96_17|96:17]] <span lang="en">Then let him call his associates</span>
+  [[tags/kibr|Arrogance & Humility]] · [[tags/wala_bara|Alliances & Loyalty]]
+- [[96_18|96:18]] <span lang="en">We will call the angels of Hell</span>
+  [[tags/angels|Angels]] · [[tags/jahannam|Jahannam]]
 
 <!-- GENERATED:END -->
 ## Study Notes

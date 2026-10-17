@@ -44,14 +44,6 @@ Nothing in your life is outside Al-Wali's administration. The systems and circum
 
 ---
 
-## Key Ayaat
-
-- [[13_11]]
-- [[18_44]]
-- [[42_28]]
-
----
-
 ## Related Names
 
 - [[70 - Al-Qadir ٱلْقَادِر]]
@@ -62,6 +54,25 @@ Nothing in your life is outside Al-Wali's administration. The systems and circum
 - [[85 - Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ]]
 - [[86 - Dhul-Jalali wal-Ikram ذُو ٱلْجَلَالِ وَٱلْإِكْرَام]]
 - [[91 - Al-Mani' ٱلْمَانِع]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">13</span> The Thunder <span lang="ar">الرعد</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[13_11|13:11]] <span lang="en">For each one are successive [angels] before and behind him who protect him by the decree of Allah. Indeed, Allah will not change the condition of a people until they change what is in themselves. And when Allah intends for a people ill, there is no repelling it. And there is not for them besides Him any patron</span>
+  [[tags/tazkiyah|Tazkiyah]] · [[tags/qadr|Qadr]] · [[tags/community|Ummah & Brotherhood]] · [[tags/angels|Angels]] · [[tags/tawakkul|Tawakkul]]
+
+### <span class="num">18</span> The Cave <span lang="ar">الكهف</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[18_44|18:44]] <span lang="en">There the authority is [completely] for Allah, the Truth. He is best in reward and best in outcome</span>
+  [[tags/tawheed|Tawheed]]
+
+### <span class="num">42</span> The Consultation <span lang="ar">الشورى</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[42_28|42:28]] <span lang="en">And it is He who sends down the rain after they had despaired and spreads His mercy. And He is the Protector, the Praiseworthy</span>
+  [[tags/nature_signs|Signs in Creation]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/hope_raja|Hope & Raja]]
 
 <!-- GENERATED:END -->
 ## Study Notes

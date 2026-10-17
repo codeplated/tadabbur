@@ -44,15 +44,18 @@ When you feel unsafe in the world, Al-Mu'min is the ultimate guarantor of securi
 
 ---
 
-## Key Ayaat
-
-- [[59_23]]
-
----
-
 ## Related Names
 
 - [[6 - As-Salam ٱلسَّلَام]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">59</span> The Exile <span lang="ar">الحشر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[59_23|59:23]] <span lang="en">He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/shirk|Shirk]]
 
 <!-- GENERATED:END -->
 ## Study Notes

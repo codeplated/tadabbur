@@ -44,17 +44,6 @@ Every morning you wake up is Ar-Rahman in action. Every breath, every heartbeat 
 
 ---
 
-## Key Ayaat
-
-- [[1_3]]
-- [[2_163]]
-- [[17_110]]
-- [[20_5]]
-- [[55_1]]
-- [[59_22]]
-
----
-
 ## Related Names
 
 - [[3 - Ar-Rahim ٱلرَّحِيم]]
@@ -65,6 +54,40 @@ Every morning you wake up is Ar-Rahman in action. Every breath, every heartbeat 
 - [[81 - At-Tawwab ٱلتَّوَّاب]]
 - [[83 - Al-Afuww ٱلْعَفُوّ]]
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">1</span> The Opener <span lang="ar">الفاتحة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[1_3|1:3]] <span lang="en">The Entirely Merciful, the Especially Merciful</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/hope_raja|Hope & Raja]]
+
+### <span class="num">2</span> The Cow <span lang="ar">البقرة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[2_163|2:163]] <span lang="en">And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]]
+
+### <span class="num">17</span> The Night Journey <span lang="ar">الإسراء</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[17_110|17:110]] <span lang="en">Say, "Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names." And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/dua|Dua]] · [[tags/salah|Salah]] · [[tags/dhikr|Dhikr & Tasbih]]
+
+### <span class="num">20</span> Ta-Ha <span lang="ar">طه</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[20_5|20:5]] <span lang="en">The Most Merciful [who is] above the Throne established</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
+
+### <span class="num">55</span> The Beneficent <span lang="ar">الرحمن</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[55_1|55:1]] <span lang="en">The Most Merciful</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/rahmah|Mercy & Forgiveness]]
+
+### <span class="num">59</span> The Exile <span lang="ar">الحشر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[59_22|59:22]] <span lang="en">He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/knowledge|Knowledge & Wisdom]] · [[tags/rahmah|Mercy & Forgiveness]]
 
 <!-- GENERATED:END -->
 ## Study Notes

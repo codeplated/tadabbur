@@ -44,13 +44,6 @@ When you feel unloved or abandoned by people — the One whose love is most real
 
 ---
 
-## Key Ayaat
-
-- [[11_90]]
-- [[85_14]]
-
----
-
 ## Related Names
 
 - [[15 - Al-Ghaffar ٱلْغَفَّار]]
@@ -61,6 +54,20 @@ When you feel unloved or abandoned by people — the One whose love is most real
 - [[80 - Al-Barr ٱلْبَرّ]]
 - [[81 - At-Tawwab ٱلتَّوَّاب]]
 - [[83 - Al-Afuww ٱلْعَفُوّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">11</span> Hud <span lang="ar">هود</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[11_90|11:90]] <span lang="en">And ask forgiveness of your Lord and then repent to Him. Indeed, my Lord is Merciful and Affectionate</span>
+  [[tags/story_shuayb|Prophet Shuayb]] · [[tags/tawbah|Tawbah]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/love_of_allah|Love of Allah]]
+
+### <span class="num">85</span> The Mansions of the Stars <span lang="ar">البروج</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[85_14|85:14]] <span lang="en">And He is the Forgiving, the Affectionate</span>
+  [[tags/rahmah|Mercy & Forgiveness]] · [[tags/love_of_allah|Love of Allah]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

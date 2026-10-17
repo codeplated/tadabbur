@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 سارہ علیہا السلام
 
-> [[Personalities/index#People|Person]] · Straight Path · Time of Ibrahim · [[#Mentioned in Quran|4 ayaat]]
+> [[Personalities/index#People|Person]] · Straight Path · Time of Ibrahim · [[#Mentioned in Quran|4 ayaat in 2 surahs]]
 >
 > **Themes:** [[tags/story_ishaq|Prophet Ishaq]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/women|Women]] · [[tags/family|Family & Kinship]] · [[tags/miracles|Miracles]] · [[tags/glad_tidings|Glad Tidings]]
 
@@ -44,20 +44,29 @@ Wife of Ibrahim and mother of Ishaq. When the angels visited with glad tidings t
 
 ---
 
-## Mentioned in Quran
-
-- [[11_71]]
-- [[11_72]]
-- [[51_29]]
-- [[51_30]]
-
----
-
 ## Connected Personalities
 
 - [[Ibrahim (Abraham) — إِبْرَاهِيم]]
 - [[Ishaq (Isaac) — إِسْحَاق]]
 - [[Hajar (Hagar) — هَاجَر]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">11</span> Hud <span lang="ar">هود</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[11_71|11:71]] <span lang="en">And his Wife was standing, and she smiled. Then We gave her good tidings of Isaac and after Isaac, Jacob</span>
+  [[tags/story_ishaq|Prophet Ishaq]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/glad_tidings|Glad Tidings]] · [[tags/women|Women]]
+- [[11_72|11:72]] <span lang="en">She said, "Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man? Indeed, this is an amazing thing</span>
+  [[tags/story_ishaq|Prophet Ishaq]] · [[tags/story_ibrahim|Prophet Ibrahim]] · [[tags/miracles|Miracles]] · [[tags/women|Women]]
+
+### <span class="num">51</span> The Winnowing Winds <span lang="ar">الذاريات</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[51_29|51:29]] <span lang="en">And his wife approached with a cry [of alarm] and struck her face and said, "[I am] a barren old woman</span>
+  [[tags/story_ishaq|Prophet Ishaq]] · [[tags/women|Women]] · [[tags/miracles|Miracles]]
+- [[51_30|51:30]] <span lang="en">They said, "Thus has said your Lord; indeed, He is the Wise, the Knowing</span>
+  [[tags/story_ishaq|Prophet Ishaq]] · [[tags/qadr|Qadr]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

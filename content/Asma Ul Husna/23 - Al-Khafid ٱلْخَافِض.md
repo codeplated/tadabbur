@@ -44,12 +44,6 @@ When you see the arrogant thriving and the humble struggling, Al-Khafid reminds 
 
 ---
 
-## Key Ayaat
-
-- [[56_3]]
-
----
-
 ## Related Names
 
 - [[10 - Al-Jabbar ٱلْجَبَّار]]
@@ -60,6 +54,15 @@ When you see the arrogant thriving and the humble struggling, Al-Khafid reminds 
 - [[25 - Al-Mu'izz ٱلْمُعِزّ]]
 - [[26 - Al-Mudhill ٱلْمُذِلّ]]
 - [[34 - Al-Azim ٱلْعَظِيم]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">56</span> The Inevitable <span lang="ar">الواقعة</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[56_3|56:3]] <span lang="en">It will bring down [some] and raise up [others]</span>
+  [[tags/akhirah|Akhirah & Judgment Day]]
 
 <!-- GENERATED:END -->
 ## Study Notes

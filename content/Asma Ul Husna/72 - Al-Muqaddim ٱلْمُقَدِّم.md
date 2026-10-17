@@ -44,13 +44,6 @@ The timing of blessings is managed by Al-Muqaddim. What comes early in your life
 
 ---
 
-## Key Ayaat
-
-- [[57_13]]
-- [[71_4]]
-
----
-
 ## Related Names
 
 - [[57 - Al-Hamid ٱلْحَمِيد]]
@@ -61,6 +54,20 @@ The timing of blessings is managed by Al-Muqaddim. What comes early in your life
 - [[78 - Al-Wali ٱلْوَالِي]]
 - [[79 - Al-Muta'ali ٱلْمُتَعَالِي]]
 - [[85 - Malik-ul-Mulk مَالِكُ ٱلْمُلْكِ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">57</span> The Iron <span lang="ar">الحديد</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[57_13|57:13]] <span lang="en">On the [same] Day the hypocrite men and hypocrite women will say to those who believed, "Wait for us that we may acquire some of your light." It will be said, "Go back behind you and seek light." And a wall will be placed between them with a door, its interior containing mercy, but on the outside of it is torment</span>
+  [[tags/nifaq|Nifaq]] · [[tags/akhirah|Akhirah & Judgment Day]] · [[tags/rahmah|Mercy & Forgiveness]]
+
+### <span class="num">71</span> Noah <span lang="ar">نوح</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[71_4|71:4]] <span lang="en">Allah will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allah, when it comes, will not be delayed, if you only knew</span>
+  [[tags/story_nuh|Prophet Nuh]] · [[tags/tawbah|Tawbah]] · [[tags/qadr|Qadr]] · [[tags/death_reminder|Death & the Grave]]
 
 <!-- GENERATED:END -->
 ## Study Notes

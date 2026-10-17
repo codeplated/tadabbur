@@ -166,8 +166,8 @@ which the site used until 2026-10-12, are gone.
 - Thin lines, rounded corners, almost no shadow.
 - Indexes in columns, not tables: a name, and its count at the end of the row.
 - Three columns on a wide screen (menu, page, and a rail of contents and
-  backlinks); the listing pages and a theme's page give the rail's width to
-  the page.
+  backlinks); the listing pages, a theme's page, a person's and a Name's
+  give the rail's width to the page.
 
 ## Colors
 
@@ -282,7 +282,8 @@ Three ways of laying out the same page, switched by width:
 
 The three listing pages and a theme's page have nothing for the rail, so on a
 wide screen they take its width: a listing gets a third column of entries, and
-a theme's page puts its surah index there.
+a theme's page puts its surah index there. A person's page and a Name's page
+take it too, for their sections over the surah index of their ayaat.
 
 Inside the page, two things lay themselves out by the room they have and not
 by the screen:
@@ -366,7 +367,7 @@ it is.
   theme's page; a line or two under it at 1.15rem; then the facts as plain
   lines, links in Ink Teal and the lesser parts in Faded Ink Strong. No box.
 
-### Surah index (on a theme's page)
+### Surah index (a theme's page, a person's, a Name's)
 
 - **Wide screen:** a list in the right-hand column: number, name, count, in
   Label size; the surah being read on an Ink Teal Wash.

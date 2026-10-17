@@ -44,12 +44,6 @@ Every act of genuine kindness you witness in people is a reflection of Al-Barr �
 
 ---
 
-## Key Ayaat
-
-- [[52_28]]
-
----
-
 ## Related Names
 
 - [[2 - Ar-Rahman ٱلرَّحْمَـٰن]]
@@ -60,6 +54,15 @@ Every act of genuine kindness you witness in people is a reflection of Al-Barr �
 - [[81 - At-Tawwab ٱلتَّوَّاب]]
 - [[83 - Al-Afuww ٱلْعَفُوّ]]
 - [[84 - Ar-Ra'uf ٱلرَّءُوف]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">52</span> The Mount <span lang="ar">الطور</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[52_28|52:28]] <span lang="en">Indeed, we used to supplicate Him before. Indeed, it is He who is the Beneficent, the Merciful</span>
+  [[tags/dua|Dua]] · [[tags/rahmah|Mercy & Forgiveness]] · [[tags/asma_ul_husna|Asma ul Husna]]
 
 <!-- GENERATED:END -->
 ## Study Notes

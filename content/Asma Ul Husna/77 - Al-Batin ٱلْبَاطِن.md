@@ -44,12 +44,6 @@ Al-Batin prevents you from thinking you have fully understood God. Every time yo
 
 ---
 
-## Key Ayaat
-
-- [[57_3]]
-
----
-
 ## Related Names
 
 - [[20 - Al-Alim ٱلْعَلِيم]]
@@ -60,6 +54,15 @@ Al-Batin prevents you from thinking you have fully understood God. Every time yo
 - [[94 - An-Nur ٱلنُّور]]
 - [[95 - Al-Hadi ٱلْهَادِي]]
 - [[99 - Ar-Rashid ٱلرَّشِيد]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">57</span> The Iron <span lang="ar">الحديد</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[57_3|57:3]] <span lang="en">He is the First and the Last, the Ascendant and the Intimate, and He is, of all things, Knowing</span>
+  [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/tawheed|Tawheed]]
 
 <!-- GENERATED:END -->
 ## Study Notes

@@ -44,12 +44,6 @@ If you are broken — by loss, betrayal, failure, illness — Al-Jabbar is the D
 
 ---
 
-## Key Ayaat
-
-- [[59_23]]
-
----
-
 ## Related Names
 
 - [[4 - Al-Malik ٱلْمَلِك]]
@@ -60,6 +54,15 @@ If you are broken — by loss, betrayal, failure, illness — Al-Jabbar is the D
 - [[21 - Al-Qabid ٱلْقَابِض]]
 - [[23 - Al-Khafid ٱلْخَافِض]]
 - [[92 - Ad-Darr ٱلضَّارّ]]
+
+---
+
+## Key Ayaat
+
+### <span class="num">59</span> The Exile <span lang="ar">الحشر</span> <span class="count">1 <span class="unit">ayah</span></span>
+
+- [[59_23|59:23]] <span lang="en">He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him</span>
+  [[tags/tawheed|Tawheed]] · [[tags/asma_ul_husna|Asma ul Husna]] · [[tags/shirk|Shirk]]
 
 <!-- GENERATED:END -->
 ## Study Notes

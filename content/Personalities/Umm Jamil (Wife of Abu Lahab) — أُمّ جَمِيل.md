@@ -12,7 +12,7 @@ cssclasses: [profile]
 
 ام جمیل
 
-> [[Personalities/index#People|Person]] · Deviated Path · Makkah, time of early Islam · [[#Mentioned in Quran|2 ayaat]]
+> [[Personalities/index#People|Person]] · Deviated Path · Makkah, time of early Islam · [[#Mentioned in Quran|2 ayaat in 1 surah]]
 >
 > **Also known as:** Arwa bint Harb, Carrier of thorns
 >
@@ -46,17 +46,21 @@ Wife of Abu Lahab and sister of Abu Sufyan. She would carry bundles of thorns an
 
 ---
 
-## Mentioned in Quran
-
-- [[111_4]]
-- [[111_5]]
-
----
-
 ## Connected Personalities
 
 - [[Abu Lahab — أَبُو لَهَب]]
 - [[Muhammad ﷺ — مُحَمَّد]]
+
+---
+
+## Mentioned in Quran
+
+### <span class="num">111</span> The Palm Fiber <span lang="ar">المسد</span> <span class="count">2 <span class="unit">ayaat</span></span>
+
+- [[111_4|111:4]] <span lang="en">And his wife [as well] - the carrier of firewood</span>
+  [[tags/women|Women]] · [[tags/kufr|Kufr]] · [[tags/oppression|Oppression]] · [[tags/jahannam|Jahannam]]
+- [[111_5|111:5]] <span lang="en">Around her neck is a rope of [twisted] fiber</span>
+  [[tags/jahannam|Jahannam]] · [[tags/women|Women]]
 
 <!-- GENERATED:END -->
 ## Study Notes
